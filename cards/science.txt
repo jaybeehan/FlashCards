@@ -1,0 +1,573 @@
+## Science 9 | Biological Diversity
+What is biodiversity? :: The variety of living things in an ecosystem or on Earth, including variety of species, genes and ecosystems.
+What is a species? :: A group of organisms that can reproduce with each other and produce fertile offspring.
+What is the difference between asexual and sexual reproduction? :: Asexual: one parent, identical offspring. Sexual: two parents, offspring with a mix of genes.
+What is a gene? :: A section of DNA that carries instructions for a trait.
+What is a mutation? :: A change in DNA that may alter a trait.
+What is natural selection? :: Organisms with helpful traits survive and reproduce more, passing those traits on.
+What is an adaptation? :: A trait that helps an organism survive in its environment.
+What is a dominant allele? :: An allele whose trait shows when at least one copy is present.
+What is a genotype? :: The combination of alleles an organism has (e.g. Bb).
+What is a phenotype? :: The observable trait (e.g. brown eyes).
+What does a Punnett square predict? :: The probability of offspring genotypes from two parents.
+Why are endangered species important to protect? :: Losing species reduces biodiversity and can disrupt whole ecosystems.
+
+## Science 9 | Matter and Chemical Change
+What is a pure substance? :: Matter with only one type of particle: an element or a compound.
+What is an element? :: A pure substance made of one type of atom, listed on the periodic table.
+What is a compound? :: A pure substance made of two or more elements chemically combined.
+Name three signs of a chemical change. :: Colour change, gas produced, precipitate forms, energy (heat or light) released, new odour.
+What are the charges of a proton, neutron and electron? :: +1, 0, and -1.
+Where are protons and neutrons found? :: In the nucleus of the atom.
+What does the atomic number tell you? :: The number of protons in an atom.
+What are valence electrons? :: Electrons in an atom's outermost energy level.
+What is the law of conservation of mass? :: Mass is neither created nor destroyed in a chemical reaction.
+Name the group 1 elements. :: Alkali metals (e.g. Li, Na, K) - very reactive.
+What is an ionic compound? :: A compound formed when metals transfer electrons to non-metals.
+What is the chemical formula for water? :: H2O
+
+## Science 9 | Environmental Chemistry
+What is an acid? :: A substance that has a pH below 7 and turns blue litmus red.
+What is a base? :: A substance with a pH above 7 that turns red litmus blue.
+What is the pH of a neutral substance? :: 7
+What happens when an acid and a base react? :: Neutralization, producing a salt and water.
+What causes acid rain? :: Sulfur and nitrogen oxides from burning fossil fuels dissolving in rain water.
+What is bioaccumulation? :: A toxin building up in an organism's body over time.
+What is the greenhouse effect? :: Gases like CO2 trap heat in Earth's atmosphere.
+What is a pollutant? :: A substance that harms the environment.
+What is a point-source pollutant? :: Pollution from one identifiable source such as a factory pipe.
+What is biomagnification? :: A toxin becoming more concentrated at each higher level of a food chain.
+What is a pH indicator? :: A substance that changes colour depending on pH, like litmus or phenolphthalein.
+Why does Alberta monitor oil sands tailings? :: To prevent contaminated water from entering rivers and harming ecosystems.
+
+## Science 9 | Electrical Principles and Technologies
+What is static electricity? :: A buildup of electric charge on an object.
+Like charges do what? :: Repel each other. Opposite charges attract.
+What is current? :: The flow of electric charge, measured in amperes (A).
+What is voltage? :: The energy given to each unit of charge, measured in volts (V).
+What is resistance? :: How much a material opposes current, measured in ohms.
+State Ohm's law. :: V = I R
+What is a series circuit? :: A circuit with one path for current; if one part breaks, all stop.
+What is a parallel circuit? :: A circuit with several paths; each branch works independently.
+What does an ammeter measure, and how is it connected? :: Current; in series.
+What does a voltmeter measure, and how is it connected? :: Voltage; in parallel across the component.
+Formula for electrical power? :: P = V I, measured in watts.
+What is a conductor versus an insulator? :: A conductor lets charge flow easily (copper); an insulator does not (rubber).
+
+## Science 9 | Space Exploration
+What is a light-year? :: The distance light travels in one year, about 9.5 trillion km.
+What is the Big Bang theory? :: The universe began about 13.8 billion years ago from an extremely hot, dense state and has been expanding.
+What is a galaxy? :: A huge group of stars, gas and dust held together by gravity.
+What galaxy is Earth in? :: The Milky Way.
+What are the main parts of the solar system? :: The Sun, eight planets, moons, asteroids, comets and dwarf planets.
+What is a telescope used for? :: To collect light from faraway objects so they can be seen.
+What causes the seasons? :: Earth's 23.5 degree axis tilt as it orbits the Sun.
+What is an exoplanet? :: A planet orbiting a star outside our solar system.
+What did Chris Hadfield do? :: He is a Canadian astronaut who commanded the International Space Station.
+What is the Canadarm? :: A Canadian-built robotic arm used on the space shuttles and the International Space Station.
+Which planet is the largest? :: Jupiter.
+What is gravity? :: The attractive force between masses.
+
+## Science 10 | Energy and Matter in Chemical Change
+What is the law of conservation of mass? :: The total mass of reactants equals the total mass of products.
+Write the formula for sodium chloride. :: NaCl
+How do you balance a chemical equation? :: Adjust coefficients so each element has the same number of atoms on both sides.
+Balance: H2 + O2 -> H2O :: 2 H2 + O2 -> 2 H2O
+What are the five types of reaction? :: Synthesis, decomposition, single replacement, double replacement, combustion.
+What is a combustion reaction? :: A fuel reacts with oxygen to release heat; hydrocarbons make CO2 and H2O.
+What is an exothermic reaction? :: A reaction that releases energy to the surroundings.
+What is an endothermic reaction? :: A reaction that absorbs energy from the surroundings.
+What is a mole? :: 6.02 x 10^23 particles of a substance.
+What is molar mass? :: The mass in grams of one mole of a substance (g/mol).
+What is an ion? :: An atom that has gained or lost electrons so it has a charge.
+What is the difference between ionic and molecular compounds? :: Ionic: metal + non-metal, electron transfer. Molecular: non-metals sharing electrons.
+
+## Science 10 | Energy Flow in Technological Systems
+What is kinetic energy? :: Energy of motion: Ek = 1/2 m v^2.
+What is gravitational potential energy? :: Energy due to height: Ep = m g h.
+State the law of conservation of energy. :: Energy cannot be created or destroyed, only transformed.
+Formula for work? :: W = F d
+Unit of work and energy? :: The joule (J).
+Formula for power? :: P = W / t (watts).
+Formula for efficiency? :: Efficiency = (useful energy out / total energy in) x 100%.
+What is a simple machine? :: A device that makes work easier, like a lever, pulley or inclined plane.
+What is mechanical advantage? :: The ratio of output force to input force.
+What is thermal energy? :: The total kinetic energy of particles in a substance.
+What is the difference between heat and temperature? :: Heat is energy transferred; temperature is average particle kinetic energy.
+How is heat transferred? :: Conduction, convection and radiation.
+
+## Science 10 | Cycling of Matter in Living Systems
+What does photosynthesis produce? :: Glucose and oxygen from carbon dioxide and water using light energy.
+Write the equation for cellular respiration. :: Glucose + oxygen -> carbon dioxide + water + energy (ATP).
+What is a producer? :: An organism that makes its own food, usually by photosynthesis.
+What is a decomposer? :: An organism that breaks down dead matter and returns nutrients to the soil.
+What is the 10% rule? :: Only about 10% of energy passes from one trophic level to the next.
+What is the carbon cycle? :: The movement of carbon among the atmosphere, living things, oceans and soil.
+What is the nitrogen cycle? :: Bacteria convert nitrogen into forms plants can use, and back to the air.
+What are biotic and abiotic factors? :: Biotic: living parts. Abiotic: non-living parts such as water and temperature.
+What is a food web? :: Interconnected food chains in an ecosystem.
+What is a limiting factor? :: A resource that restricts population growth.
+What is the carrying capacity? :: The maximum population an ecosystem can support.
+How does human activity affect the carbon cycle? :: Burning fossil fuels adds extra CO2 to the atmosphere.
+
+## Science 10 | Energy Flow in Global Systems
+What drives weather and climate on Earth? :: Energy from the Sun.
+What is the difference between weather and climate? :: Weather is short-term conditions; climate is the long-term average.
+What is specific heat capacity? :: The energy needed to raise 1 kg of a substance by 1 degree C.
+Why is coastal weather milder than inland? :: Water has a high specific heat, so oceans change temperature slowly.
+What are the Coriolis effect's results? :: Winds and currents curve because of Earth's rotation.
+What is a Chinook? :: A warm, dry wind that descends the east side of the Rockies in Alberta.
+What are greenhouse gases? :: Gases such as CO2 and CH4 that trap heat in the atmosphere.
+What is albedo? :: How much sunlight a surface reflects.
+What is convection? :: Heat transfer by the movement of fluids (air or water).
+What are ocean currents? :: Large flows of water that move heat around the globe.
+How do ice caps affect climate? :: They reflect sunlight; melting reduces albedo and speeds warming.
+What is El Nino? :: A periodic warming of Pacific Ocean waters that changes weather patterns worldwide.
+
+## Science 20 | Dynamics of Ecosystems
+What is an ecosystem? :: A community of living things interacting with their non-living environment.
+What is a biome? :: A large region with a characteristic climate and plants, such as boreal forest.
+Name the three types of symbiosis. :: Mutualism, commensalism and parasitism.
+What is succession? :: The gradual change in species of an ecosystem over time.
+What is primary succession? :: Community development on bare rock where no soil existed.
+What is a keystone species? :: A species with a large effect on its ecosystem relative to its numbers.
+What is an invasive species? :: A non-native species that spreads and harms an ecosystem.
+What is biological magnification? :: Toxins becoming more concentrated up a food chain.
+What is a niche? :: The role and conditions an organism needs in its ecosystem.
+What is a population? :: All organisms of the same species living in an area.
+What is a community? :: All the populations in an area.
+What is the nitrogen cycle's role? :: It makes nitrogen available to plants and recycles it.
+
+## Science 20 | Chemical Change
+What is the pH scale range? :: 0 to 14.
+What ion do acids produce in water? :: H+ (hydronium, H3O+).
+What ion do bases produce? :: OH-
+What is a neutralization reaction? :: Acid + base -> salt + water.
+What is a mole? :: 6.02 x 10^23 particles.
+Calculate molar mass of H2O. :: 18.02 g/mol.
+What is a precipitate? :: An insoluble solid that forms in a solution during a reaction.
+What is stoichiometry? :: Using balanced equations to calculate amounts of reactants and products.
+What is a limiting reagent? :: The reactant that runs out first and limits the product formed.
+What is an oxidation reaction? :: A reaction involving loss of electrons.
+What is a catalyst? :: A substance that speeds up a reaction without being used up.
+Name factors that affect reaction rate. :: Temperature, concentration, surface area, catalyst.
+
+## Science 20 | Changes in Motion
+Define speed. :: Distance travelled divided by time.
+Define velocity. :: Speed in a given direction (a vector).
+Formula for acceleration? :: a = (v_f - v_i) / t
+What is a vector? :: A quantity with both magnitude and direction.
+State Newton's first law. :: An object stays at rest or in constant motion unless acted on by a net force.
+State Newton's second law. :: F = m a
+State Newton's third law. :: For every action there is an equal and opposite reaction.
+Unit of force? :: The newton (N).
+What is friction? :: A force that opposes motion between surfaces.
+What is free fall? :: Motion under gravity alone, accelerating at about 9.8 m/s^2 near Earth.
+What does the slope of a position-time graph show? :: Velocity.
+What does the slope of a velocity-time graph show? :: Acceleration.
+
+## Science 20 | Changing Earth
+How old is Earth? :: About 4.5 billion years.
+What is plate tectonics? :: The theory that Earth's crust is divided into plates that move.
+What causes earthquakes? :: Sudden release of energy as rock slips along faults.
+What are the layers of Earth? :: Crust, mantle, outer core, inner core.
+What is a convergent boundary? :: Where two plates move toward each other.
+What is a divergent boundary? :: Where plates move apart (e.g. mid-ocean ridges).
+How did the Rocky Mountains form? :: By collision and compression of tectonic plates.
+What are the three rock types? :: Igneous, sedimentary, metamorphic.
+What is a fossil? :: Preserved remains or traces of ancient organisms.
+What is radiometric dating? :: Using the decay of radioactive isotopes to find the age of rocks.
+Why are dinosaur fossils common in Alberta? :: Sedimentary rock formations (Badlands) preserved them.
+What is weathering? :: The breakdown of rock by wind, water, ice or chemicals.
+
+## Biology 20 | Energy and Matter Exchange in the Biosphere
+What is the biosphere? :: The part of Earth where life exists.
+What is a trophic level? :: A feeding level in a food chain.
+What percent of energy is passed to the next trophic level? :: About 10%.
+What is the carbon cycle? :: The movement of carbon among atmosphere, organisms, oceans and soil.
+What is primary productivity? :: The rate at which producers store energy as organic matter.
+What is a heterotroph? :: An organism that gets energy by eating other organisms.
+What is an autotroph? :: An organism that makes its own food.
+What is the role of decomposers? :: They recycle nutrients from dead material back to the ecosystem.
+What are the two main parts of the water cycle in an ecosystem? :: Evaporation/transpiration and precipitation.
+How does the cell membrane control materials? :: By selective permeability.
+What is diffusion? :: Movement of particles from high to low concentration.
+What is osmosis? :: Diffusion of water across a semi-permeable membrane.
+
+## Biology 20 | Ecosystems and Population Change
+What is a population? :: All members of one species in an area.
+What is population density? :: Individuals per unit area.
+What is exponential growth? :: Growth in which a population increases at a constant rate, producing a J-shaped curve.
+What is logistic growth? :: Growth that levels off at carrying capacity (S-shaped curve).
+What is carrying capacity? :: Maximum population an environment can sustain.
+What is a density-dependent factor? :: A limiting factor whose effect depends on population size, e.g. disease.
+What is a density-independent factor? :: A factor that acts regardless of density, e.g. wildfire.
+What is biodiversity? :: The variety of living things in an area.
+What is succession? :: Gradual replacement of one community by another.
+What is a keystone species? :: A species whose removal drastically changes the ecosystem.
+What is an invasive species? :: A species introduced to a new area that spreads and harms it.
+What is mark and recapture used for? :: Estimating population size.
+
+## Biology 20 | Photosynthesis and Cellular Respiration
+Equation for photosynthesis? :: 6CO2 + 6H2O + light -> C6H12O6 + 6O2
+Where does photosynthesis happen? :: In chloroplasts.
+What pigment captures light? :: Chlorophyll.
+What are the two stages of photosynthesis? :: Light-dependent reactions and the Calvin cycle.
+Equation for cellular respiration? :: C6H12O6 + 6O2 -> 6CO2 + 6H2O + ATP
+Where does cellular respiration happen? :: Mainly in the mitochondria.
+What is ATP? :: Adenosine triphosphate - the cell's usable energy currency.
+What is glycolysis? :: Breakdown of glucose into pyruvate in the cytoplasm; produces a little ATP.
+What is fermentation? :: Anaerobic ATP production without oxygen (e.g. lactic acid, alcohol).
+Where is most ATP made in respiration? :: The electron transport chain.
+How many ATP does aerobic respiration yield per glucose (approx.)? :: About 30-38.
+Why are photosynthesis and respiration complementary? :: Products of one are reactants of the other.
+
+## Biology 20 | Human Systems
+What does the digestive system do? :: Breaks food into nutrients that can be absorbed.
+Where does most nutrient absorption occur? :: The small intestine.
+What does the circulatory system do? :: Transports blood, oxygen, nutrients and wastes.
+What are the four chambers of the heart? :: Right and left atria; right and left ventricles.
+What is the role of red blood cells? :: Carry oxygen using hemoglobin.
+What do white blood cells do? :: Fight infection.
+Where does gas exchange occur in the lungs? :: In the alveoli.
+What does the diaphragm do? :: Contracts to expand the chest and bring air into the lungs.
+What are nephrons? :: The functional units of the kidney that filter blood.
+What is homeostasis? :: Keeping internal conditions stable.
+What do enzymes do in digestion? :: Speed up chemical breakdown of food.
+What is blood pressure? :: The force of blood against artery walls.
+
+## Chemistry 20 | Diversity of Matter and Chemical Bonding
+What is the atomic number? :: The number of protons in an atom.
+How are elements arranged on the periodic table? :: By increasing atomic number.
+What is electronegativity? :: An atom's ability to attract shared electrons.
+What is an ionic bond? :: The attraction between oppositely charged ions after electron transfer.
+What is a covalent bond? :: A shared pair of electrons between non-metals.
+What does a Lewis structure show? :: Valence electrons and bonds in a molecule.
+What is VSEPR theory used for? :: Predicting molecular shapes from electron-pair repulsion.
+What shape does water have? :: Bent.
+What shape does methane (CH4) have? :: Tetrahedral.
+What are intermolecular forces? :: Attractions between molecules: London dispersion, dipole-dipole, hydrogen bonding.
+Why does water have a high boiling point? :: Strong hydrogen bonding between molecules.
+What is a polar molecule? :: A molecule with an uneven distribution of charge.
+
+## Chemistry 20 | Forms of Matter: Gases
+State Boyle's law. :: At constant temperature, P1 V1 = P2 V2.
+State Charles's law. :: At constant pressure, V1/T1 = V2/T2 (T in kelvin).
+What is the ideal gas law? :: PV = nRT
+Standard temperature and pressure (STP)? :: 0 degrees C (273.15 K) and 100 kPa.
+Molar volume of a gas at STP? :: 22.7 L/mol (at 100 kPa).
+Convert 25 degrees C to kelvin. :: 298 K
+What is Dalton's law? :: Total pressure is the sum of the partial pressures of each gas.
+What is Avogadro's law? :: Equal volumes of gases at the same T and P contain equal numbers of particles.
+What does kinetic molecular theory say? :: Gas particles are in constant random motion with negligible volume and no attraction.
+What happens to gas pressure if temperature rises at constant volume? :: Pressure increases.
+Value of R in kPa units? :: 8.314 kPa L/(mol K)
+Why must temperature be in kelvin? :: Kelvin starts at absolute zero, so gas laws work proportionally.
+
+## Chemistry 20 | Matter as Solutions, Acids and Bases
+What is a solution? :: A homogeneous mixture of a solute dissolved in a solvent.
+Formula for molar concentration? :: c = n / V (mol/L)
+What does "like dissolves like" mean? :: Polar solvents dissolve polar solutes; non-polar dissolves non-polar.
+What is an electrolyte? :: A substance whose solution conducts electricity.
+Define pH. :: pH = -log[H3O+]
+What is the pH of a solution with [H3O+] = 1 x 10^-3 mol/L? :: 3
+What does a strong acid do in water? :: Ionizes completely.
+Name a strong acid. :: HCl (also H2SO4, HNO3).
+What is a titration? :: A procedure adding a known solution to determine an unknown concentration.
+What is the endpoint? :: The point where the indicator changes colour (near the equivalence point).
+What is dilution formula? :: c1 V1 = c2 V2
+What is a neutralization product? :: A salt and water.
+
+## Chemistry 20 | Quantitative Relationships in Chemical Changes
+What is a mole? :: 6.02 x 10^23 entities.
+How do you find moles from mass? :: n = m / M
+What is stoichiometry? :: Calculating amounts of reactants and products using mole ratios.
+What are mole ratios? :: Ratios of coefficients in a balanced equation.
+What is a limiting reagent? :: The reactant that is used up first.
+What is percent yield? :: (actual yield / theoretical yield) x 100%.
+Why is actual yield usually less than theoretical? :: Side reactions, incomplete reactions, loss during collection.
+What is the law of definite proportions? :: A compound always has the same ratio of elements by mass.
+How do you balance an equation? :: Add coefficients so atoms are equal on both sides.
+Molar mass of CO2? :: 44.01 g/mol
+Moles in 36 g of water? :: 36 / 18 = 2 mol.
+What is an empirical formula? :: The simplest whole-number ratio of atoms in a compound.
+
+## Physics 20 | Kinematics
+Define displacement. :: Change in position, a vector.
+Difference between distance and displacement? :: Distance is total path length (scalar); displacement is straight-line change (vector).
+Equation: v = ? :: v = d / t
+Constant acceleration: v_f = ? :: v_i + a t
+Constant acceleration: d = ? :: v_i t + 1/2 a t^2
+Another: v_f^2 = ? :: v_i^2 + 2 a d
+Acceleration due to gravity near Earth? :: 9.8 m/s^2 downward.
+What is a projectile? :: An object moving under gravity only.
+In projectile motion, horizontal velocity is? :: Constant (ignoring air resistance).
+How do you add vectors? :: Head-to-tail, or by components.
+What does the area under a v-t graph represent? :: Displacement.
+Time for a ball dropped 20 m? :: t = sqrt(2d/g), about 2.0 s.
+
+## Physics 20 | Dynamics
+Newton's second law? :: F_net = m a
+Weight formula? :: F_g = m g
+What is a free-body diagram? :: A sketch showing all forces on one object.
+What is normal force? :: The perpendicular contact force from a surface.
+Friction formula? :: F_f = mu F_N
+What is static friction? :: Friction that prevents an object from starting to move.
+What does net force of zero imply? :: Constant velocity (equilibrium).
+What is the unit newton in base units? :: kg m/s^2
+What is Newton's law of gravitation? :: F = G m1 m2 / r^2
+Value of G? :: 6.67 x 10^-11 N m^2/kg^2
+What is terminal velocity? :: The constant speed reached when drag equals weight.
+Find the force needed to accelerate 5 kg at 3 m/s^2. :: 15 N
+
+## Physics 20 | Circular Motion, Work and Energy
+What is centripetal acceleration? :: a_c = v^2 / r, directed toward the centre.
+Formula for centripetal force? :: F_c = m v^2 / r
+Period formula for circular motion? :: T = 2 pi r / v
+Is circular motion at constant speed accelerated? :: Yes - the direction of velocity changes.
+Definition of work? :: W = F d cos(theta)
+Unit of work? :: Joule (J)
+Kinetic energy? :: E_k = 1/2 m v^2
+Gravitational potential energy? :: E_p = m g h
+Work-energy theorem? :: Net work equals the change in kinetic energy.
+Conservation of mechanical energy? :: E_k + E_p stays constant if no friction.
+Power formula? :: P = W / t
+Efficiency formula? :: (useful output / input) x 100%.
+
+## Physics 20 | Oscillatory Motion and Mechanical Waves
+What is simple harmonic motion? :: Repeating motion with a restoring force proportional to displacement.
+Hooke's law? :: F = -k x
+Period of a pendulum? :: T = 2 pi sqrt(L/g)
+Period of a mass on a spring? :: T = 2 pi sqrt(m/k)
+Frequency and period relationship? :: f = 1 / T
+Wave speed equation? :: v = f lambda
+What is a transverse wave? :: A wave where particles move perpendicular to wave direction.
+What is a longitudinal wave? :: A wave where particles move parallel to wave direction, like sound.
+What is wave interference? :: The meeting of waves that add or cancel.
+What is resonance? :: Large-amplitude vibration when driven at the natural frequency.
+Speed of sound in air at 20 C? :: About 343 m/s.
+What is the Doppler effect? :: A change in observed frequency because of relative motion of source and observer.
+
+## Science 30 | Living Systems Respond to their Environment
+What is the nervous system's role? :: Detect and respond to stimuli quickly using electrical signals.
+What is a neuron? :: A nerve cell that carries signals.
+What does the endocrine system use? :: Hormones carried in the blood.
+What is homeostasis? :: Maintaining a stable internal environment.
+What is negative feedback? :: A response that reduces the original change, e.g. insulin lowering blood sugar.
+What is DNA? :: The molecule that carries genetic instructions.
+What is a gene? :: A segment of DNA coding for a protein.
+What is a dominant allele? :: An allele expressed when present.
+What is genetic engineering? :: Altering the DNA of an organism.
+What is a mutation? :: A change in DNA sequence.
+What is a vaccine? :: A preparation that trains the immune system to recognize a pathogen.
+What does insulin do? :: Lowers blood glucose.
+
+## Science 30 | Chemistry and the Environment
+What is an organic compound? :: A carbon-based compound, such as hydrocarbons.
+What is an alkane? :: A hydrocarbon with only single bonds (e.g. methane).
+What is combustion? :: Burning a fuel with oxygen to release energy.
+What are products of complete combustion? :: Carbon dioxide and water.
+What is acid rain? :: Rain made acidic by sulfur and nitrogen oxides.
+What is the ozone layer? :: A region of the stratosphere that absorbs harmful UV radiation.
+What are CFCs? :: Chemicals that destroyed ozone; now largely banned.
+What is a polymer? :: A large molecule made of repeating units.
+Why is plastic pollution a problem? :: It persists for centuries and harms wildlife.
+What is pH? :: A scale for acidity from 0 to 14.
+What is eutrophication? :: Nutrient overload in water leading to algal blooms and oxygen loss.
+What is green chemistry? :: Designing processes that reduce hazardous waste.
+
+## Science 30 | Electromagnetic Energy
+What does EM spectrum order from low to high energy? :: Radio, microwave, infrared, visible, ultraviolet, X-ray, gamma.
+Speed of light in vacuum? :: 3.00 x 10^8 m/s.
+Equation relating wave speed, frequency and wavelength? :: c = f lambda
+What is reflection? :: Light bouncing off a surface.
+What is refraction? :: Bending of light as it changes medium.
+Law of reflection? :: Angle of incidence equals angle of reflection.
+What is a photon? :: A packet of light energy.
+Photon energy equation? :: E = h f
+What is the photoelectric effect? :: Emission of electrons when light of enough frequency hits a metal.
+What is ultraviolet radiation dangerous for? :: Skin damage and cancer.
+What is a convex lens? :: A lens that converges light rays.
+What does a transformer do? :: Changes the voltage of an alternating current.
+
+## Science 30 | Energy and the Environment
+What is a fossil fuel? :: Fuel from ancient organisms: coal, oil, natural gas.
+Name renewable energy sources. :: Solar, wind, hydro, geothermal, biomass.
+What is a nuclear fission? :: The splitting of a heavy nucleus releasing energy.
+What is nuclear fusion? :: The joining of light nuclei releasing energy; powers the Sun.
+What is half-life? :: Time for half of a radioactive sample to decay.
+What is the greenhouse effect? :: Heat trapped in the atmosphere by gases.
+What is carbon capture? :: Trapping CO2 from emissions and storing it underground.
+What is a carbon footprint? :: The total greenhouse gases produced by an activity or person.
+What is the oil sands? :: Alberta deposits of bitumen mixed with sand.
+What is energy efficiency? :: Using less energy to do the same job.
+What is a smart grid? :: An electric grid using digital tools to balance supply and demand.
+What are the pros and cons of wind power? :: Clean and renewable, but intermittent and affects landscapes and birds.
+
+## Biology 30 | Nervous and Endocrine Systems
+What are the two main parts of the central nervous system? :: The brain and spinal cord.
+What is a neuron's structure? :: Dendrites, cell body, axon, axon terminals.
+What is the myelin sheath? :: Fatty insulation that speeds nerve impulses.
+What is a synapse? :: The gap between neurons where neurotransmitters pass signals.
+What is a resting potential? :: About -70 mV across a neuron membrane at rest.
+What is an action potential? :: A rapid reversal of membrane charge that travels along the axon.
+What is a reflex arc? :: A fast, automatic response path through sensory neuron, spinal cord and motor neuron.
+What does the autonomic nervous system control? :: Involuntary functions such as heart rate.
+Which gland is called the master gland? :: The pituitary.
+What does insulin do? :: Lowers blood glucose by helping cells take it up.
+What does glucagon do? :: Raises blood glucose.
+What is negative feedback? :: A process that counteracts a change to maintain homeostasis.
+
+## Biology 30 | Reproductive Systems and Development
+What is gametogenesis? :: Production of sperm and eggs.
+Where are sperm produced? :: In the seminiferous tubules of the testes.
+Where is the egg released from? :: The ovary.
+What does FSH do? :: Stimulates follicle development (and sperm production).
+What does LH do? :: Triggers ovulation.
+What does testosterone do? :: Drives male sex characteristics and sperm production.
+What is the menstrual cycle's length on average? :: About 28 days.
+What is fertilization? :: Fusion of sperm and egg to form a zygote.
+What is implantation? :: The embryo attaching to the uterine lining.
+What does the placenta do? :: Exchanges nutrients and wastes between mother and fetus.
+What does hCG do? :: Maintains the corpus luteum in early pregnancy.
+What are the germ layers? :: Ectoderm, mesoderm and endoderm.
+
+## Biology 30 | Cell Division, Genetics and Molecular Biology
+What is mitosis? :: Cell division producing two identical diploid daughter cells.
+What is meiosis? :: Cell division producing four genetically different haploid gametes.
+Stages of mitosis in order? :: Prophase, metaphase, anaphase, telophase.
+What is crossing over? :: Exchange of DNA between homologous chromosomes in meiosis I.
+What is a genotype? :: The alleles an organism has.
+What is a phenotype? :: The expressed trait.
+Monohybrid cross of Aa x Aa gives what ratio? :: 3 dominant : 1 recessive (phenotype); 1 AA : 2 Aa : 1 aa.
+What is DNA replication? :: Copying DNA before cell division.
+What is transcription? :: Copying DNA into mRNA in the nucleus.
+What is translation? :: Using mRNA to build a protein at the ribosome.
+What are DNA base pairs? :: A-T and G-C (in RNA, U replaces T).
+What is nondisjunction? :: Failure of chromosomes to separate, causing conditions like Down syndrome.
+
+## Biology 30 | Population Dynamics
+What is a population? :: Individuals of one species in an area.
+What is population density? :: Number of individuals per unit area.
+What is a growth curve with limited resources? :: Logistic (S-shaped).
+What is carrying capacity? :: The maximum population the environment can support.
+What is an r-strategist? :: A species with many offspring and little parental care.
+What is a K-strategist? :: A species with few offspring and much parental care.
+What is a density-dependent factor? :: Limiting factor whose effect depends on population size (disease, competition).
+What is immigration? :: Individuals moving into a population.
+What is biotic potential? :: The maximum reproductive rate of a population.
+What is an age structure diagram? :: A graph of the population's age groups.
+What is ecological footprint? :: The land and resources needed to support a population.
+What is conservation biology? :: Studying and protecting biodiversity.
+
+## Chemistry 30 | Thermochemical Changes
+What is enthalpy change? :: The heat change at constant pressure (delta H).
+What sign does delta H have for exothermic reactions? :: Negative.
+What is calorimetry? :: Measuring heat flow using a calorimeter.
+Formula for heat transferred? :: q = m c delta T
+Specific heat capacity of water? :: 4.19 J/(g C)
+What is Hess's law? :: The total enthalpy change is the sum of the steps in a reaction path.
+What is standard enthalpy of formation? :: The heat change when one mole of a compound forms from its elements.
+What is activation energy? :: The minimum energy needed to start a reaction.
+What does a potential energy diagram show? :: Energy changes during a reaction.
+What does a catalyst do? :: Lowers activation energy, speeding up the reaction.
+What is the sign of delta H for endothermic reactions? :: Positive.
+What is molar enthalpy? :: The enthalpy change per mole of substance.
+
+## Chemistry 30 | Electrochemical Changes
+What is oxidation? :: Loss of electrons (OIL RIG).
+What is reduction? :: Gain of electrons.
+What is a redox reaction? :: A reaction involving transfer of electrons.
+What does the oxidizing agent do? :: It is reduced and causes oxidation of another species.
+What is a galvanic (voltaic) cell? :: A cell that converts chemical energy into electrical energy.
+What is an electrolytic cell? :: A cell that uses electrical energy to force a reaction.
+Where does oxidation occur in a cell? :: At the anode.
+Where does reduction occur? :: At the cathode.
+What is the purpose of the salt bridge? :: Maintains charge balance by letting ions move.
+How is cell potential calculated? :: E cell = E cathode - E anode.
+What is corrosion? :: Oxidation of a metal, such as rusting of iron.
+What is electroplating? :: Coating an object with a metal using electrolysis.
+
+## Chemistry 30 | Organic Chemistry
+What is an alkane's general formula? :: CnH(2n+2)
+What is an alkene? :: A hydrocarbon with a carbon-carbon double bond.
+What is an alkyne? :: A hydrocarbon with a carbon-carbon triple bond.
+Name the first four alkanes. :: Methane, ethane, propane, butane.
+What is an alcohol? :: An organic compound with a hydroxyl (-OH) group.
+What is an isomer? :: A compound with the same formula but a different structure.
+What is a carboxylic acid group? :: -COOH
+What is an ester? :: Formed from an alcohol and a carboxylic acid; often fruity smelling.
+What is an addition reaction? :: A reaction that adds atoms across a double or triple bond.
+What is esterification? :: Carboxylic acid + alcohol -> ester + water.
+What is polymerization? :: Joining many monomers into a long chain.
+What is an aromatic compound? :: A compound containing a benzene ring.
+
+## Chemistry 30 | Chemical Equilibrium Focusing on Acid-Base Systems
+What is chemical equilibrium? :: A state where forward and reverse reaction rates are equal.
+Equilibrium constant expression? :: K = [products]^coefficients / [reactants]^coefficients.
+What does a large K mean? :: Products are favoured at equilibrium.
+State Le Chatelier's principle. :: A system at equilibrium shifts to oppose any change imposed on it.
+What happens if reactant is added? :: Equilibrium shifts toward products.
+What does a catalyst do to equilibrium? :: Nothing to K; it only speeds reaching equilibrium.
+What is Kw? :: [H3O+][OH-] = 1.0 x 10^-14 at 25 C.
+What is a Bronsted-Lowry acid? :: A proton (H+) donor.
+What is a Bronsted-Lowry base? :: A proton acceptor.
+What is a buffer? :: A solution that resists changes in pH.
+What is Ka? :: The acid dissociation constant for a weak acid.
+What does pH + pOH equal? :: 14 at 25 C.
+
+## Physics 30 | Momentum and Impulse
+Formula for momentum? :: p = m v
+Unit of momentum? :: kg m/s
+Formula for impulse? :: Impulse = F delta t = delta p
+Law of conservation of momentum? :: Total momentum of a closed system stays constant.
+What is an elastic collision? :: A collision that conserves kinetic energy.
+What is an inelastic collision? :: A collision where kinetic energy is not conserved.
+Is momentum conserved in all collisions? :: Yes (in a closed system).
+Why do airbags help? :: They increase collision time, lowering the force.
+Momentum of a 2 kg object at 3 m/s? :: 6 kg m/s
+What is a perfectly inelastic collision? :: Objects stick together after impact.
+Is momentum a vector or scalar? :: Vector.
+What happens to recoil of a gun? :: The gun gets equal and opposite momentum to the bullet.
+
+## Physics 30 | Forces and Fields
+Coulomb's law? :: F = k q1 q2 / r^2
+Value of k? :: 8.99 x 10^9 N m^2/C^2
+Definition of electric field? :: E = F / q
+Gravitational field strength? :: g = F / m (9.8 N/kg at Earth's surface).
+Right-hand rule is used for? :: Finding direction of magnetic force and field.
+Magnetic force on a moving charge? :: F = q v B sin(theta)
+Force on a current-carrying wire? :: F = I L B sin(theta)
+What does Faraday's law say? :: A changing magnetic flux induces an emf.
+What does Lenz's law say? :: The induced current opposes the change that produced it.
+What does a generator do? :: Converts mechanical energy to electrical energy.
+What does a transformer do? :: Changes AC voltage using electromagnetic induction.
+Electric potential difference? :: V = W / q
+
+## Physics 30 | Electromagnetic Radiation
+What are electromagnetic waves? :: Oscillating electric and magnetic fields travelling at the speed of light.
+Speed of light? :: 3.00 x 10^8 m/s
+What is c in terms of f and lambda? :: c = f lambda
+What is diffraction? :: Spreading of waves around obstacles or through openings.
+What did Young's double-slit experiment show? :: Light behaves as a wave (interference pattern).
+What is the photoelectric effect? :: Electrons ejected from metal by light of sufficient frequency.
+Photon energy? :: E = h f
+Value of Planck's constant? :: 6.63 x 10^-34 J s
+What is the threshold frequency? :: The minimum frequency to eject electrons.
+Why can't dim UV light be replaced by bright red light? :: Energy depends on frequency, not intensity.
+What is the Compton effect? :: Photons scatter off electrons and lose energy, showing momentum.
+De Broglie wavelength? :: lambda = h / p
+
+## Physics 30 | Atomic Physics
+What did Rutherford's gold foil experiment show? :: The atom has a tiny dense positive nucleus.
+Bohr model idea? :: Electrons orbit at fixed energy levels.
+How is light emitted in an atom? :: When an electron falls to a lower energy level, releasing a photon.
+What is an isotope? :: Atoms of the same element with different numbers of neutrons.
+What is alpha decay? :: Emission of a helium nucleus (2 protons, 2 neutrons).
+What is beta decay? :: A neutron turns into a proton, emitting an electron.
+What is gamma radiation? :: High-energy electromagnetic radiation from the nucleus.
+What is half-life? :: Time for half the nuclei to decay.
+What is mass defect? :: The missing mass converted to binding energy (E = m c^2).
+What is nuclear fission? :: A heavy nucleus splitting into smaller ones.
+What are the four fundamental forces? :: Gravity, electromagnetic, strong nuclear, weak nuclear.
+What are quarks? :: Particles that make up protons and neutrons.

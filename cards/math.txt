@@ -1,0 +1,785 @@
+# Format:  "## Course[, Course2] | Unit"  then one "front :: back" per line.
+
+## Mathematics 9 | Rational Numbers
+What is a rational number? :: Any number that can be written as a fraction a/b where a and b are integers and b is not 0.
+Are terminating and repeating decimals rational? :: Yes. Both can be written as fractions, e.g. 0.25 = 1/4 and 0.333... = 1/3.
+Give a decimal that is NOT rational. :: Pi (3.14159...) - it never ends and never repeats.
+Add: 1/2 + 1/3 :: Common denominator 6: 3/6 + 2/6 = 5/6.
+Subtract: 3/4 - 1/6 :: Common denominator 12: 9/12 - 2/12 = 7/12.
+Multiply: (2/3) x (3/5) :: Multiply tops and bottoms: 6/15 = 2/5.
+Divide: (3/4) / (2/5) :: Multiply by the reciprocal: 3/4 x 5/2 = 15/8.
+What is the order of operations (BEDMAS)? :: Brackets, Exponents, Division/Multiplication (left to right), Addition/Subtraction (left to right).
+Evaluate: -3 x (-4) :: +12. A negative times a negative is positive.
+Which is greater: -2/3 or -3/4? :: -2/3, because it is closer to 0 (-0.667 > -0.75).
+Convert 0.6 repeating (0.666...) to a fraction. :: 2/3.
+Evaluate: 2 + 3 x 4 :: 14 (multiply first, then add).
+
+## Mathematics 9 | Exponents and Powers
+In 5^3, what are the base and the exponent? :: Base 5, exponent 3. It means 5 x 5 x 5 = 125.
+Product law: a^m x a^n = ? :: a^(m+n) - add the exponents when multiplying powers with the same base.
+Quotient law: a^m / a^n = ? :: a^(m-n) - subtract the exponents.
+Power of a power: (a^m)^n = ? :: a^(m x n) - multiply the exponents.
+What does a^0 equal (a not 0)? :: 1.
+What does a^(-n) equal? :: 1 / a^n. For example 2^(-3) = 1/8.
+Simplify: x^4 x x^3 :: x^7
+Simplify: (y^2)^5 :: y^10
+Evaluate: (-2)^4 vs -2^4 :: (-2)^4 = 16, but -2^4 = -16 (the exponent applies only to the 2).
+Write 4500 in scientific notation. :: 4.5 x 10^3
+Evaluate: 3^(-2) :: 1/9
+Simplify: (2x)^3 :: 8x^3 - the exponent applies to both the 2 and the x.
+
+## Mathematics 9 | Square Roots and the Pythagorean Theorem
+What is a perfect square? :: A number that is the square of a whole number, e.g. 1, 4, 9, 16, 25, 36.
+State the Pythagorean theorem. :: In a right triangle, a^2 + b^2 = c^2, where c is the hypotenuse.
+What is the hypotenuse? :: The longest side of a right triangle, opposite the right angle.
+Find the hypotenuse of a right triangle with legs 6 and 8. :: sqrt(36 + 64) = sqrt(100) = 10.
+A leg is 5 and the hypotenuse is 13. Find the other leg. :: sqrt(169 - 25) = sqrt(144) = 12.
+Name a Pythagorean triple. :: 3-4-5 (also 5-12-13, 8-15-17, 7-24-25).
+Simplify: sqrt(50) :: sqrt(25 x 2) = 5 sqrt(2).
+Estimate sqrt(20) to one decimal. :: About 4.5 (between sqrt(16)=4 and sqrt(25)=5; 4.47 exactly).
+How can you test if a triangle with sides 7, 24, 25 is a right triangle? :: Check 7^2 + 24^2 = 49 + 576 = 625 = 25^2, so yes it is.
+Is sqrt(2) rational or irrational? :: Irrational - its decimal never ends or repeats.
+Simplify: sqrt(12) :: sqrt(4 x 3) = 2 sqrt(3).
+What is the principal square root of 81? :: 9 (the positive root).
+
+## Mathematics 9 | Polynomials
+What is a polynomial? :: An expression made of terms added or subtracted, with whole-number exponents on the variables, e.g. 3x^2 - 5x + 2.
+What is a coefficient? :: The number multiplied by a variable, e.g. 3 in 3x^2.
+What are like terms? :: Terms with the same variable(s) raised to the same powers, e.g. 4x^2 and -7x^2.
+Name polynomials with 1, 2 and 3 terms. :: Monomial, binomial, trinomial.
+Add: (3x + 2) + (5x - 7) :: 8x - 5
+Subtract: (4x^2 + 3x) - (x^2 - 2x) :: 3x^2 + 5x (distribute the negative to every term).
+Multiply: 3x(2x - 4) :: 6x^2 - 12x
+Expand: (x + 3)(x + 2) :: x^2 + 5x + 6
+Divide: (6x^2 + 9x) / 3x :: 2x + 3
+What is the degree of 5x^3 - 2x + 1? :: 3 - the highest exponent on the variable.
+Expand: (x - 4)(x + 4) :: x^2 - 16 (difference of squares).
+Simplify: 2(x + 5) - 3(x - 1) :: 2x + 10 - 3x + 3 = -x + 13.
+
+## Mathematics 9 | Linear Relations
+What does the graph of a linear relation look like? :: A straight line.
+What does the slope of a line measure? :: Steepness: rise / run (change in y over change in x).
+Slope-intercept form of a line? :: y = mx + b, where m is slope and b is the y-intercept.
+Find the slope through (1, 2) and (3, 8). :: (8 - 2)/(3 - 1) = 6/2 = 3.
+What is the y-intercept? :: The point where the line crosses the y-axis (where x = 0).
+Slope of a horizontal line? :: 0
+Slope of a vertical line? :: Undefined.
+What is the x-intercept of y = 2x - 6? :: Set y = 0: x = 3, so (3, 0).
+What do parallel lines have in common? :: The same slope.
+Is a table linear if y increases by 4 each time x increases by 1? :: Yes - a constant rate of change means linear (slope 4).
+Write the equation of a line with slope 2 and y-intercept -3. :: y = 2x - 3
+What is the domain of a relation? :: The set of all possible input (x) values.
+
+## Mathematics 9 | Linear Equations and Inequalities
+Solve: x + 7 = 12 :: x = 5 (subtract 7 from both sides).
+Solve: 3x = 21 :: x = 7 (divide both sides by 3).
+Solve: 2x + 5 = 17 :: 2x = 12, so x = 6.
+Solve: 5x - 3 = 2x + 9 :: 3x = 12, so x = 4.
+Solve: x/4 = 6 :: x = 24.
+What is the golden rule of solving equations? :: Whatever you do to one side, do to the other side.
+Solve: 3(x - 2) = 12 :: x - 2 = 4, so x = 6.
+When must you flip an inequality sign? :: When multiplying or dividing both sides by a negative number.
+Solve: 2x + 1 > 9 :: 2x > 8, so x > 4.
+Solve: -3x < 12 :: x > -4 (the sign flips when dividing by -3).
+On a number line, what does an open circle mean? :: The endpoint is not included (< or >). A closed circle means included (<= or >=).
+Solve: (x + 2)/3 = 5 :: x + 2 = 15, so x = 13.
+
+## Mathematics 9 | Similarity and Scale
+What does it mean for two polygons to be similar? :: Corresponding angles are equal and corresponding sides are proportional.
+What is a scale factor? :: The ratio of a length on the image to the corresponding length on the original.
+A scale factor greater than 1 produces what? :: An enlargement. Less than 1 produces a reduction.
+A rectangle 4 by 6 is enlarged with scale factor 2.5. New size? :: 10 by 15.
+Map scale is 1:50 000. 3 cm on the map is how far in real life? :: 3 x 50 000 = 150 000 cm = 1.5 km.
+How are the areas of similar figures related? :: Area scale factor = (length scale factor)^2.
+Triangles ABC and DEF are similar. AB = 4, DE = 10, BC = 6. Find EF. :: Scale factor 10/4 = 2.5, so EF = 15.
+What is the AA similarity rule for triangles? :: Two triangles with two pairs of equal angles are similar.
+Are all circles similar? :: Yes - they all have the same shape.
+Are all squares similar? :: Yes. All rectangles are not.
+Scale factor of a drawing is 1/20. A drawing length of 5 cm represents what? :: 100 cm.
+What is a proportion? :: An equation stating two ratios are equal, e.g. a/b = c/d.
+
+## Mathematics 9 | Surface Area and Volume
+Surface area of a rectangular prism? :: 2(lw + lh + wh)
+Volume of a rectangular prism? :: V = l x w x h
+Volume of a cylinder? :: V = pi r^2 h
+Surface area of a cylinder? :: SA = 2 pi r^2 + 2 pi r h
+Volume of a cone? :: V = (1/3) pi r^2 h
+Volume of a sphere? :: V = (4/3) pi r^3
+Surface area of a sphere? :: SA = 4 pi r^2
+Volume of a pyramid? :: V = (1/3) x base area x height
+Find the volume of a cylinder with r = 3 cm and h = 10 cm. :: pi x 9 x 10 = 90 pi, about 282.7 cm^3.
+What is the difference between surface area and volume? :: Surface area is the total outside area (square units); volume is the space inside (cubic units).
+How do you find the surface area of a composite object? :: Add the areas of all exposed faces; subtract any faces that are joined together.
+Volume of a triangular prism? :: (1/2 x base x height of the triangle) x length of the prism.
+
+## Mathematics 9 | Statistics and Probability
+What is the mean? :: The sum of all values divided by how many there are.
+What is the median? :: The middle value when the data is ordered.
+What is the mode? :: The value that appears most often.
+What is the range? :: The highest value minus the lowest value.
+Find the mean of 2, 4, 6, 8. :: 20 / 4 = 5.
+Find the median of 3, 9, 5, 7. :: Order: 3, 5, 7, 9. Median = (5 + 7)/2 = 6.
+Probability formula for equally likely outcomes? :: P(event) = favourable outcomes / total outcomes.
+Probability of rolling a 4 on a fair die? :: 1/6
+What is an outlier? :: A data value far from the rest; it can strongly affect the mean.
+What is a biased sample? :: A sample that does not fairly represent the whole population.
+What is the probability of an event that is certain? :: 1 (and 0 for an impossible event).
+Name a graph good for showing change over time. :: A line graph.
+
+## Mathematics 10C | Measurement (SI and Imperial)
+How many centimetres in one metre? :: 100
+How many feet in a yard? :: 3
+How many inches in a foot? :: 12
+Approximately how many centimetres in an inch? :: 2.54 cm
+Approximately how many kilometres in a mile? :: About 1.61 km.
+Convert 5 km to metres. :: 5000 m
+Convert 6 ft to inches. :: 72 in
+What is dimensional analysis? :: Converting units by multiplying by conversion factors (fractions equal to 1) so unwanted units cancel.
+Convert 60 km/h to m/s. :: 60 x 1000 / 3600 = 16.7 m/s.
+Surface area of a cone? :: SA = pi r^2 + pi r s, where s is the slant height.
+How does volume change if all dimensions of a solid double? :: Volume becomes 8 times larger (2^3).
+How many millilitres in 1 litre, and how does 1 mL relate to cm^3? :: 1000 mL; and 1 mL = 1 cm^3.
+
+## Mathematics 10C | Trigonometry of Right Triangles
+Define sin(theta) in a right triangle. :: opposite / hypotenuse
+Define cos(theta) in a right triangle. :: adjacent / hypotenuse
+Define tan(theta) in a right triangle. :: opposite / adjacent
+What memory trick helps recall the trig ratios? :: SOH CAH TOA.
+If the opposite side is 3 and the hypotenuse is 5, what is sin(theta)? :: 3/5 = 0.6
+How do you find an unknown angle from a ratio? :: Use the inverse function, e.g. theta = sin^-1(opposite/hypotenuse).
+Find x: tan(35 deg) = x / 10 :: x = 10 tan(35 deg), about 7.0.
+What is an angle of elevation? :: The angle above the horizontal when looking up at an object.
+What is an angle of depression? :: The angle below the horizontal when looking down at an object.
+What do the angles of a right triangle add up to? :: 180 deg, so the two acute angles add to 90 deg.
+What should your calculator be set to for degrees? :: DEG mode (not RAD).
+A ladder 5 m long makes 70 deg with the ground. How high does it reach? :: 5 sin(70 deg), about 4.7 m.
+
+## Mathematics 10C | Factors and Products
+What is the greatest common factor (GCF) of 12x^2 and 18x? :: 6x
+Factor: 6x + 9 :: 3(2x + 3)
+Factor: x^2 + 7x + 12 :: (x + 3)(x + 4)
+Factor: x^2 - 5x + 6 :: (x - 2)(x - 3)
+Factor: x^2 - 9 :: (x - 3)(x + 3) - difference of squares.
+Factor: x^2 + 6x + 9 :: (x + 3)^2 - perfect square trinomial.
+Factor: 2x^2 + 7x + 3 :: (2x + 1)(x + 3)
+What is the first step when factoring any polynomial? :: Look for a common factor.
+Expand: (2x + 3)(x - 5) :: 2x^2 - 7x - 15
+Factor by grouping: xy + 3x + 2y + 6 :: x(y + 3) + 2(y + 3) = (x + 2)(y + 3).
+Why is factoring useful? :: It helps simplify expressions and solve equations such as x^2 + 5x + 6 = 0.
+Factor: 4x^2 - 25 :: (2x - 5)(2x + 5)
+
+## Mathematics 10C | Roots and Powers
+What is a rational exponent a^(1/n)? :: The nth root of a. For example 8^(1/3) = 2.
+Evaluate: 27^(2/3) :: (cube root of 27)^2 = 3^2 = 9.
+Evaluate: 4^(-1/2) :: 1 / sqrt(4) = 1/2.
+Simplify: sqrt(18) :: 3 sqrt(2).
+Write 5 sqrt(3) as an entire radical. :: sqrt(75).
+Add: 2 sqrt(5) + 3 sqrt(5) :: 5 sqrt(5) - like radicals add like like terms.
+Multiply: sqrt(3) x sqrt(12) :: sqrt(36) = 6.
+What is a rational number vs an irrational number? :: Rational can be written as a fraction of integers; irrational (like sqrt(2)) cannot.
+Simplify: (x^3)^(1/3) :: x
+What does a^0 equal? :: 1
+Rationalize: 1 / sqrt(2) :: sqrt(2) / 2.
+Evaluate: 16^(3/4) :: (4th root of 16)^3 = 2^3 = 8.
+
+## Mathematics 10C | Relations and Functions
+What is a function? :: A relation where each input (x) has exactly one output (y).
+How can you test a graph for a function? :: The vertical line test - a vertical line should cross the graph at most once.
+What is the domain? :: The set of all possible inputs (x-values).
+What is the range? :: The set of all possible outputs (y-values).
+If f(x) = 2x + 1, find f(3). :: 2(3) + 1 = 7.
+Is {(1,2), (1,5), (2,3)} a function? :: No - the input 1 has two different outputs.
+What does f(x) notation mean? :: The output of function f when the input is x.
+Domain of y = sqrt(x)? :: x >= 0.
+What is a relation? :: Any set of ordered pairs connecting inputs to outputs.
+What is a discrete domain? :: A domain made of separate points (like whole numbers) rather than a continuous interval.
+If f(x) = x^2 - 4, find f(-3). :: 9 - 4 = 5.
+What does the graph of a function show? :: All ordered pairs (x, f(x)) that make the rule true.
+
+## Mathematics 10C | Linear Functions and Graphs
+Slope formula? :: m = (y2 - y1) / (x2 - x1)
+Slope-intercept form? :: y = mx + b
+Standard form of a line? :: Ax + By + C = 0 (or Ax + By = C).
+Point-slope form? :: y - y1 = m(x - x1)
+Slope of a line parallel to y = 3x + 1? :: 3
+Slope of a line perpendicular to y = 3x + 1? :: -1/3 (the negative reciprocal).
+Find the equation through (0, 2) with slope 4. :: y = 4x + 2
+Convert 2x + y = 6 to slope-intercept form. :: y = -2x + 6
+What does the slope mean in a real situation (e.g. $15 per hour)? :: The rate of change - how much y changes per 1 unit of x.
+Find the x- and y-intercepts of 3x + 2y = 12. :: x-intercept (4, 0); y-intercept (0, 6).
+Midpoint of (2, 4) and (8, 10)? :: (5, 7)
+Distance between (0, 0) and (3, 4)? :: 5 (Pythagorean theorem).
+
+## Mathematics 10C | Systems of Linear Equations
+What is a system of linear equations? :: Two or more linear equations considered together.
+What does the solution of a system represent graphically? :: The point where the lines intersect.
+Name the three solving methods. :: Graphing, substitution, elimination.
+How many solutions if the lines are parallel? :: None.
+How many solutions if the lines are the same line? :: Infinitely many.
+Solve by substitution: y = 2x, x + y = 9 :: x + 2x = 9, so x = 3 and y = 6.
+Solve by elimination: x + y = 7, x - y = 1 :: Add: 2x = 8, x = 4, then y = 3.
+When is elimination easiest? :: When coefficients of one variable are equal or opposite.
+How can you check a solution? :: Substitute it into both original equations.
+Solve: 2x + y = 10, x - y = 2 :: Add: 3x = 12, x = 4, y = 2.
+Two plans: $20 + $5/visit vs $10/visit. When equal? :: 20 + 5x = 10x, so x = 4 visits.
+What is a consistent system? :: One that has at least one solution.
+
+## Mathematics 20-1 | Sequences and Series
+What is an arithmetic sequence? :: A sequence with a constant difference d between terms.
+General term of an arithmetic sequence? :: t_n = a + (n - 1)d
+What is a geometric sequence? :: A sequence with a constant ratio r between terms.
+General term of a geometric sequence? :: t_n = a r^(n-1)
+Sum of the first n terms of an arithmetic series? :: S_n = n/2 [2a + (n - 1)d]  or  S_n = n(a + t_n)/2.
+Sum of the first n terms of a geometric series? :: S_n = a(r^n - 1)/(r - 1), r not 1.
+When does an infinite geometric series converge? :: When |r| < 1.
+Sum of a convergent infinite geometric series? :: S_infinity = a / (1 - r)
+Find t_10 for 3, 7, 11, ... :: a = 3, d = 4: t_10 = 3 + 9(4) = 39.
+Find the common ratio of 2, 6, 18, ... :: r = 3
+Find S_infinity for 8, 4, 2, 1, ... :: a = 8, r = 1/2: 8 / (1/2) = 16.
+What is a series? :: The sum of the terms of a sequence.
+
+## Mathematics 20-1 | Trigonometry
+What is the unit circle's radius? :: 1.
+On the unit circle, the point at angle theta is? :: (cos theta, sin theta)
+Convert 180 degrees to radians. :: pi radians.
+Convert pi/3 radians to degrees. :: 60 degrees.
+What are the exact values sin 30, cos 60, sin 45? :: 1/2, 1/2, sqrt(2)/2
+What is a coterminal angle? :: An angle sharing the same terminal arm, found by adding or subtracting 360 deg (2 pi).
+State the sine law. :: a / sin A = b / sin B = c / sin C
+State the cosine law. :: c^2 = a^2 + b^2 - 2ab cos C
+When do you use the sine law versus the cosine law? :: Sine law: AAS/ASA or SSA. Cosine law: SAS or SSS.
+What is the ambiguous case? :: SSA, where two different triangles (0, 1 or 2) may fit the given measurements.
+Pythagorean identity? :: sin^2 theta + cos^2 theta = 1
+Reciprocal of sin theta, cos theta and tan theta? :: csc theta, sec theta, cot theta.
+
+## Mathematics 20-1 | Quadratic Functions
+Standard form of a quadratic function? :: y = ax^2 + bx + c
+Vertex form? :: y = a(x - p)^2 + q, vertex (p, q).
+What does a > 0 do to the parabola? :: It opens upward (a < 0 opens downward).
+Axis of symmetry from standard form? :: x = -b / (2a)
+How can you find the vertex of y = x^2 - 6x + 5? :: x = 3, y = 9 - 18 + 5 = -4, vertex (3, -4).
+What is completing the square used for? :: Converting standard form to vertex form.
+Complete the square: x^2 + 6x :: (x + 3)^2 - 9
+What is the y-intercept of y = ax^2 + bx + c? :: c
+What are the zeros (x-intercepts) of a function? :: The x values where y = 0.
+What does |a| > 1 do to the graph? :: Stretches it vertically (narrower parabola).
+Domain and range of y = (x - 2)^2 + 3? :: Domain all real numbers; range y >= 3.
+Maximum value of y = -(x - 1)^2 + 4? :: 4 (at x = 1).
+
+## Mathematics 20-1 | Quadratic Equations
+State the quadratic formula. :: x = (-b +/- sqrt(b^2 - 4ac)) / (2a)
+What is the discriminant? :: b^2 - 4ac
+Discriminant > 0 means? :: Two distinct real roots.
+Discriminant = 0 means? :: One real root (a double root).
+Discriminant < 0 means? :: No real roots.
+Solve by factoring: x^2 - 5x + 6 = 0 :: (x - 2)(x - 3) = 0, so x = 2 or 3.
+Solve: x^2 = 49 :: x = 7 or x = -7.
+Zero product property? :: If ab = 0 then a = 0 or b = 0.
+Solve: x^2 - 4x - 5 = 0 :: (x - 5)(x + 1) = 0, so x = 5 or -1.
+What are the roots of an equation? :: The values of x that make it true (x-intercepts of the related function).
+Solve with the formula: x^2 + 2x - 1 = 0 :: x = -1 +/- sqrt(2).
+Solve: 2x^2 = 8x :: 2x(x - 4) = 0, so x = 0 or 4.
+
+## Mathematics 20-1 | Radical Expressions and Equations
+Simplify: sqrt(72) :: 6 sqrt(2).
+Multiply: 3 sqrt(2) x 4 sqrt(5) :: 12 sqrt(10).
+Rationalize: 3 / sqrt(5) :: 3 sqrt(5) / 5.
+Solve: sqrt(x + 3) = 5 :: x + 3 = 25, so x = 22.
+Why must you check radical equation solutions? :: Squaring can create extraneous roots that do not satisfy the original equation.
+What is an extraneous root? :: A solution from algebra that fails when substituted into the original equation.
+Domain of sqrt(x - 4)? :: x >= 4
+Conjugate of 2 + sqrt(3)? :: 2 - sqrt(3)
+Multiply: (2 + sqrt(3))(2 - sqrt(3)) :: 4 - 3 = 1.
+Solve: sqrt(2x - 1) = x - 2 (check roots). :: Square: 2x - 1 = x^2 - 4x + 4 gives x = 5 or 1; only x = 5 works.
+Write as a mixed radical: sqrt(48) :: 4 sqrt(3).
+Add: 5 sqrt(7) - 2 sqrt(7) :: 3 sqrt(7).
+
+## Mathematics 20-1 | Rational Expressions and Equations
+What are non-permissible values? :: Values of the variable that make a denominator zero.
+Non-permissible value of 5 / (x - 3)? :: x = 3
+Simplify: (x^2 - 9) / (x + 3) :: x - 3 (for x not -3).
+Multiply: (2/x) x (x^2/6) :: x / 3
+Divide rational expressions by? :: Multiplying by the reciprocal of the divisor.
+Add: 1/x + 2/x :: 3/x
+Add: 1/x + 1/(x + 1) :: (2x + 1) / (x(x + 1))
+First step in solving a rational equation? :: Multiply every term by the common denominator (noting non-permissible values).
+Solve: 6/x = 3 :: x = 2.
+Solve: 1/x + 1/2 = 1 :: 1/x = 1/2, so x = 2.
+Why check rational equation answers? :: A solution may equal a non-permissible value and so be extraneous.
+Simplify: (x^2 + 5x + 6)/(x + 2) :: x + 3
+
+## Mathematics 20-1 | Absolute Value and Reciprocal Functions
+Define |x|. :: The distance of x from 0: x if x >= 0, and -x if x < 0.
+Evaluate: |-7| :: 7
+Solve: |x| = 5 :: x = 5 or x = -5.
+Solve: |x - 2| = 3 :: x = 5 or x = -1.
+Solve: |x| < 4 :: -4 < x < 4.
+Solve: |x| > 4 :: x < -4 or x > 4.
+Shape of y = |x|? :: A V shape with vertex at the origin.
+What is the reciprocal function of f(x)? :: y = 1 / f(x)
+Where does 1/f(x) have vertical asymptotes? :: Where f(x) = 0.
+Invariant points of y = 1/f(x)? :: Where f(x) = 1 or f(x) = -1.
+How do you graph y = |f(x)|? :: Reflect parts of the graph below the x-axis up above it.
+Piecewise form of |x - 3|? :: x - 3 if x >= 3; 3 - x if x < 3.
+
+## Mathematics 20-1 | Systems of Equations and Inequalities
+What is the solution to a linear-quadratic system? :: The points where the line and parabola intersect (0, 1 or 2 points).
+Solve: y = x^2, y = x + 2 :: x^2 - x - 2 = 0 gives x = 2 or -1: points (2, 4) and (-1, 1).
+How do you graph a linear inequality? :: Graph the boundary line (dashed for < or >, solid for <= or >=), then shade the correct side.
+How do you choose which side to shade? :: Test a point (such as the origin) in the inequality.
+What is the solution region of an inequality system? :: The overlap of all shaded regions.
+Solve: x^2 - 5x + 6 > 0 :: x < 2 or x > 3.
+Solve: x^2 - 4 <= 0 :: -2 <= x <= 2.
+Method to solve a quadratic inequality? :: Find the zeros, then test intervals for positive or negative values.
+Solve by substitution: y = 2x + 1 and y = x^2 - 2. :: x^2 - 2x - 3 = 0, x = 3 or -1, points (3, 7) and (-1, -1).
+Should the boundary of y > x^2 be solid or dashed? :: Dashed (the points on the parabola are not included).
+How many solutions can a linear-quadratic system have? :: 0, 1 or 2.
+How many intersections can two parabolas have? :: 0, 1, 2 (or infinitely many if identical).
+
+## Mathematics 20-2 | Geometry and Measurement
+Pythagorean theorem? :: a^2 + b^2 = c^2 in a right triangle.
+Convert 3 m to feet (1 m is about 3.28 ft). :: About 9.84 ft.
+Volume of a cylinder? :: V = pi r^2 h
+Surface area of a sphere? :: 4 pi r^2
+Volume of a cone? :: (1/3) pi r^2 h
+What is a composite shape? :: A shape made of two or more simpler shapes.
+Law of sines? :: a / sin A = b / sin B = c / sin C
+Law of cosines? :: c^2 = a^2 + b^2 - 2ab cos C
+What is an angle of elevation? :: The angle above the horizontal from the observer to an object.
+Area of a triangle using two sides and the included angle? :: (1/2) a b sin C
+How many degrees in a triangle? :: 180
+How do volumes of similar solids compare? :: Volume ratio = (scale factor)^3.
+
+## Mathematics 20-2 | Logical Reasoning
+What is inductive reasoning? :: Drawing a general conclusion from specific examples or patterns.
+What is deductive reasoning? :: Applying general rules or facts to reach a certain conclusion.
+What is a counterexample? :: A single example that shows a statement is false.
+What is a conjecture? :: A statement believed true based on observations but not yet proven.
+What is a conditional statement? :: An "if-then" statement: if p, then q.
+What is the converse of "if p then q"? :: "If q then p."
+What is the contrapositive of "if p then q"? :: "If not q then not p" - always logically equivalent to the original.
+What does a Venn diagram show? :: Relationships between sets using overlapping circles.
+What is the union of two sets? :: All elements in either set (A or B).
+What is the intersection of two sets? :: Elements in both sets (A and B).
+What is the complement of set A? :: Everything in the universal set that is not in A.
+Is "all squares are rectangles" reversible? :: No - not all rectangles are squares.
+
+## Mathematics 20-2 | Probability
+Probability formula? :: P(A) = favourable outcomes / total outcomes.
+What is the Fundamental Counting Principle? :: If one event has m outcomes and another n, together there are m x n outcomes.
+How many ways to arrange 4 different books? :: 4! = 24
+What is n!? :: n x (n - 1) x ... x 2 x 1
+Formula for permutations of n items taken r at a time? :: nPr = n! / (n - r)!
+Formula for combinations? :: nCr = n! / (r!(n - r)!)
+When do you use a combination instead of a permutation? :: When order does not matter.
+Find 5C2. :: 10
+Find 5P2. :: 20
+P(A or B) for mutually exclusive events? :: P(A) + P(B)
+P(A and B) for independent events? :: P(A) x P(B)
+What is a complement probability? :: P(not A) = 1 - P(A).
+
+## Mathematics 20-2 | Quadratic Functions
+Standard form of a quadratic? :: y = ax^2 + bx + c
+Vertex form? :: y = a(x - p)^2 + q
+What is the vertex? :: The turning point of the parabola (the maximum or minimum).
+Axis of symmetry formula? :: x = -b / (2a)
+What do x-intercepts tell you? :: Where the function equals zero (the roots).
+What does a negative value of a do? :: The parabola opens downward and the vertex is a maximum.
+Quadratic formula? :: x = (-b +/- sqrt(b^2 - 4ac)) / (2a)
+Factor: x^2 - 7x + 10 :: (x - 2)(x - 5)
+Find the vertex of y = (x - 3)^2 + 2. :: (3, 2)
+What is the domain of any quadratic function? :: All real numbers.
+A ball's height is h = -5t^2 + 20t. When is it at its max? :: t = 2 s (h = 20 m).
+How many x-intercepts can a parabola have? :: 0, 1 or 2.
+
+## Mathematics 20-2 | Rational Expressions and Equations
+Simplify: (6x) / (9x^2) :: 2 / (3x)
+What is a non-permissible value? :: A value that makes a denominator equal 0.
+Multiply: (x/3) x (6/x^2) :: 2/x
+Add: 2/x + 3/x :: 5/x
+To add fractions with different denominators you need? :: A common denominator.
+Solve: x/4 = 3/2 :: x = 6
+Solve: 5/x = 10 :: x = 1/2
+Divide: (x/2) / (x/4) :: 2
+Simplify: (x^2 - 4)/(x - 2) :: x + 2 (x not 2).
+Work problem: A does a job in 3 h, B in 6 h. Together? :: 1/3 + 1/6 = 1/2 job per hour, so 2 hours.
+Why check solutions of rational equations? :: A solution may be non-permissible.
+Solve: 2/x + 1 = 3 :: 2/x = 2, so x = 1.
+
+## Mathematics 20-2 | Statistics (Normal Distribution)
+What does a normal distribution look like? :: A symmetric bell-shaped curve centred on the mean.
+Empirical rule for a normal distribution? :: About 68% within 1 SD, 95% within 2 SD, 99.7% within 3 SD of the mean.
+What is standard deviation? :: A measure of how spread out the data is around the mean.
+What is a z-score? :: z = (x - mean) / standard deviation; the number of SDs from the mean.
+Mean 70, SD 5. What is the z-score of 80? :: (80 - 70)/5 = 2.
+Does a bigger standard deviation mean more or less spread? :: More spread.
+What percent of data is within 2 SD? :: About 95%.
+In a normal curve, how are mean, median and mode related? :: They are equal.
+What does a z-score of 0 mean? :: The value equals the mean.
+Mean 100, SD 15. What percent is above 115? :: About 16% (above 1 SD: (100 - 68)/2).
+What is a confidence interval? :: A range likely to contain the true population value.
+What is margin of error? :: The +/- amount that describes how accurate a poll result likely is.
+
+## Mathematics 20-2 | Systems of Linear Inequalities
+How do you graph the boundary of 2x + y > 4? :: Draw the line 2x + y = 4 as a dashed line.
+When is the boundary solid? :: For <= or >= (points on the line are included).
+How do you decide which side to shade? :: Test a point such as (0, 0).
+What is the solution region for a system? :: The overlap of the shaded regions of all inequalities.
+Is (0, 0) a solution of x + y < 3? :: Yes: 0 < 3 is true.
+Rewrite y - 2x > 1 to solve for y. :: y > 2x + 1
+What does shading above a line represent? :: y greater than the line values.
+What is a feasible region? :: The region satisfying all constraints in an optimization problem.
+Where is the optimum of a linear objective found? :: At a vertex (corner point) of the feasible region.
+How do you find a vertex of the region? :: Solve the two boundary equations together.
+Inequality for "at most 10 items"? :: x <= 10
+Why are inequalities with x >= 0 and y >= 0 common? :: Quantities like items or time cannot be negative.
+
+## Mathematics 20-3 | Measurement
+How many cm in 1 m? :: 100
+How many inches in 1 foot? :: 12
+Convert 2.5 m to cm. :: 250 cm
+Area of a rectangle? :: length x width
+Area of a circle? :: pi r^2
+Circumference of a circle? :: 2 pi r
+Volume of a rectangular prism? :: l x w x h
+Volume of a cylinder? :: pi r^2 h
+Convert 10 inches to cm (1 in = 2.54 cm). :: 25.4 cm
+What is a rate? :: A comparison of two quantities with different units, e.g. 90 km/h.
+What does "unit price" mean? :: The cost of one unit, e.g. $ per kg.
+What is a tolerance in measurement? :: The allowed variation, e.g. 5.00 cm +/- 0.02 cm.
+
+## Mathematics 20-3 | Right Triangle Trigonometry
+SOH CAH TOA means? :: sin = opp/hyp, cos = adj/hyp, tan = opp/adj.
+Pythagorean theorem? :: a^2 + b^2 = c^2
+Find the hypotenuse for legs 9 and 12. :: 15
+If tan A = 0.75, find angle A. :: tan^-1(0.75), about 36.9 deg.
+Angle of elevation means? :: Angle measured upward from horizontal.
+A 10 m ramp rises 2 m. Find its angle. :: sin^-1(2/10), about 11.5 deg.
+Find x if cos 40 deg = x/20. :: x = 20 cos 40 deg, about 15.3.
+What do the acute angles in a right triangle add to? :: 90 deg.
+How tall is a tree if you stand 15 m away and see its top at 30 deg? :: 15 tan 30 deg, about 8.7 m (plus eye height).
+Which side is opposite the angle? :: The side across from it, not touching the angle.
+Which side is adjacent? :: The leg next to the angle that is not the hypotenuse.
+Which mode should your calculator use? :: Degrees.
+
+## Mathematics 20-3 | Algebra and Number
+Solve: 3x + 4 = 19 :: x = 5
+Solve: x/2 - 1 = 4 :: x = 10
+What is a ratio? :: A comparison of two quantities, like 3:2.
+What is a proportion? :: Two equal ratios.
+Solve: x/5 = 6/10 :: x = 3
+Simplify: 2(x + 3) + x :: 3x + 6
+Evaluate: 3^2 + 2 x 4 :: 17
+What is 20% of 150? :: 30
+What does the exponent law a^m x a^n equal? :: a^(m + n)
+Write 0.00045 in scientific notation. :: 4.5 x 10^-4
+Simplify the fraction 18/24. :: 3/4
+What is the first step in evaluating 5 + 2(3 + 4)? :: Brackets: 3 + 4 = 7, then 2 x 7 = 14, then 5 + 14 = 19.
+
+## Mathematics 20-3 | Linear Relations
+Slope formula? :: (y2 - y1) / (x2 - x1)
+Slope-intercept form? :: y = mx + b
+What is the slope of y = 4x - 3? :: 4
+What is the y-intercept of y = 4x - 3? :: -3
+What is a rate of change? :: How much one quantity changes per unit change in another; the slope.
+Find the equation: slope 2, passes (0, 5). :: y = 2x + 5
+How do you graph y = 3x + 1? :: Start at (0, 1), then move up 3 and right 1 repeatedly.
+What type of relation has a constant rate of change? :: A linear relation.
+A taxi charges $4 plus $2 per km. Write the cost equation. :: C = 2d + 4
+What is the x-intercept? :: Where the line crosses the x-axis (y = 0).
+How can you tell a graph is linear from a table? :: Equal changes in x give equal changes in y.
+Solve for y: 2x + y = 7 :: y = -2x + 7
+
+## Mathematics 20-3 | Statistics
+What is the mean? :: Sum of values divided by the number of values.
+What is the median? :: The middle value of ordered data.
+What is the mode? :: The most frequent value.
+What is a sample? :: A subset of a population used to draw conclusions about the whole.
+What is a population? :: The entire group being studied.
+What is a biased sample? :: A sample that does not fairly represent the population.
+What is a scatter plot? :: A graph of paired data showing the relationship between two variables.
+What is a line of best fit? :: A line that best shows the trend of a scatter plot.
+What is correlation? :: How strongly two variables are related.
+Does correlation prove causation? :: No - two variables can be related without one causing the other.
+Find the mean of 4, 8, 6, 10, 12. :: 8
+What is an outlier? :: A value far from the rest of the data.
+
+## Mathematics 20-3 | Financial Mathematics
+Simple interest formula? :: I = P r t
+Compound interest formula? :: A = P(1 + i)^n
+What does APR mean? :: Annual percentage rate - the yearly cost of borrowing as a percentage.
+What is principal? :: The original amount of money borrowed or invested.
+Find simple interest on $1000 at 5% for 3 years. :: $150
+What is a down payment? :: The upfront portion of a purchase paid in cash.
+What is a mortgage? :: A loan used to buy property, secured by that property.
+What is gross pay? :: Pay before deductions.
+What is net pay? :: Pay after deductions such as taxes and CPP.
+What is GST in Alberta? :: A 5% federal sales tax (Alberta has no provincial sales tax).
+How do you find a percentage discount price? :: Price x (1 - discount rate).
+What is a budget? :: A plan comparing expected income and expenses.
+
+## Mathematics 30-1 | Transformations of Functions
+What does y = f(x) + k do? :: Vertical translation: up k if k > 0, down if k < 0.
+What does y = f(x - h) do? :: Horizontal translation: right h if h > 0.
+What does y = -f(x) do? :: Reflects in the x-axis.
+What does y = f(-x) do? :: Reflects in the y-axis.
+What does y = a f(x) do? :: Vertical stretch by factor |a|.
+What does y = f(bx) do? :: Horizontal stretch by factor 1/|b|.
+Write the full transformation form. :: y = a f(b(x - h)) + k
+What is an inverse function? :: A function that reverses another; if f(a) = b then f^-1(b) = a.
+How do you find an inverse algebraically? :: Swap x and y, then solve for y.
+How is the graph of f^-1 related to f? :: It is the reflection of f in the line y = x.
+When is the inverse of f also a function? :: When f passes the horizontal line test (is one-to-one).
+Image point of (2, 3) under y = 2f(x - 1) + 4? :: (3, 10)
+
+## Mathematics 30-1 | Radical Functions
+What is the parent radical function? :: y = sqrt(x), domain x >= 0, range y >= 0.
+Domain of y = sqrt(x - 3)? :: x >= 3
+Range of y = -sqrt(x) + 2? :: y <= 2
+How do you graph y = a sqrt(b(x - h)) + k? :: Transform the base points (0,0), (1,1), (4,2), (9,3) using a, b, h, k.
+How do you solve sqrt(x + 1) = 3? :: Square both sides: x + 1 = 9, x = 8.
+Why check answers to radical equations? :: Squaring may produce extraneous roots.
+Is y = sqrt(x) the inverse of y = x^2? :: Only for x >= 0 (the right half of the parabola).
+Find the inverse of y = x^2 + 1 for x >= 0. :: y = sqrt(x - 1)
+What is the x-intercept of y = sqrt(x + 4) - 2? :: Set y = 0: sqrt(x + 4) = 2, so x = 0.
+Domain of y = sqrt(5 - x)? :: x <= 5
+Solve: sqrt(x) = x - 2 :: x = 4 (x = 1 is extraneous).
+Does y = sqrt(x) have an asymptote? :: No.
+
+## Mathematics 30-1 | Polynomial Functions
+State the Remainder Theorem. :: When P(x) is divided by (x - a), the remainder is P(a).
+State the Factor Theorem. :: (x - a) is a factor of P(x) if and only if P(a) = 0.
+What is the degree of a polynomial? :: The highest exponent of the variable.
+What is the end behaviour of an odd-degree polynomial with a positive leading coefficient? :: Falls to the left, rises to the right.
+What is the maximum number of x-intercepts for a degree-n polynomial? :: n
+What does a double root mean graphically? :: The graph touches the x-axis and turns around.
+What does synthetic division do? :: A shortcut for dividing a polynomial by (x - a).
+Rational Root Theorem: possible rational zeros? :: Factors of the constant term divided by factors of the leading coefficient.
+Remainder when x^3 - 2x + 5 is divided by x - 2? :: P(2) = 8 - 4 + 5 = 9.
+Factor: x^3 - 8 :: (x - 2)(x^2 + 2x + 4)
+What is the y-intercept of a polynomial? :: The constant term, P(0).
+Is (x - 1) a factor of x^3 - 1? :: Yes, since P(1) = 0.
+
+## Mathematics 30-1 | Trigonometric Functions
+What is the period of y = sin x? :: 2 pi (360 deg).
+What is the amplitude of y = a sin x? :: |a|
+Period of y = sin(bx)? :: 2 pi / |b|
+General sinusoidal equation? :: y = a sin(b(x - c)) + d
+What is the midline of y = a sin(b(x - c)) + d? :: y = d
+What is a phase shift? :: The horizontal translation c.
+Exact value of sin(pi/6)? :: 1/2
+Exact value of cos(pi/4)? :: sqrt(2)/2
+Solve sin x = 1/2 for 0 <= x < 2 pi. :: x = pi/6 and 5 pi/6.
+What is the period of y = tan x? :: pi
+Identity: tan x = ? :: sin x / cos x
+Double angle: sin 2x = ? :: 2 sin x cos x
+
+## Mathematics 30-1 | Exponential and Logarithmic Functions
+What is an exponential function? :: A function of the form y = a b^x with b > 0, b not 1.
+What is a logarithm? :: The exponent to which the base must be raised: log_b(x) = y means b^y = x.
+Evaluate: log_2(8) :: 3
+Evaluate: log_10(1000) :: 3
+Product law of logarithms? :: log(mn) = log m + log n
+Quotient law of logarithms? :: log(m/n) = log m - log n
+Power law of logarithms? :: log(m^n) = n log m
+Change of base formula? :: log_b(x) = log(x) / log(b)
+Solve: 2^x = 16 :: x = 4
+Solve: 3^x = 20 :: x = log 20 / log 3, about 2.73.
+Horizontal asymptote of y = 2^x? :: y = 0
+Half-life formula? :: A = A0 (1/2)^(t/h)
+
+## Mathematics 30-1 | Rational Functions
+What is a rational function? :: A function that is a ratio of two polynomials, f(x) = P(x)/Q(x).
+How do you find vertical asymptotes? :: Set the denominator to 0 (after cancelling common factors).
+What is a hole (point of discontinuity)? :: A common factor of numerator and denominator cancels, leaving a missing point.
+Vertical asymptote of y = 1/(x - 2)? :: x = 2
+Horizontal asymptote of y = (2x + 1)/(x - 3)? :: y = 2
+When is the horizontal asymptote y = 0? :: When the numerator degree is less than the denominator degree.
+When is there a slant asymptote? :: When the numerator degree is exactly one more than the denominator degree.
+Domain of y = 1/(x + 5)? :: x not equal to -5
+x-intercepts of a rational function? :: Zeros of the numerator (not cancelled).
+Hole location in y = (x^2 - 1)/(x - 1)? :: At x = 1 (y = 2).
+Parent function of reciprocal family? :: y = 1/x
+What is the behaviour near a vertical asymptote? :: The function increases or decreases without bound.
+
+## Mathematics 30-1 | Function Operations
+What is (f + g)(x)? :: f(x) + g(x)
+What is (f g)(x)? :: f(x) x g(x)
+What is (f o g)(x)? :: f(g(x)) - apply g first, then f.
+If f(x) = 2x and g(x) = x + 3, find (f o g)(x). :: 2(x + 3) = 2x + 6.
+If f(x) = 2x and g(x) = x + 3, find (g o f)(x). :: 2x + 3.
+Is composition commutative? :: Generally no.
+Domain of (f/g)(x)? :: Domain of both f and g, with g(x) not equal to 0.
+What does f(f^-1(x)) equal? :: x
+Domain of f(g(x))? :: x in the domain of g such that g(x) is in the domain of f.
+If f(x) = x^2 and g(x) = sqrt(x), find f(g(x)). :: x, for x >= 0.
+How do you graph (f + g)(x)? :: Add the y-values of f and g at each x.
+What is (f - g)(x)? :: f(x) - g(x)
+
+## Mathematics 30-1 | Permutations, Combinations and Binomial Theorem
+Fundamental Counting Principle? :: If tasks can be done in m and n ways, together there are m x n ways.
+n! means? :: n x (n-1) x ... x 1
+Permutation formula? :: nPr = n! / (n - r)!
+Combination formula? :: nCr = n! / (r!(n - r)!)
+Permutations when some items are identical? :: n! / (a! b! ...) for repeated groups.
+How many arrangements of the letters in MOM? :: 3!/2! = 3
+Binomial theorem general term? :: t_(k+1) = nCk a^(n-k) b^k in (a + b)^n.
+Expand (x + 1)^3. :: x^3 + 3x^2 + 3x + 1
+Which row of Pascal's triangle gives (a + b)^4? :: 1 4 6 4 1
+Value of 0!? :: 1
+Combinations vs permutations? :: Combinations ignore order; permutations care about order.
+Find 6C3. :: 20
+
+## Mathematics 30-2 | Logic and Set Theory
+What is a set? :: A collection of distinct objects.
+Notation for "x is an element of A"? :: x in A
+What is the empty set? :: The set with no elements, written { }.
+What is the union of A and B? :: All elements in A or B or both.
+What is the intersection of A and B? :: Elements in both A and B.
+What is the complement of A? :: Elements in the universal set U that are not in A.
+What is a subset? :: Set A is a subset of B if every element of A is also in B.
+What is a conditional statement? :: "If p, then q."
+What is a counterexample? :: One case that shows a statement is false.
+Contrapositive of "if p then q"? :: "If not q then not p" (logically equivalent).
+Formula for two sets: n(A or B)? :: n(A) + n(B) - n(A and B)
+What is a Venn diagram used for? :: Showing relationships and overlaps between sets.
+
+## Mathematics 30-2 | Probability
+P(A) for equally likely outcomes? :: Favourable outcomes / total outcomes.
+P(A and B) for independent events? :: P(A) x P(B)
+P(A or B) in general? :: P(A) + P(B) - P(A and B)
+What are mutually exclusive events? :: Events that cannot occur together.
+What is conditional probability? :: P(B given A) = P(A and B) / P(A).
+How many arrangements of 5 different items? :: 5! = 120
+Combination formula? :: nCr = n! / (r!(n - r)!)
+Find 7C2. :: 21
+What is the complement rule? :: P(not A) = 1 - P(A).
+Odds in favour of an event? :: P(event) : P(not event) (favourable : unfavourable).
+Probability both of two cards drawn without replacement are aces? :: (4/52)(3/51) = 1/221.
+Are drawing with replacement events independent? :: Yes.
+
+## Mathematics 30-2 | Rational Expressions and Equations
+Non-permissible value of 3/(x - 5)? :: x = 5
+Simplify: (x^2 - 1)/(x - 1) :: x + 1
+Add: 1/x + 1/y :: (x + y) / (xy)
+Multiply: (x/2) x (4/x^2) :: 2/x
+Divide: (3/x) / (6/x^2) :: x/2
+Solve: 4/x = 2 :: x = 2
+Solve: 1/x + 1/(2x) = 3 :: 3/(2x) = 3, so x = 1/2.
+First step to solve a rational equation? :: Multiply by the common denominator.
+Why check roots? :: To exclude extraneous roots equal to non-permissible values.
+Find the LCD of 1/x and 1/(x + 1). :: x(x + 1)
+Simplify: (2x + 4)/(x + 2) :: 2
+Combined work: A in 4 h, B in 4 h. Together? :: 2 hours.
+
+## Mathematics 30-2 | Polynomial Functions
+What is a polynomial function? :: A function like y = a_n x^n + ... + a_1 x + a_0 with whole-number exponents.
+End behaviour of y = x^3? :: Falls to the left, rises to the right.
+End behaviour of y = x^2 with a > 0? :: Rises on both ends.
+Degree of y = 2x^4 - x? :: 4
+Maximum number of x-intercepts of a degree-n polynomial? :: n
+What does a double root look like? :: The graph touches the x-axis and bounces back.
+Factor Theorem? :: (x - a) is a factor of P(x) if P(a) = 0.
+Remainder Theorem? :: P(a) is the remainder when P(x) is divided by (x - a).
+y-intercept of y = x^3 - 2x + 4? :: 4
+Zeros of y = (x - 1)(x + 2)(x - 3)? :: 1, -2, 3
+How can you estimate zeros from a graph? :: Read where the graph crosses the x-axis.
+What does the leading coefficient control? :: Direction of end behaviour and vertical stretch.
+
+## Mathematics 30-2 | Exponential and Logarithmic Functions
+General exponential function? :: y = a b^x
+Growth or decay: y = 3(1.05)^x? :: Growth (base greater than 1).
+Decay or growth: y = 100(0.9)^x? :: Decay (base between 0 and 1).
+Define log_b(x). :: The exponent y such that b^y = x.
+log_10(100)? :: 2
+Product law? :: log(mn) = log m + log n
+Power law? :: log(m^n) = n log m
+Solve: 5^x = 125 :: x = 3
+Compound interest formula? :: A = P(1 + i)^n
+Half-life formula? :: A = A0 (1/2)^(t/h)
+Horizontal asymptote of y = 2^x + 3? :: y = 3
+Why can't you take log of a negative number? :: No power of a positive base gives a negative result.
+
+## Mathematics 30-2 | Sinusoidal Functions
+What is amplitude? :: Half the distance between the maximum and minimum values.
+What is the period? :: The length of one full cycle.
+What is the midline? :: The horizontal line halfway between the max and min.
+Amplitude of y = 3 sin x? :: 3
+Period of y = sin(2x) in degrees? :: 180 deg
+General sinusoidal equation? :: y = a sin(b(x - c)) + d
+What does d do? :: Shifts the graph vertically; it is the midline value.
+Max and min of y = 2 sin x + 5? :: Max 7, min 3.
+Where does y = cos x start at x = 0? :: At its maximum (y = 1).
+Where does y = sin x start at x = 0? :: At the midline (y = 0), rising.
+Real-life sinusoidal examples? :: Tides, Ferris wheel height, daylight hours, sound waves.
+How do you find the period from b? :: Period = 360 deg / |b| (or 2 pi / |b|).
+
+## Mathematics 30-3 | Algebra and Number
+Solve: 2x + 5 = 17 :: x = 6
+Simplify: 3(x + 4) - 2x :: x + 12
+What is an exponent? :: A number showing how many times the base is multiplied by itself.
+Evaluate: 2^5 :: 32
+What is scientific notation? :: A number written as a x 10^n where 1 <= a < 10.
+Write 3 200 000 in scientific notation. :: 3.2 x 10^6
+What is a ratio? :: A comparison of two quantities, like 2:5.
+Solve the proportion: x/4 = 9/12 :: x = 3
+Convert 0.35 to a percent. :: 35%
+What is 15% of 80? :: 12
+Evaluate: 6 + 2 x 3 :: 12
+Factor: 4x + 8 :: 4(x + 2)
+
+## Mathematics 30-3 | Trigonometry
+SOH CAH TOA means? :: sin = opp/hyp, cos = adj/hyp, tan = opp/adj.
+State the sine law. :: a/sin A = b/sin B = c/sin C
+State the cosine law. :: c^2 = a^2 + b^2 - 2ab cos C
+When do you use the cosine law? :: Given SAS or SSS.
+Find the hypotenuse of a right triangle with legs 5 and 12. :: 13
+If sin A = 0.5, what is A? :: 30 deg
+Angle of depression is measured from? :: The horizontal, looking downward.
+Two angles in a triangle are 50 deg and 60 deg. Find the third. :: 70 deg
+Area of a triangle with sides a, b and included angle C? :: (1/2) a b sin C
+What are bearings? :: Directions measured clockwise from north, as three-digit angles.
+How tall is a pole if you are 20 m away and the angle of elevation is 40 deg? :: 20 tan 40 deg, about 16.8 m.
+What tool measures an angle of elevation? :: A clinometer.
+
+## Mathematics 30-3 | Statistics and Probability
+What is the mean? :: Sum divided by the number of values.
+What is standard deviation? :: A measure of how spread out the data is.
+In a normal distribution, what percent is within 1 SD? :: About 68%.
+What is a z-score? :: (x - mean)/SD, the number of SDs from the mean.
+What is a population? :: The entire group being studied.
+What is a sample? :: A subset of the population.
+P(A) for equally likely outcomes? :: Favourable / total.
+P(A and B) for independent events? :: P(A) x P(B)
+What is a permutation? :: An arrangement where order matters.
+What is a combination? :: A selection where order does not matter.
+Find 4C2. :: 6
+What is a biased question? :: A survey question worded to push people toward a certain answer.
+
+## Mathematics 30-3 | Financial Mathematics
+Simple interest formula? :: I = P r t
+Compound interest formula? :: A = P(1 + i)^n
+What is an amortization period? :: The total length of time to pay off a loan.
+What is a credit score? :: A number reflecting how reliably you repay debts.
+What is APR? :: The yearly cost of borrowing, as a percentage.
+What is a down payment? :: Money paid upfront toward a large purchase.
+What is gross income? :: Income before deductions.
+What does it mean to lease versus buy a car? :: Leasing is paying to use the car for a term; buying means you own it.
+What is an RRSP? :: A Canadian registered retirement savings plan that gives tax advantages.
+What is a TFSA? :: A Tax-Free Savings Account - investment growth is not taxed.
+Compound interest is better than simple interest for savers because? :: You earn interest on past interest too.
+How do you compare loan offers? :: Compare interest rate, fees, term, and the total cost of borrowing.
+
+## Mathematics 30-3 | Linear and Non-linear Relations
+What does y = mx + b represent? :: A linear relation with slope m and y-intercept b.
+How do you recognize a quadratic function? :: It has an x^2 term and graphs as a parabola.
+How do you recognize an exponential relation? :: y changes by a constant multiple for equal steps in x.
+What is a rate of change? :: How much y changes per unit x.
+What is a line of best fit? :: A line approximating the trend in scatter plot data.
+Does a bigger |slope| mean steeper or flatter? :: Steeper.
+What is a regression? :: A method for finding the equation of the curve that best fits data.
+Does y = 2^x grow faster than y = 2x for large x? :: Yes, exponential growth eventually outpaces linear growth.
+Find the slope through (1, 3) and (4, 12). :: 3
+What is an x-intercept? :: Where the graph crosses the x-axis (y = 0).
+Interpolation vs extrapolation? :: Interpolation estimates within the data range; extrapolation estimates beyond it.
+What is a vertex? :: The maximum or minimum point of a parabola.

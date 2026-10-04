@@ -1,0 +1,129 @@
+# "English Language Arts *" applies these cards to every ELA course.
+
+## English Language Arts * | Short Stories
+What is plot? :: The sequence of events in a story.
+Name the parts of a plot diagram. :: Exposition, rising action, climax, falling action, resolution.
+What is the climax? :: The turning point or moment of highest tension.
+What is conflict? :: The struggle between opposing forces in a story.
+Name two types of conflict. :: Internal (within a character) and external (character vs character, society, nature).
+What is setting? :: The time and place of a story.
+What is a protagonist? :: The main character.
+What is an antagonist? :: The character or force opposing the protagonist.
+What is a theme? :: The central message or idea about life in a story.
+What is point of view? :: The perspective from which a story is told (first, second, third person).
+What is a dynamic character? :: A character who changes during the story.
+What is a static character? :: A character who stays the same.
+What is foreshadowing? :: Hints about events to come.
+What is irony? :: A contrast between expectation and reality.
+
+## English Language Arts * | Novel Study
+What is characterization? :: How an author reveals a character's personality.
+What is direct characterization? :: The narrator states traits outright.
+What is indirect characterization? :: Traits revealed through actions, speech, thoughts and others' reactions.
+What is a subplot? :: A secondary storyline that supports the main plot.
+What is a motif? :: A recurring element that supports the theme.
+What is a symbol? :: An object or image that represents a deeper idea.
+What is tone? :: The author's attitude toward the subject.
+What is mood? :: The feeling the reader gets from the text.
+What is a narrator? :: The voice telling the story.
+What is an unreliable narrator? :: A narrator whose account cannot be fully trusted.
+What is a flashback? :: A scene showing earlier events.
+What is a coming-of-age novel? :: A story about a character growing from youth to adulthood.
+What is a thesis for a literary essay? :: A one-sentence claim about the text that your essay will prove.
+What is textual evidence? :: Quotes or details from the text used to support a point.
+
+## English Language Arts * | Poetry
+What is a stanza? :: A group of lines in a poem, like a paragraph.
+What is a rhyme scheme? :: The pattern of rhyming sounds at line ends (e.g. ABAB).
+What is free verse? :: Poetry with no regular rhyme or meter.
+What is a sonnet? :: A 14-line poem, often in iambic pentameter.
+What is a haiku? :: A three-line poem with 5-7-5 syllables.
+What is a simile? :: A comparison using "like" or "as".
+What is a metaphor? :: A direct comparison saying one thing is another.
+What is personification? :: Giving human traits to non-human things.
+What is alliteration? :: Repetition of beginning consonant sounds.
+What is onomatopoeia? :: A word that imitates a sound (buzz, crash).
+What is imagery? :: Language appealing to the senses.
+What is hyperbole? :: Deliberate exaggeration.
+What is enjambment? :: A line continuing into the next without punctuation.
+What is a ballad? :: A narrative poem often set to music.
+
+## English Language Arts * | Drama and Shakespeare
+What is a soliloquy? :: A speech where a character speaks thoughts aloud, alone on stage.
+What is an aside? :: A remark to the audience that other characters do not hear.
+What is dramatic irony? :: The audience knows something the characters do not.
+What are stage directions? :: Instructions in the script about action, setting and tone.
+What is a monologue? :: A long speech by one character to others.
+What is a tragedy? :: A drama in which the hero meets a disastrous end, often due to a flaw.
+What is a comedy? :: A drama that typically ends happily with confusion resolved.
+What is a tragic flaw? :: A character weakness that leads to downfall.
+What is iambic pentameter? :: A line of ten syllables in five unstressed-stressed pairs.
+What is blank verse? :: Unrhymed iambic pentameter.
+What is a foil? :: A character who contrasts with another to highlight traits.
+What is an act and a scene? :: Acts are major divisions of a play; scenes are smaller units within acts.
+In Romeo and Juliet, what is the feud? :: The Montagues and Capulets, whose conflict leads to the lovers' deaths.
+What is a pun? :: A play on words with double meaning.
+
+## English Language Arts * | Essay and Persuasive Writing
+What is a thesis statement? :: A sentence stating the main argument of an essay.
+What are the parts of an essay? :: Introduction, body paragraphs, conclusion.
+What is a topic sentence? :: The sentence stating the main idea of a paragraph.
+What is a hook? :: An opening that grabs the reader's attention.
+What does PEE or PEEL mean? :: Point, Evidence, Explanation (and Link).
+What is ethos? :: An appeal to credibility.
+What is pathos? :: An appeal to emotion.
+What is logos? :: An appeal to logic and facts.
+What is a counterargument? :: An opposing viewpoint addressed in an argument.
+What is a rebuttal? :: A response that disproves a counterargument.
+What is a transition? :: A word or phrase that links ideas (however, therefore).
+What makes a strong conclusion? :: It restates the thesis in new words and gives final insight.
+What is plagiarism? :: Using someone else's words or ideas without credit.
+What is the purpose of revising? :: To improve ideas, structure and clarity before editing.
+
+## English Language Arts * | Literary Devices and Analysis
+What is a metaphor vs a simile? :: Metaphor says one thing is another; simile compares using like or as.
+What is symbolism? :: Using objects or images to represent ideas.
+What is irony? :: A difference between what is expected and what happens.
+What are three types of irony? :: Verbal, situational and dramatic.
+What is an allusion? :: A reference to a well-known person, event or work.
+What is a paradox? :: A statement that seems contradictory but reveals truth.
+What is an oxymoron? :: Two contradictory words together (deafening silence).
+What is an analogy? :: A comparison explaining one idea by another.
+What is diction? :: An author's word choice.
+What is syntax? :: The arrangement of words in sentences.
+What is repetition's effect? :: It emphasizes an idea or creates rhythm.
+What is juxtaposition? :: Placing two contrasting things together to highlight differences.
+What is a motif? :: A recurring image or idea in a work.
+What is allegory? :: A story whose characters and events represent deeper ideas.
+
+## English Language Arts * | Grammar and Language Conventions
+What is a noun? :: A word naming a person, place, thing or idea.
+What is a verb? :: A word showing action or state of being.
+What is an adjective? :: A word describing a noun.
+What is an adverb? :: A word that modifies a verb, adjective or another adverb.
+What is a pronoun? :: A word that replaces a noun.
+What is a conjunction? :: A word that joins words or clauses (and, but, because).
+What is a complete sentence? :: A group of words with a subject and a verb expressing a complete thought.
+What is a run-on sentence? :: Two independent clauses joined without proper punctuation.
+What is a sentence fragment? :: An incomplete sentence missing a subject or verb.
+When do you use a semicolon? :: To join two closely related independent clauses.
+What is the difference between "its" and "it's"? :: "Its" shows possession; "it's" means "it is".
+What is the difference between "their", "there" and "they're"? :: Their = possession; there = place; they're = they are.
+What is subject-verb agreement? :: The verb must match the subject in number.
+What is a comma splice? :: Joining two independent clauses with only a comma.
+
+## English Language Arts * | Media and Visual Literacy
+What is media literacy? :: The ability to analyze and evaluate media messages.
+What is a target audience? :: The group a message is designed to reach.
+What is bias? :: A one-sided preference or prejudice.
+What is propaganda? :: Messages designed to influence beliefs, often misleading.
+What is a stereotype? :: An oversimplified idea about a group.
+What is the purpose of an advertisement? :: To persuade people to buy a product or idea.
+What is a logo? :: A symbol that identifies a brand.
+What does "framing" mean in an image? :: What is included or excluded in the shot.
+What is a slogan? :: A short catchy phrase promoting a product or cause.
+What is fake news? :: False information presented as real news.
+How do you check if a source is reliable? :: Check the author, date, evidence, purpose and other sources.
+What is a camera angle's effect? :: Low angles make subjects powerful; high angles make them small.
+What is colour symbolism? :: Colours convey meaning (red for danger or passion).
+What is a purpose of a political cartoon? :: To comment on current events using symbolism, exaggeration and humour.

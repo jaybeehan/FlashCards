@@ -1,0 +1,358 @@
+## Mathematics 30-1 | Transformations of Functions
+Describe y = f(x + 3). :: Shift f left 3 units.
+Describe y = f(x) - 2. :: Shift f down 2 units.
+Describe y = 3f(x). :: Vertical stretch by a factor of 3.
+Describe y = f(2x). :: Horizontal compression by a factor of 1/2.
+Describe y = f(x/2). :: Horizontal stretch by a factor of 2.
+Describe y = -f(x). :: Reflection in the x-axis.
+Where does the point (4, 6) go under y = f(-x)? :: (-4, 6)
+Where does (2, 5) go under y = 2f(x) + 1? :: (2, 11)
+Where does (6, 3) go under y = f(2x)? :: (3, 3)
+What is the mapping notation for y = f(x - 2) + 3? :: (x, y) -> (x + 2, y + 3)
+What is an invariant point? :: A point that does not change under a transformation.
+When is a function its own inverse? :: When it is symmetric about y = x, like f(x) = 1/x.
+Find the inverse of f(x) = 2x + 6. :: f^-1(x) = (x - 6)/2
+Is f(x) = x^2 one-to-one over all reals? :: No - it fails the horizontal line test.
+What restriction makes x^2 invertible? :: Restrict the domain to x >= 0 (or x <= 0).
+What is the effect of a < 0? :: A vertical reflection in the x-axis (plus stretch of |a|).
+Combine: y = -2f(x - 1) describes what? :: Reflect in x-axis, stretch vertically by 2, shift right 1.
+What is the order of transformations? :: Stretches and reflections first, then translations.
+
+## Mathematics 30-1 | Radical Functions
+What is the domain of y = sqrt(2x + 6)? :: x >= -3
+What is the range of y = sqrt(x) + 3? :: y >= 3
+What is the domain of y = -sqrt(x - 1)? :: x >= 1
+What is the range of y = -sqrt(x - 1)? :: y <= 0
+Find the inverse of y = x^2 - 4 for x >= 0. :: y = sqrt(x + 4)
+How does y = sqrt(-x) differ from y = sqrt(x)? :: It is reflected in the y-axis (domain x <= 0).
+Solve: sqrt(2x - 3) = 5 :: x = 14
+Solve: sqrt(x + 7) = x + 1 :: x = 2 (x = -3 is extraneous).
+Solve: sqrt(x) + 3 = 0 :: No solution (a square root is never negative).
+What is the x-intercept of y = sqrt(x - 4) - 1? :: x = 5
+What is the y-intercept of y = sqrt(x + 9)? :: 3
+How do you graph y = sqrt(x - 2)? :: Shift the parent sqrt(x) graph right 2.
+What is the key starting point of y = sqrt(x - h) + k? :: (h, k)
+What happens when a radical equation is squared incorrectly? :: Extraneous solutions can appear; always verify.
+Can a radical function with even index have negative values inside? :: No - the radicand must be >= 0 for real outputs.
+Express the radical function y = sqrt(4x) in simpler form. :: y = 2 sqrt(x)
+
+## Mathematics 30-1 | Polynomial Functions
+Find P(2) if P(x) = x^3 - 3x + 1. :: 3
+Is (x + 1) a factor of x^3 + 1? :: Yes, since P(-1) = 0.
+Find the remainder of x^2 + 3x + 2 divided by x - 1. :: 6
+Factor: x^3 - 6x^2 + 11x - 6 :: (x - 1)(x - 2)(x - 3)
+Factor: x^3 + 27 :: (x + 3)(x^2 - 3x + 9)
+What does a factor of (x - 2)^2 mean for the graph? :: It touches the x-axis at 2 and turns.
+What does a factor of (x - 2)^3 mean? :: The graph flattens as it crosses the axis at 2.
+How many turning points can a degree-n polynomial have? :: At most n - 1.
+What is the end behaviour of y = -x^4? :: Falls on both ends.
+What is the end behaviour of y = -x^3? :: Rises to the left, falls to the right.
+What is the degree of y = (x - 1)^2 (x + 3)? :: 3
+What are the possible rational zeros of x^3 - 2x + 6? :: +/-1, +/-2, +/-3, +/-6
+Solve: x^3 - x = 0 :: x = 0, 1, -1
+What is the maximum number of real zeros of a cubic? :: 3
+Use synthetic division: (x^2 + 5x + 6) / (x + 2) :: x + 3
+What does the sign of the leading coefficient tell you? :: The direction of the right-hand end behaviour.
+What is an even function? :: One symmetric about the y-axis: f(-x) = f(x).
+What is an odd function? :: One symmetric about the origin: f(-x) = -f(x).
+
+## Mathematics 30-1 | Trigonometric Functions
+Period of y = cos(3x)? :: 2 pi / 3 (120 degrees).
+Amplitude of y = -4 sin x? :: 4
+Midline of y = 2 sin x - 3? :: y = -3
+Range of y = 3 sin x + 1? :: -2 <= y <= 4
+Phase shift of y = sin(x - pi/4)? :: pi/4 to the right.
+What is the period of y = tan(2x)? :: pi / 2
+Where are the vertical asymptotes of y = tan x? :: x = pi/2 + n pi.
+Solve cos x = 0 for 0 <= x < 2 pi. :: x = pi/2 and 3 pi/2.
+Solve sin x = -1/2 for 0 <= x < 2 pi. :: x = 7 pi/6 and 11 pi/6.
+Exact value of tan(pi/3)? :: sqrt(3)
+Exact value of sec(pi/3)? :: 2
+Exact value of csc(pi/6)? :: 2
+Exact value of cot(pi/4)? :: 1
+Identity: sin^2 x + cos^2 x = ? :: 1
+Identity: 1 + tan^2 x = ? :: sec^2 x
+Double angle: cos 2x = ? :: cos^2 x - sin^2 x (also 1 - 2 sin^2 x or 2 cos^2 x - 1).
+Sum formula: sin(A + B) = ? :: sin A cos B + cos A sin B
+Sum formula: cos(A + B) = ? :: cos A cos B - sin A sin B
+A Ferris wheel has radius 10 m and center 12 m up. What is its max height? :: 22 m.
+What is the general form of a cosine model? :: y = a cos(b(x - c)) + d
+
+## Mathematics 30-1 | Exponential and Logarithmic Functions
+Evaluate: log_3(81) :: 4
+Evaluate: log_5(1) :: 0
+Evaluate: log_2(1/8) :: -3
+Evaluate: log(1000) :: 3
+Evaluate: ln(e) :: 1
+Write log_b(m) = n in exponential form. :: b^n = m
+Write 2^5 = 32 in log form. :: log_2(32) = 5
+Simplify: log 6 + log 5 - log 3 :: log 10 = 1
+Simplify: 3 log_2(x) :: log_2(x^3)
+Solve: 4^(x) = 8 :: x = 3/2
+Solve: 5^(x + 1) = 125 :: x = 2
+Solve: log_2(x) = 5 :: x = 32
+Solve: log(x) + log(x - 3) = 1 :: x(x - 3) = 10, so x = 5.
+A population doubles every 3 years from 200. Write the model. :: P = 200(2)^(t/3)
+How long for money to double at 6% compounded annually? :: t = log 2 / log 1.06, about 11.9 years.
+What is the domain of y = log(x)? :: x > 0
+What is the vertical asymptote of y = log(x)? :: x = 0
+What is the y-intercept of y = 3^x? :: 1
+What is the natural logarithm base e? :: About 2.718.
+Decibel and pH are examples of what scale? :: Logarithmic scales.
+
+## Mathematics 30-1 | Rational Functions
+Find the vertical asymptote of y = 3/(x + 4). :: x = -4
+Find the horizontal asymptote of y = 5x/(x - 2). :: y = 5
+Find the hole in y = (x^2 - 4)/(x - 2). :: At x = 2, y = 4.
+Find the x-intercept of y = (x - 3)/(x + 1). :: x = 3
+Find the y-intercept of y = (x + 2)/(x - 4). :: -1/2
+What is the slant asymptote of y = (x^2 + 1)/x? :: y = x
+Domain of y = (x + 1)/(x^2 - 9)? :: x not equal to 3 or -3.
+How do you graph y = 1/(x - 2) + 3? :: Shift y = 1/x right 2 and up 3.
+What is the vertical asymptote of y = 1/(x - 2) + 3? :: x = 2
+What is the horizontal asymptote of y = 1/(x - 2) + 3? :: y = 3
+Solve: 1/(x - 1) = 2 :: x = 3/2
+Solve: x/(x + 2) = 1/2 :: x = 2
+What does the graph do near a vertical asymptote? :: It approaches positive or negative infinity.
+Is y = 1/x odd or even? :: Odd (symmetric about the origin).
+How can you find horizontal asymptotes of a rational function? :: Compare the degrees of the numerator and denominator.
+What is a point of discontinuity? :: A hole where the function is undefined but the rest is continuous.
+
+## Mathematics 30-1 | Function Operations
+If f(x) = x + 1 and g(x) = x^2, find (f + g)(2). :: 3 + 4 = 7
+Find (f g)(3) if f(x) = x - 1 and g(x) = x + 2. :: (2)(5) = 10
+Find (f o g)(x) if f(x) = x^2 and g(x) = x + 1. :: (x + 1)^2
+Find (g o f)(x) if f(x) = x^2 and g(x) = x + 1. :: x^2 + 1
+Find f(g(2)) if f(x) = 3x and g(x) = x - 1. :: 3
+What is the domain of (f/g)(x)? :: Common domain with g(x) not equal to 0.
+Find the domain of f(x) = sqrt(x) + 1/(x - 3). :: x >= 0 and x not 3.
+Find (f - g)(x) if f = 5x and g = 2x - 1. :: 3x + 1
+If f(x) = 2x + 3, find f^-1(x). :: (x - 3)/2
+Verify: f(f^-1(x)) for f(x) = 2x + 3. :: 2((x - 3)/2) + 3 = x.
+What does (f o f)(x) mean? :: f applied twice.
+Can you evaluate f(g(x)) if g(x) is outside the domain of f? :: No.
+What is the graph of (f + g) at a point? :: The sum of the y-values of f and g.
+What does f(g(x)) = x tell you about f and g? :: They are inverses.
+Why is composition not commutative? :: f(g(x)) and g(f(x)) usually give different results.
+If f(x) = x^2 and g(x) = 1/x, find (f o g)(x). :: 1/x^2
+
+## Mathematics 30-1 | Permutations, Combinations and Binomial Theorem
+How many ways to arrange 6 people in a line? :: 720
+How many 4-digit codes using digits 0-9 with repeats? :: 10^4 = 10 000
+How many 4-digit codes with no repeats? :: 10P4 = 5040
+How many ways to pick 2 captains from 10 players? :: 10C2 = 45
+How many arrangements of the letters in BANANA? :: 6!/(3! 2!) = 60
+How many ways to seat 5 people at a round table? :: (5 - 1)! = 24
+Find the 3rd term of (x + 2)^5. :: 5C2 x^3 (2)^2 = 40x^3.
+Find the sum of the coefficients in (x + 1)^6. :: 64
+What is nCr when r = 0? :: 1
+What is nCr when r = n? :: 1
+Why is nCr = nC(n - r)? :: Choosing r items to take is the same as choosing n - r to leave.
+Expand (a + b)^2. :: a^2 + 2ab + b^2
+Expand (x - 1)^3. :: x^3 - 3x^2 + 3x - 1
+How many committees of 2 women and 3 men from 5 women and 6 men? :: 5C2 x 6C3 = 10 x 20 = 200.
+How many ways can 3 books be chosen from 7? :: 35
+What is Pascal's triangle rule? :: Each entry is the sum of the two above it.
+If order matters, use? :: A permutation.
+How many ways to arrange 3 of 8 trophies on a shelf? :: 8P3 = 336
+
+## Mathematics 30-2 | Logic and Set Theory
+If A = {1, 2, 3} and B = {3, 4}, find A union B. :: {1, 2, 3, 4}
+Find A intersect B for the same sets. :: {3}
+If U = {1, ..., 5} and A = {2, 4}, find A'. :: {1, 3, 5}
+How many subsets does a set with 3 elements have? :: 8
+What is a proper subset? :: A subset that is not equal to the whole set.
+Write "x is not in A." :: x not in A
+What is the inverse of "if p then q"? :: If not p, then not q.
+What is the converse of "if it is a square, it is a rectangle"? :: If it is a rectangle, it is a square (false).
+Truth value of "2 + 2 = 5 or 3 > 1"? :: True (an OR is true if either part is true).
+Truth value of "2 + 2 = 5 and 3 > 1"? :: False (AND requires both).
+What is a tautology? :: A statement that is always true.
+What is De Morgan's law? :: (A union B)' = A' intersect B' and (A intersect B)' = A' union B'.
+In a group of 40, 25 like tea, 20 like coffee, 8 like both. How many like neither? :: 40 - (25 + 20 - 8) = 3.
+What is the symbol for disjoint sets? :: A intersect B = empty set.
+What does a Venn diagram with three circles show? :: Relationships among three sets.
+What is a universal quantifier? :: "For all", e.g. all squares have four sides.
+What is an existential quantifier? :: "There exists", e.g. there exists an even prime.
+What does "if and only if" mean? :: Both directions are true.
+
+## Mathematics 30-2 | Probability
+Probability of rolling a number less than 3? :: 2/6 = 1/3
+Probability of drawing an ace then a king (no replacement)? :: (4/52)(4/51) = 4/663
+Probability of at least one head in 3 flips? :: 1 - 1/8 = 7/8
+If P(A) = 0.3 and P(B) = 0.5 and independent, P(A and B)? :: 0.15
+If P(A) = 0.4 and P(B) = 0.3 and mutually exclusive, P(A or B)? :: 0.7
+P(B | A) formula? :: P(A and B) / P(A)
+Find 9C3. :: 84
+Find 7P3. :: 210
+How many ways to choose 5 cards from 52? :: 52C5 = 2 598 960
+What are odds against an event? :: unfavourable : favourable
+Odds in favour of rolling a 5 on a die? :: 1 : 5
+What is a tree diagram? :: A diagram showing all outcomes of multi-step events.
+What is the Fundamental Counting Principle for 3 outfits and 4 hats? :: 12 combinations.
+P(not A) = ? :: 1 - P(A)
+What does "with replacement" mean? :: The item is returned, so probabilities stay the same each draw.
+Probability of drawing two red marbles (4 red, 6 blue) without replacement? :: (4/10)(3/9) = 2/15
+
+## Mathematics 30-2 | Rational Expressions and Equations
+Simplify: (x^2 - 4x) / x :: x - 4
+Simplify: (x^2 - 9) / (x^2 - 6x + 9) :: (x + 3)/(x - 3)
+Add: 1/(x + 1) + 1/(x - 1) :: 2x / (x^2 - 1)
+Multiply: (x/(x + 2)) x ((x + 2)/(x^2)) :: 1/x
+Solve: 5/(x - 3) = 2 :: x = 11/2
+Solve: 1/x - 1/(x + 1) = 1/6 :: x^2 + x - 6 = 0, so x = 2 (or -3).
+Solve: (2x)/(x - 1) = 3 :: x = 3
+What are non-permissible values of 1/((x + 2)(x - 5))? :: x = -2 and 5
+What happens if a solution equals a non-permissible value? :: It must be rejected.
+Simplify: (6x^3)/(3x) :: 2x^2
+Find the LCD for 1/(x - 2) and 1/(x^2 - 4). :: (x - 2)(x + 2)
+Simplify: (x^2 + x - 6)/(x + 3) :: x - 2
+Divide: (x + 1)/x by (x + 1)/x^2 :: x
+Solve: x/(x + 1) + 1/(x + 1) = 1 :: x + 1 = x + 1; true for all x not equal to -1.
+Why do we write restrictions? :: To exclude values that make a denominator zero.
+Solve the work problem: Alice 4 h, Bob 12 h. Together? :: 3 hours.
+
+## Mathematics 30-2 | Polynomial Functions
+Find P(-1) for P(x) = x^3 + 2x^2 - 1. :: 0
+Is (x - 1) a factor of x^3 - x? :: Yes - P(1) = 0.
+Factor: x^3 - 4x :: x(x - 2)(x + 2)
+Factor: x^3 + 5x^2 + 6x :: x(x + 2)(x + 3)
+Find the zeros of y = x(x - 4)(x + 1). :: 0, 4, -1
+What is the degree of y = 3x^5 - 2x? :: 5
+What is the leading coefficient of y = -2x^4 + 7? :: -2
+What is the end behaviour of y = x^4? :: Rises on both ends.
+End behaviour of y = -x^3? :: Rises to the left, falls to the right.
+What is a turning point? :: A point where the graph changes from increasing to decreasing, or the reverse.
+How many x-intercepts can a cubic function have? :: 1, 2 or 3.
+What is the y-intercept of y = (x - 2)(x + 3)(x - 1)? :: 6
+Describe y = (x - 1)^2 (x + 2) at x = 1. :: The graph touches the axis and turns.
+What does P(2) = 0 tell you? :: x = 2 is a zero; (x - 2) is a factor.
+How can a graphing tool help with polynomials? :: It finds zeros and turning points approximately.
+Which is a polynomial: y = x^-1 or y = x^2? :: y = x^2 (exponents must be whole numbers).
+
+## Mathematics 30-2 | Exponential and Logarithmic Functions
+Evaluate: log_2(16) :: 4
+Evaluate: log_4(2) :: 1/2
+Evaluate: log 0.01 :: -2
+Solve: 2^x = 64 :: x = 6
+Solve: 3^(2x) = 81 :: x = 2
+Solve: 10^x = 50 :: x = log 50, about 1.70.
+Solve: log_3(x) = 2 :: x = 9
+Simplify: log 4 + log 25 :: log 100 = 2
+Simplify: log_2(32) - log_2(4) :: 3
+Population: P = 500(1.04)^t. What is the annual growth rate? :: 4%
+Decay: A = 80(0.5)^(t/10). What is the half-life? :: 10 units of time.
+What is the y-intercept of y = 5(2)^x? :: 5
+What is the horizontal asymptote of y = 3^x - 4? :: y = -4
+How do you convert log_5(20) to a calculator expression? :: log 20 / log 5
+What is the domain of y = log_2(x - 3)? :: x > 3
+What is an exponential model for doubling every 5 years from 50? :: y = 50(2)^(t/5)
+What is the inverse of y = 2^x? :: y = log_2(x)
+
+## Mathematics 30-2 | Sinusoidal Functions
+What is the amplitude of y = 4 sin x? :: 4
+What is the period of y = sin(3x) in degrees? :: 120 degrees
+What is the midline of y = sin x + 2? :: y = 2
+What is the maximum value of y = 3 cos x + 1? :: 4
+What is the minimum value of y = 3 cos x + 1? :: -2
+What is the phase shift of y = sin(x - 30 degrees)? :: 30 degrees right.
+How do you find amplitude from max and min? :: (max - min) / 2
+How do you find the midline from max and min? :: (max + min) / 2
+Which function starts at a maximum when x = 0? :: Cosine.
+What is the period of y = cos x in radians? :: 2 pi
+What is the equation for a sine wave with amplitude 2, period 360 and midline 1? :: y = 2 sin x + 1
+Sketch features of y = sin x: where are zeros? :: At 0, 180 and 360 degrees.
+Where does y = sin x reach its max? :: At 90 degrees (pi/2).
+Real-life: a tide moves from 1 m to 5 m every 12 h. Amplitude and period? :: Amplitude 2 m, period 12 h.
+What is frequency in terms of period? :: Frequency = 1 / period.
+How does changing b affect a sine graph? :: It changes the period (horizontal compression or stretch).
+
+## Mathematics 30-3 | Algebra and Number
+Solve: 3x - 7 = 11 :: x = 6
+Solve: 2x^2 = 50 :: x = 5 or -5.
+Evaluate: 4^(1/2) :: 2
+Evaluate: 2^(-1) :: 1/2
+Simplify: (x^3)(x^4) :: x^7
+Simplify: x^8 / x^3 :: x^5
+Write 0.00032 in scientific notation. :: 3.2 x 10^-4
+Evaluate: 8 - 3(2 + 1) :: -1
+Factor: x^2 + 5x + 6 :: (x + 2)(x + 3)
+Solve: x^2 - 9 = 0 :: x = 3 or -3.
+Solve for y: 3x + y = 9 :: y = 9 - 3x
+Express 40% as a fraction. :: 2/5
+Find 35% of 120. :: 42
+What is a variable? :: A letter standing for an unknown or changing number.
+What is a coefficient? :: The number multiplying a variable.
+What is an equation? :: A statement that two expressions are equal.
+
+## Mathematics 30-3 | Trigonometry
+Find the missing side: hyp = 20, angle = 30 degrees, opposite side? :: 10
+Find angle A if cos A = 0.5. :: 60 degrees
+Use the sine law: a/sin 30 = 10/sin 60. Find a. :: About 5.8.
+Use the cosine law: a = 7, b = 9, C = 90 degrees. Find c. :: sqrt(130), about 11.4.
+What is the area of a triangle with sides 6 and 8, included angle 30 degrees? :: 12
+What is a bearing of 090 degrees? :: East.
+What is a bearing of 180 degrees? :: South.
+A boat sails 10 km at bearing 060. How far north has it travelled? :: 10 cos 60 = 5 km.
+What is a quadrant I angle? :: An angle between 0 and 90 degrees.
+What is an angle of depression of 20 degrees from a 50 m cliff? :: Horizontal distance 50 / tan 20, about 137 m.
+What is the exact value of sin 45 degrees? :: sqrt(2)/2
+How do you find the third angle in a triangle? :: 180 minus the other two.
+Which law handles two sides and the included angle? :: The cosine law.
+Which law handles two angles and a side? :: The sine law.
+What do you call a triangle with no right angle? :: An oblique triangle.
+What is the Pythagorean theorem used for? :: Finding a side in a right triangle.
+
+## Mathematics 30-3 | Statistics and Probability
+What is the formula for standard deviation's idea? :: Typical distance of values from the mean.
+What is a normal distribution? :: A symmetric bell-shaped distribution.
+What percent lies within 2 SD of the mean? :: About 95%.
+A score is 1.5 SD above the mean; z-score? :: 1.5
+What is probability of an event that cannot happen? :: 0
+What is the probability that a die shows an even number? :: 1/2
+How many arrangements of 3 books from 6? :: 6P3 = 120
+How many groups of 2 from 7? :: 7C2 = 21
+What is a conditional probability? :: The chance of an event given another has occurred.
+What is expected value? :: The long-run average outcome of a random process.
+Expected value of a game that pays $10 with probability 0.2? :: $2
+What is margin of error? :: The +/- uncertainty in a survey result.
+What is a confidence level? :: How sure we are that the interval contains the true value.
+What is a random variable? :: A variable whose value depends on chance.
+What does independence mean? :: One event does not change the other's probability.
+What is a sample size's effect on accuracy? :: Larger samples give more accurate estimates.
+
+## Mathematics 30-3 | Financial Mathematics
+Find the simple interest on $2000 at 4% for 3 years. :: $240
+Find the amount after 2 years at 5% compounded annually on $1000. :: $1102.50
+What is a credit report? :: A record of your borrowing and repayment history.
+What is the difference between a fixed and a variable rate? :: Fixed stays constant; variable changes with the market.
+What is a term deposit/GIC? :: An investment that locks money for a set term at a set interest.
+What is a mortgage amortization? :: The schedule of paying off the loan over time.
+What does "principal" mean on a loan? :: The amount borrowed.
+What is a lease? :: An agreement to pay to use something for a time.
+What is depreciation? :: Loss in value of an asset over time, like a car.
+What is inflation's effect on savings? :: It reduces the purchasing power of money.
+What is the rule of 72? :: Years to double is about 72 divided by the interest rate.
+What is net worth? :: Assets minus liabilities.
+What is a liability? :: Something you owe, like a loan.
+What is an asset? :: Something of value you own.
+How do you compare two loans fairly? :: Compare total cost of borrowing, not just monthly payment.
+Why start saving early? :: Compound growth has more time to work.
+
+## Mathematics 30-3 | Linear and Non-linear Relations
+What is the vertex of y = (x - 2)^2 + 1? :: (2, 1)
+Is y = 3x + 2 linear? :: Yes.
+Is y = x^2 + 1 linear? :: No, it's quadratic.
+What is the form of an exponential function? :: y = a b^x
+What happens to y = 2^x as x increases? :: It grows faster and faster.
+What is the slope between (1, 2) and (3, 8)? :: 3
+How can you tell exponential decay? :: The base b is between 0 and 1.
+What is a quadratic regression? :: Fitting a parabola to data.
+What is a correlation coefficient? :: A number between -1 and 1 showing the strength of a linear relationship.
+What does r close to 1 mean? :: A strong positive linear relationship.
+What does r close to 0 mean? :: Little or no linear relationship.
+Why extrapolation is risky? :: Trends may not continue beyond the data.
+What is a residual? :: The difference between an actual value and the model's prediction.
+What are the x-intercepts of y = x^2 - 4? :: 2 and -2
+What is a curve of best fit? :: A curve that best represents a trend in data.
+What is the doubling time of y = 100(2)^(t/3)? :: 3 time units.

@@ -1,0 +1,14 @@
+# Image / patient data
+*.dcm
+data/
+test_data/
+
+# Python
+__pycache__/
+*.pyc
+
+# MATLAB autosaves
+*.asv
+
+# Comparison outputs
+outputs/

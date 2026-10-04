@@ -1,0 +1,351 @@
+## Science 30 | Living Systems Respond to their Environment
+What are the parts of a neuron? :: Dendrites, cell body, axon and axon terminals.
+What is a neurotransmitter? :: A chemical that carries a signal across a synapse.
+What is a sensory neuron? :: A neuron carrying information from receptors to the brain or spinal cord.
+What is a motor neuron? :: A neuron carrying commands from the CNS to muscles or glands.
+What is the central nervous system? :: The brain and spinal cord.
+What is the peripheral nervous system? :: Nerves outside the brain and spinal cord.
+What does the pituitary gland do? :: Releases hormones that control other glands.
+What does the thyroid do? :: Regulates metabolism with thyroxine.
+What does adrenaline do? :: Prepares the body for fight or flight.
+What causes Type 1 diabetes? :: The pancreas fails to make insulin.
+What is DNA replication? :: Copying of DNA before cell division.
+What is a recessive allele? :: An allele expressed only when two copies are present.
+What is a pedigree? :: A diagram showing the inheritance of a trait in a family.
+What is a carrier? :: A person who has one copy of a recessive allele but shows no symptoms.
+What is cystic fibrosis? :: A recessive genetic disorder affecting the lungs and digestion.
+What is gene therapy? :: Treating disease by altering genes.
+What is a stem cell? :: A cell that can develop into many cell types.
+What is an antibody? :: A protein made by the immune system to target a specific antigen.
+What is an antigen? :: A substance that triggers an immune response.
+What is the difference between active and passive immunity? :: Active: your body makes antibodies. Passive: you receive them.
+
+## Science 30 | Chemistry and the Environment
+What is a hydrocarbon? :: A compound containing only carbon and hydrogen.
+What is the formula for methane? :: CH4
+What is the formula for propane? :: C3H8
+What is crude oil? :: A mixture of hydrocarbons.
+What is fractional distillation? :: Separating crude oil into parts by boiling points.
+What is cracking? :: Breaking large hydrocarbons into smaller, more useful molecules.
+What is incomplete combustion? :: Burning with limited oxygen that produces CO and soot.
+Why is carbon monoxide dangerous? :: It binds hemoglobin and prevents oxygen transport.
+What is a catalytic converter? :: A device that changes harmful exhaust gases into less harmful ones.
+What are VOCs? :: Volatile organic compounds that evaporate and form smog.
+What is ground-level ozone? :: A pollutant formed by reactions of vehicle emissions in sunlight.
+What causes ozone depletion? :: Chemicals like CFCs releasing chlorine in the stratosphere.
+What is the Montreal Protocol? :: An international treaty to phase out ozone-depleting substances.
+What is a biodegradable material? :: A material broken down by living organisms.
+What is a landfill leachate? :: Contaminated liquid draining from waste.
+What is recycling's main benefit? :: It saves resources and energy and reduces waste.
+What is a heavy metal pollutant? :: A toxic metal like lead or mercury.
+What is water treatment? :: Removing contaminants to make water safe.
+What is a biofuel? :: Fuel made from living matter, like ethanol.
+What is a lifecycle analysis? :: Evaluating a product's environmental impact from production to disposal.
+
+## Science 30 | Electromagnetic Energy
+What is the frequency of a wave with wavelength 3 m? :: f = (3 x 10^8) / 3 = 1 x 10^8 Hz.
+What type of EM wave is used in microwaves ovens? :: Microwaves.
+What type of EM wave do remote controls use? :: Infrared.
+Which EM waves are used in medical imaging of bones? :: X-rays.
+What is a wave's amplitude in light? :: Related to brightness.
+What is a concave mirror? :: A mirror that curves inward and can converge light.
+What is a convex mirror? :: A mirror that curves outward and spreads light, giving a wide view.
+What is total internal reflection? :: Light reflecting completely inside a medium at a boundary.
+What is an optical fibre? :: A glass thread that carries light signals by total internal reflection.
+What is Snell's law? :: n1 sin(theta1) = n2 sin(theta2)
+What is the index of refraction? :: The ratio of the speed of light in a vacuum to that in a material.
+What are the primary colours of light? :: Red, green and blue.
+What is polarization? :: Restricting light waves to a single plane of vibration.
+What is a generator? :: A device that converts motion into electricity.
+What is an electromagnet? :: A magnet created by current in a coil of wire.
+What is a motor? :: A device that converts electrical energy to mechanical energy.
+What is AC? :: Alternating current that changes direction.
+What is DC? :: Direct current that flows in one direction.
+What is a step-up transformer? :: One that increases voltage and has more turns in the secondary coil.
+Why is power transmitted at high voltage? :: To reduce energy lost as heat in the wires.
+
+## Science 30 | Energy and the Environment
+What is nuclear energy's main advantage? :: It produces large power with no CO2 emissions.
+What is nuclear waste's main problem? :: It stays radioactive for thousands of years.
+What is a CANDU reactor? :: A Canadian nuclear reactor design using heavy water.
+What is a fuel cell? :: A device that produces electricity from hydrogen and oxygen, giving water.
+What is hydroelectric power? :: Electricity from the energy of flowing water.
+What is geothermal energy? :: Energy from the heat inside Earth.
+What is biomass energy? :: Energy from burning or converting organic matter.
+What is a solar cell? :: A device converting sunlight directly into electricity.
+What is the efficiency of a typical solar panel? :: About 15-22%.
+What is energy conservation? :: Using less energy through behaviours or technology.
+What is cogeneration? :: Producing electricity and useful heat from the same fuel.
+What are fossil fuel advantages? :: Dense energy, established infrastructure, low cost.
+What are fossil fuel disadvantages? :: Greenhouse gas emissions and finite supply.
+What is peak oil? :: The point at which oil production reaches its maximum.
+What is a carbon tax? :: A fee on carbon emissions to encourage lower use of fossil fuels.
+What is energy storage's challenge for wind and solar? :: They are intermittent and need batteries or other storage.
+What is a nuclear chain reaction? :: Neutrons from fission trigger more fissions.
+What does a control rod do? :: It absorbs neutrons to slow the reaction.
+What is radiation shielding? :: Material like concrete or lead that blocks radiation.
+What is sustainable energy? :: Energy that can meet needs without harming the future.
+
+## Biology 30 | Nervous and Endocrine Systems
+What is the function of dendrites? :: To receive signals from other neurons.
+What is the function of the axon? :: To carry signals away from the cell body.
+What is saltatory conduction? :: Nerve impulses jumping between nodes of Ranvier in myelinated neurons.
+What ions are involved in an action potential? :: Na+ and K+.
+What is the threshold? :: The minimum stimulus needed to trigger an action potential.
+What is the all-or-none principle? :: A neuron either fires fully or not at all.
+What is the refractory period? :: A brief time after firing when a neuron cannot fire again.
+What does acetylcholine do? :: A neurotransmitter that triggers muscle contraction.
+What is the cerebrum's role? :: Thinking, memory, voluntary action.
+What is the cerebellum's role? :: Balance and coordination.
+What does the medulla oblongata control? :: Breathing and heart rate.
+What does the hypothalamus do? :: Regulates body temperature, hunger and links nervous and endocrine systems.
+What is the sympathetic nervous system? :: It prepares the body for fight or flight.
+What is the parasympathetic nervous system? :: It promotes rest and digest.
+What is a hormone? :: A chemical messenger produced by an endocrine gland.
+What does thyroxine do? :: Regulates metabolic rate.
+What does cortisol do? :: A stress hormone that raises blood sugar.
+What is Type 2 diabetes? :: Cells respond poorly to insulin.
+What is a feedback loop in hormones? :: A system where hormone levels regulate their own release.
+What is the role of the parathyroid? :: Controls blood calcium via PTH.
+
+## Biology 30 | Reproductive Systems and Development
+What does the epididymis do? :: Stores and matures sperm.
+What does the vas deferens do? :: Carries sperm from the epididymis toward the urethra.
+What do seminal vesicles contribute? :: Fluid containing fructose for sperm energy.
+What is the function of the prostate gland? :: Adds fluid to semen.
+Where does fertilization normally occur? :: In the fallopian (uterine) tube.
+What is the endometrium? :: The lining of the uterus.
+What is ovulation? :: Release of a mature egg from the ovary.
+What is the corpus luteum? :: The structure left after ovulation that secretes progesterone.
+What does estrogen do? :: Builds the uterine lining and drives female characteristics.
+What does progesterone do? :: Maintains the uterine lining.
+What triggers menstruation? :: A drop in progesterone and estrogen levels.
+What is a blastocyst? :: An early embryo stage, a hollow ball of cells, that implants.
+What is the amnion? :: The membrane enclosing the fetus in fluid.
+What is the umbilical cord? :: The tube connecting the fetus and placenta.
+What is parturition? :: Childbirth.
+What hormone stimulates contractions in labour? :: Oxytocin.
+What hormone stimulates milk production? :: Prolactin.
+What is gastrulation? :: The formation of the three germ layers.
+What is a teratogen? :: A substance that can harm fetal development.
+What is a method of contraception? :: Barrier methods, hormonal methods, or abstinence, for example.
+
+## Biology 30 | Cell Division, Genetics and Molecular Biology
+What is a haploid cell? :: A cell with one set of chromosomes.
+What is a diploid cell? :: A cell with two sets of chromosomes.
+How many chromosomes are in a human gamete? :: 23
+What is a karyotype? :: A picture of a person's chromosomes arranged in pairs.
+What is a sex-linked trait? :: A trait carried on a sex chromosome, often the X.
+Why are X-linked recessive disorders more common in males? :: Males have only one X chromosome.
+What is incomplete dominance? :: A blend of alleles in the heterozygote (e.g. pink flowers).
+What is codominance? :: Both alleles are fully expressed (e.g. AB blood type).
+What are the human blood type alleles? :: I^A, I^B and i.
+What is a test cross? :: Crossing an unknown dominant phenotype with a homozygous recessive.
+What is the central dogma? :: DNA -> RNA -> protein.
+What is a codon? :: A group of three mRNA bases that codes for one amino acid.
+What is an anticodon? :: A three-base sequence on tRNA that pairs with a codon.
+What is the start codon? :: AUG
+What is a point mutation? :: A change in a single DNA base.
+What is a frameshift mutation? :: An insertion or deletion that shifts the reading frame.
+What is PCR? :: A technique that copies DNA many times.
+What is gel electrophoresis? :: A method to separate DNA fragments by size.
+What is a restriction enzyme? :: An enzyme that cuts DNA at specific sequences.
+What is a recombinant DNA? :: DNA combined from two different sources.
+
+## Biology 30 | Population Dynamics
+What is the formula for population growth rate? :: (births - deaths + immigration - emigration) / initial population.
+What is a pioneer species? :: The first species to colonize bare habitat.
+What is intraspecific competition? :: Competition among members of the same species.
+What is interspecific competition? :: Competition between different species.
+What is a limiting factor example? :: Food, water, space, disease or predators.
+What is an exponential growth curve shape? :: J-shaped.
+What is a logistic growth curve shape? :: S-shaped.
+What is a population crash? :: A sudden sharp decline in population.
+What is a metapopulation? :: A group of separated populations of the same species that interact.
+What is the Hardy-Weinberg principle? :: Allele frequencies remain constant if no evolutionary forces act.
+What is genetic drift? :: Random changes in allele frequency, strongest in small populations.
+What is gene flow? :: Transfer of alleles between populations.
+What is a bottleneck effect? :: A drastic population reduction that reduces genetic diversity.
+What is the founder effect? :: A new population starts from a few individuals.
+What is speciation? :: The formation of new species.
+What is allopatric speciation? :: Species formed by geographic separation.
+What is adaptive radiation? :: Rapid evolution of many species from a common ancestor.
+What is the human population growth concern? :: Rising resource demand and environmental impact.
+What is demographic transition? :: A shift from high birth and death rates to low ones as societies develop.
+What is a conservation strategy for endangered species? :: Habitat protection, breeding programs and laws.
+
+## Chemistry 30 | Thermochemical Changes
+What is the formula for heat energy? :: Q = m c delta T
+Find Q to heat 100 g of water by 10 degrees C. :: 100 x 4.19 x 10 = 4190 J.
+What is a joule? :: The SI unit of energy.
+What is bond energy? :: The energy needed to break a bond.
+What is the relationship between bonds and enthalpy? :: Breaking bonds absorbs energy; forming bonds releases it.
+What is the sign of delta H for combustion? :: Negative (exothermic).
+What is the standard state? :: 25 degrees C and 100 kPa.
+What is a thermochemical equation? :: A balanced equation including the enthalpy change.
+How do you reverse delta H? :: Change the sign when reversing the reaction.
+How do you scale delta H? :: Multiply by the same factor as the coefficients.
+What is a state function? :: A property depending only on the current state, like enthalpy.
+What is entropy? :: A measure of disorder.
+What is a calorimeter's purpose? :: To measure heat absorbed or released.
+What is the heat of fusion? :: Energy needed to melt a solid at its melting point.
+What is the heat of vaporization? :: Energy needed to turn liquid to gas at its boiling point.
+What is the first law of thermodynamics? :: Energy is conserved.
+What does a potential energy diagram show for an exothermic reaction? :: Products lower in energy than reactants.
+What is the enthalpy of reaction formula using formation values? :: delta H = sum(products) - sum(reactants).
+What is a heat of combustion? :: Heat released when one mole of a substance burns completely.
+What is a bomb calorimeter? :: A device measuring heat of combustion at constant volume.
+
+## Chemistry 30 | Electrochemical Changes
+What does OIL RIG stand for? :: Oxidation Is Loss, Reduction Is Gain (of electrons).
+What does a reducing agent do? :: It loses electrons and is oxidized.
+What is the oxidation number of oxygen in most compounds? :: -2
+What is the oxidation number of hydrogen in most compounds? :: +1
+What is the oxidation number of an element? :: 0
+What is a half-reaction? :: An equation showing only oxidation or only reduction.
+What is a standard reduction potential? :: A measure of a half-cell's tendency to be reduced.
+What is the standard hydrogen electrode? :: The reference electrode with potential 0.00 V.
+What is a positive cell potential? :: A spontaneous reaction.
+What is the anode charge in a galvanic cell? :: Negative.
+What is the cathode charge in a galvanic cell? :: Positive.
+What is the anode charge in an electrolytic cell? :: Positive.
+What is electrolysis of water? :: Splitting water into hydrogen and oxygen with electricity.
+What is a fuel cell? :: A galvanic cell that continually supplies reactants such as H2 and O2.
+What is a dry cell? :: A common battery with a paste electrolyte.
+What is a rechargeable battery? :: A cell whose reaction can be reversed by an external current.
+What is cathodic protection? :: Protecting a metal by connecting it to a more active metal.
+What is galvanizing? :: Coating iron with zinc to prevent rust.
+What is Faraday's constant? :: About 96 485 C/mol of electrons.
+What is a redox titration? :: A titration based on an electron transfer reaction.
+
+## Chemistry 30 | Organic Chemistry
+What is the name of CH3CH2CH3? :: Propane.
+What is the name of C2H4? :: Ethene.
+What is the name of C2H2? :: Ethyne.
+What is the name of CH3OH? :: Methanol.
+What is the name of CH3COOH? :: Ethanoic (acetic) acid.
+What is the IUPAC naming rule for the longest chain? :: Find the longest carbon chain containing the main functional group.
+What is a branched alkane? :: An alkane with alkyl groups attached to the main chain.
+What is a cycloalkane? :: An alkane arranged in a ring.
+What is a primary alcohol? :: An alcohol where the carbon with -OH is attached to one other carbon.
+What is an aldehyde? :: A compound with a C=O at the end of a chain (-CHO).
+What is a ketone? :: A compound with C=O inside the carbon chain.
+What is an ether? :: A compound with an oxygen between two carbon groups (R-O-R).
+What is an amine? :: A compound containing nitrogen with a lone pair, e.g. CH3NH2.
+What is an amide? :: A carboxylic acid derivative containing C(=O)N.
+What is a substitution reaction? :: One atom or group replaces another.
+What is an elimination reaction? :: A small molecule like water is removed, forming a double bond.
+What is a condensation reaction? :: Two molecules join, releasing a small molecule like water.
+What is fermentation of sugar? :: Yeast converts sugar to ethanol and CO2.
+What is a polymer example? :: Polyethylene, polystyrene or nylon.
+What is cis-trans isomerism? :: Isomers differing in the arrangement around a double bond.
+
+## Chemistry 30 | Chemical Equilibrium Focusing on Acid-Base Systems
+What is the expression for K for N2 + 3H2 <-> 2NH3? :: K = [NH3]^2 / ([N2][H2]^3)
+Are solids and liquids included in K? :: No - only gases and aqueous species.
+What does K < 1 mean? :: Reactants are favoured at equilibrium.
+What is an ICE table? :: A table of Initial, Change and Equilibrium concentrations.
+What does Q mean? :: The reaction quotient, calculated at any time like K.
+If Q < K, which way does the reaction shift? :: Toward products.
+If Q > K, which way does the reaction shift? :: Toward reactants.
+What does increasing pressure do to equilibrium? :: It shifts toward the side with fewer gas moles.
+What does increasing temperature do for an endothermic reaction? :: Shifts toward products.
+What is Ksp? :: The solubility product constant for a slightly soluble salt.
+What is the common ion effect? :: Adding a common ion decreases solubility of a salt.
+What is Ka for HA? :: [H3O+][A-] / [HA]
+What is the pH of a weak acid solution relative to a strong acid of same concentration? :: Higher (less acidic).
+What is a conjugate base? :: What an acid becomes after donating a proton.
+What is an amphiprotic substance? :: One that can act as an acid or a base, like water.
+What is the Henderson-Hasselbalch idea? :: pH = pKa + log([base]/[acid]) for buffers.
+What is the half-equivalence point? :: Where pH = pKa during a weak acid titration.
+What is the pH at the equivalence point of a strong acid-strong base titration? :: 7
+What is an acid-base indicator range? :: The pH interval where it changes colour.
+What is a polyprotic acid? :: An acid that can donate more than one proton, like H2SO4.
+
+## Physics 30 | Momentum and Impulse
+Find the impulse: 50 N for 0.2 s. :: 10 N s
+Find the change in momentum for the same impulse. :: 10 kg m/s
+What are the units of impulse? :: N s (same as kg m/s).
+A 2 kg ball moving at 5 m/s hits a wall and bounces back at 5 m/s. Change in momentum? :: -20 kg m/s (magnitude 20).
+How does a longer collision time affect force? :: It reduces the average force.
+Why do crumple zones help? :: They increase collision time, reducing force on passengers.
+Find the final speed: a 1 kg ball at 4 m/s hits a stationary 1 kg ball and sticks. :: 2 m/s
+What does the area under a force-time graph represent? :: Impulse.
+What is a closed system? :: A system with no net external force.
+Is kinetic energy conserved in a perfectly inelastic collision? :: No.
+What is the momentum of a photon related to? :: Its wavelength: p = h / lambda.
+In an explosion, what is conserved? :: Total momentum.
+Why does a rocket accelerate? :: Expelled gas gains momentum backward, so the rocket gains it forward.
+What is the formula for average force from impulse? :: F = delta p / delta t
+What is a collision in two dimensions? :: One where momentum is conserved in both x and y directions.
+What is the coefficient of restitution idea? :: A measure of how elastic a collision is.
+What is the recoil velocity? :: The velocity of a gun or launcher opposite the projectile.
+What is the unit conversion: 1 N s equals? :: 1 kg m/s
+How do you split momentum in 2D? :: Use x and y components separately.
+What is a head-on collision? :: A collision along a single line.
+
+## Physics 30 | Forces and Fields
+What is an electric field line? :: A line showing the direction of force on a positive test charge.
+What direction does an electric field point near a positive charge? :: Away from it.
+What is the unit of electric field? :: N/C (or V/m).
+What is the electric potential energy of a charge? :: The energy it has due to its position in an electric field.
+What is the electron volt? :: The energy gained by an electron through 1 V: 1.60 x 10^-19 J.
+What is the charge of a proton? :: +1.60 x 10^-19 C.
+What is the charge on an electron? :: -1.60 x 10^-19 C.
+What is the electric field between parallel plates? :: Uniform, E = V / d.
+What is a capacitor? :: A device that stores charge on two plates.
+What is the field strength inside a conductor in equilibrium? :: Zero.
+What are magnetic field lines? :: Lines from north to south outside a magnet.
+What is the Earth's magnetic field's effect on compasses? :: Compasses align along the field lines toward the magnetic north.
+What does the left-hand/right-hand rule give for a current wire? :: The direction of the magnetic field circling the wire.
+What is a solenoid? :: A coil of wire acting as an electromagnet.
+What is a mass spectrometer? :: An instrument that separates ions by mass using fields.
+What is the cyclotron frequency idea? :: A charge in a magnetic field moves in a circle.
+What is magnetic flux? :: The amount of field passing through an area.
+What is back emf? :: The voltage that opposes the current in a motor.
+What is an AC generator's output shape? :: A sine wave.
+What is an eddy current? :: A circulating current induced in a conductor by a changing magnetic field.
+
+## Physics 30 | Electromagnetic Radiation
+What is the speed of light in glass compared with a vacuum? :: Slower.
+What is the index of refraction of air? :: About 1.00.
+What is the law of refraction? :: n1 sin(theta1) = n2 sin(theta2)
+What is critical angle? :: The incident angle that gives a refraction angle of 90 degrees.
+What is polarized light? :: Light vibrating in a single plane.
+What did Maxwell predict? :: Electromagnetic waves travelling at the speed of light.
+Who first produced radio waves experimentally? :: Heinrich Hertz.
+What are the regions of the spectrum by wavelength (long to short)? :: Radio, microwave, infrared, visible, UV, X-ray, gamma.
+What is thin-film interference? :: Colours produced by reflections off layers of a thin film, like soap bubbles.
+What is the condition for double-slit bright fringes? :: d sin(theta) = n lambda.
+What is the effect of a diffraction grating? :: It separates light into a spectrum.
+What is a line spectrum? :: Light of specific wavelengths emitted by excited atoms.
+What is a continuous spectrum? :: A spectrum with all wavelengths, from hot solids.
+What is an absorption spectrum? :: A spectrum with dark lines where gas absorbs light.
+What is the photoelectric effect's key finding? :: Electrons are ejected only above a threshold frequency.
+What is the stopping potential? :: The voltage that stops the most energetic photoelectrons.
+What is the work function? :: The minimum energy to remove an electron from a metal.
+What is the maximum kinetic energy of a photoelectron? :: E_k = h f - W.
+What does wave-particle duality mean? :: Light and matter show both wave and particle behaviour.
+What did Compton scattering confirm? :: Photons carry momentum.
+
+## Physics 30 | Atomic Physics
+What did J. J. Thomson's experiment show? :: Electrons are tiny negative particles inside atoms.
+What did Millikan's oil-drop experiment measure? :: The charge of an electron.
+What is the energy-level transition emission formula? :: E photon = E initial - E final.
+What is the ground state? :: The lowest energy level of an atom.
+What is ionization? :: Removing an electron from an atom.
+What is the nuclear strong force? :: The force holding protons and neutrons together in the nucleus.
+What is a nuclide? :: A specific nucleus with certain numbers of protons and neutrons.
+What does the notation A/Z X mean? :: A = mass number, Z = atomic number, X = element symbol.
+What is a neutrino? :: A nearly massless neutral particle emitted in beta decay.
+What is positron emission? :: A proton becomes a neutron, emitting a positron.
+What is alpha particle penetration? :: Low; stopped by paper.
+What is beta particle penetration? :: Moderate; stopped by aluminium.
+What is gamma penetration? :: High; needs thick lead or concrete.
+What is binding energy per nucleon? :: Energy per nucleon needed to break up a nucleus; peaks near iron.
+What is nuclear fusion? :: Joining of light nuclei to release energy, as in the Sun.
+What is the equation for mass-energy equivalence? :: E = m c^2
+What is a decay series? :: A chain of decays ending in a stable nuclide.
+What is carbon-14 dating? :: Estimating the age of organic material by C-14 decay (half-life 5730 years).
+What is a particle accelerator for? :: Studying fundamental particles by colliding them at high speed.
+What are leptons? :: Fundamental particles such as electrons and neutrinos.
