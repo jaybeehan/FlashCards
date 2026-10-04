@@ -1,0 +1,4 @@
+## Mathematics 30-2 | Polynomial Functions
+What is the leading term of y = 4x^3 - 2x^2 + 9? :: 4x^3
+What does the constant term of a polynomial tell you about its graph? :: The y-intercept.
+How many zeros does y = x^3 + x have over the real numbers? :: One (x = 0).

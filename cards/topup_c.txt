@@ -1,0 +1,442 @@
+## Mathematics 20-1 | Rational Expressions and Equations
+Simplify: (2x^2 - 2)/(x - 1) :: 2(x + 1)
+Solve: 3/(x - 2) = 6/(x + 1) :: x = 5
+Solve: (x + 4)/x = 5/3 :: x = 6
+
+## Mathematics 20-1 | Systems of Equations and Inequalities
+Solve: y = x^2 - 9, y = -x + 3. :: (3, 0) and (-4, 7)
+Solve: y = x^2 + 4x, y = -3. :: (-1, -3) and (-3, -3)
+Solve: x^2 + 6x + 8 < 0 :: -4 < x < -2
+Solve: x^2 - 16 >= 0 :: x <= -4 or x >= 4
+
+## Science 20 | Dynamics of Ecosystems
+What is a trophic cascade? :: A chain of effects triggered by changing a top predator.
+What happened when wolves returned to Yellowstone? :: Elk behaviour changed and vegetation and rivers recovered.
+What is ecological resilience? :: An ecosystem's ability to recover from disturbance.
+What is a population bottleneck? :: A sharp reduction in population size.
+What is predator-prey coevolution? :: Predators and prey evolving in response to each other.
+What is a decomposer's main nutrient role? :: Returning nutrients to the soil.
+What is a nutrient cycle? :: The movement of nutrients between living things and the environment.
+What is the role of nitrogen-fixing bacteria in legumes? :: They supply usable nitrogen to the plant.
+What is the role of mycorrhizae? :: Fungi that help plant roots absorb water and nutrients.
+What is a symbiotic relationship example in lichens? :: A fungus and an alga living together.
+What is a parasite example? :: Ticks or tapeworms.
+What is a pollinator? :: An animal that carries pollen between flowers.
+What is the importance of bees? :: They pollinate many food crops.
+What is a seed disperser? :: An animal or force that spreads seeds.
+What is an ecosystem service? :: A benefit nature provides, like clean water or pollination.
+What is an ecological indicator? :: A measure showing ecosystem health.
+What is a bioindicator? :: An organism that shows environmental quality.
+What is a food web disruption? :: Loss of a species affecting many others.
+What is ecosystem monitoring? :: Collecting data to track ecosystem changes.
+What is restoration ecology? :: Repairing damaged ecosystems.
+What is a reclaimed oil sands site? :: Land restored after mining.
+What is a prescribed burn? :: A planned fire to manage vegetation.
+What is the effect of fire suppression? :: Fuel builds up, causing bigger wildfires.
+What is a riparian zone? :: The land beside a river or stream.
+
+## Science 20 | Chemical Change
+What is a mole ratio's use? :: Converting between amounts of substances in a reaction.
+What is the molar mass of NaOH? :: 40.00 g/mol
+What is the molar mass of HCl? :: 36.46 g/mol
+How many moles in 20 g of NaOH? :: 0.50 mol
+How many grams of HCl neutralize 0.5 mol of NaOH? :: 18.2 g
+What is a strong electrolyte? :: A substance that dissociates completely in water.
+What is the pH of 0.001 mol/L HCl? :: 3
+What is the pH of 0.01 mol/L NaOH? :: 12
+What happens to pH when an acid is diluted? :: It increases toward 7.
+What does an antacid do? :: Neutralizes stomach acid.
+What is the active ingredient in many antacids? :: A base like magnesium hydroxide or calcium carbonate.
+What is a titration curve? :: A graph of pH versus volume of titrant.
+What is rust chemically? :: Hydrated iron(III) oxide.
+What is a sacrificial anode? :: A more reactive metal that corrodes to protect another.
+What is the reactivity series? :: A ranking of metals by reactivity.
+Which is more reactive: zinc or copper? :: Zinc.
+What happens when zinc is placed in copper sulfate? :: Zinc displaces copper.
+What is a decomposition reaction example? :: 2 H2O2 -> 2 H2O + O2
+What is a synthesis reaction example? :: 2 Mg + O2 -> 2 MgO
+What is a combustion reaction example? :: CH4 + 2 O2 -> CO2 + 2 H2O
+What is a single replacement example? :: Fe + CuSO4 -> FeSO4 + Cu
+What is a double replacement example? :: AgNO3 + NaCl -> AgCl + NaNO3
+What is photosynthesis in terms of reaction type? :: An endothermic redox reaction.
+What is the role of activation energy in a match? :: Friction supplies the energy to start combustion.
+What is the effect of a catalyst on reaction rate? :: It increases the rate by lowering activation energy.
+
+## Science 20 | Changes in Motion
+What is the average speed of 240 km in 3 h? :: 80 km/h
+What is the displacement from 5 m east then 3 m west? :: 2 m east
+What is the distance travelled in that trip? :: 8 m
+What is the acceleration from 15 m/s to 0 in 5 s? :: -3 m/s^2
+What is the velocity after 4 s of 3 m/s^2 from rest? :: 12 m/s
+What is the distance in that time? :: 24 m
+What is the force to accelerate 1500 kg at 2 m/s^2? :: 3000 N
+What is the weight of 20 kg on Earth? :: About 196 N
+What is the net force if 50 N right and 30 N left act? :: 20 N right
+Why does a passenger lurch forward when a car brakes? :: Inertia keeps the passenger moving.
+Why does a tablecloth trick work? :: Inertia keeps the dishes in place.
+What is the effect of a larger mass on acceleration for the same force? :: Smaller acceleration.
+What is a velocity-time graph slope showing? :: Acceleration.
+What is the area under a v-t graph? :: Displacement.
+What is a position-time curve that bends upward? :: Increasing speed.
+What is friction's direction? :: Opposite to motion.
+What is the normal force on a book on a table? :: Equal to its weight, upward.
+What is a free-body diagram? :: A diagram of all forces on an object.
+What is a collision's role in momentum? :: Momentum is conserved in a closed system.
+What is the momentum of a 0.5 kg ball at 12 m/s? :: 6 kg m/s
+What is impulse? :: Force times time.
+What is the SI unit of momentum? :: kg m/s
+What is the stopping distance concept? :: Distance travelled while braking and reacting.
+How does speed affect stopping distance? :: Higher speed greatly increases it.
+
+## Science 20 | Changing Earth
+What is a mineral? :: A naturally occurring inorganic solid with a definite chemical composition.
+What is the Mohs scale? :: A scale of mineral hardness from 1 to 10.
+What is the hardest mineral? :: Diamond.
+What is the softest mineral on Mohs scale? :: Talc.
+What is an ore? :: A rock containing a valuable metal or mineral.
+What is the oil sands formation? :: Heavy oil mixed with sand and clay in northern Alberta.
+What is a fossil fuel's origin? :: Ancient plants and animals buried and transformed.
+What are the stages of coal formation? :: Peat, lignite, bituminous, anthracite.
+What is a reservoir rock? :: A porous rock holding oil or gas.
+What is a cap rock? :: An impermeable layer trapping oil or gas.
+What are stalactites and stalagmites? :: Cave formations from dripping mineral-rich water.
+What is a sinkhole? :: A hole formed when the ground collapses over dissolved rock.
+What is soil? :: A mix of weathered rock, organic matter, water and air.
+What are soil horizons? :: Layers of soil: O, A, B, C.
+What is a landslide? :: Rapid movement of rock and soil downslope.
+What is a volcano's effect on climate? :: Ash and sulfur gases can cool the planet temporarily.
+What is a hotspot? :: A fixed plume of magma creating volcanoes, like Hawaii.
+What is Earth's magnetic field produced by? :: Motion of liquid iron in the outer core.
+What is paleomagnetism? :: Rock's record of Earth's past magnetic field.
+What is the Alberta Foothills geology? :: Folded and faulted sedimentary rock from mountain building.
+What is the Canadian Shield? :: A huge area of ancient exposed rock in northern and eastern Canada.
+What is a rift valley? :: A valley formed where plates pull apart.
+What is plate tectonics' effect on climate over time? :: Moving continents change ocean currents and climate.
+What is stratigraphy? :: The study of rock layers.
+What is an unconformity? :: A gap in the geologic record.
+
+## Biology 20 | Energy and Matter Exchange in the Biosphere
+What is the difference between organelle and organ? :: Organelles are inside cells; organs are made of tissues.
+What is cell differentiation? :: Cells becoming specialized.
+What is the surface-area-to-volume ratio's importance? :: Small cells exchange materials more efficiently.
+What is a tissue? :: A group of similar cells with a common function.
+What is an organ? :: Tissues working together for a function.
+What is an organ system? :: Organs working together.
+What is a unicellular organism? :: An organism made of one cell.
+What is a multicellular organism? :: An organism made of many cells.
+What is a colonial organism? :: A group of similar cells living together, like Volvox.
+What is a vesicle? :: A small membrane sac that transports materials.
+What is the cytoskeleton? :: A network of fibres giving shape and movement.
+What is a centriole? :: A structure helping organize cell division in animal cells.
+What is a plasmid? :: A small circular DNA in bacteria.
+What is a flagellum? :: A whip-like tail for movement.
+What are cilia? :: Short hair-like projections for movement.
+What is the difference between plant and animal cells? :: Plant cells have walls, chloroplasts and large vacuoles.
+What is a semi-permeable membrane? :: A membrane letting some molecules pass but not others.
+What is the sodium-potassium pump? :: A protein pumping Na+ out and K+ in using ATP.
+What is cell signalling? :: Cells communicating using chemical messages.
+What is a receptor protein? :: A protein that binds a signalling molecule.
+What is an enzyme inhibitor? :: A molecule that reduces enzyme activity.
+What is a competitive inhibitor? :: A molecule competing with the substrate for the active site.
+What is a cofactor? :: A non-protein helper for an enzyme.
+What is a coenzyme? :: An organic helper molecule, often a vitamin.
+What is ATP hydrolysis? :: Breaking ATP to release energy.
+What is a trophic efficiency? :: The percent of energy passed to the next level.
+What is a detrital food chain? :: A food chain starting with dead organic matter.
+
+## Biology 20 | Ecosystems and Population Change
+What is the formula for density? :: Number of organisms divided by area.
+What is a metapopulation? :: A group of separated populations linked by migration.
+What is a source-sink population? :: A source produces surplus individuals; a sink depends on immigration.
+What is an Allee effect? :: Individuals do worse at low population density.
+What is a density-dependent birth rate example? :: Fewer births when crowding is high.
+What is a pioneer species in primary succession? :: Lichens and mosses.
+What is a climax community? :: A stable end stage of succession.
+What is an invasive species example in Alberta? :: Leafy spurge or Canada thistle.
+What is the effect of an invasive predator? :: It can cause native species to decline.
+What is a biological control? :: Using natural enemies to control pests.
+What is integrated pest management? :: Combining methods to control pests with minimal harm.
+What is the carrying capacity of Earth for humans? :: Debated; depends on resources and consumption.
+What is the doubling time? :: The time for a population to double.
+What is the rule of 70? :: Doubling time is about 70 divided by the growth rate percent.
+Find the doubling time at 2% growth. :: About 35 years.
+What is a limiting resource for deer in winter? :: Food availability and snow depth.
+What is population overshoot example? :: Reindeer on St. Matthew Island.
+What is predator control's effect? :: Prey populations can grow and overgraze.
+What is a trophic cascade? :: Effects passing through several feeding levels.
+What is the effect of hunting regulation? :: It helps keep populations sustainable.
+What is a wildlife census? :: A count of animals in an area.
+What is aerial survey? :: Counting animals from aircraft.
+What is radio telemetry? :: Tracking animals with radio collars.
+What is a sustainable yield? :: The harvest rate that does not reduce the population.
+What is overfishing? :: Catching fish faster than they can reproduce.
+What was the Atlantic cod collapse? :: A 1990s collapse from overfishing.
+What is a marine protected area? :: Ocean area protected from certain human activity.
+
+## Biology 20 | Photosynthesis and Cellular Respiration
+What wavelengths does chlorophyll a absorb best? :: Blue-violet and red.
+What is the role of carotenoids? :: Capture other light and protect from damage.
+What is the oxygen source in photosynthesis? :: Water.
+What is the carbon source in photosynthesis? :: Carbon dioxide.
+What are the products of the light reactions? :: ATP, NADPH and oxygen.
+What are the reactants of the Calvin cycle? :: CO2, ATP and NADPH.
+How many CO2 molecules are needed to make one glucose? :: Six.
+What is G3P? :: A three-carbon sugar made in the Calvin cycle.
+What is the electron source for the light reactions? :: Water.
+What is photosystem II? :: The first photosystem; it splits water.
+What is photosystem I? :: The second photosystem; it makes NADPH.
+What is the role of the proton gradient? :: It drives ATP synthase.
+Where is the proton gradient in the chloroplast? :: Across the thylakoid membrane.
+Where is the proton gradient in the mitochondrion? :: Across the inner mitochondrial membrane.
+What is oxidative phosphorylation? :: ATP production using the electron transport chain and oxygen.
+What is substrate-level phosphorylation? :: Direct transfer of phosphate to make ATP.
+What is pyruvate? :: The three-carbon product of glycolysis.
+What is acetyl CoA? :: The molecule that enters the Krebs cycle.
+What is the link reaction? :: Pyruvate converted to acetyl CoA, releasing CO2.
+What is the respiratory quotient? :: The ratio of CO2 produced to O2 consumed.
+How does temperature affect respiration rate? :: It increases to an optimum then falls.
+What is the effect of cyanide on respiration? :: It blocks the electron transport chain.
+What is brown fat? :: Tissue that makes heat by uncoupling respiration from ATP production.
+What is the Warburg effect? :: Cancer cells favour glycolysis even with oxygen.
+Why do plants not photosynthesize at night? :: No light for the light reactions.
+What do plants do with the glucose they make? :: Respire it, store it as starch or build cellulose.
+
+## Biology 20 | Human Systems
+What is the thoracic cavity? :: The chest cavity holding the heart and lungs.
+What is the pleura? :: The membrane around the lungs.
+What is surfactant? :: A fluid that keeps alveoli from collapsing.
+What is vital capacity? :: The maximum amount of air exhaled after a deep breath.
+What is tidal volume? :: The volume of air moved in a normal breath.
+What is asthma? :: A condition with inflamed, narrowed airways.
+What is emphysema? :: Damage to the alveoli reducing gas exchange.
+What is the effect of smoking on lungs? :: It damages cilia and tissue and raises cancer risk.
+What is the role of the epiglottis? :: Covers the windpipe during swallowing.
+What is bile made of? :: Salts, pigments and cholesterol, made by the liver.
+What is chyme? :: Partly digested food leaving the stomach.
+What is the role of the appendix? :: A small organ whose function is debated, perhaps immune.
+What is lactose intolerance? :: Inability to digest lactose due to low lactase.
+What is celiac disease? :: An autoimmune reaction to gluten.
+What is the pH of the stomach? :: About 2.
+What is the function of mucus in the stomach? :: Protects the stomach lining from acid.
+What is the function of fibre? :: Aids digestion and moves waste.
+What is a calorie? :: A unit of food energy.
+What are vitamins? :: Organic nutrients needed in small amounts.
+What are minerals in nutrition? :: Inorganic nutrients like calcium and iron.
+What is the role of calcium? :: Bone strength and muscle function.
+What is the role of iron? :: Part of hemoglobin carrying oxygen.
+What is anemia? :: A shortage of red blood cells or hemoglobin.
+What is hypertension? :: Persistently high blood pressure.
+What is a heart attack? :: Blocked blood flow to the heart muscle.
+What is a stroke? :: Interrupted blood flow to the brain.
+
+## Chemistry 20 | Diversity of Matter and Chemical Bonding
+What is the electron configuration of oxygen? :: 1s2 2s2 2p4 (2, 6 in shells).
+What is the electron configuration of sodium by shells? :: 2, 8, 1
+What is the Lewis structure of water? :: O with two bonds to H and two lone pairs.
+What is a lone pair? :: A pair of valence electrons not shared in a bond.
+What is a bonding pair? :: A pair of electrons shared between two atoms.
+What is bond length? :: The distance between bonded nuclei.
+Which is shorter: a single or double bond? :: A double bond.
+Which is stronger: a single or double bond? :: A double bond.
+What is resonance? :: Multiple valid Lewis structures for one molecule.
+What is an exception to the octet rule? :: Molecules like BF3 or SF6.
+What is a coordinate covalent bond? :: A bond where one atom donates both electrons.
+What is lattice energy? :: Energy released when ions form a crystal lattice.
+What is the formula of magnesium nitride? :: Mg3N2
+What is the formula of barium sulfate? :: BaSO4
+What is the name of Cu2O? :: Copper(I) oxide.
+What is the name of SnCl4? :: Tin(IV) chloride.
+What is the name of (NH4)3PO4? :: Ammonium phosphate.
+What is the name of CCl4? :: Carbon tetrachloride.
+What is the name of P4O10? :: Tetraphosphorus decaoxide.
+What is the name of HBr (aq)? :: Hydrobromic acid.
+What is the name of H3PO4? :: Phosphoric acid.
+What is the name of H2CO3? :: Carbonic acid.
+What is the molecular shape of PCl3? :: Trigonal pyramidal.
+What is the molecular shape of SO2? :: Bent.
+What is the shape of SF6? :: Octahedral.
+Is CH3Cl polar? :: Yes.
+Is CCl4 polar? :: No; the dipoles cancel.
+What are the intermolecular forces in CH4? :: London dispersion forces.
+What are the intermolecular forces in HCl? :: Dipole-dipole and dispersion.
+What are the intermolecular forces in NH3? :: Hydrogen bonding, dipole-dipole and dispersion.
+Which has the highest boiling point: CH4, HCl or H2O? :: H2O.
+
+## Chemistry 20 | Forms of Matter: Gases
+What is the pressure of 1 atm in mm Hg? :: 760 mm Hg.
+What is the pressure in kPa of 1.5 atm? :: About 152 kPa.
+What is the volume of 3.0 mol of gas at STP? :: 68.1 L
+How many moles are in 11.35 L at STP? :: 0.50 mol
+What is the molar mass of a gas with density 1.43 g/L at STP? :: About 32 g/mol
+Which gas has the molar mass 32 g/mol? :: O2
+What is the temperature that doubles the volume of a gas at 300 K and constant P? :: 600 K
+A gas has P1 = 100 kPa, V1 = 6.0 L. What is V2 at P2 = 150 kPa? :: 4.0 L
+A balloon at 20 degrees C has V = 2.0 L. What is V at 40 degrees C? :: About 2.14 L
+A gas at 25 degrees C and 100 kPa is heated to 75 degrees C at constant V. New pressure? :: About 117 kPa
+What is the volume of 2.0 g of H2 at STP? :: 22.7 L
+What is the volume of 44 g of CO2 at STP? :: 22.7 L
+What is the volume of 16 g of CH4 at SATP? :: About 24.8 L
+What is the volume of gas produced from 10 g CaCO3 decomposing at STP (CaCO3 -> CaO + CO2)? :: About 2.27 L
+What is the volume of H2 from 6.5 g of Zn with excess acid at STP? :: About 2.27 L
+What is the partial pressure of O2 in air at 100 kPa? :: About 21 kPa
+What is the effect of adding gas at constant volume and temperature? :: Pressure increases.
+What is the effect of increasing temperature on gas pressure at constant volume? :: Pressure increases.
+What is the effect of increasing volume at constant temperature? :: Pressure decreases.
+What happens to gas density when pressure increases? :: Density increases.
+What is a manometer reading? :: The difference between gas pressure and atmospheric pressure.
+What is the vapour pressure of water at 100 degrees C? :: 101.3 kPa
+What is a non-ideal gas behaviour reason? :: Particle volume and attractions matter at high pressure and low temperature.
+What is the compressibility of gases? :: Gases can be compressed because of empty space.
+What is the kinetic energy relation to temperature? :: Average kinetic energy is proportional to Kelvin temperature.
+
+## Chemistry 20 | Matter as Solutions, Acids and Bases
+What is the mass of NaOH needed for 250 mL of 0.40 mol/L? :: 4.0 g
+How many moles of HCl are in 50 mL of 0.20 mol/L? :: 0.010 mol
+What volume of 1.0 mol/L HCl is needed for 0.050 mol? :: 50 mL
+What is the concentration after diluting 10 mL of 6.0 mol/L to 60 mL? :: 1.0 mol/L
+What is the pH of 0.050 mol/L HCl? :: 1.30
+What is the pOH of 0.050 mol/L NaOH? :: 1.30
+What is the pH of 0.050 mol/L NaOH? :: 12.70
+What is the pH of a solution with pOH 4? :: 10
+What is [OH-] at pH 3? :: 1 x 10^-11 mol/L
+What is the pH of a neutral solution at 25 degrees C? :: 7
+What is the conjugate base of H2PO4-? :: HPO4 2-
+What is the conjugate acid of HCO3-? :: H2CO3
+What is the conjugate base of H2O? :: OH-
+What is the conjugate acid of H2O? :: H3O+
+What is a diprotic acid? :: An acid with two ionizable hydrogens.
+What is an indicator example and range? :: Methyl orange changes from red to yellow around pH 3 to 4.5.
+What is bromothymol blue's colour change? :: Yellow in acid, blue in base.
+What is litmus's colour in base? :: Blue.
+What is an acid-base reaction example? :: HCl + NaOH -> NaCl + H2O
+What is the net ionic equation of a strong acid-strong base reaction? :: H3O+ + OH- -> 2 H2O
+What is the molarity of a solution of 5.85 g NaCl in 500 mL? :: 0.20 mol/L
+What is the ppm of 2 mg in 1 kg? :: 2 ppm
+What is the freezing point depression idea? :: Dissolved solutes lower the freezing point.
+Why is salt spread on roads? :: It lowers the freezing point of water.
+What is the boiling point elevation idea? :: Dissolved solutes raise the boiling point.
+
+## Chemistry 20 | Quantitative Relationships in Chemical Changes
+What is the molar mass of Al2O3? :: 101.96 g/mol
+What is the molar mass of (NH4)2SO4? :: 132.14 g/mol
+What is the molar mass of Fe2O3? :: 159.7 g/mol
+How many moles are in 100 g of H2O? :: 5.55 mol
+How many grams are in 0.20 mol of CaCO3? :: 20.0 g
+How many atoms are in 0.50 mol of Cu? :: 3.0 x 10^23
+What is the mass of one atom of carbon? :: About 2.0 x 10^-23 g
+What is the percent composition of N in NH3? :: About 82.4%
+What is the percent composition of Fe in Fe2O3? :: About 69.9%
+What is the empirical formula for 85.7% C and 14.3% H? :: CH2
+What is the molecular formula if empirical is CH2 and molar mass is 56? :: C4H8
+How many mol of H2O form from 3 mol O2 in 2 H2 + O2 -> 2 H2O? :: 6 mol
+How many grams of CO2 form when 12 g of C burns completely? :: 44 g
+How many grams of O2 are needed to burn 16 g of CH4? :: 64 g
+How many grams of NaCl form from 40 g of NaOH with excess HCl? :: 58.4 g
+What is the limiting reagent: 4 g H2 and 40 g O2 (2 H2 + O2 -> 2 H2O)? :: H2 (2 mol H2 needs only 1 mol, or 32 g, of O2).
+What is the percent yield: 8.0 g obtained, 10.0 g theoretical? :: 80%
+What is the theoretical yield if the percent yield is 75% and actual is 15 g? :: 20 g
+How many mL of 0.20 mol/L HCl neutralize 25 mL of 0.10 mol/L NaOH? :: 12.5 mL
+What is the mass of precipitate from 0.10 mol of BaCl2 with excess Na2SO4? :: 23.3 g BaSO4
+What is the water of hydration in CuSO4 . 5H2O percent? :: About 36.1%
+What is the formula mass of CuSO4 . 5H2O? :: 249.7
+What is a stoichiometric calculation for gases? :: Use mole ratios with molar volume or PV = nRT.
+What is the mass of 5.00 L of O2 at STP? :: About 7.05 g
+What is the volume of CO2 at STP from 25.0 g CaCO3 decomposition? :: About 5.67 L
+
+## Physics 20 | Kinematics
+What is the average speed of a round trip of 10 km out at 20 km/h and back at 10 km/h? :: About 13.3 km/h
+What is the displacement of a round trip? :: Zero.
+What is the velocity of a car that goes 90 km in 1.5 h? :: 60 km/h
+How long does a ball dropped from 80 m take (g = 10)? :: 4 s
+How high is a stone thrown at 15 m/s (g = 10)? :: 11.25 m
+What is the speed after falling 5 s from rest (g = 10)? :: 50 m/s
+What is the distance fallen in 3 s from rest (g = 10)? :: 45 m
+What is the range of a projectile at 20 m/s and 30 degrees (g = 10)? :: About 34.6 m
+What is the maximum height of a projectile at 20 m/s and 30 degrees (g = 10)? :: 5 m
+What is the time of flight at 20 m/s and 30 degrees (g = 10)? :: 2 s
+What are the components of 50 m/s at 37 degrees? :: About 40 m/s horizontal and 30 m/s vertical.
+What is the resultant of 6 m east and 8 m north? :: 10 m at 53 degrees north of east.
+What is the resultant of two 10 m displacements at right angles? :: 14.1 m
+What is the acceleration of a car going from 20 m/s to 30 m/s in 4 s? :: 2.5 m/s^2
+What is the stopping distance for 20 m/s with a = -5 m/s^2? :: 40 m
+What is the time to stop? :: 4 s
+What is the velocity-time graph of constant acceleration? :: A straight line with nonzero slope.
+What is the displacement-time graph of constant acceleration? :: A parabola.
+What is the instantaneous velocity on a d-t graph? :: The slope of the tangent.
+What is the relative velocity of two cars moving toward each other at 60 and 40 km/h? :: 100 km/h
+What is the relative velocity of two cars moving the same way at 90 and 60 km/h? :: 30 km/h
+
+## Physics 20 | Dynamics
+What is the force needed to accelerate a 1200 kg car at 3 m/s^2? :: 3600 N
+What is the friction on a 20 kg crate with mu = 0.25? :: About 49 N
+What is the acceleration of a 10 kg crate pulled with 60 N against 30 N friction? :: 3 m/s^2
+What is the tension in a rope holding a 5 kg mass at rest? :: About 49 N
+What is the tension if the mass accelerates up at 2 m/s^2? :: About 59 N
+What is the acceleration of two masses 3 kg and 2 kg on an Atwood machine (g = 10)? :: 2 m/s^2
+What is the gravitational force between two 1000 kg masses 10 m apart? :: 6.67 x 10^-7 N
+What is g at twice Earth's radius from the centre? :: About 2.45 N/kg
+What is the gravitational field strength on the Moon? :: About 1.6 N/kg
+What is the weight of a 50 kg astronaut on the Moon? :: About 80 N
+What is the orbital period idea of the Moon? :: About 27.3 days.
+What is a geosynchronous satellite's period? :: 24 hours.
+What is the net force on a falling object at terminal velocity? :: Zero.
+What is the normal force on an incline of angle theta? :: m g cos(theta)
+What is the force pulling down a 30 degree frictionless slope for 10 kg? :: About 49 N
+What is the force required to hold a 10 kg block on a 30 degree slope? :: About 49 N
+What is the coefficient of friction if a 10 kg block just slides on a 30 degree slope? :: About 0.58
+What is the force of friction at the point of impending motion called? :: Maximum static friction.
+What is a field force? :: A force acting at a distance, like gravity.
+What is a contact force? :: A force requiring contact, like friction.
+What is an equilibrant force? :: A force that balances others to give zero net force.
+What is the equilibrant of 30 N east and 40 N north? :: 50 N toward the south-west direction.
+
+## Physics 20 | Circular Motion, Work and Energy
+What is the centripetal force on a 1000 kg car turning at 15 m/s on a 50 m radius? :: 4500 N
+What is the maximum speed on a flat curve of radius 40 m with mu = 0.5? :: About 14 m/s
+What is the frequency if the period is 0.25 s? :: 4 Hz
+What is the speed of an object in a circle of radius 5 m with period 10 s? :: About 3.14 m/s
+What is the centripetal acceleration of the Moon? :: About 0.0027 m/s^2
+What is the work done lifting 5 kg by 2 m? :: About 98 J
+What is the work done by a 50 N force at 30 degrees over 10 m? :: About 433 J
+What is the power to lift 100 kg by 3 m in 6 s? :: About 490 W
+What is the kinetic energy of a 70 kg runner at 8 m/s? :: 2240 J
+What is the speed if a 2 kg mass has 100 J of kinetic energy? :: About 10 m/s
+What is the change in potential energy when a 3 kg book rises 1.5 m? :: About 44 J
+What is the speed of a pendulum at the bottom if released from 0.2 m height? :: About 2.0 m/s
+What is the elastic energy in a spring with k = 100 N/m stretched 0.3 m? :: 4.5 J
+What is the compression of a spring needed to store 2 J with k = 400 N/m? :: About 0.1 m
+What is the efficiency of a motor with 400 J in and 300 J out? :: 75%
+What is the power of a 1500 W heater over 2 h in kWh? :: 3 kWh
+What is the cost of that at $0.12 per kWh? :: $0.36
+What is the energy to heat water idea? :: Q = m c delta T
+What is mechanical energy lost to friction called? :: Thermal energy.
+What is the work-energy theorem used for? :: Linking net work to change in kinetic energy.
+What is the kinetic energy if speed doubles? :: Four times larger.
+What is the speed of a car if its kinetic energy is doubled? :: Increases by a factor of sqrt(2).
+What is potential energy at the lowest point of a pendulum? :: Minimum.
+
+## Physics 20 | Oscillatory Motion and Mechanical Waves
+What is the period of a pendulum of length 0.25 m? :: About 1.0 s
+What length gives a 2.0 s period? :: About 0.99 m
+What is the frequency of a mass-spring with T = 0.5 s? :: 2 Hz
+What is the spring constant if m = 0.2 kg and T = 0.5 s? :: About 31.6 N/m
+What is the maximum speed in SHM? :: v max = A omega.
+What is the angular frequency? :: omega = 2 pi f
+What is the frequency of a wave with speed 340 m/s and wavelength 0.5 m? :: 680 Hz
+What is the wavelength of a 440 Hz note in air at 343 m/s? :: About 0.78 m
+What is the speed of a wave on a string with f = 50 Hz and lambda = 0.8 m? :: 40 m/s
+What is the effect of tension on wave speed in a string? :: Higher tension increases speed.
+What is the effect of mass per length? :: Heavier strings have slower waves.
+What is the second harmonic of a 100 Hz fundamental? :: 200 Hz
+What is the third harmonic? :: 300 Hz
+What is the fundamental of a 0.5 m closed pipe at 340 m/s? :: 170 Hz
+What is the fundamental of a 0.5 m open pipe at 340 m/s? :: 340 Hz
+What is the beat frequency of 440 Hz and 444 Hz? :: 4 Hz
+What is the observed frequency when a source approaches? :: Higher than emitted.
+What is the loudness unit? :: Decibel.
+What is the intensity relation to distance? :: Intensity decreases with the square of distance.
+What happens to sound intensity if distance doubles? :: It falls to one quarter.
+What is the effect of a hard surface on sound? :: It reflects sound, causing echoes.
+What is acoustic absorption? :: Soft materials absorbing sound energy.
+What is the sound barrier? :: The speed of sound, about 343 m/s.
+What is a shock wave? :: A wave front from an object moving faster than the wave speed.

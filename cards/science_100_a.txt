@@ -1,0 +1,601 @@
+## Science 9 | Biological Diversity
+What is biodiversity? :: The variety of life in an ecosystem, including species, genetic and ecosystem diversity.
+What are the three levels of biodiversity? :: Genetic diversity, species diversity and ecosystem diversity.
+What is genetic diversity? :: The variety of genes within a species.
+What is species diversity? :: The number and abundance of different species in an area.
+What is ecosystem diversity? :: The variety of habitats and ecosystems in a region.
+Why is biodiversity important? :: It keeps ecosystems stable and provides food, medicine and materials.
+What is a species? :: A group of organisms that can interbreed and produce fertile offspring.
+What is a population? :: All the members of one species in an area.
+What is a community? :: All the populations living in an area.
+What is an ecosystem? :: A community together with its non-living environment.
+What is a habitat? :: The place where an organism lives.
+What is DNA? :: The molecule that carries the genetic instructions of an organism.
+What is a gene? :: A segment of DNA that codes for a trait.
+What is a chromosome? :: A coiled structure of DNA and protein carrying many genes.
+How many chromosomes are in a human body cell? :: 46 (23 pairs).
+What is an allele? :: A form of a gene.
+What is a dominant allele? :: An allele that shows its trait when at least one copy is present.
+What is a recessive allele? :: An allele that shows only when two copies are present.
+What is a genotype? :: The set of alleles an organism has.
+What is a phenotype? :: The visible traits of an organism.
+What does homozygous mean? :: Two identical alleles for a gene.
+What does heterozygous mean? :: Two different alleles for a gene.
+What is a Punnett square used for? :: Predicting the possible genotypes of offspring.
+What is the genotype ratio from Bb x Bb? :: 1 BB : 2 Bb : 1 bb
+What is the phenotype ratio from Bb x Bb? :: 3 dominant : 1 recessive
+What is the probability of a bb offspring from Bb x Bb? :: 1/4
+What are the offspring of BB x bb? :: All Bb.
+What are the offspring of Bb x bb? :: 1/2 Bb and 1/2 bb.
+What is a mutation? :: A change in DNA that may change a trait.
+Can mutations be helpful? :: Yes, harmful, neutral or helpful.
+What is asexual reproduction? :: Reproduction by one parent producing identical offspring.
+Name two types of asexual reproduction. :: Binary fission and budding.
+What is budding? :: A new organism grows as an outgrowth of the parent, like in yeast or hydra.
+What is binary fission? :: A cell splits into two identical cells.
+What is sexual reproduction? :: Reproduction involving two parents and the mixing of genes.
+Why does sexual reproduction increase variation? :: Offspring get a new combination of genes from two parents.
+What is a clone? :: A genetically identical copy of an organism.
+What is natural selection? :: Organisms with advantageous traits survive and reproduce more.
+Who proposed natural selection? :: Charles Darwin.
+What is an adaptation? :: A trait that helps an organism survive and reproduce in its environment.
+Give an example of a structural adaptation. :: A cactus's spines or a polar bear's thick fur.
+Give an example of a behavioural adaptation. :: Migration or hibernation.
+Give an example of a physiological adaptation. :: Antifreeze proteins in Arctic fish.
+What is camouflage? :: Colouring or shape that helps an organism blend into its surroundings.
+What is mimicry? :: One species resembling another to gain protection.
+What is the peppered moth example? :: Dark moths became common in polluted areas because they were better camouflaged.
+What is selective breeding? :: Humans choose parents with desired traits to produce offspring.
+Name an example of selective breeding. :: Dog breeds, canola, dairy cattle.
+What is genetic engineering? :: Directly changing an organism's DNA.
+What is a GMO? :: A genetically modified organism.
+Name a benefit of GMO crops. :: Higher yield, pest or herbicide resistance.
+Name a concern about GMO crops. :: Possible environmental or health effects and corporate control.
+What is cloning's example? :: Dolly the sheep, cloned in 1996.
+What is extinction? :: The complete loss of a species.
+What is an endangered species? :: A species at risk of extinction.
+What is a threatened species? :: A species likely to become endangered.
+What is an extirpated species? :: A species that has disappeared from a region but still exists elsewhere.
+Name an endangered species in Canada. :: Whooping crane, swift fox or northern spotted owl.
+What is habitat loss? :: The destruction or fragmentation of natural habitat.
+What are invasive species? :: Non-native species that spread and harm ecosystems.
+What is the Species at Risk Act? :: A Canadian law to protect endangered and threatened wildlife.
+What is COSEWIC? :: The Committee on the Status of Endangered Wildlife in Canada.
+What is a seed bank? :: A facility storing seeds to preserve plant diversity.
+What is a zoo's conservation role? :: Breeding programs and education for endangered animals.
+How does biodiversity help ecosystems recover? :: More species mean more ways to respond to change.
+What is a monoculture? :: A crop of a single variety grown over a large area.
+Why are monocultures risky? :: One disease can destroy the whole crop.
+What is binomial nomenclature? :: A two-part scientific naming system: genus and species.
+What is the scientific name of humans? :: Homo sapiens
+Name the levels of classification from broadest to narrowest. :: Domain, kingdom, phylum, class, order, family, genus, species.
+
+## Science 9 | Matter and Chemical Change
+What is matter? :: Anything that has mass and takes up space.
+What is a pure substance? :: Matter made of one kind of particle.
+What is a mixture? :: Two or more substances physically combined.
+What is a homogeneous mixture? :: A mixture that looks uniform throughout, like salt water.
+What is a heterogeneous mixture? :: A mixture with visibly different parts, like salad.
+What is an element? :: A pure substance made of one kind of atom.
+What is a compound? :: A pure substance made of two or more elements chemically bonded.
+What is an atom? :: The smallest particle of an element.
+What is a molecule? :: Two or more atoms bonded together.
+What is a proton's charge? :: +1
+What is a neutron's charge? :: 0
+What is an electron's charge? :: -1
+Where are electrons found? :: In energy levels (shells) around the nucleus.
+What is in the nucleus? :: Protons and neutrons.
+What is the atomic number? :: The number of protons in an atom.
+What is the mass number? :: The number of protons plus neutrons.
+How many neutrons are in carbon-14? :: 8
+How many protons does oxygen have? :: 8
+How many electrons does a neutral sodium atom have? :: 11
+What is an isotope? :: Atoms of the same element with different numbers of neutrons.
+What is an ion? :: An atom with a charge because it has gained or lost electrons.
+What is a cation? :: A positive ion.
+What is an anion? :: A negative ion.
+What are valence electrons? :: Electrons in the outer energy level.
+How many electrons fit in the first energy level? :: 2
+How many electrons fit in the second energy level? :: 8
+What is the Bohr model? :: A model with electrons in fixed energy levels around the nucleus.
+What is the periodic table? :: A chart of elements arranged by atomic number and properties.
+What is a group? :: A vertical column in the periodic table.
+What is a period? :: A horizontal row in the periodic table.
+What are alkali metals? :: Group 1 elements, very reactive metals.
+What are alkaline earth metals? :: Group 2 elements, reactive metals.
+What are halogens? :: Group 17 elements, very reactive non-metals.
+What are noble gases? :: Group 18 elements, very unreactive.
+What do elements in the same group have in common? :: The same number of valence electrons and similar properties.
+What are properties of metals? :: Shiny, malleable, ductile and good conductors.
+What are properties of non-metals? :: Dull, brittle and poor conductors.
+What is a metalloid? :: An element with properties between metals and non-metals, like silicon.
+What is a physical property? :: A characteristic observed without changing the substance, like colour or density.
+What is a chemical property? :: A characteristic describing how a substance reacts, like flammability.
+What is a physical change? :: A change in appearance or state with no new substance formed.
+What is a chemical change? :: A change that forms new substances.
+List signs of a chemical change. :: Colour change, gas, precipitate, light or heat, new odour.
+Is dissolving sugar in water chemical or physical? :: Physical.
+Is rusting iron chemical or physical? :: Chemical.
+Is boiling water chemical or physical? :: Physical.
+Is baking a cake chemical or physical? :: Chemical.
+What is a reactant? :: A substance that undergoes change in a reaction.
+What is a product? :: A substance formed in a reaction.
+What is a chemical equation? :: A short way to show reactants and products using formulas.
+What is the law of conservation of mass? :: Mass is neither created nor destroyed in a chemical reaction.
+Balance: H2 + Cl2 -> HCl :: H2 + Cl2 -> 2 HCl
+What is the formula of water? :: H2O
+What is the formula of carbon dioxide? :: CO2
+What is the formula of methane? :: CH4
+What is the formula of ammonia? :: NH3
+What is the formula of table salt? :: NaCl
+What is the chemical symbol of gold? :: Au
+What is the chemical symbol of iron? :: Fe
+What is the chemical symbol of sodium? :: Na
+What is the chemical symbol of potassium? :: K
+What is the chemical symbol of silver? :: Ag
+What is an ionic compound? :: A compound of a metal and a non-metal formed by electron transfer.
+What is a covalent compound? :: A compound of non-metals formed by sharing electrons.
+What is a diatomic element? :: An element that exists as two-atom molecules, like O2.
+Name seven diatomic elements. :: H2, N2, O2, F2, Cl2, Br2, I2.
+
+## Science 9 | Environmental Chemistry
+What is an acid? :: A substance with pH below 7 that releases H+ in water.
+What is a base? :: A substance with pH above 7 that releases OH- in water.
+What is the pH of a neutral solution? :: 7
+What does pH measure? :: How acidic or basic a solution is.
+What is the pH of stomach acid, roughly? :: About 1 to 2.
+What is the pH of blood, roughly? :: About 7.4.
+What is the pH of baking soda solution, roughly? :: About 8 to 9.
+What is the pH of milk, roughly? :: About 6.5.
+What is the pH of vinegar, roughly? :: About 2.5.
+What is the pH of ammonia cleaner, roughly? :: About 11.
+What is the pH of rainwater normally? :: About 5.6 (slightly acidic).
+What is acid rain? :: Rain with pH below 5.6 caused by sulfur and nitrogen oxides.
+What causes acid rain? :: Burning fossil fuels releases SO2 and NOx into the air.
+What are effects of acid rain? :: Damaged lakes, forests, buildings and statues.
+How can acid rain be reduced? :: Scrubbers, cleaner fuels and lower emissions.
+What is a neutralization reaction? :: Acid + base gives salt + water.
+What is the neutralization of HCl and NaOH? :: HCl + NaOH -> NaCl + H2O
+How can lime reduce lake acidity? :: It is a base and neutralizes the acid.
+What is a pH indicator? :: A substance that changes colour with pH.
+What does litmus paper do? :: Turns red in acid and blue in base.
+What does phenolphthalein do? :: Colourless in acid, pink in base.
+What does universal indicator show? :: A range of colours for different pH values.
+What is a titration? :: Adding a measured solution to find the concentration of another.
+What is a salt? :: An ionic compound formed when an acid reacts with a base.
+What is the greenhouse effect? :: Gases trap heat in the atmosphere, warming Earth.
+Name greenhouse gases. :: Carbon dioxide, methane, water vapour, nitrous oxide.
+What is the enhanced greenhouse effect? :: Extra warming caused by increased greenhouse gases from human activity.
+What is the main source of CO2 from humans? :: Burning fossil fuels.
+What is the source of methane? :: Livestock, landfills and natural gas leaks.
+What is smog? :: Air pollution from smoke, fog and chemicals.
+What is ground-level ozone? :: A pollutant formed from vehicle emissions and sunlight.
+What is the ozone layer? :: A stratospheric layer absorbing harmful UV light.
+What are CFCs? :: Chemicals that destroyed ozone; now mostly banned.
+What is the Montreal Protocol? :: A treaty to phase out ozone-depleting substances.
+What is a pollutant? :: A substance that harms the environment.
+What is point-source pollution? :: Pollution from one identifiable source.
+What is non-point source pollution? :: Pollution from many scattered sources, like farm runoff.
+What is eutrophication? :: Excess nutrients cause algae blooms and low oxygen in water.
+What is runoff? :: Water flowing over land, carrying pollutants.
+What is bioaccumulation? :: A substance building up in an organism's tissues over time.
+What is biomagnification? :: A substance increasing in concentration up the food chain.
+What is DDT's classic example? :: A pesticide that thinned eagle eggshells through biomagnification.
+What are heavy metals? :: Dense metals like lead and mercury that are toxic.
+What is groundwater contamination? :: Pollutants seeping into underground water supplies.
+What is water treatment? :: Processes to remove contaminants from water.
+What is hard water? :: Water with high dissolved calcium and magnesium.
+What is the oil sands tailings concern? :: Toxic waste water stored in ponds.
+What is a spill response? :: Actions to contain and clean up spilled chemicals.
+What is WHMIS? :: The Workplace Hazardous Materials Information System.
+What does a WHMIS corrosive symbol warn about? :: Substances that can burn skin or eat through metal.
+What does the flame symbol warn about? :: Flammable materials.
+What does the skull and crossbones warn about? :: Acutely toxic materials.
+What is recycling? :: Processing used materials into new products.
+What is the 3Rs? :: Reduce, reuse, recycle.
+What is a carbon footprint? :: The total greenhouse gases caused by a person or activity.
+What is sustainable development? :: Meeting present needs without harming future generations.
+What is green chemistry? :: Designing chemical processes that reduce hazards and waste.
+
+## Science 9 | Electrical Principles and Technologies
+What is electric charge? :: A property of matter that causes electric forces.
+How do like charges behave? :: They repel.
+How do opposite charges behave? :: They attract.
+What is static electricity? :: A buildup of electric charge on a surface.
+How can objects become charged? :: By friction, contact or induction.
+What is charging by friction? :: Transferring electrons by rubbing two objects.
+What is charging by conduction? :: Transferring charge by touching a charged object.
+What is charging by induction? :: Charging without contact by redistributing charge.
+What is a conductor? :: A material that lets charge flow easily.
+What is an insulator? :: A material that resists charge flow.
+Name three conductors. :: Copper, aluminium, silver.
+Name three insulators. :: Rubber, glass, plastic.
+What is a semiconductor? :: A material between conductor and insulator, like silicon.
+What is an electroscope? :: A device that detects electric charge.
+What is a spark? :: A rapid discharge of static electricity.
+What is lightning? :: A giant static discharge between clouds or cloud and ground.
+What is a lightning rod? :: A metal rod that safely carries lightning to the ground.
+What is current? :: The flow of electric charge.
+What is the unit of current? :: Ampere (A).
+What is voltage? :: Energy per unit charge; the push in a circuit.
+What is the unit of voltage? :: Volt (V).
+What is resistance? :: Opposition to current flow.
+What is the unit of resistance? :: Ohm.
+State Ohm's law. :: V = I x R
+Find V if I = 3 A and R = 4 ohms. :: 12 V
+Find I if V = 12 V and R = 6 ohms. :: 2 A
+Find R if V = 9 V and I = 3 A. :: 3 ohms
+What is a circuit? :: A complete loop for current to flow.
+What are the parts of a basic circuit? :: Source, wires, load and switch.
+What is a series circuit? :: A circuit with one path for the current.
+What is a parallel circuit? :: A circuit with more than one path.
+In a series circuit, if one bulb burns out, what happens? :: All bulbs go out.
+In a parallel circuit, if one bulb burns out, what happens? :: The others stay on.
+What is the current in a series circuit? :: The same everywhere.
+How is voltage divided in a series circuit? :: Shared among the components.
+How is voltage in a parallel circuit? :: The same across each branch.
+How does current split in a parallel circuit? :: It divides among the branches.
+Resistances of 2 and 3 ohms in series. Total? :: 5 ohms
+What happens to total resistance when you add resistors in parallel? :: It decreases.
+How do you connect an ammeter? :: In series.
+How do you connect a voltmeter? :: In parallel.
+What is a short circuit? :: A low-resistance path causing a large current.
+What does a fuse do? :: Melts to break the circuit if current is too high.
+What does a circuit breaker do? :: Opens automatically when current is too high.
+What is a ground wire for? :: To safely carry stray current into the ground.
+What is electrical power? :: The rate of using electrical energy: P = V x I.
+Find the power: V = 120 V, I = 5 A. :: 600 W
+What is a kilowatt-hour? :: A unit of energy: 1 kW used for 1 hour.
+Find the energy used: 2 kW for 3 hours. :: 6 kWh
+Find the cost: 10 kWh at $0.12 per kWh. :: $1.20
+What is a battery? :: A device that converts chemical energy to electrical energy.
+What is a cell? :: A single source of electrical energy.
+What is a generator? :: A device that converts mechanical energy to electrical energy.
+What is a solar cell? :: A device that converts light energy to electrical energy.
+What is a thermocouple? :: A device that makes voltage from a temperature difference.
+What is a piezoelectric material? :: A material that makes voltage when squeezed.
+How does a hydroelectric dam make power? :: Falling water spins a turbine connected to a generator.
+How does a wind turbine make power? :: Wind spins blades that turn a generator.
+What are the energy sources for Alberta's electricity? :: Natural gas, coal (phasing out), wind, solar and hydro.
+Name a way to save electrical energy. :: Use LEDs, turn off unused devices and use efficient appliances.
+What is an energy efficient appliance label? :: EnerGuide label showing energy consumption.
+
+## Science 9 | Space Exploration
+What is the universe? :: All of space, matter and energy.
+What is the Big Bang theory? :: The universe began about 13.8 billion years ago from a hot, dense state.
+What evidence supports the Big Bang? :: Red shift of galaxies and the cosmic microwave background.
+What is red shift? :: A shift of light to longer wavelengths as objects move away.
+What is the cosmic microwave background? :: Faint radiation left over from the early universe.
+What is a galaxy? :: A huge system of stars, gas and dust bound by gravity.
+What galaxy do we live in? :: The Milky Way.
+What shape is the Milky Way? :: A spiral.
+What is the nearest large galaxy to the Milky Way? :: Andromeda.
+What is a star? :: A huge ball of hot gas that makes its own light by fusion.
+What fuels the Sun? :: Nuclear fusion of hydrogen into helium.
+What is a light-year? :: The distance light travels in one year.
+How far is one light-year? :: About 9.5 trillion km.
+How long does sunlight take to reach Earth? :: About 8 minutes.
+What is the nearest star after the Sun? :: Proxima Centauri.
+What is a constellation? :: A pattern of stars seen from Earth.
+What is a nebula? :: A cloud of gas and dust where stars form.
+What is a supernova? :: The explosion of a massive star at the end of its life.
+What is a black hole? :: A region where gravity is so strong that light cannot escape.
+What is a neutron star? :: The dense core left after a supernova.
+What is the life cycle of a Sun-like star? :: Nebula, main sequence, red giant, white dwarf.
+What is the H-R diagram? :: A graph of star brightness versus temperature.
+What colour are the hottest stars? :: Blue.
+What colour are the coolest stars? :: Red.
+What are the planets in order from the Sun? :: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Which planet is the largest? :: Jupiter.
+Which planet is closest to the Sun? :: Mercury.
+Which planet is hottest? :: Venus.
+Which planet is called the Red Planet? :: Mars.
+Which planet has the most prominent rings? :: Saturn.
+Which planet rotates on its side? :: Uranus.
+What is the asteroid belt? :: A region of rocky bodies between Mars and Jupiter.
+What is a dwarf planet? :: A round body orbiting the Sun that has not cleared its orbit, like Pluto.
+What is a comet? :: A small icy body that grows a tail near the Sun.
+What is a meteoroid? :: A small rock moving in space.
+What is a meteor? :: The streak of light when a meteoroid burns in the atmosphere.
+What is a meteorite? :: A meteoroid that lands on Earth.
+What causes day and night? :: Earth's rotation.
+What causes the seasons? :: Earth's 23.5 degree axial tilt.
+What causes the Moon's phases? :: The changing view of the Moon's sunlit half as it orbits Earth.
+How long is a lunar cycle? :: About 29.5 days.
+What is a solar eclipse? :: The Moon blocks the Sun from Earth's view.
+What is a lunar eclipse? :: Earth's shadow falls on the Moon.
+What causes tides? :: The gravitational pull of the Moon (and Sun).
+What is gravity? :: The force of attraction between masses.
+What keeps planets in orbit? :: The Sun's gravity and the planets' motion.
+What is an orbit? :: The curved path of an object around another due to gravity.
+What is a satellite? :: An object that orbits a larger body.
+What is a natural satellite? :: A moon.
+What are artificial satellites used for? :: Communication, weather, navigation and observation.
+What does GPS use? :: Signals from satellites to find position.
+What is the International Space Station? :: A research station orbiting Earth.
+Who was the first human in space? :: Yuri Gagarin (1961).
+Who was the first person on the Moon? :: Neil Armstrong (1969).
+What was Apollo 11? :: The first mission to land humans on the Moon.
+Who is Chris Hadfield? :: A Canadian astronaut who commanded the ISS.
+Who was the first Canadian in space? :: Marc Garneau (1984).
+Who was the first Canadian woman in space? :: Roberta Bondar (1992).
+What is the Canadarm? :: A robotic arm built in Canada for space shuttles and the ISS.
+What is Canadarm2? :: The larger robotic arm on the ISS.
+What is a space probe? :: An unmanned spacecraft sent to explore space.
+Name a probe that left the solar system. :: Voyager 1 or 2.
+What is a rover? :: A vehicle that explores a planet's surface, like on Mars.
+Name a Mars rover. :: Curiosity or Perseverance.
+What is a telescope? :: A device that collects light to see distant objects.
+What is a reflecting telescope? :: A telescope using mirrors to gather light.
+What is the Hubble Space Telescope? :: A telescope in orbit taking clear images of space.
+What is the James Webb Space Telescope? :: An infrared space telescope launched in 2021.
+What is a radio telescope? :: A telescope that detects radio waves from space.
+What is a spectrometer? :: A tool that splits light into a spectrum to identify elements.
+What is an exoplanet? :: A planet orbiting a star other than the Sun.
+What is the habitable zone? :: The region around a star where liquid water could exist.
+What is space debris? :: Dead satellites and fragments orbiting Earth.
+What are benefits of space technology? :: GPS, weather forecasting, satellite communication and medical advances.
+
+## Science 10 | Energy and Matter in Chemical Change
+What is a chemical formula? :: A notation showing the elements and number of atoms in a compound.
+What is the formula of calcium chloride? :: CaCl2
+What is the formula of magnesium oxide? :: MgO
+What is the formula of aluminum oxide? :: Al2O3
+What is the formula of sodium sulfate? :: Na2SO4
+What is the formula of potassium hydroxide? :: KOH
+What is the formula of ammonium chloride? :: NH4Cl
+What is the formula of calcium hydroxide? :: Ca(OH)2
+What is the formula of iron(III) oxide? :: Fe2O3
+What is the name of CuSO4? :: Copper(II) sulfate.
+What is the name of CaCO3? :: Calcium carbonate.
+What is the name of HCl in water? :: Hydrochloric acid.
+What is the name of H2SO4? :: Sulfuric acid.
+What is the name of HNO3? :: Nitric acid.
+What is the name of NaHCO3? :: Sodium hydrogen carbonate (baking soda).
+What is the name of CO? :: Carbon monoxide.
+What is the name of N2O? :: Dinitrogen monoxide.
+What is the name of SO3? :: Sulfur trioxide.
+What is the charge on Na? :: 1+
+What is the charge on Mg? :: 2+
+What is the charge on Al? :: 3+
+What is the charge on O? :: 2-
+What is the charge on Cl? :: 1-
+What is the charge on the sulfate ion? :: 2-
+What is the charge on the nitrate ion? :: 1-
+What is the charge on the ammonium ion? :: 1+
+What is the charge on the carbonate ion? :: 2-
+What is the charge on the hydroxide ion? :: 1-
+Balance: Mg + O2 -> MgO :: 2 Mg + O2 -> 2 MgO
+Balance: Al + O2 -> Al2O3 :: 4 Al + 3 O2 -> 2 Al2O3
+Balance: C3H8 + O2 -> CO2 + H2O :: C3H8 + 5 O2 -> 3 CO2 + 4 H2O
+Balance: Fe + O2 -> Fe2O3 :: 4 Fe + 3 O2 -> 2 Fe2O3
+Balance: Na + Cl2 -> NaCl :: 2 Na + Cl2 -> 2 NaCl
+Balance: KClO3 -> KCl + O2 :: 2 KClO3 -> 2 KCl + 3 O2
+Balance: H2O -> H2 + O2 :: 2 H2O -> 2 H2 + O2
+Balance: Zn + HCl -> ZnCl2 + H2 :: Zn + 2 HCl -> ZnCl2 + H2
+Balance: AgNO3 + NaCl -> AgCl + NaNO3 :: Already balanced.
+Balance: Ca(OH)2 + HCl -> CaCl2 + H2O :: Ca(OH)2 + 2 HCl -> CaCl2 + 2 H2O
+Classify: A + B -> AB :: Synthesis.
+Classify: AB -> A + B :: Decomposition.
+Classify: A + BC -> AC + B :: Single replacement.
+Classify: AB + CD -> AD + CB :: Double replacement.
+Classify: hydrocarbon + O2 -> CO2 + H2O :: Combustion.
+Classify: 2 H2O2 -> 2 H2O + O2 :: Decomposition.
+Classify: Zn + CuSO4 -> ZnSO4 + Cu :: Single replacement.
+Classify: 2 Na + Cl2 -> 2 NaCl :: Synthesis.
+What is the activity series used for? :: Predicting whether a single replacement reaction occurs.
+What is a precipitation reaction? :: A reaction that forms an insoluble solid.
+What is a neutralization reaction? :: An acid reacts with a base to form salt and water.
+What is an acid-base titration? :: A method to find an unknown concentration using neutralization.
+What is the mole? :: The SI unit for amount of substance: 6.02 x 10^23 particles.
+What is Avogadro's number? :: 6.02 x 10^23
+What is molar mass? :: The mass of one mole of a substance in g/mol.
+Find the molar mass of H2O. :: 18.02 g/mol
+Find the molar mass of CO2. :: 44.01 g/mol
+Find the molar mass of NaCl. :: 58.44 g/mol
+How many moles in 36 g of H2O? :: 2 mol
+How many grams in 0.5 mol of CO2? :: 22 g
+How many particles in 2 mol? :: 1.20 x 10^24
+What is an exothermic reaction? :: A reaction that releases energy.
+What is an endothermic reaction? :: A reaction that absorbs energy.
+Give an exothermic example. :: Burning fuel or a hand warmer.
+Give an endothermic example. :: An instant cold pack or photosynthesis.
+What is a catalyst? :: A substance that speeds up a reaction without being used up.
+What is an enzyme? :: A biological catalyst.
+What factors affect reaction rate? :: Temperature, concentration, surface area and catalyst.
+Why does a higher temperature speed up a reaction? :: Particles move faster and collide more often with more energy.
+Why does a powder react faster than a lump? :: More surface area is exposed.
+What is a combustion reaction's product when complete? :: Carbon dioxide and water.
+What is incomplete combustion? :: Burning with limited oxygen that produces CO or soot.
+Why is carbon monoxide dangerous? :: It blocks oxygen transport in blood.
+
+## Science 10 | Energy Flow in Technological Systems
+What is energy? :: The ability to do work.
+What is the unit of energy? :: Joule (J).
+What is kinetic energy? :: Energy of motion.
+What is the formula for kinetic energy? :: Ek = 1/2 m v^2
+Find Ek: m = 2 kg, v = 4 m/s. :: 16 J
+Find Ek: m = 10 kg, v = 3 m/s. :: 45 J
+Find Ek: m = 1000 kg, v = 20 m/s. :: 200 000 J
+What is gravitational potential energy? :: Energy stored due to height.
+What is the formula for gravitational potential energy? :: Ep = m g h
+Find Ep: m = 5 kg, h = 10 m (g = 9.8). :: 490 J
+Find Ep: m = 2 kg, h = 3 m. :: 58.8 J
+What is elastic potential energy? :: Energy stored in a stretched or compressed object.
+What is chemical potential energy? :: Energy stored in chemical bonds.
+What is thermal energy? :: The total kinetic energy of particles in a substance.
+What is electrical energy? :: Energy from moving charges.
+What is nuclear energy? :: Energy stored in atomic nuclei.
+What is radiant energy? :: Energy carried by electromagnetic waves.
+What is sound energy? :: Energy carried by vibrations in matter.
+What is the law of conservation of energy? :: Energy is never created or destroyed, only transformed.
+Describe the energy changes in a swinging pendulum. :: Ep converts to Ek at the bottom and back again.
+Describe the energy changes in a roller coaster. :: Ep at the top becomes Ek going down; some becomes heat by friction.
+Describe the energy changes in a toaster. :: Electrical energy becomes thermal and light energy.
+Describe the energy changes in a flashlight. :: Chemical to electrical to light and heat.
+What is work? :: Force applied over a distance.
+What is the formula for work? :: W = F x d
+Find work: 20 N over 5 m. :: 100 J
+Find work: 50 N over 3 m. :: 150 J
+When is no work done? :: When there is no displacement, or the force is perpendicular to motion.
+What is power? :: The rate of doing work or using energy.
+What is the formula for power? :: P = W / t
+Find power: 600 J in 10 s. :: 60 W
+Find power: 1500 J in 30 s. :: 50 W
+What is the unit of power? :: Watt (W).
+What is a kilowatt? :: 1000 watts.
+What is efficiency? :: The percent of input energy converted to useful output energy.
+What is the efficiency formula? :: Efficiency = (useful output / total input) x 100%
+Find efficiency: 80 J out from 100 J in. :: 80%
+Find efficiency: 30 J out from 120 J in. :: 25%
+Why is no machine 100% efficient? :: Some energy is always lost, often as heat.
+What is a simple machine? :: A device that changes the size or direction of a force.
+Name the six simple machines. :: Lever, pulley, wheel and axle, inclined plane, wedge, screw.
+What is a lever? :: A bar that pivots on a fulcrum.
+What is a fulcrum? :: The pivot point of a lever.
+What is mechanical advantage? :: Output force divided by input force.
+What is an inclined plane's advantage? :: It reduces the force needed by increasing distance.
+What is a pulley's use? :: Changing the direction of a force or lifting with less effort.
+What is a heat engine? :: A device that turns thermal energy into mechanical work.
+What is a thermal conductor? :: A material that transfers heat easily.
+What is a thermal insulator? :: A material that resists heat transfer.
+What is conduction? :: Heat transfer by direct contact.
+What is convection? :: Heat transfer by the movement of fluids.
+What is radiation? :: Heat transfer by electromagnetic waves.
+What is specific heat capacity? :: Energy needed to raise 1 g of a substance by 1 degree C.
+What is the specific heat of water? :: 4.19 J/(g C)
+Find the energy to heat 200 g of water by 10 degrees C. :: 8380 J
+What is a renewable energy source? :: One that replenishes naturally, like wind or solar.
+What is a non-renewable energy source? :: One that is used up faster than it forms, like oil.
+Name a way to improve a device's efficiency. :: Reduce friction and heat loss.
+What is regenerative braking? :: Converting braking energy back into electrical energy.
+What is a hybrid vehicle? :: A vehicle using both a gasoline engine and electric motor.
+What is cogeneration? :: Producing electricity and useful heat from one fuel.
+What is energy conservation? :: Using less energy.
+
+## Science 10 | Cycling of Matter in Living Systems
+What is photosynthesis? :: Plants use light, CO2 and water to make glucose and oxygen.
+What is the equation for photosynthesis? :: 6 CO2 + 6 H2O + light -> C6H12O6 + 6 O2
+What is cellular respiration? :: Cells break down glucose with oxygen to release energy.
+What is the equation for cellular respiration? :: C6H12O6 + 6 O2 -> 6 CO2 + 6 H2O + energy
+Where does photosynthesis occur? :: In chloroplasts.
+Where does cellular respiration occur? :: Mostly in mitochondria.
+What is chlorophyll? :: The green pigment that absorbs light for photosynthesis.
+What are stomata? :: Pores in leaves for gas exchange.
+What is ATP? :: The cell's energy currency.
+What is a producer? :: An organism that makes its own food.
+What is a consumer? :: An organism that eats other organisms.
+What is a herbivore? :: An animal that eats plants.
+What is a carnivore? :: An animal that eats other animals.
+What is an omnivore? :: An animal that eats both plants and animals.
+What is a decomposer? :: An organism that breaks down dead material.
+Name a decomposer. :: Fungi or bacteria.
+What is a detritivore? :: An organism that feeds on dead organic matter, like earthworms.
+What is a food chain? :: A single path showing who eats whom.
+What is a food web? :: Many interconnected food chains.
+What is a trophic level? :: A feeding level in a food chain.
+What is the 10% rule? :: About 10% of energy passes to the next trophic level.
+Why are food chains short? :: Energy is lost at each level.
+What is an energy pyramid? :: A diagram showing energy at each trophic level.
+What is a biomass pyramid? :: A diagram of the total mass at each trophic level.
+What is the carbon cycle? :: The movement of carbon among air, water, organisms and soil.
+How does carbon enter living things? :: Through photosynthesis.
+How does carbon return to the atmosphere? :: Respiration, decomposition and burning.
+What are carbon sinks? :: Forests, oceans and soils that store carbon.
+What is the nitrogen cycle? :: The movement of nitrogen among air, soil and organisms.
+What is nitrogen fixation? :: Converting N2 to forms plants can use.
+What organisms fix nitrogen? :: Certain bacteria, often in legume root nodules.
+What is nitrification? :: Bacteria converting ammonium to nitrate.
+What is denitrification? :: Bacteria returning nitrogen to the air.
+What is the phosphorus cycle? :: The movement of phosphorus through rocks, soil, water and organisms.
+What is the water cycle? :: Evaporation, condensation, precipitation and collection.
+What is transpiration? :: Water vapour released from plant leaves.
+What is a biome? :: A large region defined by climate and its living things.
+Name three Canadian biomes. :: Boreal forest, tundra, grassland.
+What is a biotic factor? :: A living part of an ecosystem.
+What is an abiotic factor? :: A non-living part of an ecosystem.
+What is a limiting factor? :: A resource that limits population growth.
+What is carrying capacity? :: The largest population an environment can support.
+What is a population? :: All members of a species in an area.
+What is population density? :: The number of individuals per unit area.
+What is symbiosis? :: A close relationship between two species.
+What is mutualism? :: Both species benefit.
+What is parasitism? :: One benefits and the other is harmed.
+What is commensalism? :: One benefits and the other is unaffected.
+What is competition? :: Organisms struggle for the same resources.
+What is predation? :: One organism hunts another for food.
+What is succession? :: A gradual change in the community of an area.
+What is bioaccumulation? :: Build-up of a toxin in an organism.
+What is biomagnification? :: Increase of a toxin up the food chain.
+What is an invasive species? :: A non-native species that harms an ecosystem.
+Give an invasive species found in Alberta. :: Leafy spurge, Canada thistle or Norway rats.
+What is a keystone species? :: A species with a large effect on its ecosystem.
+What is deforestation's effect on carbon? :: Less CO2 absorption and more CO2 released.
+What is an ecological footprint? :: The land and resources needed to support a person or population.
+What is sustainability? :: Meeting needs without harming future generations.
+
+## Science 10 | Energy Flow in Global Systems
+What is weather? :: Short-term atmospheric conditions.
+What is climate? :: The average weather over a long period.
+What drives weather? :: Energy from the Sun and Earth's rotation.
+What is the atmosphere? :: The layer of gases around Earth.
+What are the layers of the atmosphere? :: Troposphere, stratosphere, mesosphere, thermosphere, exosphere.
+Where does weather occur? :: In the troposphere.
+What is the ozone layer's location? :: In the stratosphere.
+What is air pressure? :: The force of air molecules on a surface.
+What is a high-pressure system? :: Sinking air bringing clear, dry weather.
+What is a low-pressure system? :: Rising air bringing clouds and precipitation.
+What is wind? :: Air moving from high to low pressure.
+What is the Coriolis effect? :: The curving of winds and currents by Earth's rotation.
+What is a jet stream? :: A fast current of high-altitude air.
+What is humidity? :: The amount of water vapour in the air.
+What is relative humidity? :: The percent of water vapour the air holds compared to its maximum.
+What is the dew point? :: The temperature at which air becomes saturated and dew forms.
+What is a front? :: The boundary between two air masses.
+What happens at a cold front? :: Cold air pushes under warm air, often bringing storms.
+What happens at a warm front? :: Warm air rises over cold air, bringing steady rain.
+What is a chinook? :: A warm, dry wind that descends the east side of the Rockies.
+What is a rain shadow? :: A dry region on the leeward side of mountains.
+What is a thunderstorm? :: A storm with lightning, thunder and heavy rain.
+What is a tornado? :: A rotating column of air touching the ground.
+What is a hurricane? :: A large tropical storm with strong winds.
+What is the Fujita scale? :: A scale rating tornado strength.
+What is an ocean current? :: A large flow of ocean water.
+What is the Gulf Stream? :: A warm Atlantic current that warms northwest Europe.
+What is thermohaline circulation? :: Global ocean circulation driven by temperature and salt differences.
+What is El Nino? :: A periodic warming of Pacific waters that changes global weather.
+What is La Nina? :: A periodic cooling of Pacific waters.
+Why is Edmonton colder than Vancouver in winter? :: Vancouver is warmed by the ocean; Edmonton is inland.
+What is specific heat capacity? :: Energy needed to raise 1 g of a substance by 1 degree C.
+Why does water moderate climates? :: It heats and cools slowly because of its high specific heat.
+What is albedo? :: The fraction of sunlight a surface reflects.
+Which has higher albedo: snow or forest? :: Snow.
+What is the greenhouse effect? :: Gases trap heat in the atmosphere.
+What are greenhouse gases? :: CO2, CH4, N2O and water vapour.
+What is global warming? :: A long-term rise in Earth's average temperature.
+What is climate change? :: A long-term change in global or regional climate patterns.
+What are signs of climate change? :: Rising temperatures, melting ice, sea level rise and more extreme weather.
+What is a carbon sink? :: A system that absorbs more carbon than it releases.
+What is a carbon source? :: A system that releases more carbon than it absorbs.
+What is the Paris Agreement? :: A 2015 deal to limit warming well below 2 degrees C.
+What is a carbon tax? :: A fee on carbon emissions.
+What is renewable energy? :: Energy from naturally replenished sources.
+What are examples of renewable energy? :: Solar, wind, hydro, geothermal and biomass.
+What is the Sun's role in the water cycle? :: It provides energy for evaporation.
+What is evaporation? :: Liquid turning to gas below boiling point.
+What is condensation? :: Gas turning to liquid.
+What is precipitation? :: Water falling from clouds as rain, snow, sleet or hail.
+What is a glacier? :: A large mass of ice that moves slowly.
+What is permafrost? :: Ground that stays frozen for years.
+Why is melting permafrost a problem? :: It releases greenhouse gases and damages buildings.
+What is sea level rise caused by? :: Melting land ice and thermal expansion of water.
+What is thermal expansion? :: Water expanding as it warms.
+What is a drought? :: A long period of unusually low precipitation.
+What is a flood? :: Water overflowing onto normally dry land.
+What is a wildfire's link to climate? :: Warmer, drier conditions increase wildfire risk.
+What is a heat dome? :: A persistent high-pressure system trapping hot air.
+What is a climate model? :: A computer simulation predicting climate change.
+How do scientists study past climates? :: Ice cores, tree rings and sediment layers.
+What does an ice core show? :: Past atmospheric gases and temperatures.
+What are solar flares' effects? :: They can disrupt satellites and power grids.
+What is the aurora? :: Light in the sky caused by charged particles hitting the atmosphere.

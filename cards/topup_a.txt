@@ -1,0 +1,383 @@
+## Mathematics 9 | Exponents and Powers
+Evaluate: (-2)^3 :: -8
+Evaluate: 2^3 x 3^2 :: 72
+Simplify: (x^3 y^2)^2 / (x y) :: x^5 y^3
+Write 8 x 8 x 8 x 8 using a power. :: 8^4
+What is the value of 10^0 + 10^1 + 10^2? :: 111
+Which is greater: 2^6 or 6^2? :: 2^6 = 64 is greater than 36.
+Evaluate: 5^2 - 3^2 :: 16
+Evaluate: (3 + 2)^2 versus 3^2 + 2^2. :: 25 versus 13; they are not equal.
+Express 1/1000 as a power of 10. :: 10^-3
+What is the area of a square of side 2^3? :: 64
+What is sqrt(2^4)? :: 4
+Evaluate: (1/2)^3 :: 1/8
+Simplify: 3a^2 x 4a^3 :: 12a^5
+Write 0.5 x 10^3 in scientific notation. :: 5 x 10^2
+
+## Mathematics 9 | Square Roots and the Pythagorean Theorem
+What is sqrt(196)? :: 14
+What is sqrt(256)? :: 16
+What is sqrt(0.01)? :: 0.1
+Estimate sqrt(90). :: About 9.5
+A right triangle has legs 20 and 21. Find the hypotenuse. :: 29
+Find the missing leg: hypotenuse 41, leg 9. :: 40
+What is the diagonal of a cube with side 1? :: sqrt(3), about 1.73.
+A flagpole 12 m tall has a cable 15 m long to the ground. How far from the base? :: 9 m
+Is 9, 40, 41 a Pythagorean triple? :: Yes: 81 + 1600 = 1681.
+What is sqrt(300) simplified? :: 10 sqrt(3)
+What is the cube root of 1000? :: 10
+What is the cube root of 27/8? :: 3/2
+What is the length of the diagonal of a 1 by 2 rectangle? :: sqrt(5), about 2.24.
+What is the area of a square with diagonal 6? :: 18
+
+## Mathematics 9 | Polynomials
+Simplify: 9x - 4x + x :: 6x
+Multiply: (x + 7)(x - 2) :: x^2 + 5x - 14
+Multiply: (2x - 3)(2x + 3) :: 4x^2 - 9
+Expand: (3x + 1)^2 :: 9x^2 + 6x + 1
+Subtract: (5x^2 + 2x - 1) - (2x^2 - x + 4) :: 3x^2 + 3x - 5
+Divide: (10x^2 - 5x) / 5x :: 2x - 1
+Evaluate x^2 + 2x + 1 when x = 5. :: 36
+What is the degree of x^3 y^2 z? :: 6
+What is the coefficient of x^2 in 4 - 7x^2 + x? :: -7
+Simplify: -(2x - 5) :: -2x + 5
+What is the area of a rectangle with sides 3x and (x + 4)? :: 3x^2 + 12x
+What is the perimeter of a rectangle with sides x + 1 and 2x? :: 6x + 2
+Is 2x^3 - x + 7 a trinomial? :: Yes, it has three terms.
+Simplify: 4(x - 2) + 3(x + 1) :: 7x - 5
+Expand: x(x - 1)(x + 1) :: x^3 - x
+Simplify: (x^2 + 3x) - (3x + x^2) :: 0
+
+## Mathematics 9 | Linear Relations
+Find the slope between (2, 5) and (4, 11). :: 3
+Find the slope between (-1, 2) and (3, -2). :: -1
+Write the equation: slope 4, passes through (0, 7). :: y = 4x + 7
+What is the y-intercept of y = 9 - 2x? :: 9
+What is the slope of y = 9 - 2x? :: -2
+Does (3, 8) lie on y = 2x + 2? :: Yes.
+Is the relation y = 3/x linear? :: No.
+What is the equation of the line through (0, 0) and (2, 6)? :: y = 3x
+What is the rate of change in a table where y goes 4, 9, 14, 19 as x goes 0 to 3? :: 5
+
+## Mathematics 9 | Linear Equations and Inequalities
+Solve: 8x - 5 = 3x + 20 :: 5
+Solve: -3(x - 1) = 9 :: -2
+Solve: (x/2) - 4 = 3 :: 14
+Solve: 2x + 3x = 35 :: 7
+Solve: 3 - x >= 1 :: x <= 2
+Write an equation: 7 less than a number is 12. :: n - 7 = 12, so n = 19.
+
+## Mathematics 9 | Similarity and Scale
+What is the scale factor from a 9 cm line to a 3 cm line? :: 1/3
+What is the image length if 6 cm is enlarged by factor 2.5? :: 15 cm
+Two similar triangles have corresponding sides 6 and 9. A side of 8 in the first corresponds to what in the second? :: 12
+A building 20 m tall casts a 30 m shadow. A 1.8 m person casts a shadow of what length? :: 2.7 m
+Are two triangles with sides 2, 3, 4 and 4, 6, 9 similar? :: No; 2/4 = 3/6 but 4/9 differs.
+A map scale is 1 cm : 5 km. Two cities are 8.4 cm apart. Distance? :: 42 km
+A drawing at 1:25 shows a table 4 cm long. Actual length? :: 100 cm
+A model has scale 1:10. The model volume is 2 L. What is the real volume? :: 2000 L
+If a polygon's area is multiplied by 16, what is the scale factor? :: 4
+If a similar solid's volume is multiplied by 8, what is the scale factor? :: 2
+A photo is enlarged from 4 by 6 inches to 6 by 9 inches. Scale factor? :: 1.5
+What is the scale factor of 1:200 expressed as a decimal? :: 0.005
+What is the scale if 3 cm represents 15 m? :: 1:500
+A tree's shadow is 15 m when a 2 m stick casts 1.5 m. Tree height? :: 20 m
+Which transformation preserves similarity but changes size? :: A dilation.
+How can you test if two quadrilaterals are similar? :: Check equal angles and proportional sides.
+Triangle A has area 10. A similar triangle B has sides twice as long. Area of B? :: 40
+Circles of radius 3 and 9 are similar. What is the ratio of their areas? :: 1:9
+What is the ratio of circumferences of circles with radii 3 and 9? :: 1:3
+What is the length scale if the area scale is 49? :: 7
+
+## Mathematics 9 | Surface Area and Volume
+Find the surface area of a cube with side 10. :: 600
+Find the volume of a cylinder with r = 10 and h = 2. :: 200 pi, about 628.3.
+What is the volume of a cone with the same base and height as a cylinder of volume 90? :: 30
+What is the volume of a sphere with diameter 6? :: 36 pi, about 113.1.
+Find the volume of a prism with base area 25 and height 4. :: 100
+Find the total surface area of a closed cylinder with r = 5 and h = 10. :: 150 pi, about 471.2.
+Convert 2.5 m^3 to litres. :: 2500 L
+
+## Mathematics 9 | Statistics and Probability
+Find the mean of 14, 18, 22, 26. :: 20
+Find the median of 5, 1, 9, 3, 7, 11. :: 6
+What is the probability of drawing a black card from a standard deck? :: 1/2
+What is the probability of rolling a number less than 5? :: 2/3
+What is P(A) if 12 of 30 outcomes are favourable? :: 2/5
+What does the mean tell you? :: The balance point or average value.
+What is the probability of rolling a 7 on a standard die? :: 0
+How many outcomes when spinning a spinner with 5 parts and flipping a coin? :: 10
+
+## Science 9 | Biological Diversity
+What is a pedigree chart used for? :: Tracing a trait through generations.
+What is a test cross? :: Crossing an unknown dominant individual with a homozygous recessive.
+What does a carrier mean? :: An individual who has one recessive allele but shows no trait.
+What is genetic variation caused by? :: Mutations and sexual reproduction.
+What is a gene pool? :: All the alleles in a population.
+What is the effect of a small gene pool? :: Less ability to adapt to change.
+What is the difference between a gene and an allele? :: A gene is a segment coding for a trait; alleles are its versions.
+What is the difference between genotype and phenotype? :: Genotype is the alleles; phenotype is the observable trait.
+What is DNA's shape? :: A double helix.
+What are the four bases of DNA? :: A, T, C and G.
+Which bases pair together? :: A with T and C with G.
+What is a trait example controlled by one gene? :: Pea plant flower colour.
+What is biodiversity hotspot? :: A region with many unique species under threat.
+What is a species at risk? :: A species in danger of disappearing.
+What is a captive breeding program? :: Breeding endangered animals in zoos to release in the wild.
+What is a protected area? :: Land set aside to conserve nature, like a national park.
+Name a national park in Alberta. :: Banff, Jasper, Elk Island or Waterton Lakes.
+What is Elk Island National Park known for? :: Conserving bison.
+What is the plains bison's conservation story? :: Nearly extinct in the 1800s, now recovering.
+What is the difference between a population and a species? :: A species contains many populations.
+
+## Science 9 | Matter and Chemical Change
+What is the atomic number of carbon? :: 6
+What is the atomic number of hydrogen? :: 1
+What is the atomic number of helium? :: 2
+What is the atomic mass of oxygen approx.? :: 16
+How many valence electrons does carbon have? :: 4
+How many valence electrons does chlorine have? :: 7
+Why is helium unreactive? :: It has a full outer shell.
+Why are alkali metals so reactive? :: They have one valence electron that is easily lost.
+What is the symbol for lead? :: Pb
+What is the symbol for copper? :: Cu
+What is the symbol for mercury? :: Hg
+What is the symbol for tin? :: Sn
+What is the symbol for calcium? :: Ca
+What is the symbol for nitrogen? :: N
+What is the formula for glucose? :: C6H12O6
+What is the formula for hydrogen peroxide? :: H2O2
+What is the formula for sulfuric acid? :: H2SO4
+What is the formula for hydrochloric acid? :: HCl
+
+## Science 9 | Environmental Chemistry
+What is the formula for sulfur dioxide? :: SO2
+What is the formula for nitrogen dioxide? :: NO2
+What is pH 3 compared with pH 4? :: Ten times more acidic.
+What does an acid taste like and why not taste lab chemicals? :: Acids taste sour; tasting chemicals is unsafe.
+What is a corrosive substance? :: A substance that damages materials or skin.
+Which gas from burning coal causes acid rain? :: Sulfur dioxide.
+What is a scrubber in a smokestack? :: A device removing pollutants from exhaust gases.
+What is catalytic converter's job in cars? :: Convert harmful gases into less harmful ones.
+What is a pesticide? :: A chemical used to kill pests.
+What is an herbicide? :: A chemical used to kill weeds.
+What is a fertilizer? :: A substance supplying nutrients to plants.
+Why can fertilizer runoff harm lakes? :: It causes algae blooms and oxygen loss.
+What is a toxin? :: A poison.
+What is LD50? :: The dose that kills half of a test population.
+What is a safe disposal of household chemicals? :: Take them to a hazardous waste depot.
+What does the WHMIS oxidizing symbol warn of? :: Materials that can cause or intensify fires.
+What does the WHMIS health hazard symbol warn of? :: Serious long-term health effects.
+What does the gas cylinder symbol warn of? :: Gases under pressure.
+What does a WHMIS environmental hazard symbol show? :: A dead tree and fish, showing harm to the environment.
+What is a Safety Data Sheet? :: A document with details about a chemical's hazards and handling.
+What are the signs of a water quality problem? :: Odour, colour, cloudiness and low oxygen.
+What is the Alberta Clean Air Strategy? :: A plan to monitor and reduce air pollution.
+What is a sink in the carbon cycle? :: A reservoir absorbing carbon like forests and oceans.
+What is phytoremediation? :: Using plants to clean contaminated soil.
+
+## Science 9 | Electrical Principles and Technologies
+What is the unit for electrical energy on a utility bill? :: Kilowatt hour.
+What is an ammeter? :: A device that measures current.
+What is a voltmeter? :: A device that measures voltage.
+What is a rheostat? :: A variable resistor.
+What is a resistor? :: A component that limits current.
+What is a diode? :: A component letting current flow in one direction.
+What is an LED? :: A light-emitting diode.
+What is AC? :: Alternating current.
+What is DC? :: Direct current.
+What kind of current do batteries provide? :: DC.
+What kind of current do wall outlets provide? :: AC.
+What is an electromagnet? :: A magnet made using electric current in a coil.
+What is a transformer? :: A device that changes AC voltage.
+What is a power grid? :: A network delivering electricity from producers to consumers.
+Why is high voltage used for power lines? :: To reduce energy loss.
+What is the safe response to a downed power line? :: Stay far away and call emergency services.
+Why is water dangerous near electricity? :: It conducts electricity and can cause shock.
+What is a three-prong plug's third prong? :: A ground connection for safety.
+What does GFCI stand for? :: Ground fault circuit interrupter.
+Where are GFCI outlets used? :: Near water, like bathrooms and kitchens.
+What is a smart meter? :: A meter that records electricity use in detail.
+What is the energy transformation in a light bulb? :: Electrical to light and heat.
+What is the energy transformation in a generator? :: Mechanical to electrical.
+What is the energy transformation in a motor? :: Electrical to mechanical.
+What is the energy transformation in a solar panel? :: Light to electrical.
+What is the cost of running a 1 kW heater for 5 h at $0.15 per kWh? :: $0.75
+
+## Science 9 | Space Exploration
+What is the diameter of Earth, roughly? :: About 12 700 km.
+What is the distance from the Earth to the Moon? :: About 384 000 km.
+What is the distance from Earth to the Sun? :: About 150 million km (1 AU).
+What is an astronomical unit? :: The average Earth-Sun distance.
+What is the Kuiper Belt? :: A region of icy bodies beyond Neptune.
+What is the Oort Cloud? :: A distant spherical cloud of comets.
+What is a pulsar? :: A rapidly spinning neutron star emitting beams of radiation.
+What is dark matter? :: Invisible matter detected by its gravity.
+What is dark energy? :: A mysterious force driving the universe's accelerating expansion.
+
+## English Language Arts * | Short Stories
+What is the difference between theme and moral? :: A theme is a broad idea; a moral is a direct lesson.
+What is a story's exposition meant to do? :: Introduce setting, characters and background.
+What is the effect of a first-person narrator? :: It gives an intimate but limited view.
+What is a plot twist? :: A sudden unexpected change in the story's direction.
+What is a symbol in a story? :: An object representing something bigger.
+What does conflict drive in a story? :: The plot and character development.
+What is a story's atmosphere? :: The overall feeling created by setting and language.
+What is a narrator's tone? :: The attitude shown toward the events.
+What does the title of a story often suggest? :: A theme, symbol or central image.
+What is a story's central idea? :: The main point the author explores.
+What is a lesson learned by a character called? :: An insight or revelation.
+What is a pivotal moment? :: A scene that changes the story's direction.
+What is a character's flaw? :: A weakness that creates conflict.
+What is the setting of a story set in a hospital? :: A hospital, which may create tension or care.
+
+## English Language Arts * | Novel Study
+What is a character's relationship web? :: A diagram of how characters connect.
+What is a thesis for a character analysis? :: A claim about how a character changes or what they represent.
+What is a topic sentence in a literary essay? :: A claim about one aspect of the text.
+What is a concluding sentence in a body paragraph? :: A sentence tying the paragraph back to the thesis.
+What is an example of text-to-self connection? :: Relating a character's choice to your own experience.
+What is a text-to-world connection? :: Relating the story to real-world issues.
+What does the author's craft mean? :: The techniques an author uses to create meaning.
+What is a novel's exposition? :: The opening introducing characters and setting.
+What is the role of a minor character? :: To support the main characters and plot.
+
+## English Language Arts * | Poetry
+What is a poem's speaker? :: The voice narrating the poem.
+What is the difference between a poem and a song? :: A song is meant to be sung; a poem may not have music.
+What is a haiku's subject often? :: Nature or a season.
+What is a tanka? :: A five-line Japanese poem with 5-7-5-7-7 syllables.
+What is a cinquain? :: A five-line poem with 2-4-6-8-2 syllables.
+What is an acrostic poem? :: A poem where the first letters spell a word.
+What is a diamante poem? :: A diamond-shaped seven-line poem.
+What is a pantoum? :: A poem where lines repeat in a set pattern.
+What is a sestina? :: A 39-line poem with six repeating end words.
+What is internal rhyme? :: Rhyme within a line.
+What is slant rhyme? :: Near rhyme.
+What is eye rhyme? :: Words that look alike but sound different, like love and move.
+What is a poetic foot? :: A unit of rhythm, like an iamb.
+What is a trochee? :: A stressed syllable followed by an unstressed one.
+What is a dactyl? :: One stressed followed by two unstressed syllables.
+What is an anapest? :: Two unstressed followed by one stressed syllable.
+What is a spondee? :: Two stressed syllables.
+What is the mood of an elegy? :: Sad and reflective.
+What is the purpose of an ode? :: To praise or celebrate.
+What is a poem's form? :: Its structure and shape.
+What is white space in poetry? :: The blank space that creates pauses and emphasis.
+What is a poem's persona? :: The invented speaker.
+What is a turn in poetry? :: A shift in thought or emotion.
+What is a metaphor in "Time is a thief"? :: Time is compared to a thief.
+What is the simile in "as brave as a lion"? :: Bravery compared to a lion.
+What is the personification in "the wind whispered"? :: The wind is given a human action.
+
+## English Language Arts * | Drama and Shakespeare
+What is the role of the stage manager? :: Coordinating the production behind the scenes.
+What are stage left and stage right? :: The actor's left and right facing the audience.
+What is upstage? :: The area of the stage farthest from the audience.
+What is downstage? :: The area closest to the audience.
+What is the fourth wall? :: The imaginary wall between actors and the audience.
+What is breaking the fourth wall? :: Speaking directly to the audience.
+What is a dramatic monologue? :: A speech revealing a character's thoughts to others.
+What is a play's exposition? :: The opening that sets up the characters and conflict.
+What is a play's denouement? :: The final resolution.
+What is a Greek chorus? :: A group commenting on the action in ancient drama.
+What is Aristotle's idea of tragedy? :: A noble hero's downfall causing pity and fear.
+What is a farce? :: A comedy using exaggerated situations.
+What is a tragicomedy? :: A play mixing tragedy and comedy.
+What is verse in Shakespeare? :: Lines written in metre, often iambic pentameter.
+What is prose in Shakespeare? :: Ordinary speech, often used by lower-class characters.
+What is the significance of verse versus prose? :: It can show social class or emotion.
+What is a rhymed couplet in Shakespeare's scenes? :: A closing signal for a scene.
+What is a soliloquy's purpose? :: To reveal inner thoughts to the audience.
+What is the purpose of an aside? :: To share a quick thought with the audience.
+What is the effect of a prologue? :: It previews the story or sets the scene.
+What is Julius Caesar about? :: A conspiracy to assassinate Caesar.
+What is Othello about? :: Jealousy and manipulation destroying a general.
+What is A Midsummer Night's Dream about? :: Love confusions in an enchanted forest.
+What is The Tempest about? :: A magician's island, revenge and forgiveness.
+What is a tragic downfall's cause in Macbeth? :: Ambition and guilt.
+
+## English Language Arts * | Essay and Persuasive Writing
+What is an effective thesis? :: A clear, arguable claim.
+What is an introduction hook example? :: A surprising statistic.
+What is the five-paragraph essay? :: An introduction, three body paragraphs and a conclusion.
+What is an argumentative essay? :: An essay defending a position with evidence.
+What is an expository essay? :: An essay that explains a topic.
+What is a narrative essay? :: An essay telling a personal story.
+What is a descriptive essay? :: An essay using vivid detail to describe.
+What is a compare and contrast essay? :: An essay showing similarities and differences.
+What is a cause and effect essay? :: An essay explaining why something happens and its results.
+What is a reflection? :: Writing about what you learned or thought.
+What is a counterargument paragraph? :: A paragraph presenting and rebutting an opposing view.
+What is effective evidence? :: Relevant, specific and credible support.
+What is a transition sentence? :: A sentence bridging two paragraphs.
+What is cohesion in writing? :: Ideas that connect smoothly.
+What is coherence in writing? :: A logical and clear flow of ideas.
+What is unity? :: All sentences support the main idea.
+
+## English Language Arts * | Literary Devices and Analysis
+What is a simile example? :: "Her smile was as bright as the sun."
+What is a metaphor example? :: "The classroom was a zoo."
+What is hyperbole example? :: "I'm so hungry I could eat a horse."
+What is personification example? :: "The sun smiled down on us."
+What is alliteration example? :: "Peter Piper picked a peck of pickled peppers."
+What is onomatopoeia example? :: "Buzz," "sizzle," "boom."
+What is irony example? :: A fire station burning down.
+What is an oxymoron example? :: Jumbo shrimp.
+What is a paradox example? :: "Less is more."
+What is a symbol example? :: A dove for peace.
+What is an allusion example? :: "He met his Waterloo," referring to Napoleon's defeat.
+What is a motif example? :: Repeated references to water in a story.
+What is a pun example? :: "I used to be a banker, but I lost interest."
+What is a euphemism example? :: "Passed away" for died.
+What is a cliche example? :: "Time heals all wounds."
+What is a flashback's purpose? :: To give background or show memory.
+What is the purpose of foreshadowing? :: To build suspense and hint at outcomes.
+What is the effect of imagery in a description? :: It helps readers picture the scene.
+What is the effect of a metaphor? :: It reveals a connection in a new way.
+What is the effect of irony? :: It creates humour, tension or criticism.
+
+## English Language Arts * | Grammar and Language Conventions
+What is a gerund? :: A verb form ending in -ing used as a noun.
+What is an infinitive? :: The base verb with "to," like to run.
+What is a participle? :: A verb form used as an adjective, like broken glass.
+What is an appositive? :: A noun phrase renaming the noun beside it.
+What is a relative pronoun? :: A pronoun like who, which or that introducing a clause.
+What is a demonstrative pronoun? :: This, that, these or those.
+What is an interrogative pronoun? :: Who, what, which, whose, whom.
+What is an indefinite pronoun? :: A pronoun like someone or everyone.
+What is an article? :: A, an or the.
+What is a determiner? :: A word that introduces a noun, like this, some, my.
+What is a clause's main verb? :: The verb stating the action or state of the subject.
+What is the plural of "child"? :: Children.
+What is the plural of "analysis"? :: Analyses.
+What is the plural of "criterion"? :: Criteria.
+What is the plural of "phenomenon"? :: Phenomena.
+What is the correct form: "Between you and I" or "Between you and me"? :: Between you and me.
+What is the correct form: "fewer" or "less" with countable items? :: Fewer.
+What is the difference between "accept" and "except"? :: Accept means receive; except means exclude.
+What is the difference between "principal" and "principle"? :: Principal is a head or main; principle is a rule.
+What is the difference between "complement" and "compliment"? :: Complement completes; compliment praises.
+What is the difference between "lose" and "loose"? :: Lose means misplace; loose means not tight.
+What is the difference between "weather" and "whether"? :: Weather is climate; whether introduces a choice.
+What is the difference between "then" and "than"? :: Then shows time; than compares.
+What is the difference between "advice" and "advise"? :: Advice is a noun; advise is a verb.
+What is a hyphen used for? :: Joining words or splitting words at line ends.
+What is an ellipsis used for? :: Showing omitted words or a pause.
+
+## English Language Arts * | Media and Visual Literacy
+What is a news value? :: A reason a story is considered newsworthy, like timeliness.
+What is the inverted pyramid? :: A news structure giving the most important facts first.
+What is the five Ws? :: Who, what, when, where and why.
+What is a byline? :: The line naming the author of an article.
+What is a dateline? :: The line giving the place and date of a story.
+What is a lead (lede)? :: The opening sentence or paragraph of a news story.
+What is a press release? :: An announcement issued to the media.
+What is a sponsor? :: A company that pays for content or events.
+What is native advertising? :: Paid content designed to look like regular articles.
+What is an influencer? :: A person who affects others' choices through social media.
+What is a sponsored post? :: A post paid for by a brand.
+What is data privacy? :: Protection of personal information collected online.
+What is a cookie? :: A small file websites store about your visits.
+What is a terms of service agreement? :: A contract about using a website or app.
+What is the purpose of a trailer's music? :: To create emotion and excitement.

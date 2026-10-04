@@ -1,0 +1,566 @@
+## Science 30 | Living Systems Respond to their Environment
+What is homeostasis? :: Maintaining a stable internal environment.
+What is negative feedback? :: A response that reduces a change and restores balance.
+Give an example of negative feedback. :: Insulin lowering blood sugar.
+What is positive feedback? :: A response that amplifies a change, like contractions in childbirth.
+What is a stimulus? :: A change in the environment that triggers a response.
+What is the nervous system's role? :: Detecting stimuli and coordinating fast responses.
+What are the two main parts of the nervous system? :: Central (brain and spinal cord) and peripheral.
+What is a neuron? :: A nerve cell that carries electrical signals.
+What are dendrites? :: Branches that receive signals.
+What is an axon? :: The long fibre that carries signals away from the cell body.
+What is the myelin sheath? :: Fatty insulation that speeds up signals.
+What is a synapse? :: The gap between two neurons.
+What is a neurotransmitter? :: A chemical that crosses the synapse.
+What is a sensory neuron? :: A neuron carrying information toward the CNS.
+What is a motor neuron? :: A neuron carrying commands from the CNS to muscles.
+What is an interneuron? :: A neuron connecting sensory and motor neurons in the CNS.
+What is a reflex arc? :: A fast automatic response path that bypasses the brain.
+Give a reflex example. :: Pulling your hand away from a hot stove.
+What is the endocrine system's role? :: Chemical control using hormones.
+What is a hormone? :: A chemical messenger released into the blood.
+Name two endocrine glands. :: Pituitary and thyroid (also adrenal, pancreas).
+What does insulin do? :: Lowers blood glucose by helping cells absorb it.
+What does glucagon do? :: Raises blood glucose.
+What is diabetes? :: A disorder of blood glucose regulation.
+What does adrenaline do? :: Prepares the body for fight or flight.
+How do nervous and endocrine systems differ in speed? :: The nervous system is fast; the endocrine system is slower and longer-lasting.
+What is DNA? :: The molecule that stores genetic information.
+What are the bases of DNA? :: Adenine, thymine, cytosine and guanine.
+What is base pairing? :: A pairs with T; C pairs with G.
+What is a gene? :: A segment of DNA that codes for a protein.
+What is a chromosome? :: A structure of DNA wrapped around proteins.
+What is an allele? :: A form of a gene.
+What is a dominant trait? :: A trait expressed with at least one copy of the allele.
+What is a genotype? :: The alleles an individual carries.
+What is a phenotype? :: The expressed trait.
+What is a pedigree? :: A family tree tracking a trait.
+What is a carrier? :: Someone with one copy of a recessive allele who shows no symptoms.
+What is cystic fibrosis? :: A recessive inherited disorder affecting the lungs and digestion.
+What is Huntington's disease? :: A dominant inherited neurological disorder.
+What is Down syndrome? :: A condition caused by an extra chromosome 21.
+What is nondisjunction? :: Failure of chromosomes to separate in meiosis.
+What is a mutation? :: A change in DNA sequence.
+What can cause mutations? :: Radiation, chemicals and copying errors.
+What is genetic engineering? :: Altering an organism's DNA.
+What is recombinant DNA? :: DNA from two different sources combined.
+What is gene therapy? :: Treating disease by replacing or repairing genes.
+What is a transgenic organism? :: An organism containing a gene from another species.
+What is DNA profiling? :: Identifying people by patterns in their DNA.
+What is PCR? :: A method to copy small samples of DNA.
+What is gel electrophoresis? :: Separating DNA fragments by size.
+What is cloning? :: Producing genetically identical copies.
+What is a stem cell? :: A cell that can become many cell types.
+What is an ethical issue in genetics? :: Privacy, discrimination and designer babies.
+What is the immune system's role? :: Defend the body against pathogens.
+What is an antigen? :: A molecule that triggers an immune response.
+What is an antibody? :: A protein that binds a specific antigen.
+What is a vaccine? :: A harmless form of a pathogen that trains immunity.
+What is herd immunity? :: Protection of a community when most people are immune.
+What is an allergy? :: An overreaction of the immune system.
+What is an autoimmune disease? :: The immune system attacks the body's own cells.
+Give an autoimmune disease. :: Type 1 diabetes or rheumatoid arthritis.
+What are antibiotics for? :: Treating bacterial infections.
+What is antibiotic resistance? :: Bacteria evolving to survive antibiotics.
+What is a pathogen? :: A disease-causing organism.
+What are white blood cells? :: Cells that fight infection.
+What do B cells do? :: Make antibodies.
+What do T cells do? :: Destroy infected cells and coordinate immune response.
+What is memory in immunity? :: The ability to respond faster after previous exposure.
+What is a hormone's target cell? :: A cell with receptors for that hormone.
+What is a receptor? :: A protein that detects a signal molecule.
+What is a feedback loop? :: A system where an output regulates its own input.
+What is thermoregulation? :: Controlling body temperature.
+How does the body cool down? :: Sweating and dilating skin blood vessels.
+How does the body warm up? :: Shivering and constricting skin blood vessels.
+What is the hypothalamus's role? :: A control centre for temperature, hunger and thirst.
+
+## Science 30 | Chemistry and the Environment
+What is organic chemistry? :: The study of carbon compounds.
+What is a hydrocarbon? :: A compound of only carbon and hydrogen.
+What is an alkane? :: A hydrocarbon with only single bonds.
+What is an alkene? :: A hydrocarbon with a double bond.
+What is an alkyne? :: A hydrocarbon with a triple bond.
+Name the first five alkanes. :: Methane, ethane, propane, butane, pentane.
+What is the formula for ethane? :: C2H6
+What is the formula for butane? :: C4H10
+What is the formula for ethene? :: C2H4
+What is the formula for propane? :: C3H8
+What is the general formula for alkanes? :: CnH(2n+2)
+What is an isomer? :: A compound with the same formula but different structure.
+What is crude oil? :: A mixture of hydrocarbons from underground.
+What is fractional distillation? :: Separating oil by boiling point.
+What is the lightest fraction of crude oil? :: Gases like propane and butane.
+What is the heaviest fraction? :: Asphalt and bitumen.
+What is cracking? :: Breaking large hydrocarbons into smaller ones.
+What is the oil sands? :: Alberta deposits of bitumen mixed with sand.
+What is bitumen? :: A thick, heavy form of petroleum.
+What is combustion? :: Burning a fuel with oxygen.
+What are products of complete combustion? :: CO2 and H2O.
+What is incomplete combustion? :: Burning with too little oxygen, making CO or soot.
+Why is carbon monoxide dangerous? :: It blocks oxygen transport in blood.
+What is a catalytic converter? :: A device that reduces harmful exhaust gases.
+What are NOx gases? :: Nitrogen oxides that cause smog and acid rain.
+What are SOx gases? :: Sulfur oxides that cause acid rain.
+What is acid rain? :: Rain with pH below 5.6.
+What is smog? :: Air pollution of smoke and chemicals.
+What is ground-level ozone? :: A pollutant formed from NOx and VOCs in sunlight.
+What are VOCs? :: Volatile organic compounds that evaporate easily.
+What is the ozone layer? :: A layer in the stratosphere that absorbs UV.
+What damaged the ozone layer? :: CFCs.
+What is the Montreal Protocol? :: A treaty phasing out ozone-depleting chemicals.
+What is the greenhouse effect? :: Gases trap heat in the atmosphere.
+What are greenhouse gases? :: CO2, CH4, N2O and water vapour.
+What is the Kyoto Protocol? :: A 1997 treaty to reduce emissions.
+What is the Paris Agreement? :: A 2015 climate agreement to limit warming.
+What is a carbon sink? :: A system that absorbs more carbon than it releases.
+What is carbon capture and storage? :: Trapping CO2 and storing it underground.
+What is a carbon footprint? :: Total greenhouse gases caused by an activity.
+What is a polymer? :: A large molecule made of repeating monomers.
+Give examples of polymers. :: Polyethylene, nylon, polystyrene.
+What is a monomer? :: A small repeating unit of a polymer.
+What is polymerization? :: Joining monomers to form a polymer.
+Why is plastic pollution a problem? :: Plastics last for centuries and harm wildlife.
+What is a biodegradable plastic? :: A plastic that microbes can break down.
+What are microplastics? :: Tiny plastic particles in the environment.
+What is recycling? :: Reprocessing used materials into new products.
+What does the 3R hierarchy say? :: Reduce first, then reuse, then recycle.
+What is a landfill? :: A site where waste is buried.
+What is leachate? :: Liquid that drains from a landfill and may carry contaminants.
+What is water pollution? :: Harmful substances in water.
+What is eutrophication? :: Excess nutrients causing algal blooms and low oxygen.
+What are heavy metals? :: Toxic metals like mercury and lead.
+What is bioaccumulation? :: A toxin building up in an organism.
+What is biomagnification? :: A toxin increasing up the food chain.
+What is green chemistry? :: Chemistry designed to reduce hazards and waste.
+What are biofuels? :: Fuels made from living matter.
+What is ethanol? :: An alcohol fuel made by fermenting sugars.
+What is biodiesel? :: A diesel substitute made from plant oils or fats.
+What is a fuel cell? :: A cell making electricity from hydrogen and oxygen.
+What is hydrogen's combustion product? :: Water.
+What is a life-cycle analysis? :: Evaluating environmental impact from production to disposal.
+What is an environmental impact assessment? :: A review of a project's environmental effects.
+What is sustainable development? :: Meeting needs without harming the future.
+
+## Science 30 | Electromagnetic Energy
+What is the electromagnetic spectrum? :: The range of EM waves from radio to gamma.
+Order the EM spectrum from long to short wavelength. :: Radio, microwave, infrared, visible, UV, X-ray, gamma.
+What is the speed of light? :: 3.00 x 10^8 m/s in a vacuum.
+What is the wave equation? :: c = f lambda
+Find f: lambda = 3 m. :: 1 x 10^8 Hz
+Find lambda: f = 6 x 10^14 Hz. :: 5 x 10^-7 m
+What is visible light's wavelength range? :: About 400 to 700 nm.
+Which visible colour has the longest wavelength? :: Red.
+Which visible colour has the shortest wavelength? :: Violet.
+What are radio waves used for? :: Broadcasting and communication.
+What are microwaves used for? :: Cooking, radar and communications.
+What is infrared used for? :: Heat sensing, remote controls and night vision.
+What is ultraviolet light used for? :: Sterilization and vitamin D production.
+What are X-rays used for? :: Medical imaging.
+What are gamma rays used for? :: Cancer treatment and sterilization.
+What is a photon? :: A packet of electromagnetic energy.
+What is the photon energy equation? :: E = h f
+What is Planck's constant? :: 6.63 x 10^-34 J s
+Which has more energy: red or blue photons? :: Blue.
+What is the photoelectric effect? :: Light ejecting electrons from a metal.
+What is the wave-particle duality of light? :: Light behaves as both a wave and a particle.
+What is reflection? :: Light bouncing off a surface.
+What is the law of reflection? :: Angle of incidence equals angle of reflection.
+What is a plane mirror image? :: Virtual, upright and same size.
+What is a concave mirror? :: A mirror curved inward that converges light.
+What is a convex mirror? :: A mirror curved outward that spreads light.
+What is a real image? :: An image formed where light rays actually meet.
+What is a virtual image? :: An image formed where light appears to come from.
+What is refraction? :: Bending of light as it changes medium.
+What is the index of refraction? :: n = c/v
+What is Snell's law? :: n1 sin(theta1) = n2 sin(theta2)
+Does light bend toward or away from the normal entering glass? :: Toward the normal.
+What is total internal reflection? :: Complete reflection at a boundary beyond the critical angle.
+What is an optical fibre? :: A fibre that carries light by total internal reflection.
+What is dispersion? :: Separation of white light into colours.
+What is a rainbow? :: Dispersion and reflection of sunlight in raindrops.
+What is a convex lens? :: A lens that converges light.
+What is a concave lens? :: A lens that diverges light.
+What is a focal point? :: The point where parallel rays converge.
+What does a camera lens do? :: Forms a real image on a sensor.
+What is myopia? :: Nearsightedness corrected with a concave lens.
+What is hyperopia? :: Farsightedness corrected with a convex lens.
+What are the primary colours of light? :: Red, green, blue.
+What are the primary pigment colours? :: Cyan, magenta, yellow.
+Why does a leaf look green? :: It reflects green light and absorbs others.
+What is diffraction? :: Waves spreading around obstacles or through openings.
+What is interference? :: Waves combining to reinforce or cancel.
+What did Young's double-slit show? :: Light behaves as a wave.
+What is polarization? :: Restricting light to one plane of vibration.
+What are polarized sunglasses for? :: Reducing glare.
+What is electromagnetic induction? :: Producing voltage by a changing magnetic field.
+What is a generator? :: A device converting mechanical energy to electrical energy.
+What is a motor? :: A device converting electrical energy to mechanical energy.
+What is a transformer? :: A device that changes AC voltage.
+What is a step-up transformer? :: One that increases voltage.
+Why is electricity transmitted at high voltage? :: To reduce energy loss in wires.
+What is AC? :: Alternating current that changes direction.
+What is DC? :: Direct current in one direction.
+What is a solenoid? :: A coil of wire that acts as a magnet when current flows.
+What is an electromagnet? :: A magnet made with electric current.
+What is a magnetic field? :: The region around a magnet where it exerts force.
+What is the right-hand rule used for? :: Finding the direction of a magnetic field around a current.
+What are EM health concerns? :: UV skin damage and ionizing radiation risks.
+What is ionizing radiation? :: High-energy radiation that can remove electrons from atoms.
+What is non-ionizing radiation? :: Lower-energy radiation like radio waves.
+
+## Science 30 | Energy and the Environment
+What is energy? :: The ability to do work.
+What is the law of conservation of energy? :: Energy is never created or destroyed.
+What are fossil fuels? :: Coal, oil and natural gas formed from ancient life.
+What are advantages of fossil fuels? :: High energy density, reliable and widely available.
+What are disadvantages of fossil fuels? :: CO2 emissions, pollution and limited supply.
+What is a renewable resource? :: One that replenishes naturally.
+What are renewable energy examples? :: Solar, wind, hydro, geothermal, biomass.
+What is a non-renewable resource? :: One that is used faster than it forms.
+What is hydroelectric power? :: Electricity from flowing water.
+What are advantages of hydro power? :: Renewable, low emissions and reliable.
+What are disadvantages of hydro power? :: Flooding of land and disrupted rivers.
+What is wind power? :: Electricity from wind turbines.
+Where is wind power common in Alberta? :: Southern Alberta near Pincher Creek.
+What are wind power drawbacks? :: Intermittent supply and effects on birds.
+What is solar power? :: Electricity or heat from sunlight.
+What is a photovoltaic cell? :: A cell converting sunlight directly to electricity.
+What are solar power drawbacks? :: Intermittent and requires storage or backup.
+What is geothermal energy? :: Energy from heat inside Earth.
+What is biomass energy? :: Energy from burning organic matter.
+What is a biofuel? :: A fuel made from biomass.
+What is nuclear fission? :: Splitting a heavy nucleus to release energy.
+What is nuclear fusion? :: Joining light nuclei to release energy.
+What fuels do CANDU reactors use? :: Natural uranium with heavy water.
+What is the role of a moderator in a reactor? :: Slows neutrons to sustain the chain reaction.
+What is a control rod? :: A rod that absorbs neutrons to control the reaction.
+What is radioactive waste? :: Waste that emits radiation from nuclear processes.
+What is half-life? :: Time for half of a radioactive sample to decay.
+Why is nuclear waste a problem? :: It stays radioactive for a very long time.
+What are advantages of nuclear power? :: High output and no CO2 from operation.
+What are risks of nuclear power? :: Accidents, waste storage and cost.
+What was Chernobyl? :: A 1986 nuclear reactor disaster in Ukraine.
+What was Fukushima? :: A 2011 nuclear accident in Japan after a tsunami.
+What is energy efficiency? :: Using less energy to do the same job.
+What is energy conservation? :: Reducing energy use through behaviour.
+What is cogeneration? :: Making electricity and useful heat together.
+What is a smart grid? :: A grid using digital tools to balance supply and demand.
+What is net metering? :: Selling extra home-generated power back to the grid.
+What is a microgenerator in Alberta? :: A small generator, like rooftop solar, connected to the grid.
+What is an energy audit? :: An assessment of a building's energy use.
+What is a passive solar building? :: A building designed to use sunlight for heating.
+What is insulation's role? :: Reducing heat loss.
+What is the EnerGuide label? :: A label showing appliance energy use.
+What is a hybrid vehicle? :: A vehicle with both an engine and an electric motor.
+What is an electric vehicle? :: A vehicle powered by batteries.
+What is hydrogen fuel's advantage? :: Water is the only exhaust product.
+What is carbon capture? :: Trapping CO2 from emissions.
+What is a carbon tax? :: A fee on carbon emissions.
+What is cap and trade? :: A system limiting total emissions and allowing trading of permits.
+What is the greenhouse effect? :: Heat trapping by atmospheric gases.
+What is climate change? :: Long-term shifts in climate patterns.
+What is a carbon offset? :: A credit for reducing emissions elsewhere.
+What is sustainability? :: Meeting present needs without harming the future.
+What is an ecological footprint? :: The land needed to support a lifestyle.
+What is the energy mix? :: The combination of sources used for energy.
+What is Alberta's main electricity source? :: Natural gas (with growing wind and solar).
+What is peak demand? :: The highest level of electricity use.
+What is baseload power? :: The minimum constant electricity demand.
+What is energy storage? :: Saving energy for later, like batteries or pumped hydro.
+What is a battery's role with renewables? :: Stores power when generation exceeds demand.
+What is oil and gas's role in Alberta's economy? :: A major source of jobs and government revenue.
+What is energy transition? :: Shifting from fossil fuels to cleaner sources.
+What is a stakeholder? :: A person or group affected by a decision.
+What is a risk-benefit analysis? :: Weighing potential harms against potential gains.
+
+## Biology 30 | Nervous and Endocrine Systems
+What is the central nervous system? :: The brain and spinal cord.
+What is the peripheral nervous system? :: Nerves outside the brain and spinal cord.
+What is the somatic nervous system? :: Controls voluntary movements.
+What is the autonomic nervous system? :: Controls involuntary functions.
+What are the two divisions of the autonomic system? :: Sympathetic and parasympathetic.
+What does the sympathetic system do? :: Fight or flight responses.
+What does the parasympathetic system do? :: Rest and digest.
+What are the parts of a neuron? :: Dendrites, cell body, axon, axon terminals.
+What is the myelin sheath? :: Insulating fat layer around axons.
+What are nodes of Ranvier? :: Gaps in myelin where impulses jump.
+What is saltatory conduction? :: Impulses jumping between nodes, speeding up transmission.
+What are Schwann cells? :: Cells producing myelin in the peripheral nervous system.
+What is the resting potential? :: About -70 mV inside a neuron at rest.
+What maintains the resting potential? :: The sodium-potassium pump and membrane permeability.
+What does the sodium-potassium pump do? :: Moves 3 Na+ out and 2 K+ in using ATP.
+What is depolarization? :: Na+ rushing in, making the inside positive.
+What is repolarization? :: K+ leaving, restoring the negative inside.
+What is hyperpolarization? :: Overshooting below the resting potential.
+What is an action potential? :: A rapid reversal of membrane potential travelling along the axon.
+What is the threshold? :: The minimum stimulus needed to fire an action potential.
+What is the all-or-none law? :: A neuron fires fully or not at all.
+What is the refractory period? :: A brief time when a neuron cannot fire again.
+What determines the intensity of a stimulus? :: The frequency of impulses and number of neurons firing.
+What is a synapse? :: The junction between neurons.
+What is a neurotransmitter? :: A chemical that carries a signal across a synapse.
+What does acetylcholine do? :: Triggers muscle contraction.
+What does dopamine do? :: Regulates movement and reward.
+What does serotonin do? :: Regulates mood and sleep.
+What is an excitatory neurotransmitter? :: One that makes firing more likely.
+What is an inhibitory neurotransmitter? :: One that makes firing less likely.
+What is acetylcholinesterase? :: An enzyme breaking down acetylcholine.
+What is a reflex arc? :: A rapid pathway from receptor to effector via the spinal cord.
+What is the cerebrum? :: The largest part of the brain, handling thought and voluntary action.
+What is the cerebellum? :: The part controlling balance and coordination.
+What is the brainstem? :: The part controlling breathing and heart rate.
+What is the medulla oblongata? :: A brainstem region controlling vital functions.
+What is the hypothalamus? :: A region linking the nervous and endocrine systems.
+What is the thalamus? :: A relay centre for sensory information.
+What is the corpus callosum? :: A bridge connecting the two cerebral hemispheres.
+What are the lobes of the cerebrum? :: Frontal, parietal, temporal, occipital.
+What does the frontal lobe do? :: Reasoning, planning and voluntary movement.
+What does the occipital lobe do? :: Processes vision.
+What does the temporal lobe do? :: Hearing and memory.
+What does the parietal lobe do? :: Touch and spatial awareness.
+What is the spinal cord's role? :: Carries signals between the brain and body and coordinates reflexes.
+What are meninges? :: Membranes protecting the brain and spinal cord.
+What is the blood-brain barrier? :: A filter protecting the brain from harmful substances.
+What is the structure of the eye's retina? :: A layer with rods and cones that detect light.
+What do rods detect? :: Dim light and black-and-white vision.
+What do cones detect? :: Colour and bright light.
+What is the ear's role in balance? :: The semicircular canals detect head movement.
+What is the cochlea? :: A fluid-filled organ converting sound to nerve impulses.
+What are hormones? :: Chemical messengers produced by endocrine glands.
+What is the pituitary gland called? :: The master gland.
+What does the anterior pituitary make? :: Growth hormone, TSH, ACTH, FSH, LH and prolactin.
+What does the posterior pituitary release? :: ADH and oxytocin.
+What does the thyroid make? :: Thyroxine, regulating metabolism.
+What does the parathyroid do? :: Controls blood calcium.
+What do the adrenal glands make? :: Adrenaline, noradrenaline and cortisol.
+What does the pancreas do as an endocrine gland? :: Makes insulin and glucagon.
+What do the gonads make? :: Sex hormones.
+What does insulin do? :: Lowers blood glucose.
+What does glucagon do? :: Raises blood glucose.
+What is Type 1 diabetes? :: The body does not make insulin.
+What is Type 2 diabetes? :: Cells respond poorly to insulin.
+What does growth hormone do? :: Stimulates growth.
+What does ADH do? :: Increases water reabsorption in the kidneys.
+What does cortisol do? :: A stress hormone that raises blood sugar.
+What does melatonin do? :: Regulates sleep cycles.
+What is a steroid hormone? :: A lipid-based hormone that enters cells.
+What is a peptide hormone? :: A protein hormone that binds surface receptors.
+What is negative feedback? :: A response that counteracts a change.
+What is positive feedback? :: A response that amplifies a change.
+
+## Biology 30 | Reproductive Systems and Development
+What are gonads? :: Organs producing gametes and hormones.
+What are the male gonads? :: Testes.
+What are the female gonads? :: Ovaries.
+What is spermatogenesis? :: Sperm production.
+Where does spermatogenesis occur? :: In the seminiferous tubules of the testes.
+What do Sertoli cells do? :: Support and nourish developing sperm.
+What do Leydig cells do? :: Produce testosterone.
+Why are the testes outside the body? :: Sperm need a temperature below body temperature.
+What does the epididymis do? :: Stores and matures sperm.
+What does the vas deferens do? :: Carries sperm toward the urethra.
+What do the seminal vesicles add to semen? :: Fructose and fluid.
+What does the prostate gland add? :: Alkaline fluid to protect sperm.
+What do the bulbourethral glands add? :: Mucus that lubricates and neutralizes acid.
+What is semen? :: Sperm plus fluids from glands.
+What is oogenesis? :: Egg production.
+How many functional eggs come from one oogenesis? :: One.
+What is a follicle? :: A structure in the ovary containing a developing egg.
+What is ovulation? :: Release of an egg from the ovary.
+What is the corpus luteum? :: The follicle remnant secreting progesterone.
+What is the fallopian tube's role? :: Carries the egg and is the site of fertilization.
+What is the uterus? :: The organ where the embryo develops.
+What is the endometrium? :: The lining of the uterus.
+What is the cervix? :: The lower opening of the uterus.
+What is the menstrual cycle? :: A monthly cycle of changes in the ovary and uterus.
+What are the phases of the menstrual cycle? :: Menstruation, follicular, ovulation, luteal.
+What does FSH do? :: Stimulates follicle development.
+What does LH do? :: Triggers ovulation and corpus luteum formation.
+What does estrogen do? :: Builds up the endometrium and drives female traits.
+What does progesterone do? :: Maintains the endometrium.
+What triggers menstruation? :: A drop in progesterone.
+What is testosterone's role? :: Male traits and sperm production.
+What is fertilization? :: Fusion of sperm and egg.
+What is a zygote? :: The fertilized egg.
+What is cleavage? :: Rapid cell divisions of the early embryo.
+What is a blastocyst? :: A hollow ball of cells that implants in the uterus.
+What is implantation? :: Embryo attachment to the endometrium.
+What is hCG? :: A hormone from the embryo that maintains the corpus luteum.
+What is the placenta? :: An organ exchanging nutrients, gases and wastes.
+What is the umbilical cord? :: The connection between fetus and placenta.
+What is the amnion? :: The sac of fluid surrounding the fetus.
+What are the germ layers? :: Ectoderm, mesoderm and endoderm.
+What does ectoderm form? :: Skin and nervous system.
+What does mesoderm form? :: Muscles, bones and the circulatory system.
+What does endoderm form? :: The digestive and respiratory linings.
+What is gastrulation? :: Formation of the three germ layers.
+What is neurulation? :: Formation of the neural tube.
+What is differentiation? :: Cells becoming specialized.
+What is the embryonic period? :: The first 8 weeks of development.
+What is the fetal period? :: From week 9 until birth.
+What is gestation length in humans? :: About 40 weeks.
+What is parturition? :: Childbirth.
+What hormone causes uterine contractions? :: Oxytocin.
+What is positive feedback in childbirth? :: Contractions cause more oxytocin, causing stronger contractions.
+What hormone triggers milk production? :: Prolactin.
+What hormone triggers milk release? :: Oxytocin.
+What is a teratogen? :: A substance that harms fetal development.
+Name a teratogen. :: Alcohol, thalidomide or certain viruses.
+What is fetal alcohol spectrum disorder? :: A range of effects from prenatal alcohol exposure.
+What is infertility? :: Difficulty conceiving a child.
+What is IVF? :: In vitro fertilization, fertilizing an egg outside the body.
+What is a method of contraception? :: Condoms, birth control pills or IUDs.
+What is a sexually transmitted infection? :: An infection spread by sexual contact.
+Name two STIs. :: Chlamydia and HIV.
+What is amniocentesis? :: A test of amniotic fluid for fetal conditions.
+What is an ultrasound? :: Imaging using sound waves.
+What are twins? :: Two offspring from one pregnancy.
+What are identical twins? :: Twins from one fertilized egg that splits.
+What are fraternal twins? :: Twins from two separate eggs.
+What is menopause? :: The end of menstrual cycles.
+What is puberty? :: The time of sexual maturation.
+What triggers puberty? :: Hormones from the hypothalamus and pituitary.
+
+## Biology 30 | Cell Division, Genetics and Molecular Biology
+What is the cell cycle? :: The sequence of growth, DNA replication and division.
+What are the phases of the cell cycle? :: G1, S, G2 and M (mitosis).
+What happens in the S phase? :: DNA replication.
+What is mitosis? :: Division of the nucleus producing two identical cells.
+List the stages of mitosis. :: Prophase, metaphase, anaphase, telophase.
+What happens in prophase? :: Chromosomes condense and the spindle forms.
+What happens in metaphase? :: Chromosomes line up at the cell centre.
+What happens in anaphase? :: Sister chromatids separate.
+What happens in telophase? :: Nuclei re-form and chromosomes uncoil.
+What is cytokinesis? :: Division of the cytoplasm.
+What is a chromatid? :: One copy of a duplicated chromosome.
+What is a centromere? :: The region joining two sister chromatids.
+What is the spindle? :: Microtubules that move chromosomes.
+What is cancer? :: Uncontrolled cell division.
+What is a tumour? :: A mass of abnormal cells.
+What is a benign tumour? :: A tumour that does not spread.
+What is a malignant tumour? :: A tumour that can invade and spread.
+What is metastasis? :: Cancer cells spreading to other parts of the body.
+What is an oncogene? :: A gene that can cause cancer when mutated.
+What is a tumour suppressor gene? :: A gene that prevents uncontrolled division.
+What is meiosis? :: Division that produces four haploid gametes.
+What is a haploid cell? :: A cell with one set of chromosomes.
+What is a diploid cell? :: A cell with two sets of chromosomes.
+What are homologous chromosomes? :: Chromosome pairs with the same genes.
+What is crossing over? :: Exchange of DNA between homologous chromosomes.
+What is independent assortment? :: Random distribution of chromosomes into gametes.
+Why does meiosis create variation? :: Crossing over and independent assortment.
+What is synapsis? :: Homologous chromosomes pairing in meiosis I.
+What is a tetrad? :: A pair of homologous chromosomes with four chromatids.
+What is nondisjunction? :: Failure of chromosomes to separate properly.
+What is trisomy 21? :: Three copies of chromosome 21, causing Down syndrome.
+What is Turner syndrome? :: A female with one X chromosome (XO).
+What is Klinefelter syndrome? :: A male with an extra X (XXY).
+What is a karyotype? :: A picture of chromosomes arranged in pairs.
+What is Mendel's law of segregation? :: Allele pairs separate during gamete formation.
+What is Mendel's law of independent assortment? :: Genes for different traits sort independently.
+What is a monohybrid cross? :: A cross tracking one trait.
+What is a dihybrid cross? :: A cross tracking two traits.
+What is the phenotype ratio of a dihybrid cross of heterozygotes? :: 9:3:3:1
+What is a test cross? :: Crossing an unknown with a homozygous recessive.
+What is incomplete dominance? :: A blended heterozygote phenotype.
+What is codominance? :: Both alleles are fully expressed.
+What is a sex-linked trait? :: A trait carried on a sex chromosome.
+Why are X-linked recessive traits more common in males? :: Males have only one X.
+Give an X-linked trait. :: Colour blindness or hemophilia.
+What is a polygenic trait? :: A trait influenced by many genes, like height.
+What is the ABO blood group? :: A system with alleles I^A, I^B and i.
+Which blood type is I^A I^B? :: AB (codominant).
+What is DNA replication? :: Copying DNA before cell division.
+What is semiconservative replication? :: Each new DNA has one old and one new strand.
+What does DNA helicase do? :: Unwinds the DNA double helix.
+What does DNA polymerase do? :: Adds nucleotides to build a new strand.
+What is transcription? :: Making mRNA from DNA.
+What is translation? :: Making a protein from mRNA.
+What is a codon? :: Three mRNA bases coding for an amino acid.
+What is the start codon? :: AUG
+What are stop codons? :: UAA, UAG and UGA.
+What is tRNA's role? :: Carries amino acids to the ribosome.
+What is rRNA's role? :: A component of ribosomes.
+What is a point mutation? :: A change in a single base.
+What is a frameshift mutation? :: An insertion or deletion that shifts the reading frame.
+What is a silent mutation? :: A mutation that does not change the amino acid.
+What is sickle cell anemia? :: A recessive disorder from a point mutation in hemoglobin.
+What is a restriction enzyme? :: An enzyme that cuts DNA at specific sequences.
+What is a plasmid? :: A small circular DNA used as a vector.
+What is a transgenic crop example? :: Canola resistant to herbicide.
+
+## Biology 30 | Population Dynamics
+What is a population? :: A group of the same species in an area.
+What is population density? :: Individuals per unit area.
+What is population distribution? :: The spatial pattern of individuals: clumped, uniform or random.
+What is a clumped distribution? :: Individuals grouped together, like herds.
+What is a uniform distribution? :: Individuals evenly spaced, like nesting birds.
+What is a random distribution? :: Individuals positioned without a pattern.
+What is natality? :: The birth rate.
+What is mortality? :: The death rate.
+What is immigration? :: Individuals moving into a population.
+What is emigration? :: Individuals leaving a population.
+What is the formula for population growth? :: (births + immigration) - (deaths + emigration)
+What is the growth rate per capita? :: Change in population divided by initial population.
+What is biotic potential? :: The maximum reproductive capacity under ideal conditions.
+What is environmental resistance? :: Factors limiting population growth.
+What is exponential growth? :: Rapid growth with a J-shaped curve.
+What is logistic growth? :: Growth that levels off at carrying capacity.
+What is carrying capacity? :: The maximum population an environment can support.
+What is overshoot? :: A population temporarily exceeding carrying capacity.
+What is a population crash? :: A sudden major decline.
+What is a limiting factor? :: A factor that limits population size.
+What are density-dependent factors? :: Factors whose impact increases with density.
+Give examples of density-dependent factors. :: Disease, predation and competition.
+What are density-independent factors? :: Factors affecting populations regardless of size.
+Give examples of density-independent factors. :: Weather, fire and floods.
+What is intraspecific competition? :: Competition among members of the same species.
+What is interspecific competition? :: Competition between different species.
+What is predation? :: One species hunting another.
+What is a predator-prey cycle? :: Linked cyclical changes in predator and prey numbers.
+What is the lynx-hare cycle? :: A classic boreal cycle with about a 10-year period.
+What is symbiosis? :: Close long-term interaction between species.
+What is mutualism? :: Both species benefit.
+What is commensalism? :: One benefits; the other is unaffected.
+What is parasitism? :: One benefits; the other is harmed.
+What is an r-strategist? :: A species with many small offspring and little care.
+What is a K-strategist? :: A species with few offspring and much care.
+What is a survivorship curve? :: A graph showing survival by age.
+What are Type I, II and III survivorship curves? :: Late-life death, constant death and early death.
+What is an age-structure diagram? :: A graph of population by age group.
+What does a pyramid with a wide base show? :: A growing population.
+What does a column-shaped diagram show? :: A stable population.
+What does a narrow base show? :: A declining population.
+What is the human population today? :: About 8 billion.
+What is demographic transition? :: A shift from high birth and death rates to low ones.
+What is an ecological footprint? :: The land needed to support a population's consumption.
+What is biodiversity? :: The variety of life.
+What is a keystone species? :: A species with a large effect on its ecosystem.
+What is an invasive species? :: A non-native species that spreads and harms.
+What is habitat fragmentation? :: Habitat broken into isolated patches.
+What is conservation biology? :: The study and protection of biodiversity.
+What is an endangered species? :: A species at risk of extinction.
+What is a captive breeding program? :: Breeding endangered species in zoos to release into the wild.
+What is a gene pool? :: All alleles in a population.
+What is genetic diversity? :: The variety of alleles in a population.
+What is genetic drift? :: Random changes in allele frequency.
+What is the bottleneck effect? :: A drastic population reduction leading to low diversity.
+What is the founder effect? :: A new population begun by a few individuals.
+What is gene flow? :: Movement of alleles between populations.
+What is natural selection? :: Differential survival and reproduction of individuals.
+What is fitness? :: An individual's reproductive success.
+What is an adaptation? :: A trait that improves survival and reproduction.
+What is speciation? :: The formation of new species.
+What is allopatric speciation? :: Speciation after geographic separation.
+What is sympatric speciation? :: Speciation without geographic separation.
+What is adaptive radiation? :: Rapid diversification from a common ancestor.
+What is the Hardy-Weinberg equation? :: p^2 + 2pq + q^2 = 1
+What is p + q? :: 1
+If q^2 = 0.04, what is q? :: 0.2
+If q = 0.2, what is the frequency of heterozygotes? :: 2pq = 0.32
+What conditions maintain Hardy-Weinberg equilibrium? :: No mutation, migration or selection, random mating and a large population.
+What is artificial selection? :: Humans choosing which individuals breed.
+What is extinction? :: Loss of a species.
+What is a mass extinction? :: A time when many species disappear in a short period.
+What is the current extinction crisis cause? :: Human activity such as habitat loss and climate change.

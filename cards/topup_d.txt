@@ -1,0 +1,750 @@
+## Mathematics 30-1 | Radical Functions
+Find the domain of y = sqrt(x^2 - 1). :: x <= -1 or x >= 1
+Find the range of y = sqrt(x) - 5. :: y >= -5
+Find the inverse of y = sqrt(x + 2). :: y = x^2 - 2 for x >= 0
+Solve: sqrt(x + 10) = x - 2 :: x = 6
+Solve: sqrt(5 - x) = 3 :: x = -4
+Solve: sqrt(x) = x - 2 :: x = 4 (x = 1 is extraneous).
+What is the end behaviour of y = sqrt(x)? :: y rises slowly as x increases.
+Describe y = 3 sqrt(x - 1) + 2. :: Vertical stretch 3, right 1, up 2.
+Which transformation changes the domain of y = sqrt(x)? :: Horizontal translations or reflections.
+What is the starting point of y = sqrt(-x + 3)? :: (3, 0), opening to the left.
+Is y = sqrt(x) one-to-one? :: Yes.
+What is the average rate of change of y = sqrt(x) from 4 to 16? :: 1/6
+What is the instantaneous idea for sqrt at x = 4? :: The slope is about 1/4.
+What does a radical equation model in physics? :: Fall times or pendulum periods.
+
+## Mathematics 30-1 | Polynomial Functions
+Find P(3) for P(x) = 2x^3 - 5x + 1. :: 40
+Find the remainder when 3x^3 + x - 4 is divided by x + 1. :: -8
+Factor: x^3 - 5x^2 + 6x :: x(x - 2)(x - 3)
+Factor: x^3 + 8 :: (x + 2)(x^2 - 2x + 4)
+Solve: x^3 - 7x - 6 = 0 :: x = 3, -1, -2
+Solve: x^4 - 5x^2 + 4 = 0 :: x = 1, -1, 2, -2
+Divide: (x^3 - 3x^2 + 2x - 6) / (x - 3) :: x^2 + 2
+Find k so (x + 2) is a factor of x^3 + kx^2 + 8. :: k = 0, since P(-2) = 4k must be 0.
+Which polynomial has zeros 2 and -3 with y-intercept 12? :: y = -2(x - 2)(x + 3)
+What is the end behaviour of y = 2x^5 - x? :: Falls left, rises right.
+What is the number of turning points of a quartic at most? :: 3
+What is an inflection of a cubic? :: Where the curve changes concavity.
+How can you use a graph to estimate zeros? :: Find x-intercepts.
+Is y = (x - 1)^2 (x + 2)^2 ever negative? :: No.
+What is the y-intercept of y = (x - 2)(x + 3)(x - 1)? :: 6
+What is a polynomial's degree from a table of finite differences? :: The level at which differences become constant.
+
+## Mathematics 30-1 | Trigonometric Functions
+What is the range of y = 5 cos x - 2? :: -7 <= y <= 3
+What is the period of y = sin(pi x)? :: 2
+What is the period of y = cos(x/3)? :: 6 pi
+What is the amplitude of y = -0.5 sin x? :: 0.5
+Solve cos x = 1/2 for 0 <= x < 2 pi. :: pi/3 and 5 pi/3
+Solve tan x = -1 for 0 <= x < 2 pi. :: 3 pi/4 and 7 pi/4
+Solve 2 sin x + 1 = 0 for 0 <= x < 2 pi. :: 7 pi/6 and 11 pi/6
+Solve sin 2x = 1/2 for 0 <= x < 2 pi. :: pi/12, 5 pi/12, 13 pi/12, 17 pi/12
+State: sin^2 x = ? :: 1 - cos^2 x
+Simplify: sin x cos x / cos^2 x :: tan x
+What is cos(pi - x) in terms of cos x? :: -cos x
+What is sin(pi + x) in terms of sin x? :: -sin x
+Find sin(pi/12) using a difference formula. :: (sqrt(6) - sqrt(2))/4
+A buoy bobs 1.5 m above and below sea level with period 6 s. Write the model. :: h = 1.5 sin(pi t / 3)
+
+## Mathematics 30-1 | Rational Functions
+Find the asymptotes of y = (x + 1)/(x - 2). :: Vertical x = 2; horizontal y = 1.
+Find the asymptotes of y = 2x/(x^2 - 1). :: Vertical x = 1 and x = -1; horizontal y = 0.
+Find the holes of y = (x^2 - x - 6)/(x - 3). :: Hole at x = 3 (y = 5).
+Find the intercepts of y = (x - 2)/(x + 4). :: x-intercept 2; y-intercept -1/2.
+Find the slant asymptote of y = (x^2 - 4)/(x - 1). :: y = x + 1
+Describe y = 2/(x + 3) - 1. :: Shift y = 2/x left 3 and down 1; asymptotes x = -3, y = -1.
+Solve: (x + 2)/(x - 1) = 3 :: x = 5/2
+Solve: 2/x - 3/(x + 1) = 1 :: Multiply by x(x + 1): 2(x + 1) - 3x = x(x + 1), so x^2 + 2x - 2 = 0 and x = -1 +/- sqrt(3).
+Solve: 1/(x - 4) = 2/(x - 1) :: x = 7
+What is the domain of y = (x + 1)/(x^2 - x - 6)? :: x not 3 or -2
+What is the range of y = (2x + 1)/(x - 1)? :: y not 2
+Describe the end behaviour of y = 1/x^2. :: Approaches 0 on both ends.
+How can a hole be written as a point? :: Cancel the factor and substitute to find y.
+What is the equation of a rational function with vertical asymptote x = -1 and horizontal asymptote y = 3? :: y = 3x/(x + 1) (one example).
+What does the graph of y = 1/(x - 1)^2 look like near x = 1? :: Rises to infinity on both sides.
+
+## Mathematics 30-1 | Function Operations
+If f(x) = x^2 and g(x) = x - 3, find (f + g)(4). :: 17
+If f(x) = x^2 and g(x) = x - 3, find (f g)(4). :: 16
+If f(x) = 2x and g(x) = x^2 + 1, find (f o g)(2). :: 10
+If f(x) = 2x and g(x) = x^2 + 1, find (g o f)(2). :: 17
+If f(x) = x + 4 and g(x) = 3x, find f(g(x)). :: 3x + 4
+If f(x) = 1/x and g(x) = x^2, find f(g(x)). :: 1/x^2
+If f(x) = sqrt(x) and g(x) = x + 9, find (f o g)(7). :: 4
+Find (f - g)(x) for f(x) = x^2 and g(x) = 2x. :: x^2 - 2x
+Find (f/g)(x) for f(x) = x^2 - 4 and g(x) = x - 2. :: x + 2 for x not 2.
+What is the domain of f(g(x)) for f(x) = 1/x and g(x) = x - 1? :: x not 1
+What is the domain of (f g)(x) for f = sqrt(x) and g = sqrt(4 - x)? :: 0 <= x <= 4
+Find f(f(x)) for f(x) = x + 3. :: x + 6
+Find f(f(x)) for f(x) = 2x - 1. :: 4x - 3
+If h(x) = (x + 1)^2, write h as f(g(x)). :: f(x) = x^2 and g(x) = x + 1.
+If h(x) = sqrt(2x - 3), write h as f(g(x)). :: f(x) = sqrt(x) and g(x) = 2x - 3.
+If f(x) = 3x - 6, find f^-1(x). :: (x + 6)/3
+If f(x) = x^3 + 1, find f^-1(x). :: cube root of (x - 1)
+How do you graph the sum of two functions? :: Add the y-values at each x.
+How do you graph the product of two functions? :: Multiply the y-values at each x.
+What is f(g(2)) if f = {(3, 5)} and g(2) = 3? :: 5
+If the graph of f has the point (3, 5), what point is on f^-1? :: (5, 3)
+What is the identity: f(x) + 0? :: f(x)
+What is f(x) x 1? :: f(x)
+What is (f o f^-1)(x)? :: x
+
+## Mathematics 30-1 | Permutations, Combinations and Binomial Theorem
+How many ways to arrange 5 different letters? :: 120
+How many ways to choose 4 from 9? :: 126
+How many ways to select a captain and vice-captain from 12 players? :: 132
+How many arrangements of the word LETTER? :: 180
+How many arrangements of the word BALLOON? :: 1260
+How many 4-digit even numbers from digits 1-5 without repeats? :: 48
+How many ways to seat 7 people in a row if two must sit together? :: 1440
+How many ways to deal a 13-card hand from 52 cards (expression)? :: 52C13
+What is the coefficient of x^2 in (x + 3)^4? :: 54
+What is the 2nd term of (x + 2)^6? :: 6C1 x^5 (2) = 12x^5
+What is the sum of the numbers in row 6 of Pascal's triangle? :: 64
+What is the number of terms in (2x + 1)^9? :: 10
+What is the constant term in (x + 2/x)^4? :: 24
+What is the term containing x^3 in (x + 1)^5? :: 10x^3
+How many diagonals does an octagon have? :: 20
+How many triangles can be formed from 8 points (no three collinear)? :: 56
+
+## Mathematics 30-2 | Logic and Set Theory
+Find A intersect B': A = {1, 2, 3, 4}, B = {3, 4, 5}, U = {1, ..., 6}. :: {1, 2}
+Find (A union B)' with the same sets. :: {6}
+Find n(A or B or C) formula. :: n(A) + n(B) + n(C) - n(A and B) - n(A and C) - n(B and C) + n(A and B and C)
+In a group of 60, 35 like math, 28 like science, 12 like both. How many like neither? :: 9
+In a class, 18 take art, 15 take music, and 6 take both. How many take only art? :: 12
+What is the symbol for the empty set? :: A circle with a slash or { }.
+What is a counterexample for "All primes are odd"? :: 2
+What is the negation of "x > 3 and y < 5"? :: x <= 3 or y >= 5
+What is the contrapositive of "If it snows then school closes"? :: If school does not close then it did not snow.
+What is the inverse of "If it snows then school closes"? :: If it does not snow then school does not close.
+Is "p or not p" a tautology? :: Yes.
+Is "p and not p" a contradiction? :: Yes.
+What does a shaded Venn region for A' and B represent? :: Elements in B but not in A.
+What is a proper subset symbol? :: A with a curved subset symbol and no underline.
+What is the cardinality of the power set of a set with n elements? :: 2^n
+How many subsets does {1, 2, 3, 4, 5} have? :: 32
+What is the intersection of an empty set with any set? :: The empty set.
+What is the union of a set with itself? :: The set itself.
+What is the complement of the complement of A? :: A
+What is the distributive law for sets? :: A and (B or C) = (A and B) or (A and C)
+What is an element? :: An object in a set.
+What is a finite set? :: A set with a countable number of elements.
+What is an infinite set? :: A set that never ends, like the natural numbers.
+
+## Mathematics 30-2 | Probability
+P(rolling a sum of 5 with two dice)? :: 1/9
+P(drawing a card that is red or a face card)? :: 8/13
+P(drawing two spades with replacement)? :: 1/16
+P(drawing two spades without replacement)? :: 1/17
+P(at least one head in 4 flips)? :: 15/16
+P(exactly two heads in 4 flips)? :: 3/8
+P(rolling a 6 at least once in 3 rolls)? :: 91/216
+P(a randomly chosen day is a weekend day)? :: 2/7
+How many ways to pick 3 cards from 10? :: 120
+How many ways to arrange 3 of 10 cards? :: 720
+How many ways to choose a 5-person team from 12 people? :: 792
+What is the probability of choosing a specific 5-person team from 12? :: 1/792
+What is P(not rolling a double)? :: 5/6
+What is the probability a family of 3 children has exactly 2 girls? :: 3/8
+What is P(A given B) if P(A and B) = 0.12 and P(B) = 0.4? :: 0.3
+What is the expected number of heads in 10 flips? :: 5
+What is the probability of winning a lottery with 1 in 14 million odds? :: About 7.1 x 10^-8
+What does independence mean in terms of conditional probability? :: P(A|B) = P(A).
+A test is 90% accurate and 2% have a disease. P(positive and disease)? :: 0.018
+What is the probability of drawing a heart given a red card? :: 1/2
+What is the probability of drawing a king given a face card? :: 1/3
+
+## Mathematics 30-2 | Rational Expressions and Equations
+Simplify: (x^2 - 16)/(x^2 + 8x + 16) :: (x - 4)/(x + 4)
+Simplify: (2x^2 + 4x)/(x^2 - 4) :: 2x/(x - 2)
+Simplify: (x^2 - 5x + 6)/(x^2 - 4) :: (x - 3)/(x + 2)
+Multiply: (x/(x + 2)) x ((x^2 - 4)/x^2) :: (x - 2)/x
+Multiply: (x^2 - 1)/(x + 3) x (x + 3)/(x - 1) :: x + 1
+Divide: (x^2 - 9)/(x) / ((x - 3)/x^2) :: x(x + 3)
+Add: 1/(x + 2) + 3/(x + 2) :: 4/(x + 2)
+Add: 1/x + 3/(x + 1) :: (4x + 1)/(x(x + 1))
+Subtract: 5/(x - 2) - 3/(x + 2) :: (2x + 16)/((x - 2)(x + 2))
+Solve: 8/x = 4 :: x = 2
+Solve: x/(x + 1) = 2/3 :: x = 2
+Solve: 3/(x - 1) = 2/x :: x = -2
+Solve: 1/x + 1/(x + 1) = 5/6 :: x = 2 or x = -3/5
+Solve: x + 2/x = 3 :: x = 1 or x = 2
+Solve: (x + 3)/(x - 2) = 4 :: x = 11/3
+Solve: 5/(x + 2) - 3/(x - 2) = 0 :: x = 8
+State the restrictions for (x + 5)/(x^2 - 4). :: x not 2 or -2
+State the restrictions for 3/(x(x - 1)(x + 4)). :: x not 0, 1 or -4
+A boat travels 15 km upstream and 15 km downstream in 4 h. Current 1 km/h. Equation? :: 15/(v - 1) + 15/(v + 1) = 4
+Pipe A fills a tank in 5 h, B in 20 h. Together? :: 4 hours
+Two printers print a job in 12 min and 4 min. Together? :: 3 minutes
+What is the LCD of 1/(x^2 - 1) and 1/(x + 1)? :: (x - 1)(x + 1)
+What is the LCD of 1/(2x) and 1/(3x^2)? :: 6x^2
+Why can't you cancel the x in (x + 2)/x? :: x is a term, not a factor of the numerator.
+What is a common error in adding fractions? :: Adding denominators instead of finding a common one.
+
+## Mathematics 30-2 | Polynomial Functions
+Find P(-3) for P(x) = x^3 + 2x^2 - x. :: -6
+Find the zeros of y = x^3 - 4x^2 + 3x. :: 0, 1, 3
+Find the zeros of y = (x - 2)(x + 1)^2. :: 2 and -1 (double)
+Factor: x^3 - 2x^2 - 3x :: x(x - 3)(x + 1)
+Factor: 2x^3 + 6x^2 + 4x :: 2x(x + 1)(x + 2)
+Factor: x^3 - 16x :: x(x - 4)(x + 4)
+Find the y-intercept of y = (x - 3)(x + 2)(x + 1). :: -6
+Find the end behaviour of y = 3x^3 - 2. :: Falls left, rises right.
+Find the end behaviour of y = -x^4 + 5. :: Falls on both ends.
+How many turning points does a quadratic have? :: One.
+How many turning points can a cubic have? :: Zero or two.
+How many real zeros can a quartic have? :: 0, 1, 2, 3 or 4.
+What is the degree of y = (x - 1)(x - 2)(x - 3)(x - 4)? :: 4
+Write a cubic with zeros -2, 0, 5 and a = 2. :: y = 2x(x + 2)(x - 5)
+Write a quartic with zeros 1, 1, -3, 3 and a = 1. :: y = (x - 1)^2 (x + 3)(x - 3)
+What does a graph touching the x-axis at 4 mean about the factor (x - 4)? :: It has even multiplicity.
+What does a graph crossing the x-axis straight at 4 mean? :: Odd multiplicity, likely 1.
+What is the graph of y = -x^3 like? :: Falls to the right, rises to the left.
+What is the effect of a vertical stretch on zeros? :: None.
+What is the domain of any polynomial? :: All real numbers.
+How can you check that a polynomial's factorization is right? :: Expand and compare.
+How can you find a polynomial from its graph? :: Use zeros and a point to find a.
+What is the maximum value of y = -x^3 + 3x on [0, 2]? :: 2 at x = 1.
+What does a volume model V = x(10 - 2x)^2 describe? :: A box made by cutting squares of side x from a 10 by 10 sheet.
+
+## Mathematics 30-2 | Exponential and Logarithmic Functions
+Evaluate: log_3(1/9) :: -2
+Evaluate: log_2(0.25) :: -2
+Evaluate: log_10(0.0001) :: -4
+Evaluate: log_5(5^7) :: 7
+Evaluate: 3^(log_3 8) :: 8
+Solve: 2^x = 0.125 :: x = -3
+Solve: 7^x = 49 :: x = 2
+Solve: 9^x = 3 :: x = 1/2
+Solve: 4^x = 20 :: x = log 20 / log 4, about 2.16.
+Solve: 100(1.07)^t = 200 :: t = log 2 / log 1.07, about 10.2.
+Solve: log_4(x) = 3 :: x = 64
+Solve: log(x + 3) = 2 :: x = 97
+What is the doubling time at 4% per year? :: About 17.7 years.
+What is the half-life if 80 g becomes 5 g in 20 days? :: 5 days
+What is the value of $2000 at 3% compounded annually after 10 years? :: About $2687.83
+What is the horizontal asymptote of y = 5(0.5)^x + 2? :: y = 2
+What is the range of y = 3^x - 4? :: y > -4
+What is the domain of y = log(2x - 6)? :: x > 3
+What is the inverse of y = 5^x? :: y = log_5(x)
+What is the shape of y = log_2(x) near x = 0? :: It falls toward negative infinity.
+What is e? :: About 2.718, the base of natural logs.
+What is ln(e^3)? :: 3
+
+## Mathematics 30-2 | Sinusoidal Functions
+What is the amplitude of y = 6 sin x - 1? :: 6
+What is the period of y = 2 cos(5x) in degrees? :: 72 degrees
+What is the maximum of y = -4 sin x + 3? :: 7
+What is the minimum of y = -4 sin x + 3? :: -1
+What is the phase shift of y = cos(x - 90 degrees)? :: 90 degrees to the right.
+Write a sine curve with amplitude 5, period 720 degrees, midline y = 2. :: y = 5 sin(x/2) + 2
+Write a cosine curve with max 9, min 1 and period 360. :: y = 4 cos x + 5
+What is b if the period is 45 degrees? :: 8
+What is the midline for max 12 and min 4? :: y = 8
+What is the amplitude for max 12 and min 4? :: 4
+Solve sin x = 0 for 0 <= x <= 360. :: 0, 180, 360 degrees
+Solve cos x = 0 for 0 <= x <= 360. :: 90 and 270 degrees
+Solve cos x = -1 for 0 <= x <= 360. :: 180 degrees
+Solve sin x = -1 for 0 <= x <= 360. :: 270 degrees
+A tide has high 7 m and low 1 m with period 12.4 h. Amplitude and midline? :: Amplitude 3 m, midline 4 m.
+How would you model temperature through the year? :: A sinusoidal function with a 365-day period.
+What is the equation of sinusoidal axis? :: y = d, the midline.
+What does a larger b do to the graph? :: Makes the period shorter.
+
+## Mathematics 30-3 | Algebra and Number
+Solve: 6x - 4 = 2x + 12 :: 4
+Solve: 3(x - 5) = 2(x + 1) :: 17
+Solve: x^2 + 7x + 10 = 0 :: x = -2 or -5
+Solve: x^2 = 3x :: x = 0 or 3
+Solve: 2x^2 - 8 = 0 :: x = 2 or -2
+Factor: x^2 - 4x - 12 :: (x - 6)(x + 2)
+Factor: 2x^2 + 5x + 3 :: (2x + 3)(x + 1)
+Simplify: 5x - 2(x - 3) :: 3x + 6
+Expand: (x - 3)(x + 8) :: x^2 + 5x - 24
+Evaluate: 4^(3/2) :: 8
+Evaluate: 10^-2 :: 0.01
+Write 120 000 in scientific notation. :: 1.2 x 10^5
+Write 0.0089 in scientific notation. :: 8.9 x 10^-3
+Calculate: 18% of 250. :: 45
+Calculate: the percent change from 40 to 50. :: 25% increase
+Calculate: the percent change from 80 to 60. :: 25% decrease
+Solve for t: d = vt :: t = d/v
+Solve for h: V = (1/3) pi r^2 h :: h = 3V/(pi r^2)
+What is the quadratic formula? :: x = (-b +/- sqrt(b^2 - 4ac))/(2a)
+What does the discriminant b^2 - 4ac tell you? :: How many real solutions there are.
+What is a rational number? :: A number that can be written as a fraction.
+What is an irrational number? :: A number with a non-repeating, non-terminating decimal.
+
+## Mathematics 30-3 | Trigonometry
+Find x: sin 28 = x/20. :: About 9.4
+Find x: cos 52 = x/15. :: About 9.2
+Find x: tan 33 = x/12. :: About 7.8
+Find angle A if tan A = 0.8. :: About 38.7 degrees
+Find angle A if sin A = 0.65. :: About 40.5 degrees
+Find the missing side using the cosine law: a = 9, b = 12, C = 50. :: About 9.3
+Find angle B using the sine law: a = 15, b = 11, A = 70. :: About 43.5 degrees
+Find the area: sides 14 and 9, included angle 80 degrees. :: About 62.0
+A plane flies 300 km at bearing 120. How far south has it travelled? :: 150 km
+A plane flies 300 km at bearing 120. How far east? :: About 259.8 km
+A pole is 12 m tall and a wire makes 50 degrees with the ground. How long is the wire? :: About 15.7 m
+A flagpole's shadow is 9 m at an elevation of 40 degrees. Flagpole height? :: About 7.6 m
+From a boat, the angle of elevation to a cliff top is 25 degrees; the cliff is 80 m. Distance? :: About 171.6 m
+Two ships leave port at bearings 040 and 130 and sail 20 km each. How far apart? :: About 28.3 km
+What does AAS stand for? :: Two angles and a non-included side.
+What is the cosine law for angle C? :: cos C = (a^2 + b^2 - c^2)/(2ab)
+What is Heron's formula? :: Area = sqrt(s(s - a)(s - b)(s - c)), where s is half the perimeter.
+Find the area of a triangle with sides 7, 8, 9. :: About 26.8
+What is the largest angle opposite? :: The longest side.
+What is the range of possible values for sin A? :: -1 to 1
+What is the supplement of 110 degrees? :: 70 degrees
+What are sin 150 and sin 30 related by? :: They are equal.
+
+## Mathematics 30-3 | Statistics and Probability
+Find the mean of 12, 14, 16, 18, 20, 22. :: 17
+Find the standard deviation idea for 10, 10, 10, 10. :: 0
+Mean 62, SD 7. What is the z-score of 76? :: 2
+Mean 62, SD 7. What is the z-score of 55? :: -1
+What percent of data is above mean + 2 SD? :: About 2.5%
+What percent of data is below mean - 1 SD? :: About 16%
+What is the probability of picking a heart or spade? :: 1/2
+What is P(rolling less than 3 on a die)? :: 1/3
+How many 4-letter arrangements of A, B, C, D, E (no repeats)? :: 120
+How many committees of 3 from 8 people? :: 56
+What is the probability of winning a raffle with 1 ticket of 200? :: 1/200
+What is the expected winnings of a raffle ticket costing $2 with a $100 prize and 100 tickets? :: -$1
+What is the margin of error if a poll reports 47% +/- 4%? :: 4%
+What is the confidence interval for 47% +/- 4%? :: 43% to 51%
+Is a sample of people at a mall a random sample? :: No; it is a convenience sample.
+What is stratified sampling used for? :: Making sure all subgroups are represented.
+What is a normal curve's maximum? :: At the mean.
+How does standard deviation affect the width of the curve? :: Larger SD gives a wider, flatter curve.
+What is a scatter plot with an upward trend called? :: Positive correlation.
+What does a correlation of -0.9 mean? :: A strong negative linear relationship.
+
+## Mathematics 30-3 | Financial Mathematics
+Find the interest on $4000 at 5% simple for 18 months. :: $300
+Find the amount of $2500 at 4% compounded annually for 3 years. :: About $2812.16
+Find the amount of $1000 at 6% compounded semi-annually for 2 years. :: About $1125.51
+What is the interest rate per period for 12% compounded quarterly? :: 3% per quarter.
+What is the number of periods for 5 years compounded monthly? :: 60
+What is the future value formula for a lump sum? :: FV = PV(1 + i)^n
+What is the present value formula? :: PV = FV / (1 + i)^n
+What is the present value of $5000 in 2 years at 5% compounded annually? :: About $4535.15
+What is an annuity? :: A series of equal payments at regular intervals.
+What is an ordinary annuity? :: Payments made at the end of each period.
+What is a sinking fund? :: Money saved regularly to reach a future target.
+What is an amortization schedule? :: A table of loan payments split into principal and interest.
+What is the effect of a longer amortization? :: Lower payments but more total interest.
+What is the effect of a higher down payment? :: Lower loan amount and less interest.
+What is the stated vs effective interest rate? :: Effective accounts for compounding.
+What is the effective rate of 12% compounded monthly? :: About 12.68%
+What is the formula for the effective annual rate? :: (1 + i)^m - 1
+What is simple interest's use? :: Short-term loans and some bonds.
+What is a promissory note? :: A written promise to pay money.
+What is a depreciating asset? :: An asset that loses value over time.
+What is straight-line depreciation? :: An equal loss in value each year.
+Straight-line: $20 000 car loses $2500 per year. After 4 years? :: $10 000
+Declining-balance: $20 000 at 15% for 2 years? :: $14 450
+What is a lease buyout? :: Buying the leased item at the end of the term.
+What is a credit utilization ratio? :: Balance divided by credit limit.
+What is the effect of missed payments? :: Lower credit score and extra fees.
+
+## Mathematics 30-3 | Linear and Non-linear Relations
+Is y = 2x^2 - 3 linear? :: No, it is quadratic.
+What is the vertex of y = -(x + 1)^2 + 5? :: (-1, 5)
+What are the zeros of y = x^2 - 2x - 8? :: 4 and -2
+What is the axis of symmetry of y = x^2 - 8x + 3? :: x = 4
+What is the value of y = 2(3)^x at x = 3? :: 54
+What is the value of x if 5^x = 125? :: 3
+What kind of relation has constant second differences? :: Quadratic.
+What kind of relation has constant ratios? :: Exponential.
+What kind of relation has constant first differences? :: Linear.
+What is the average rate of change of y = x^2 + 1 from x = 0 to x = 4? :: 4
+What is the growth factor for 8% growth? :: 1.08
+What is the decay factor for 20% decay? :: 0.8
+Write a model: $500 grows 6% per year. :: A = 500(1.06)^t
+Write a model: a population halves every 5 years from 800. :: P = 800(0.5)^(t/5)
+Find the doubling time of y = 50(2)^(t/4). :: 4
+What does the y-intercept represent in A = 500(1.06)^t? :: The initial amount of $500.
+What is a quadratic regression's use? :: Fitting a parabola to data.
+What is an exponential regression's use? :: Fitting growth or decay data.
+What does an R-squared near 1 mean? :: The model fits the data very well.
+What is extrapolation? :: Predicting beyond the data range.
+What is a residual plot used for? :: Checking if a model fits well.
+Which model fits a ball's height over time? :: Quadratic.
+Which model fits a cooling cup of coffee? :: Exponential decay.
+
+## Science 30 | Living Systems Respond to their Environment
+What is the function of the cerebrum? :: Conscious thought and voluntary movement.
+What is the function of the cerebellum? :: Coordination and balance.
+What is the function of the hypothalamus? :: Links nervous and endocrine systems; controls temperature and hunger.
+What is a nerve impulse? :: An electrical signal travelling along a neuron.
+What is the role of myelin? :: Speeds up nerve impulses.
+What diseases involve myelin loss? :: Multiple sclerosis.
+What is Parkinson's disease? :: A disorder from loss of dopamine-producing neurons.
+What is Alzheimer's disease? :: A progressive brain disease affecting memory.
+What is epilepsy? :: A disorder with recurrent seizures.
+What is a hormone's mode of travel? :: Through the bloodstream.
+What is the feedback loop for blood sugar? :: Insulin lowers it; glucagon raises it.
+What is the feedback loop for body temperature? :: Sweating and shivering restore balance.
+What is a genetic disorder? :: A condition caused by changes in DNA.
+What is a chromosomal disorder? :: A condition caused by extra or missing chromosomes.
+What is a monogenic trait? :: A trait controlled by one gene.
+What is a dominant disorder example? :: Huntington's disease.
+What is a recessive disorder example? :: Cystic fibrosis or sickle cell anemia.
+What is a sex-linked disorder example? :: Hemophilia.
+What is prenatal testing? :: Tests for genetic conditions before birth.
+What is genetic counselling? :: Advice about inherited conditions and risks.
+What is a vaccine's role in herd immunity? :: It reduces spread to protect those unable to be vaccinated.
+What is a pandemic response tool? :: Vaccines, testing and public health measures.
+What is a transgenic animal? :: An animal with a gene from another species.
+What is CRISPR? :: A tool for precisely editing DNA.
+
+## Science 30 | Chemistry and the Environment
+What is the chemical formula for octane? :: C8H18
+What is the balanced combustion of propane? :: C3H8 + 5 O2 -> 3 CO2 + 4 H2O
+What is the main component of natural gas? :: Methane.
+What is LPG? :: Liquefied petroleum gas, mainly propane and butane.
+What is the difference between saturated and unsaturated hydrocarbons? :: Saturated has single bonds; unsaturated has double or triple bonds.
+What is an octane rating? :: A measure of a fuel's resistance to knocking.
+What is bitumen upgrading? :: Converting bitumen into lighter synthetic crude oil.
+What is in-situ oil sands extraction? :: Heating bitumen underground, such as by steam, so it flows.
+What is open-pit oil sands mining? :: Digging surface deposits.
+What are tailings ponds? :: Storage for oil sands waste water.
+What is land reclamation? :: Restoring land after mining.
+What is a greenhouse gas intensity? :: Emissions per unit of product.
+What is a carbon budget? :: The total amount of CO2 that can be emitted for a given temperature goal.
+What is a catalyst used for in industry? :: Speeding reactions and saving energy.
+What are acid deposition effects on soil? :: Leaches nutrients and harms plants.
+What is a pH of acid rain? :: Below 5.6.
+What does a scrubber do? :: Removes SO2 from exhaust.
+What is ozone depletion's health effect? :: More UV exposure, causing skin cancer and cataracts.
+What is the Stockholm Convention? :: A treaty banning persistent organic pollutants.
+What is a persistent organic pollutant? :: A toxic chemical that lasts long in the environment.
+What is bioremediation? :: Using organisms to clean pollution.
+What are heavy metal sources? :: Mining, industry and old paint or batteries.
+What is the safe disposal of batteries? :: Take them to recycling depots.
+What is e-waste? :: Discarded electronics.
+What are rare earth elements used for? :: Magnets, electronics and renewable technology.
+What is the circular economy? :: Reusing and recycling materials to avoid waste.
+
+## Science 30 | Electromagnetic Energy
+What is the wavelength of a 100 MHz radio wave? :: 3 m
+What is the frequency of 500 nm light? :: 6.0 x 10^14 Hz
+What is the energy of a photon of frequency 5.0 x 10^14 Hz? :: 3.3 x 10^-19 J
+Which has more energy: UV or infrared? :: UV.
+What is the difference between ionizing and non-ionizing radiation? :: Ionizing can remove electrons from atoms.
+Is visible light ionizing? :: No.
+Are X-rays ionizing? :: Yes.
+What is a sunscreen for? :: Absorbing or reflecting UV light.
+What is the UV index? :: A scale showing the strength of UV radiation.
+What is a microwave oven's frequency range? :: About 2.45 GHz.
+What do radio telescopes detect? :: Radio waves from space.
+What is radar? :: Using radio waves to detect objects.
+What is the Doppler radar's use? :: Tracking storms and precipitation.
+What is Bluetooth and Wi-Fi's wave type? :: Microwaves or radio waves.
+What is an MRI? :: Imaging using magnetic fields and radio waves.
+What is an X-ray image formed from? :: X-rays absorbed differently by tissues.
+What is an infrared camera used for? :: Detecting heat.
+What is a laser? :: A device producing intense coherent light.
+What are lasers used for? :: Surgery, cutting, scanning and communication.
+What is an optical illusion? :: A visual effect that tricks perception.
+What is the focal length of a lens? :: The distance from lens to focal point.
+What is a magnifying glass? :: A convex lens used to enlarge.
+What is the lens in the human eye? :: A flexible convex lens focusing light on the retina.
+What is cataract? :: Clouding of the eye lens.
+
+## Science 30 | Energy and the Environment
+What is the energy content of fuels called? :: Heat of combustion or energy density.
+What is the efficiency of a coal plant, roughly? :: About 33% to 40%.
+What is the efficiency of a combined-cycle natural gas plant? :: Up to about 60%.
+What is the capacity factor of wind power, roughly? :: About 30% to 40%.
+What is a kilowatt versus kilowatt-hour? :: Power versus energy.
+What is Alberta's coal phase-out? :: Plans to end coal power, with many plants converted to gas.
+What is a carbon price? :: A cost charged per tonne of CO2 emitted.
+What is the Alberta Electric System Operator? :: The agency managing Alberta's power grid.
+What is a power purchase agreement? :: A contract to buy electricity at a set price.
+What is energy poverty? :: Lack of access to affordable energy.
+What is a nuclear reactor's coolant? :: Water or heavy water carrying heat away.
+What are CANDU reactors cooled by? :: Heavy water.
+What is a half-life of uranium-238? :: About 4.5 billion years.
+What is a fusion experiment example? :: ITER in France.
+What are the advantages of fusion? :: Abundant fuel and little long-lived waste.
+What is the challenge of fusion? :: Achieving and holding extremely high temperatures.
+What is geothermal potential in Alberta? :: Using deep hot rocks and oil-field wells for heat.
+What is biofuel's carbon argument? :: Plants absorb CO2 as they grow, offsetting emissions when burned.
+What is a hydrogen economy? :: An energy system using hydrogen as a fuel.
+What is blue hydrogen? :: Hydrogen from natural gas with carbon capture.
+What is green hydrogen? :: Hydrogen made by electrolysis with renewable power.
+What is a zero-emission vehicle? :: A vehicle with no tailpipe emissions.
+What is a life-cycle assessment of an EV? :: Includes battery manufacturing and electricity sources.
+What is district heating? :: Heating many buildings from a central source.
+What is a heat pump? :: A device moving heat from outside to inside efficiently.
+
+## Biology 30 | Nervous and Endocrine Systems
+What is the all-or-none principle? :: A neuron either fires completely or not at all.
+What is summation? :: Combining many small inputs to reach threshold.
+What is the role of calcium at the synapse? :: Triggers neurotransmitter release.
+What is a graded potential? :: A variable-strength change in membrane potential.
+What is an EPSP? :: An excitatory postsynaptic potential.
+What is an IPSP? :: An inhibitory postsynaptic potential.
+What is a nerve? :: A bundle of axons.
+What is a ganglion? :: A cluster of nerve cell bodies outside the CNS.
+What is the role of the limbic system? :: Emotion and memory.
+What is the amygdala's role? :: Processing fear and emotions.
+What is the hippocampus's role? :: Forming new memories.
+What is Broca's area? :: A region involved in speech production.
+What is Wernicke's area? :: A region involved in understanding language.
+What is the pineal gland's hormone? :: Melatonin.
+What is thyroid-stimulating hormone? :: A pituitary hormone that stimulates the thyroid.
+What is hyperthyroidism? :: Overactive thyroid causing high metabolism.
+What is hypothyroidism? :: Underactive thyroid causing low metabolism.
+What is goitre? :: An enlarged thyroid, often from iodine deficiency.
+What is Addison's disease? :: Low adrenal hormones.
+What is Cushing's syndrome? :: Excess cortisol.
+What is gigantism? :: Excess growth hormone in childhood.
+What is acromegaly? :: Excess growth hormone in adulthood.
+What is diabetes insipidus? :: Low ADH causing excessive urination.
+What is the fight-or-flight effect on heart rate? :: It increases.
+
+## Biology 30 | Reproductive Systems and Development
+What is the function of the scrotum? :: Holds the testes at a cooler temperature.
+What is the function of the urethra in males? :: Carries both urine and semen.
+What is the function of the vagina? :: Birth canal and receives sperm.
+What is the function of the ovaries? :: Produce eggs and hormones.
+What is a primary oocyte? :: A cell that begins meiosis in the ovary.
+What is the polar body? :: A small cell discarded during oogenesis.
+What is the acrosome? :: A cap on the sperm containing enzymes to penetrate the egg.
+What is the zona pellucida? :: The protective layer around the egg.
+What is the cortical reaction? :: Changes preventing more than one sperm from entering the egg.
+What is the role of the midpiece of sperm? :: It contains mitochondria for energy.
+What is the luteal phase? :: The phase after ovulation with high progesterone.
+What is the follicular phase? :: The phase when follicles mature with rising estrogen.
+Which hormone surge triggers ovulation? :: LH.
+What is the role of inhibin? :: Reduces FSH secretion.
+What is the placenta's hormonal role? :: Produces progesterone and estrogen during pregnancy.
+What is the chorion? :: The embryonic membrane forming part of the placenta.
+What is the yolk sac's role? :: Early blood formation and nutrients.
+What is the trimester system? :: Pregnancy divided into three 3-month stages.
+What is a premature birth? :: Birth before 37 weeks.
+What is a cesarean section? :: Surgical delivery of a baby.
+What is lactation? :: Milk production.
+What is colostrum? :: The first milk, rich in antibodies.
+What is Rh incompatibility? :: A condition when an Rh-negative mother carries an Rh-positive fetus.
+What is a birth defect? :: A structural or functional abnormality present at birth.
+What is gestational diabetes? :: High blood sugar during pregnancy.
+
+## Biology 30 | Cell Division, Genetics and Molecular Biology
+What is the number of chromosomes after meiosis I? :: Haploid (23 in humans, each with two chromatids).
+What is the number of chromosomes after meiosis II? :: 23 single chromatids per cell in humans.
+What is the number of cells made by meiosis? :: Four.
+What is the number of cells made by mitosis? :: Two.
+What is a gamete? :: A sex cell like sperm or egg.
+What is a somatic cell? :: A body cell other than a gamete.
+What is the checkpoint in the cell cycle? :: A control point that checks conditions before continuing.
+What is apoptosis? :: Programmed cell death.
+What is a stem cell's potency? :: The range of cell types it can become.
+What is the difference between mitosis and meiosis in chromosome number? :: Mitosis keeps diploid; meiosis halves to haploid.
+What is a dihybrid cross ratio for AaBb x AaBb? :: 9:3:3:1
+What is the probability of aa from Aa x Aa? :: 1/4
+What is the probability a child is affected if both parents are carriers of a recessive disease? :: 1/4
+What is the probability a son has colour blindness if the mother is a carrier and father unaffected? :: 1/2
+What is the probability a daughter is a carrier in that case? :: 1/2
+What is a mutation in a gamete's effect? :: It can be inherited.
+What is the difference between DNA and RNA? :: RNA has ribose, uracil and is single-stranded.
+What is a nucleotide? :: A sugar, phosphate and base.
+What is a gene's promoter? :: A DNA region where transcription begins.
+What are introns and exons? :: Non-coding and coding parts of genes.
+What is mRNA splicing? :: Removing introns and joining exons.
+What is a polypeptide? :: A chain of amino acids.
+What is a protein's primary structure? :: The amino acid sequence.
+What is a mutation causing sickle cell? :: A single base change replacing glutamic acid with valine.
+What is a genetically modified bacterium used for? :: Producing insulin.
+What is a DNA ligase? :: An enzyme that joins DNA pieces.
+
+## Biology 30 | Population Dynamics
+What is a population pyramid for Canada like? :: Narrow base with an aging population.
+What is the replacement fertility rate? :: About 2.1 children per woman.
+What is Canada's population growth mainly from? :: Immigration.
+What is the formula for exponential growth? :: N = N0 e^(rt)
+What is the intrinsic rate of increase? :: The per capita growth rate without limits.
+What is the logistic growth equation idea? :: Growth slows as N approaches K.
+What is the maximum sustainable yield? :: The largest harvest that does not harm a population.
+What is overharvesting? :: Taking more than a population can replace.
+What is population viability analysis? :: Estimating the likelihood a population will persist.
+What is a minimum viable population? :: The smallest size needed to survive long term.
+What is inbreeding depression? :: Reduced fitness from mating between relatives.
+What is a genetic bottleneck example? :: Cheetahs with low genetic diversity.
+What is a species-area relationship? :: Larger areas hold more species.
+What is island biogeography? :: How island size and distance affect species numbers.
+What is a landscape corridor's benefit? :: Allows movement and gene flow.
+What is ecotourism? :: Tourism that supports conservation.
+What is a protected species in Alberta? :: Examples include woodland caribou and whooping crane.
+What is the woodland caribou's problem? :: Habitat loss and predation have driven declines.
+What is the greater sage-grouse's status? :: Endangered in southeastern Alberta.
+What is the black-footed ferret's story? :: Once thought extinct; recovered through captive breeding.
+
+## Chemistry 30 | Thermochemical Changes
+What is the heat released by burning 0.50 mol of a fuel with delta H = -800 kJ/mol? :: 400 kJ
+What is the temperature change when 4180 J heats 100 g of water? :: 10 degrees C
+What is the molar enthalpy of dissolution? :: Heat change when one mole dissolves.
+What is the enthalpy of solution for NH4NO3? :: Positive (endothermic).
+What is the enthalpy of solution for NaOH? :: Negative (exothermic).
+What is the heat of reaction in a bomb calorimeter measured at? :: Constant volume.
+What is the sign convention for heat gained by water? :: Positive for water, negative for the reaction.
+What is the Hess's law step for reversing an equation? :: Change the sign of delta H.
+What is a standard state of carbon? :: Graphite at 25 degrees C and 100 kPa.
+What is the formation equation for CO2? :: C(s) + O2(g) -> CO2(g)
+What is delta Hf for O2(g)? :: 0
+What is the units of delta Hf? :: kJ/mol
+What is bond dissociation energy? :: The energy required to break a bond in the gas phase.
+Which bond is stronger: C-H or C=C? :: C=C is stronger (higher bond energy).
+What is the energy released in forming bonds? :: Equal to the energy needed to break them.
+What is enthalpy of atomization? :: Energy to produce one mole of gaseous atoms.
+What is a heating curve? :: A graph of temperature versus heat added.
+What happens to temperature during a phase change? :: It stays constant.
+
+## Chemistry 30 | Electrochemical Changes
+What is the oxidation number of Cl in HClO4? :: +7
+What is the oxidation number of C in CO2? :: +4
+What is the oxidation number of Fe in Fe2O3? :: +3
+What is the half-reaction for oxidation of Fe2+? :: Fe2+ -> Fe3+ + e-
+What is the half-reaction for reduction of O2 in acid? :: O2 + 4 H+ + 4 e- -> 2 H2O
+What is the overall reaction when Zn reacts with Cu2+? :: Zn + Cu2+ -> Zn2+ + Cu
+What is the cell notation for a Zn-Cu cell? :: Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)
+What is the role of the electrolyte in a galvanic cell? :: Provides ions for charge flow.
+What is the anode mass change in a Zn-Cu cell? :: It decreases as zinc dissolves.
+What is the cathode mass change in a Zn-Cu cell? :: It increases as copper plates.
+What does a voltmeter read in a galvanic cell? :: The cell potential.
+What is the difference between primary and secondary cells? :: Primary cells are not rechargeable; secondary cells are.
+What is a button cell? :: A small battery used in watches.
+What is the lead-acid cell reaction? :: Pb + PbO2 + 2 H2SO4 -> 2 PbSO4 + 2 H2O
+What is the chlor-alkali process? :: Electrolysis of brine producing chlorine, hydrogen and NaOH.
+What is the electrolysis of aqueous NaCl's cathode product? :: Hydrogen gas.
+What is anodizing? :: Thickening the oxide layer on aluminum by electrolysis.
+What is passivation? :: Formation of a protective oxide layer on a metal.
+What is the mass of Cu deposited by 2 A for 1 hour? :: About 2.37 g
+What is the number of moles of electrons in 1 A for 1 hour? :: About 0.0373 mol
+What is a corrosion cell? :: A tiny galvanic cell formed on a metal surface.
+What causes rusting to be faster in salt water? :: Dissolved ions increase conductivity.
+What is a standard reduction potential table used for? :: Predicting spontaneity and cell voltage.
+
+## Chemistry 30 | Organic Chemistry
+What is the name of C7H16? :: Heptane
+What is the name of C4H8 with a double bond between C1 and C2? :: 1-butene
+What is the name of CH3CH2CH2CH2OH? :: 1-butanol
+What is the name of CH3CH2COOH? :: Propanoic acid
+What is the name of CH3COOCH3? :: Methyl ethanoate
+What is the name of CH3CH2NH2? :: Ethylamine (ethanamine)
+What is the formula for benzene? :: C6H6
+What is the formula for cyclopentane? :: C5H10
+How many structural isomers does pentane have? :: Three.
+What is the functional group of an ether? :: C-O-C
+What is the reaction of ethene with HBr? :: Addition forming bromoethane.
+What is the product of oxidizing ethanol fully? :: Ethanoic acid.
+What is saponification? :: Hydrolysis of fats with a base to form soap.
+What is the formation of a triglyceride? :: Three fatty acids and glycerol with loss of water.
+What is a peptide bond? :: The amide link between amino acids.
+
+## Chemistry 30 | Chemical Equilibrium Focusing on Acid-Base Systems
+What is K for 2 NO2 <-> N2O4 if concentrations are 0.50 M and 0.10 M? :: 0.40
+What is the effect of adding product on equilibrium? :: Shifts toward reactants.
+What is the effect of decreasing volume on N2 + 3H2 <-> 2NH3? :: Shifts toward ammonia.
+What is Ka for acetic acid roughly? :: 1.8 x 10^-5
+What is the pH of 0.10 mol/L acetic acid roughly? :: About 2.9
+What is the pH at half-equivalence for acetic acid? :: About 4.74
+What is the conjugate base of acetic acid? :: Acetate ion.
+What is the pH of a buffer with equal acid and conjugate base amounts? :: Equal to pKa.
+What is the name of the point where an indicator changes colour? :: The endpoint.
+What is the role of a common ion in a buffer? :: It supplies the conjugate species to resist changes.
+What is Ksp for PbI2? :: [Pb2+][I-]^2
+What is the solubility if Ksp of AgCl is 1.8 x 10^-10? :: About 1.3 x 10^-5 mol/L
+What is the effect of adding NaCl to a saturated AgCl solution? :: Solubility decreases (common ion effect).
+
+## Physics 30 | Momentum and Impulse
+What is the momentum of a 0.15 kg baseball at 40 m/s? :: 6 kg m/s
+What is the impulse needed to stop a 1200 kg car at 25 m/s? :: 30 000 N s
+What is the average force if that stops in 3 s? :: 10 000 N
+What is the average force if it stops in 0.1 s? :: 300 000 N
+What is the final speed after a 0.5 kg ball at 6 m/s collides and sticks to a 1.5 kg ball at rest? :: 1.5 m/s
+What are the final speeds for equal masses in an elastic head-on collision with one at rest? :: They exchange velocities.
+What is the recoil speed of a 80 kg astronaut throwing a 2 kg wrench at 10 m/s? :: 0.25 m/s
+What is the momentum change of a ball rebounding at the same speed? :: Twice m v.
+How do you find the speed of a car after a perfectly inelastic collision? :: Total momentum divided by total mass.
+What is the impulse from a force of 20 N for 0.5 s? :: 10 N s
+What is the total momentum of two carts: 2 kg at 3 m/s and 3 kg at -2 m/s? :: 0
+What is the momentum of a photon with wavelength 500 nm? :: About 1.3 x 10^-27 kg m/s
+What does a flat force-time graph give for impulse? :: Rectangle area: F times t.
+What is the unit equivalence of impulse and momentum? :: N s equals kg m/s.
+What is a jet engine's momentum principle? :: Exhaust gas gains backward momentum so the engine gains forward.
+What does a car's crumple zone change? :: The time of the collision.
+What is a head-on collision of equal masses at equal speeds, perfectly inelastic? :: Both stop.
+What does a ballistic pendulum measure? :: The speed of a projectile.
+
+## Physics 30 | Forces and Fields
+What is the electric force between charges of 2 x 10^-6 C and 3 x 10^-6 C at 0.5 m? :: About 0.22 N
+What is the field 1 m from a 1 x 10^-6 C charge? :: About 9.0 x 10^3 N/C
+What is the force on a 1.6 x 10^-19 C charge in a field of 1000 N/C? :: 1.6 x 10^-16 N
+What is the potential difference if 6 J moves 2 C? :: 3 V
+What is the energy gained by a 2 C charge through 12 V? :: 24 J
+What is the magnetic force on a charge of 1.6 x 10^-19 C moving 1 x 10^6 m/s perpendicular to 0.5 T? :: 8.0 x 10^-14 N
+What is the radius for a proton (1.67 x 10^-27 kg) at 1 x 10^6 m/s in 0.1 T? :: About 0.10 m
+What is the emf induced by a flux changing 0.2 Wb in 0.1 s? :: 2 V
+What is the output of a transformer with 50 primary turns, 250 secondary turns and 12 V input? :: 60 V
+What is the force on 0.5 m of wire carrying 4 A in a 0.3 T field at 90 degrees? :: 0.6 N
+What is the direction of force for a positive charge moving right in a field into the page? :: Upward (right-hand rule).
+What does Lenz's law say about a bar magnet approaching a coil? :: The coil creates a field opposing the magnet's approach.
+What is the unit of magnetic flux? :: Weber.
+What is the unit of capacitance? :: Farad.
+What is the charge stored in a 10 uF capacitor at 5 V? :: 50 uC
+What is the energy stored in a capacitor? :: 1/2 C V^2
+What is the electric field inside a conductor? :: Zero.
+What do field lines look like between opposite plates? :: Parallel lines from positive to negative.
+What is the force between two parallel wires carrying current in the same direction? :: Attractive.
+
+## Physics 30 | Electromagnetic Radiation
+What is the wavelength of a photon with energy 3.0 eV? :: About 413 nm
+What is the frequency of a photon with energy 2.0 eV? :: About 4.8 x 10^14 Hz
+What is the work function if the threshold frequency is 5.0 x 10^14 Hz? :: About 2.1 eV
+What is the maximum kinetic energy if f = 8.0 x 10^14 Hz and W = 2.0 eV? :: About 1.3 eV
+What is the stopping potential for a 1.3 eV electron? :: 1.3 V
+What is the de Broglie wavelength of a 1 kg ball at 1 m/s? :: About 6.6 x 10^-34 m
+Why do we not see wave behaviour in baseballs? :: Their wavelengths are tiny.
+What is the spacing of fringes for light of 600 nm, d = 0.1 mm, L = 2 m? :: About 12 mm
+What is the angle of the first-order maximum for d = 2.0 x 10^-6 m, lambda = 500 nm? :: About 14.5 degrees
+What is the critical angle for glass n = 1.5 to air? :: About 41.8 degrees
+What is the speed of light in glass n = 1.5? :: 2.0 x 10^8 m/s
+What is the speed of light in water n = 1.33? :: About 2.26 x 10^8 m/s
+What is the frequency of light in glass compared with air? :: The same.
+What is the wavelength of light in glass compared with air? :: Shorter.
+What is polarized light intensity after two crossed polarizers? :: Zero.
+What is Malus's law? :: I = I0 cos^2(theta)
+What is the photoelectric current dependent on? :: Light intensity.
+What is Einstein's Nobel Prize work? :: Explaining the photoelectric effect.
+What is the energy of a gamma photon of 1 MeV in joules? :: 1.6 x 10^-13 J
+What is the use of X-ray diffraction? :: Determining crystal structure.
+
+## Physics 30 | Atomic Physics
+What is the energy of the n = 4 to n = 2 transition in hydrogen? :: 2.55 eV
+What is the wavelength of that photon? :: About 487 nm
+What is the radius of the Bohr hydrogen atom ground state? :: About 5.3 x 10^-11 m
+What is the energy of hydrogen's n = 3 level? :: -1.51 eV
+What is the number of neutrons in uranium-235? :: 143
+What is the nuclear equation for alpha decay of Ra-226? :: Ra-226 -> Rn-222 + He-4
+What is the nuclear equation for beta-minus decay of Sr-90? :: Sr-90 -> Y-90 + e- + antineutrino
+What is the mass defect of helium-4? :: About 0.0304 u
+What is the binding energy of helium-4? :: About 28.3 MeV
+What is the half-life count if 1/16 remains? :: 4
+What is the activity of 1 g of radium roughly? :: About 3.7 x 10^10 Bq (1 curie).
+What is a decay constant? :: The probability per unit time of decay.
+What is the relation between half-life and decay constant? :: T = 0.693 / lambda
+What is the strong force's range? :: Very short, about 10^-15 m.
+What is the weak force responsible for? :: Beta decay.
+What is a pion? :: A meson that mediates the strong force.
+What is a gluon? :: A particle that carries the strong force between quarks.
+What is a photon's role? :: Carries the electromagnetic force.
+What is the standard model? :: The theory of fundamental particles and forces except gravity.
+What is the positron? :: The antiparticle of the electron.

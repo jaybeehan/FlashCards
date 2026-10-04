@@ -1,0 +1,601 @@
+## Mathematics 10C | Trigonometry of Right Triangles
+Find sin 15 degrees to three decimals. :: 0.259
+Find cos 75 degrees to three decimals. :: 0.259
+Find tan 10 degrees to three decimals. :: 0.176
+Find angle A if sin A = 0.9. :: About 64.2 degrees
+Find angle A if cos A = 0.2. :: About 78.5 degrees
+A 25 m building casts a shadow when the sun is at 30 degrees. How long is the shadow? :: About 43.3 m
+A 10 m ladder reaches 8 m up the wall. What angle with the ground? :: About 53.1 degrees
+A driveway rises 1.2 m over 10 m of horizontal distance. Angle? :: About 6.8 degrees
+How far up a wall does a 5 m ladder at 80 degrees reach? :: About 4.9 m
+What is the hypotenuse if opposite = 7 and angle = 35 degrees? :: About 12.2
+What is the adjacent side if hypotenuse = 15 and angle = 50 degrees? :: About 9.6
+What is the opposite side if adjacent = 9 and angle = 20 degrees? :: About 3.3
+Find the sides of a 30-60-90 triangle with hypotenuse 10. :: 5 and 8.66
+What is the ratio of sides in a 45-45-90 triangle? :: 1 : 1 : sqrt(2)
+What is the ratio of sides in a 30-60-90 triangle? :: 1 : sqrt(3) : 2
+Why can tan A be greater than 1 but sin A not? :: Opposite can exceed adjacent, but never the hypotenuse.
+Which trig ratio gives slope? :: Tangent.
+A hill has a slope of 20%. What angle is that? :: About 11.3 degrees.
+
+## Mathematics 10C | Roots and Powers
+Evaluate: 49^(1/2) :: 7
+Evaluate: 125^(1/3) :: 5
+Evaluate: 8^(5/3) :: 32
+Evaluate: 4^(-3/2) :: 1/8
+Simplify: sqrt(x^6) :: x^3
+Simplify: x^(3/4) x x^(1/4) :: x
+Simplify: sqrt(24) :: 2 sqrt(6)
+Simplify: 3 sqrt(2) x sqrt(8) :: 12
+Rationalize: 7 / sqrt(7) :: sqrt(7)
+Evaluate: (-27)^(1/3) :: -3
+Evaluate: 2^-3 x 2^5 :: 4
+Evaluate: (9/16)^(1/2) :: 3/4
+
+## Mathematics 10C | Relations and Functions
+What is the domain of f(x) = 2/(x + 3)? :: All real numbers except -3.
+What is the range of f(x) = -x^2 + 4? :: y <= 4
+If f(x) = x^2 + 1, find f(a + 1). :: a^2 + 2a + 2
+If f(x) = 3x - 2 and f(a) = 10, find a. :: 4
+Is the relation {(a, 1), (b, 2), (c, 1)} a function? :: Yes.
+What does it mean for a function to be one-to-one? :: Each output comes from exactly one input.
+What is a function machine? :: A model where an input is processed by a rule to give an output.
+Does y^2 = x define a function of x? :: No.
+Write the cost of renting a car for one day at $40 plus $0.25 per km. :: C = 0.25k + 40, where k is kilometres driven.
+What is the graph of f(x) = |x - 2|? :: A V shape with vertex (2, 0).
+What is the domain of f(x) = sqrt(5 - x)? :: x <= 5
+Find f(-3) if f(x) = |x| + x. :: 0
+Find f(2) if f(x) = 2^x. :: 4
+What is the y-intercept of f(x) = 3x^2 - 5x + 7? :: 7
+What are the zeros of f(x) = x^2 - 5x + 6? :: 2 and 3
+What does a point on the graph (4, 9) mean in function notation? :: f(4) = 9
+What is a piecewise function? :: A function defined by different rules on different intervals.
+
+## Mathematics 10C | Linear Functions and Graphs
+Find the slope between (-2, 3) and (4, 9). :: 1
+Find the equation: slope -4 and y-intercept 6. :: y = -4x + 6
+Find the equation of the line through (1, 3) with slope 2. :: y = 2x + 1
+Find the equation of the line through (2, 1) and (6, 9). :: y = 2x - 3
+Write x + y = 7 in slope-intercept form. :: y = -x + 7
+What is the slope of the line 6x - 3y = 12? :: 2
+What is the equation of the line parallel to y = 3x - 2 through (1, 1)? :: y = 3x - 2
+What is the equation of the line perpendicular to y = -2x + 1 through (0, 0)? :: y = x/2
+What is the x-intercept of y = -3x + 9? :: 3
+What is the length of the segment from (1, 2) to (7, 10)? :: 10
+What is the midpoint of (2, 3) and (8, 7)? :: (5, 5)
+How is slope related to angle of inclination? :: slope = tan(angle)
+A car travels 150 km in 2 h. Write d = vt. :: d = 75t
+If a line has x-intercept 5 and y-intercept -10, what is its slope? :: 2
+Write the line with x-intercept 3 and y-intercept 6. :: y = -2x + 6
+What does a line with undefined slope look like? :: A vertical line.
+Is the point (3, 7) on the line 2x + y = 13? :: Yes.
+What do parallel lines have in common? :: The same slope.
+What do perpendicular slopes multiply to? :: -1
+
+## Mathematics 10C | Systems of Linear Equations
+Solve: x + y = 12, 2x - y = 3. :: x = 5, y = 7
+Solve: 3x + 2y = 7, x - y = 1. :: x = 9/5, y = 4/5
+Solve: y = 5x - 4, y = 2x + 5. :: x = 3, y = 11
+Solve: 2x - 3y = 7, 4x + y = 7. :: x = 2, y = -1
+Solve: x + 3y = 11, 2x - y = 1. :: x = 2, y = 3
+Solve: 4x + 3y = 18, 2x + 5y = 16. :: x = 3, y = 2
+Solve: 5x + 2y = 16, 3x - 2y = 0. :: x = 2, y = 3
+Solve: y = 2x - 1, 3x + 2y = 12. :: x = 2, y = 3
+Solve: x - 2y = -1, 3x + y = 11. :: x = 3, y = 2
+Solve: 6x + y = 10, 2x - y = 6. :: x = 2, y = -2
+Solve: 7x - 2y = 13, x + 2y = 3. :: x = 2, y = 1/2
+Solve: 2x + 3y = 12, 4x + 6y = 24. :: Infinitely many solutions.
+Solve: x + y = 3, 2x + 2y = 9. :: No solution.
+Two numbers: the larger is 4 more than the smaller; their sum is 30. Find them. :: 13 and 17
+Adult tickets cost $12 and child tickets cost $7. 20 tickets cost $190. How many adults? :: 10 adults and 10 children.
+A farmer has hens and cows with 30 heads and 80 legs. How many hens? :: 20 hens and 10 cows.
+Coins: 15 coins worth $2.40 in dimes and quarters. How many quarters? :: 6 quarters and 9 dimes.
+A bike shop charges $20 plus $5 per hour; another $10 plus $7.50 per hour. When equal? :: 4 hours.
+A car is 90 km ahead of a truck after 3 h. How much faster is the car? :: 30 km/h (90 / 3).
+Two lines: y = 2x + 1 and y = -x + 7 intersect where? :: (2, 5)
+At what point do y = x and y = 6 - x intersect? :: (3, 3)
+What are the three possible numbers of solutions of a linear system? :: None, one or infinitely many.
+How can you check a solution quickly? :: Substitute into both equations.
+Which method is best for y = 3x + 2 and y = x + 8? :: Substitution or equating y-values.
+Which method is best for 3x + 2y = 7 and 5x - 2y = 9? :: Elimination (add equations).
+What is the solution graphically if lines are the same? :: Every point on the line.
+Why does elimination work? :: Adding equal quantities to both sides keeps equality.
+How do you eliminate a variable with non-matching coefficients? :: Multiply equations so coefficients are equal or opposite.
+What does it mean if a system is inconsistent? :: There is no solution.
+What does it mean if a system is dependent? :: There are infinitely many solutions.
+Solve: 0.5x + y = 4, x - y = -1. :: x = 2, y = 3
+
+## Science 10 | Energy and Matter in Chemical Change
+What is the difference between a subscript and a coefficient? :: A subscript is in the formula; a coefficient balances the equation.
+What is the formula for lithium oxide? :: Li2O
+
+## Science 10 | Energy Flow in Technological Systems
+What is the efficiency of an incandescent bulb, roughly? :: About 5% to 10%.
+What is the efficiency of an LED, roughly? :: About 40% to 50%.
+What is a perpetual motion machine? :: An impossible machine that runs forever with no energy input.
+What is the second law of thermodynamics idea? :: Heat flows from hot to cold, and some energy always degrades.
+What is friction's effect on efficiency? :: It converts useful energy into heat.
+What is a wedge? :: A simple machine that splits or lifts using a sloped surface.
+What is a screw? :: An inclined plane wrapped around a cylinder.
+What is a wheel and axle? :: A large wheel connected to a smaller rod to multiply force.
+What is a first-class lever? :: A lever with the fulcrum between the effort and the load.
+What is a second-class lever? :: A lever with the load between the fulcrum and the effort.
+What is a third-class lever? :: A lever with the effort between the fulcrum and the load.
+Give a second-class lever example. :: A wheelbarrow.
+Give a first-class lever example. :: A seesaw.
+Give a third-class lever example. :: A fishing rod or tweezers.
+What is the ideal mechanical advantage of a lever? :: Effort arm length divided by load arm length.
+How much work does a machine save? :: None; it changes force and distance but not total work.
+Find the work to lift 10 kg by 2 m. :: About 196 J
+Find the power to lift 10 kg by 2 m in 4 s. :: About 49 W
+What happens to the energy of a falling object? :: Potential energy converts to kinetic energy.
+What kind of energy does a stretched rubber band have? :: Elastic potential energy.
+
+## Science 10 | Cycling of Matter in Living Systems
+What is the formula for glucose? :: C6H12O6
+Which gas is needed for cellular respiration? :: Oxygen.
+Which gas is released by photosynthesis? :: Oxygen.
+What is the role of mitochondria in cells? :: Producing ATP through cellular respiration.
+Why do animals need food? :: For energy and building materials.
+What is a trophic level? :: A feeding level in a food chain.
+What is the tertiary consumer? :: A consumer that eats secondary consumers.
+What is an apex predator? :: A predator at the top with no natural predators.
+What is a scavenger? :: An animal that eats dead animals.
+What is the role of bacteria in the nitrogen cycle? :: Fixing and converting nitrogen into usable forms.
+What is humus? :: Dark, nutrient-rich organic matter in soil.
+What is composting? :: Decomposing organic waste into fertilizer.
+What is a food web example in Alberta? :: Grass to deer to wolf.
+What is a primary producer in the ocean? :: Phytoplankton.
+What does lichen show about ecosystems? :: It is a pioneer species and air quality indicator.
+What is an ecological pyramid of numbers? :: A diagram of the number of organisms at each level.
+What is the carbon in fossil fuels from? :: Ancient organisms.
+What is the burning of fossil fuels' effect on the carbon cycle? :: Releases stored carbon as CO2.
+What is the role of ocean in the carbon cycle? :: It absorbs and stores large amounts of CO2.
+What is a limiting resource example for plants? :: Water, nitrogen or sunlight.
+What is ecological succession in a burned forest? :: Regrowth from grasses and shrubs to trees.
+What is an introduced species example? :: Starlings in North America.
+What is the function of roots? :: Absorb water and nutrients and anchor plants.
+What is the function of leaves? :: Photosynthesis and gas exchange.
+
+## Science 10 | Energy Flow in Global Systems
+What causes the Earth's wind belts? :: Uneven heating and the Coriolis effect.
+What are the trade winds? :: Steady winds blowing toward the equator from the east.
+What are the westerlies? :: Winds blowing from west to east at mid-latitudes.
+What is the polar jet stream's effect on Alberta? :: It steers weather systems and can bring Arctic air.
+What is a polar vortex? :: A large area of cold air circling the poles that can spill south.
+What is an air mass? :: A large body of air with similar temperature and humidity.
+What is a continental polar air mass? :: Cold, dry air from northern land areas.
+What is a maritime tropical air mass? :: Warm, moist air from tropical oceans.
+How does a Chinook affect temperature? :: It raises temperature rapidly, melting snow.
+What causes lake effect snow? :: Cold air passing over warm lake water.
+What is orographic precipitation? :: Rain or snow from air rising over mountains.
+What is a hailstorm? :: A storm with falling balls of ice, common in Alberta summers.
+What is the Alberta hail season? :: Mainly June to August.
+What is wind chill? :: How cold it feels because of wind on exposed skin.
+What is the heat index? :: How hot it feels when humidity is combined with temperature.
+What is a thermometer? :: A tool measuring temperature.
+What is a barometer? :: A tool measuring air pressure.
+What is an anemometer? :: A tool measuring wind speed.
+What is a hygrometer? :: A tool measuring humidity.
+What does a falling barometer usually predict? :: Stormy weather.
+What is the greenhouse effect's natural role? :: It keeps Earth warm enough for life.
+What is the ozone hole? :: A region of thin ozone, mainly over Antarctica.
+What is thermal expansion's role in sea level rise? :: Warmer water expands and raises levels.
+What is the albedo effect of melting sea ice? :: Less reflection, more absorption, more warming.
+What is a feedback loop in climate? :: A process that amplifies or reduces warming.
+What is ocean acidification? :: Lower pH of oceans due to absorbed CO2.
+What is a heat wave? :: A period of unusually hot weather.
+What is a cold snap? :: A short period of unusually cold weather.
+
+## Mathematics 20-1 | Sequences and Series
+Find t_9 for 4, 9, 14, ... :: 44
+Find S_9 for 4, 9, 14, ... :: 216
+Find the 5th term of 2, 6, 18, ... :: 162
+Find S_infinity for 10, 5, 2.5, ... :: 20
+Find n if t_n = 43 in 7, 10, 13, ... :: 13
+Find the sum of integers from 1 to 40. :: 820
+Find the 8th term of 128, 64, 32, ... :: 1
+Is the sequence 2, -4, 8, -16 geometric? :: Yes, r = -2.
+What is the sum of an arithmetic series with 10 terms, first term 3 and last 30? :: 165
+
+## Mathematics 20-1 | Trigonometry
+What is sin(180 - x) in terms of sin x? :: sin x
+
+## Mathematics 20-1 | Quadratic Functions
+Find the vertex of y = -(x - 4)^2 + 9. :: (4, 9)
+Find the zeros of y = x^2 - 7x + 12. :: 3 and 4
+What is the axis of symmetry of y = 3(x + 2)^2 - 1? :: x = -2
+Find the vertex of y = x^2 - 2x - 8. :: (1, -9)
+What is the y-intercept of y = -2x^2 + 5x - 3? :: -3
+How many x-intercepts does y = 2x^2 - 4x + 5 have? :: None.
+Find the maximum of y = -x^2 + 2x + 8. :: 9
+Write y = (x + 3)^2 - 4 in standard form. :: y = x^2 + 6x + 5
+Find the equation: vertex (3, -2) and passes through (5, 6). :: y = 2(x - 3)^2 - 2
+What is the minimum value of y = 2x^2 + 8x + 5? :: -3
+Find the range of y = -3(x - 1)^2 + 6. :: y <= 6
+What is the average of the zeros of a quadratic equal to? :: The x-coordinate of the vertex.
+What is the sum of zeros of y = x^2 - 6x + 5? :: 6
+What is the effect on the graph of replacing x by (x - 4)? :: Shifts right 4.
+What is the width of y = 5x^2 compared with y = x^2? :: Narrower.
+What does a vertical stretch do to zeros? :: Nothing; zeros stay the same.
+What is a domain restriction in a real problem? :: A limit like time cannot be negative.
+
+## Mathematics 20-1 | Quadratic Equations
+Solve: x^2 - 10x + 21 = 0 :: x = 3 or 7
+Solve: 2x^2 + 3x - 2 = 0 :: x = 1/2 or -2
+Solve: x^2 + 8x + 16 = 0 :: x = -4
+Solve: 4x^2 - 9 = 0 :: x = 3/2 or -3/2
+Solve using the formula: 2x^2 - 6x + 3 = 0 :: x = (3 +/- sqrt(3))/2
+Solve: x^2 + 2x + 5 = 0 :: No real roots.
+Solve: 3x^2 - 12x = 0 :: x = 0 or 4
+Solve: x^2 - 12 = 0 :: x = +/- 2 sqrt(3)
+Solve: 5x^2 + 2x = 3 :: x = 3/5 or -1
+Solve: (x + 3)(x - 2) = 6 :: Expand to x^2 + x - 12 = 0, so x = 3 or x = -4.
+Find k so x^2 - 8x + k = 0 has a double root. :: k = 16
+Find k so x^2 + kx + 4 = 0 has no real roots. :: -4 < k < 4
+A rectangle's length is 3 more than twice its width; area is 14. Find the width. :: 2
+The height of a ball is h = -5t^2 + 15t + 2. When is h = 12? :: t = 1 s and t = 2 s
+Two consecutive odd integers have product 63. Find them. :: 7 and 9 (or -9 and -7).
+A triangle's base is 4 more than its height; area is 30. Find the height. :: 6
+What does the discriminant of 0 tell you about the graph? :: The vertex touches the x-axis.
+What does the quadratic formula give for ax^2 + bx + c with b = 0? :: x = +/- sqrt(-c/a)
+
+## Mathematics 20-1 | Radical Expressions and Equations
+Simplify: sqrt(45) + sqrt(80) :: 7 sqrt(5)
+Simplify: (sqrt(3) + sqrt(2))(sqrt(3) - sqrt(2)) :: 1
+Simplify: 5 sqrt(2) x 3 sqrt(6) :: 30 sqrt(3)
+Simplify: sqrt(125) / sqrt(5) :: 5
+Solve: sqrt(4x + 1) = 5 :: x = 6
+Solve: sqrt(x - 2) = 3 :: x = 11
+Solve: sqrt(x + 4) = x - 2 :: x = 5
+Solve: x = sqrt(2x + 8) :: x = 4
+Solve: sqrt(3x) = 6 :: x = 12
+Solve: sqrt(x - 3) + 1 = 4 :: x = 12
+State the domain of sqrt(6 - 2x). :: x <= 3
+Rationalize: 5 / (sqrt(3) + 1) :: 5(sqrt(3) - 1)/2
+Simplify: sqrt(x^2 y^3) for positive x, y. :: x y sqrt(y)
+Express as an entire radical: 3x sqrt(2). :: sqrt(18x^2)
+What is the square of 2 sqrt(5)? :: 20
+What is the product (sqrt(a))(sqrt(a))? :: a
+If sqrt(x) = 7, what is x? :: 49
+Why is sqrt(x) = -3 impossible? :: A principal square root is never negative.
+
+## Mathematics 20-1 | Rational Expressions and Equations
+Simplify: (x^2 - 4)/(x^2 - 5x + 6) :: (x + 2)/(x - 3)
+Simplify: (3x^2 + 6x)/(6x) :: (x + 2)/2
+Simplify: (x^2 - 6x + 9)/(x^2 - 9) :: (x - 3)/(x + 3)
+Multiply: (x/(x - 1)) x ((x^2 - 1)/x^2) :: (x + 1)/x
+Divide: ((x^2 - 4)/x) / ((x + 2)/x^2) :: x(x - 2)
+Add: 2/(x - 3) + 5/(x + 3) :: (7x - 9)/((x - 3)(x + 3))
+Subtract: 4/(x + 2) - 1/(x - 1) :: (3x - 6)/((x + 2)(x - 1))
+Solve: 2/(x - 1) = 3/(x + 1) :: x = 5
+Solve: 1/(x + 1) + 1/(x - 1) = 4/3 :: 2x/(x^2 - 1) = 4/3 gives 2x^2 - 3x - 2 = 0, so x = 2 or x = -1/2.
+Solve: x/(x - 3) + 2 = 3/(x - 3) :: No solution (x = 3 is extraneous).
+Solve: 3/x + 4/x = 14 :: x = 1/2
+Solve: (x - 1)/(x + 2) = (x + 4)/(x + 5) :: Cross multiply: x^2 + 4x - 5 = x^2 + 6x + 8, so x = -13/2.
+State the non-permissible values of (x - 2)/(x^2 - 3x - 4). :: x = 4 and x = -1
+Simplify: (x^2 - 1)/(x - 1) for x not equal to 1. :: x + 1
+Two pipes fill a pool in 5 h and 20 h. Together? :: 4 hours
+You paddle 8 km upstream and 8 km downstream. Current 2 km/h, total 3 h. Set up. :: 8/(v - 2) + 8/(v + 2) = 3
+A job takes A 6 h and B 3 h. If A works 1 h first, then both finish? :: After 1 h, 5/6 remains; together rate 1/2, so 5/3 h more.
+Is (x + 3)/(x + 3) always 1? :: Yes, for x not equal to -3.
+What is the reciprocal of 1/x + 1/y? :: xy/(x + y)
+What is 1/(1/x)? :: x
+Why cannot a denominator be zero? :: Division by zero is undefined.
+
+## Mathematics 20-1 | Absolute Value and Reciprocal Functions
+Solve: |x + 5| = 2 :: x = -3 or -7
+Solve: |3x - 6| = 9 :: x = 5 or -1
+Solve: |x - 4| <= 3 :: 1 <= x <= 7
+Solve: |2x + 1| > 5 :: x < -3 or x > 2
+Solve: 3|x| - 1 = 8 :: x = 3 or -3
+Evaluate: |-6| - |2 - 9| :: -1
+Find the vertex of y = |x + 2| - 3. :: (-2, -3)
+What is the range of y = -|x - 1| + 4? :: y <= 4
+Write |5 - 2x| as a piecewise function. :: 5 - 2x if x <= 5/2; 2x - 5 if x > 5/2.
+What is the x-intercept of y = |x - 3| - 2? :: x = 1 and x = 5
+What is the vertical asymptote of y = 1/(x + 4)? :: x = -4
+What is the vertical asymptote of y = 1/(x^2 - 4)? :: x = 2 and x = -2
+What happens to y = 1/f(x) when f(x) = 0? :: A vertical asymptote.
+What is the reciprocal of f(x) = 2x? :: 1/(2x)
+What is the horizontal asymptote of y = 1/(x - 5)? :: y = 0
+Does y = 1/f(x) have the same sign as f(x)? :: Yes.
+
+## Mathematics 20-1 | Systems of Equations and Inequalities
+Solve: y = x^2 - 6, y = x. :: (3, 3) and (-2, -2)
+Solve: y = x^2 + 2x, y = 3. :: (1, 3) and (-3, 3)
+Solve: y = 2x^2, y = 8. :: (2, 8) and (-2, 8)
+Solve: y = -x^2 + 4, y = x + 2. :: (1, 3) and (-2, 0)
+Solve: y = x^2 - 2x - 3, y = 2x - 3. :: (0, -3) and (4, 5)
+Solve: y = x^2, y = 2x - 1. :: (1, 1) tangent point.
+Solve: y = x^2 - 4x + 3, y = x - 1. :: (1, 0) and (4, 3)
+Solve: x^2 - 3x - 10 > 0 :: x < -2 or x > 5
+Solve: x^2 + 5x + 4 <= 0 :: -4 <= x <= -1
+Solve: 2x^2 - 8 > 0 :: x < -2 or x > 2
+Solve: -x^2 + 9 > 0 :: -3 < x < 3
+Solve: x^2 - 6x + 9 > 0 :: All real numbers except 3.
+Solve: x^2 + x - 2 >= 0 :: x <= -2 or x >= 1
+Solve: 3x^2 - 12x < 0 :: 0 < x < 4
+Is (2, 1) a solution of y <= x^2 - 3? :: Yes, since 1 <= 1.
+Is (0, 4) a solution of y > x^2 + 3? :: Yes.
+How many solutions can a quadratic-quadratic system have? :: Up to four.
+How do you decide solid or dashed for y >= x^2? :: Solid.
+Describe the graph of y < -x^2 + 4 shading. :: Below the parabola.
+What is the first step to solve a linear-quadratic system by substitution? :: Substitute the linear expression for y in the quadratic.
+What is the sign pattern method for quadratic inequalities? :: Test points in each interval between zeros.
+What is the solution set of x^2 < 0? :: None.
+What is the solution set of x^2 >= 0? :: All real numbers.
+How do you write a solution like x < -2 or x > 5 in interval notation? :: (-infinity, -2) union (5, infinity)
+
+## Mathematics 20-2 | Geometry and Measurement
+Find the volume of a cylinder with r = 4 and h = 9. :: 144 pi, about 452.4.
+Find the surface area of a cone with r = 3 and slant height 7. :: 30 pi, about 94.2.
+Find the area of a sector with r = 6 and angle 60 degrees. :: 6 pi, about 18.8.
+Find the arc length with r = 6 and angle 60 degrees. :: 2 pi, about 6.28.
+Use the sine law: A = 55, B = 65, a = 12. Find b. :: About 13.3
+Use the cosine law: a = 10, b = 12, c = 15. Find angle C. :: About 85.5 degrees
+Use the sine law: a = 9, b = 7, A = 60. Find angle B. :: About 42.4 degrees
+Find the area of a triangle with sides 5, 6, 7 by Heron's formula. :: About 14.7
+What is the sum of angles in a hexagon? :: 720 degrees
+What is the exterior angle of a regular octagon? :: 45 degrees
+How many diagonals does a pentagon have? :: 5
+What is the volume of a hemisphere with r = 3? :: 18 pi, about 56.5.
+What is the surface area of a hemisphere (curved plus base) with r = 3? :: 27 pi, about 84.8.
+What is the height of a cone with volume 100 pi and r = 5? :: 12
+What is the slant height of a cone with r = 6 and h = 8? :: 10
+What is the area of a regular hexagon with side 2? :: 6 sqrt(3), about 10.4.
+A ramp is 12 m long and rises 2 m. Find its angle. :: About 9.6 degrees
+A tower is observed at 32 degrees from 60 m. Find its height. :: About 37.5 m
+From two points 100 m apart, angles to a hilltop are 40 and 55 degrees. What kind of problem is this? :: Solve using the sine law in an oblique triangle.
+What is the ambiguous case in the sine law? :: SSA that may give 0, 1 or 2 triangles.
+
+## Mathematics 20-2 | Logical Reasoning
+Is "If 2 + 2 = 5 then 3 > 1" true? :: True (a false hypothesis makes a conditional true).
+Write the negation of "all squares are rectangles." :: Some squares are not rectangles.
+Write the negation of "no cats can swim." :: Some cats can swim.
+Write the contrapositive of "If x > 4, then x > 2." :: If x <= 2 then x <= 4.
+Write the converse of "If x is even, then x^2 is even." :: If x^2 is even, then x is even.
+Is the converse of "If x is even, then x^2 is even" true? :: Yes.
+Show that "if n is odd, n^2 is odd" with an example. :: 3^2 = 9, which is odd.
+Give a counterexample: "All numbers divisible by 4 are divisible by 8." :: 12
+Give a counterexample: "If n is prime, n is odd." :: 2
+Give a counterexample: "Every even number greater than 2 is prime." :: 4
+If A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, find A union B. :: {1, 2, 3, 4, 5, 6}
+If A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, find A intersect B. :: {3, 4}
+In a class of 28, 17 play soccer, 14 play basketball, 8 play both. How many play neither? :: 5
+How many play only soccer in that class? :: 9
+How many play only basketball in that class? :: 6
+If n(U) = 50, n(A) = 20 and n(B) = 25 and n(A and B) = 10, how many are in neither? :: 15
+What is the complement of the set of even numbers in the integers? :: The odd integers.
+What is a two-column proof? :: A proof with statements and reasons.
+What is a hypothesis in a conditional? :: The "if" part.
+What is a conclusion in a conditional? :: The "then" part.
+Is the argument valid: All birds have wings; a robin is a bird; so a robin has wings? :: Yes.
+Is the argument valid: Some cats are black; Tom is a cat; so Tom is black? :: No.
+What is a syllogism? :: A deductive argument with two premises and a conclusion.
+What is inductive reasoning's weakness? :: The conclusion may fail for untested cases.
+What is deductive reasoning's strength? :: A valid argument guarantees its conclusion.
+
+## Mathematics 20-2 | Probability
+How many ways to arrange the letters in PROBABILITY? :: 9 979 200
+How many 3-letter arrangements from the letters in MATH? :: 24
+How many ways to choose 2 of 12 students for a team? :: 66
+P(drawing a queen then a king without replacement)? :: 4/663
+P(rolling two dice with a sum of at least 10)? :: 1/6
+P(drawing a red marble from 6 red and 4 blue)? :: 3/5
+P(drawing two reds with replacement)? :: 9/25
+P(drawing two reds without replacement)? :: 1/3
+P(rolling no 3 in three rolls)? :: 125/216
+What is the difference between 5P2 and 5C2? :: 20 versus 10; combinations ignore order.
+A club has 8 members. How many ways to choose a president, secretary and treasurer? :: 336
+A club has 8 members. How many 3-person committees? :: 56
+How many ways to line up 4 boys and 3 girls? :: 5040
+How many ways to line up 4 boys and 3 girls alternating, starting with a boy? :: 144
+What is the probability of a full house in poker (approx.)? :: About 0.0014
+What is the probability of an event not happening if P = 7/12? :: 5/12
+What is P(A and B) if events are mutually exclusive? :: 0
+What is P(A or B) if A and B are independent with P(A) = 0.5, P(B) = 0.2? :: 0.6
+What are odds against an event with probability 0.2? :: 4 : 1
+What is a combination lock's math? :: Actually a permutation, since order matters.
+What is the sample space size for rolling 2 dice and flipping a coin? :: 72
+
+## Mathematics 20-2 | Quadratic Functions
+Find the zeros of y = 3x^2 - 12. :: 2 and -2
+Find the vertex of y = x^2 + 8x + 20. :: (-4, 4)
+Find the maximum of y = -2x^2 + 8x. :: 8
+Write y = x^2 - 10x + 16 in vertex form. :: y = (x - 5)^2 - 9
+Find the y-intercept of y = (x + 3)(x - 4). :: -12
+Describe y = -2(x - 1)^2 + 8. :: Opens down, vertex (1, 8), stretched by 2.
+What are the x-intercepts of y = -2(x - 1)^2 + 8? :: 3 and -1
+What is the range of y = x^2 - 6x + 11? :: y >= 2
+A ball is thrown: h = -5t^2 + 20t + 5. Maximum height? :: 25 m
+When does the ball hit the ground? :: At t of about 4.24 s.
+A farmer fences a rectangle with 80 m. What dimensions give max area? :: 20 m by 20 m.
+A company has profit P = -5x^2 + 100x - 375. Break-even points? :: x = 5 and x = 15
+What is the axis of symmetry for zeros 1 and 7? :: x = 4
+How does the sign of a affect the vertex type? :: Positive a gives a minimum; negative gives a maximum.
+
+## Mathematics 20-2 | Rational Expressions and Equations
+Simplify: (x^2 - 9)/(x^2 + 6x + 9) :: (x - 3)/(x + 3)
+Simplify: (4x + 8)/(x^2 - 4) :: 4/(x - 2)
+Multiply: (x/(x + 1)) x ((x + 1)/3) :: x/3
+Divide: (6/x) / (3/(x + 2)) :: 2(x + 2)/x
+Add: 1/(x + 3) + 1/(x - 3) :: 2x/(x^2 - 9)
+Add: 3/x + 2/(x + 1) :: (5x + 3)/(x(x + 1))
+Subtract: 5/(x - 1) - 2/(x - 1) :: 3/(x - 1)
+Subtract: 1/x - 1/(x + 2) :: 2/(x(x + 2))
+Solve: x/(x - 2) = 5/(x - 2) :: x = 5
+Solve: 6/(x + 1) = 3/x :: x = 1
+Solve: x/2 + x/3 = 10 :: x = 12
+Solve: 2/x = 3/(x + 1) :: x = 2
+Solve: 1/x + 1/3 = 1/2 :: x = 6
+Solve: 4/(x - 1) + 1 = 5 :: x = 2
+State the non-permissible values of 5/(x^2 - x - 6). :: x = 3 and x = -2
+A pump fills a tank in 8 h and a second pump in 4 h. Together? :: 8/3 h, about 2.67 h.
+A cyclist rides 24 km at speed v and another rides 24 km at v + 4 and finishes 1 h sooner. Equation? :: 24/v - 24/(v + 4) = 1
+What is the LCD of 1/(x - 1) and 1/(x + 1)? :: (x - 1)(x + 1)
+How do you check solutions of rational equations? :: Substitute and ensure no denominator is zero.
+What is an extraneous root in this unit? :: A solution making a denominator zero.
+What is 1/x + 1/x? :: 2/x
+What is (1/x)(1/x)? :: 1/x^2
+What is (x/y) / (x/y)? :: 1
+
+## Mathematics 20-2 | Statistics (Normal Distribution)
+What does a z-score of -2 mean? :: 2 SD below the mean.
+Mean 40, SD 6. What is the value 1.5 SD above the mean? :: 49
+Mean 40, SD 6. What is the z-score of 28? :: -2
+Mean 75, SD 8. About what percent score above 83? :: About 16%.
+Mean 75, SD 8. About what percent score below 67? :: About 16%.
+Mean 75, SD 8. About what percent score between 67 and 83? :: About 68%.
+Mean 100, SD 10. About what percent score between 90 and 120? :: About 81.5%.
+What does the 68-95-99.7 rule describe? :: Normal distribution spread.
+What is the area under the curve between z = -1 and z = 1? :: About 0.68.
+What is the area under the curve to the left of z = 2? :: About 0.977.
+What is the area to the right of z = 1? :: About 0.159.
+How can you compare two scores in different tests? :: Convert each to a z-score.
+A poll of 1000 has margin of error about 3%. What happens with 4000? :: About 1.5%.
+What is sampling variability? :: Differences between samples from the same population.
+What is a confidence level of 90%? :: The method captures the true value 90% of the time.
+What does standard deviation measure? :: Typical distance from the mean.
+How does adding a constant to all data change SD? :: It does not change.
+How does multiplying data by 2 change SD? :: SD doubles.
+What is the mean of a standard normal distribution? :: 0
+What is the SD of a standard normal distribution? :: 1
+
+## Mathematics 20-2 | Systems of Linear Inequalities
+Graph x + y <= 5: which side is shaded? :: The side containing (0, 0).
+Graph y > -x + 2: dashed or solid? :: Dashed.
+Is (1, 4) a solution of 2x + y > 5? :: Yes, since 2 + 4 = 6 > 5.
+Find the vertices of x >= 0, y >= 0, 2x + y <= 8, x + 2y <= 8. :: (0, 0), (4, 0), (0, 4), (8/3, 8/3)
+Maximize P = 3x + 4y at vertices (0, 0), (4, 0), (8/3, 8/3), (0, 4). :: 56/3 (about 18.7) at (8/3, 8/3)
+Write an inequality: "You must buy at least 5 items." :: x >= 5
+Write inequalities for x between 2 and 6 inclusive. :: x >= 2 and x <= 6
+Write a system for "at most 40 h per week and at least 10 h." :: 10 <= h <= 40
+A bakery makes at most 100 loaves: bread x and rolls y. Inequality? :: x + y <= 100
+Cookies cost $2 and cakes $5. Budget is $60. Inequality? :: 2c + 5k <= 60
+What is the boundary of x >= 3? :: A vertical line at x = 3.
+Is the overlap region of y >= x and y <= 4 bounded or unbounded with x >= 0? :: Bounded triangle with vertices (0, 0), (0, 4), (4, 4).
+What does a system with no overlap mean? :: No solution.
+How do you find the corner points exactly? :: Solve pairs of boundary equations.
+What is a linear programming problem? :: Optimizing a linear function under linear constraints.
+What do constraints represent in a real problem? :: Limits like time, money or materials.
+How do you pick the best vertex? :: Evaluate the objective function at every vertex.
+Is an interior point ever the optimum for a linear objective? :: No, the optimum is at a vertex.
+What is a feasible solution? :: A point satisfying all constraints.
+What is an infeasible problem? :: One with no feasible region.
+
+## Mathematics 20-3 | Measurement
+Convert 5.5 L to mL. :: 5500 mL
+Convert 750 g to kg. :: 0.75 kg
+Convert 3 mi to km. :: About 4.8 km
+Find the circumference of a circle with diameter 8. :: 8 pi, about 25.1.
+Find the area of a ring with outer radius 5 and inner radius 3. :: 16 pi, about 50.3.
+Find the volume of a sphere with diameter 12. :: 288 pi, about 904.8.
+Find the surface area of a rectangular prism 6 by 3 by 2. :: 72
+How many cubic metres in a room 5 m by 4 m by 2.5 m? :: 50 m^3
+How many litres is a tank of 0.4 m by 0.5 m by 0.6 m? :: 120 L
+Convert 25 degrees C to F. :: 77 degrees F
+Convert 50 degrees F to C. :: 10 degrees C
+How many inches in 2 yards? :: 72
+
+## Mathematics 20-3 | Right Triangle Trigonometry
+Find the angle: opposite 9, hypotenuse 15. :: About 36.9 degrees
+Find x: cos 35 = 12/x. :: About 14.6
+Find x: sin 65 = x/18. :: About 16.3
+Find x: tan 42 = 14/x. :: About 15.5
+A cable runs from the top of a 30 m pole to the ground at 55 degrees. Cable length? :: About 36.6 m
+A ramp makes 8 degrees with the horizontal and rises 0.9 m. How long is it? :: About 6.5 m
+Find the angle of a roof with run 6 m and rise 4 m. :: About 33.7 degrees
+A plane descends at 3 degrees from 3000 m. Horizontal distance to the ground? :: About 57.2 km
+A person standing 40 m from a building sees the top at 35 degrees. Building height (eye level 1.7 m)? :: About 29.7 m
+What is the slope of a road with a 6 degree angle, as a percent? :: About 10.5%
+What is the complement of 63 degrees? :: 27 degrees
+What are the two ratios in a 45-45-90 right triangle? :: sin = cos = sqrt(2)/2 and tan = 1.
+What is the angle between the hypotenuse and the longest leg? :: The smaller acute angle.
+How do you find the other acute angle? :: Subtract the known angle from 90 degrees.
+Is the sine of an angle equal to cosine of its complement? :: Yes.
+
+## Mathematics 20-3 | Algebra and Number
+Solve: 4(x + 2) = 28 :: 5
+Solve: x/5 - 2 = 3 :: 25
+Solve: 2x + 7 = 5x - 8 :: 5
+Simplify: 3(2x - 1) - 4x :: 2x - 3
+Evaluate: 3a^2 - 2a when a = 4 :: 40
+Evaluate: 2^3 x 2^-1 :: 4
+Write 0.00056 in scientific notation. :: 5.6 x 10^-4
+Calculate: 15% of 80. :: 12
+Solve for r: A = pi r^2 (r positive). :: r = sqrt(A/pi)
+Solve for x: ax + b = c :: x = (c - b)/a
+Factor: x^2 + 10x + 21 :: (x + 3)(x + 7)
+What is the slope formula rearranged to find y2? :: y2 = m(x2 - x1) + y1
+
+## Mathematics 20-3 | Linear Relations
+Write the equation through (0, -3) with slope 5. :: y = 5x - 3
+Find the slope between (1, 7) and (4, 1). :: -2
+What is the equation of a horizontal line through (3, -2)? :: y = -2
+What is the y-intercept of 2x + 3y = 12? :: 4
+What is the x-intercept of 2x + 3y = 12? :: 6
+Is (4, 2) on 2x + 3y = 12? :: Yes.
+A cell plan costs $15 plus $0.02 per MB. Write C. :: C = 0.02m + 15
+A pool drains at 50 L/min from 2000 L. When is it empty? :: 40 minutes.
+A hiker is 3 km from camp and walks away at 4 km/h. Distance after t hours? :: d = 4t + 3
+What does a negative slope mean for the pool problem? :: Water volume decreasing.
+What is the rate of change in the table x = 1, 2, 3 and y = 7, 12, 17? :: 5
+Is y = 4 a direct variation? :: No.
+What is the independent variable in cost versus time? :: Time.
+What is the constant k in y = 0.5x? :: 0.5
+What does it mean if two lines have equal slopes? :: They are parallel (or the same).
+How do you read the line of best fit's prediction for x = 10? :: Substitute x = 10 into its equation.
+
+## Mathematics 20-3 | Statistics
+Find the median of 12, 7, 15, 3, 9, 10. :: 9.5
+Find the range of 45, 12, 39, 50, 28. :: 38
+Find the mean of 90, 85, 77, 88. :: 85
+What is the mode of 5, 7, 7, 8, 9, 9, 10? :: 7 and 9 (bimodal).
+What is the lower quartile of 2, 4, 6, 8, 10, 12, 14? :: 4
+What is the upper quartile of 2, 4, 6, 8, 10, 12, 14? :: 12
+What is the IQR of that data? :: 8
+Is 40 an outlier in 10, 12, 13, 14, 15, 40? :: Yes.
+What is a skewed-right graph? :: A graph with a long tail toward high values.
+What is a sampling frame? :: A list of all individuals that could be sampled.
+What is a self-selected sample? :: People choosing to participate.
+Why are online polls often biased? :: Only interested people respond.
+What is the relationship between hours of study and marks likely to be? :: Positive correlation.
+What is a spurious correlation? :: A relationship caused by chance or a hidden factor.
+What is a confounding variable? :: A variable that affects both measured variables.
+What is observational data? :: Data collected without controlling conditions.
+What is an experiment's random assignment? :: Assigning subjects to groups by chance.
+What is a double-blind study? :: Neither subjects nor researchers know who gets the treatment.
+What is a placebo? :: A fake treatment with no active ingredient.
+What does a larger sample size do? :: Reduces sampling error.
+What is a trend line? :: A line showing the general direction of data.
+What is a frequency polygon? :: A line graph connecting midpoints of histogram bars.
+What is relative frequency? :: The fraction of observations in a category.
+What is a pie chart angle for 25%? :: 90 degrees
+
+## Mathematics 20-3 | Financial Mathematics
+Find the GST on a $120 purchase at 5%. :: $6
+Find the sale price: $90 with 15% off. :: $76.50
+Find simple interest: $3000 at 3.5% for 2 years. :: $210
+Find the compound amount: $1500 at 4% compounded annually for 2 years. :: $1622.40
+Find the monthly payment on a $1200 loan repaid over 12 months, no interest. :: $100
+Find the total interest if you repay $1320 on a $1200 loan. :: $120
+Find the commission on $8000 of sales at 6%. :: $480
+Find the weekly pay for 40 h at $22.50 per hour. :: $900
+Find the annual salary for $1800 biweekly. :: $46 800
+What is the difference between a debit card and a credit card? :: Debit uses your own money; credit borrows.
+What is a bank service charge? :: A fee for banking services.
+What is a chequing account? :: An account for everyday spending.
+What is a savings account used for? :: Storing money and earning interest.
+What is a bank statement? :: A record of account transactions.
+What is a mortgage's term? :: The length of the current interest agreement.
+What is a lien? :: A legal claim on property as security for debt.
+What is a tax return? :: A form reporting income and taxes owed.
+What is a tax refund? :: Money returned when too much tax was paid.
+What is a deduction on a tax return? :: An amount that lowers taxable income.
+What is a credit limit? :: The maximum you can borrow on a credit card.
+What is an overdraft? :: Spending more than the balance in your account.
+What is a money market? :: A market for short-term borrowing and lending.
+What is wealth? :: The total value of what a person owns minus debts.
+What is insurance premium's purpose? :: Payment for protection against losses.
+What is the rule of 72 for 9%? :: About 8 years to double.

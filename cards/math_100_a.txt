@@ -1,0 +1,747 @@
+## Mathematics 9 | Rational Numbers
+Evaluate: 3/4 + 1/8 :: 7/8
+Evaluate: 5/6 - 1/3 :: 1/2
+Evaluate: 2/5 x 10/3 :: 4/3
+Evaluate: 7/9 / (14/3) :: 1/6
+Evaluate: -3/5 + 2/3 :: 1/15
+Evaluate: -1/2 - 1/4 :: -3/4
+Evaluate: (-2/3) x (-3/4) :: 1/2
+Evaluate: (-5/6) / (5/12) :: -2
+Evaluate: 0.5 + 1/4 :: 0.75
+Evaluate: 1.2 x 0.5 :: 0.6
+Evaluate: 3.6 / 0.9 :: 4
+Evaluate: -4.5 + 2.7 :: -1.8
+Evaluate: -0.8 x 5 :: -4
+Evaluate: 2 1/2 + 1 1/4 :: 3 3/4
+Evaluate: 3 1/3 - 1 1/2 :: 1 5/6
+Evaluate: 1 1/2 x 2/3 :: 1
+Evaluate: 2 1/4 / 3/4 :: 3
+Write 5/8 as a decimal. :: 0.625
+Write 3/20 as a decimal. :: 0.15
+Write 1/6 as a decimal. :: 0.1666... (0.16 repeating the 6)
+Write 0.45 as a fraction in simplest form. :: 9/20
+Write 0.8 as a fraction in simplest form. :: 4/5
+Write 0.375 as a fraction in simplest form. :: 3/8
+Write 2/9 as a repeating decimal. :: 0.222... (0.2 with a bar)
+Which is greater: -3/8 or -1/3? :: -1/3 (about -0.333 is greater than -0.375).
+Which is smaller: 5/9 or 4/7? :: 5/9 (0.556 versus 0.571).
+Order from least to greatest: -1/2, 0.3, -0.7, 1/4. :: -0.7, -1/2, 1/4, 0.3.
+Is 0.101001000... rational? :: No, it never repeats or terminates.
+Is sqrt(9) rational? :: Yes, it equals 3.
+Is -7 a rational number? :: Yes; -7 = -7/1.
+Is 0 a rational number? :: Yes; 0 = 0/1.
+What is the opposite of -5/9? :: 5/9
+What is the reciprocal of -2/7? :: -7/2
+What is the reciprocal of 1 1/2? :: 2/3
+What does the number line show for -3/4? :: A point three quarters of the way left of zero.
+Find a rational number between 0.2 and 0.3. :: 0.25
+Find a rational number between -1 and 0. :: -1/2
+Round 3.14159 to the nearest hundredth. :: 3.14
+Round 0.666... to the nearest tenth. :: 0.7
+Evaluate: 8 - 3 x 2 :: 2
+Evaluate: (8 - 3) x 2 :: 10
+Evaluate: 12 / 4 + 2 :: 5
+Evaluate: 12 / (4 + 2) :: 2
+Evaluate: 2 + 3^2 :: 11
+Evaluate: (2 + 3)^2 :: 25
+Evaluate: 20 - 2(3 + 4) :: 6
+Evaluate: -2^2 :: -4
+Evaluate: (-2)^2 :: 4
+Evaluate: 1/2 + 1/3 + 1/6 :: 1
+Evaluate: (1/2)(4/5) + 1/5 :: 3/5
+Evaluate: 3/4 - (1/2 x 1/2) :: 1/2
+Evaluate: -6 / (-3) + (-2) x 4 :: -6
+Evaluate: (-3)(-3)(-3) :: -27
+What does BEDMAS stand for? :: Brackets, Exponents, Division and Multiplication, Addition and Subtraction.
+A recipe uses 2/3 cup of sugar. How much for half the recipe? :: 1/3 cup.
+A board 3 1/2 m long has 1 3/4 m cut off. What length remains? :: 1 3/4 m.
+You walk 3/4 km each day for 5 days. How far in total? :: 3 3/4 km.
+The temperature drops 2.5 degrees per hour for 4 hours. Total change? :: -10 degrees.
+A diver is at -12.5 m and rises 4.5 m. New depth? :: -8 m.
+A bank balance is -$45.50 and you deposit $60. New balance? :: $14.50.
+What is 25% as a fraction and decimal? :: 1/4 and 0.25.
+What is 3/5 as a percent? :: 60%
+What is 0.07 as a percent? :: 7%
+Convert 12.5% to a fraction. :: 1/8
+What is a terminating decimal? :: A decimal that ends, such as 0.25.
+What is a repeating decimal? :: A decimal with a digit pattern that repeats forever, such as 0.333...
+How do you divide fractions? :: Multiply by the reciprocal of the second fraction.
+How do you add fractions with unlike denominators? :: Rewrite with a common denominator, then add the numerators.
+What is the sign of a product of three negatives? :: Negative.
+What is the sign of a quotient of a negative and a positive? :: Negative.
+What is a numerator? :: The top number of a fraction.
+What is a denominator? :: The bottom number of a fraction.
+
+## Mathematics 9 | Exponents and Powers
+Evaluate: 3^4 :: 81
+Evaluate: 4^3 :: 64
+Evaluate: 6^2 :: 36
+Evaluate: 2^8 :: 256
+Evaluate: 10^4 :: 10 000
+Evaluate: (-1)^5 :: -1
+Evaluate: (-1)^6 :: 1
+Evaluate: 7^0 :: 1
+Evaluate: 5^(-1) :: 1/5
+Evaluate: 10^(-2) :: 0.01
+Evaluate: 4^(-2) :: 1/16
+Evaluate: (2/5)^2 :: 4/25
+Evaluate: (1/3)^(-2) :: 9
+Evaluate: 2^3 x 2^4 :: 2^7 = 128
+Evaluate: 3^5 / 3^3 :: 9
+Evaluate: (2^2)^3 :: 64
+Evaluate: (5^2)(5^-2) :: 1
+Simplify: m^3 x m^5 :: m^8
+Simplify: n^9 / n^4 :: n^5
+Simplify: (p^4)^3 :: p^12
+Simplify: (2a)^4 :: 16a^4
+Simplify: (3b^2)^3 :: 27b^6
+Simplify: x^5 x x^-2 :: x^3
+Simplify: (a^2 b^3)(a^4 b) :: a^6 b^4
+Simplify: (12x^6) / (3x^2) :: 4x^4
+Simplify: (2x^3)(5x^4) :: 10x^7
+Simplify: (x^2 y)^3 :: x^6 y^3
+Simplify: y^-3 with a positive exponent. :: 1/y^3
+Simplify: (-2x)^3 :: -8x^3
+Simplify: 6x^0 :: 6
+Write 3 x 3 x 3 x 3 x 3 as a power. :: 3^5
+Write x x x x x as a power. :: x^3
+What is the value of 2^10? :: 1024
+What is the value of 3^3 + 4^2? :: 43
+What is the value of 5^2 - 2^3? :: 17
+Which is greater: 2^5 or 5^2? :: 2^5 = 32 is greater than 25.
+Which is greater: 3^4 or 4^3? :: 3^4 = 81 is greater than 64.
+What is the power of ten for one thousand? :: 10^3
+What is the power of ten for one millionth? :: 10^-6
+Write 25 000 in scientific notation. :: 2.5 x 10^4
+Write 0.00091 in scientific notation. :: 9.1 x 10^-4
+Write 6 300 000 in scientific notation. :: 6.3 x 10^6
+Write 4.2 x 10^-3 in standard form. :: 0.0042
+Write 7 x 10^5 in standard form. :: 700 000
+Multiply: (2 x 10^3)(3 x 10^2) :: 6 x 10^5
+Divide: (8 x 10^6) / (2 x 10^2) :: 4 x 10^4
+The Earth is about 1.5 x 10^8 km from the Sun. Write in standard form. :: 150 000 000 km
+A bacterium is about 2 x 10^-6 m long. Write in standard form. :: 0.000002 m
+Why is scientific notation useful? :: It writes very large or very small numbers compactly.
+What must the first factor of scientific notation be between? :: 1 and 10 (1 <= a < 10).
+What does an exponent of 1 do? :: The number stays the same: a^1 = a.
+What is the base of (-3)^4? :: -3
+What is the base of -3^4? :: 3 (the negative sign is not part of the base).
+A square has side 7 cm. Express its area as a power. :: 7^2 = 49 cm^2.
+A cube has side 5 cm. Express its volume as a power. :: 5^3 = 125 cm^3.
+Bacteria double every hour starting from 1. How many after 6 hours? :: 2^6 = 64
+A chain letter is sent to 3 people, each sends it to 3 more. How many in round 4? :: 3^4 = 81
+What is a perfect cube? :: A number that is the cube of a whole number, like 8 or 27.
+What is 5^2 x 5^3 in expanded form? :: (5 x 5)(5 x 5 x 5) = 5^5.
+What is the exponent law for a product of powers? :: Add the exponents when the bases match.
+What is the exponent law for a quotient of powers? :: Subtract the exponents when the bases match.
+What is the exponent law for a power of a power? :: Multiply the exponents.
+Why does a^0 = 1? :: a^n / a^n = a^(n-n) = a^0, and any nonzero number divided by itself is 1.
+Evaluate: 2^-1 + 2^-2 :: 3/4
+Evaluate: 3^2 x 3^-2 :: 1
+
+## Mathematics 9 | Square Roots and the Pythagorean Theorem
+What is sqrt(1)? :: 1
+What is sqrt(4)? :: 2
+What is sqrt(16)? :: 4
+What is sqrt(36)? :: 6
+What is sqrt(64)? :: 8
+What is sqrt(100)? :: 10
+What is sqrt(121)? :: 11
+What is sqrt(169)? :: 13
+What is sqrt(225)? :: 15
+What is sqrt(0.09)? :: 0.3
+What is sqrt(4/25)? :: 2/5
+What is the cube root of 8? :: 2
+What is the cube root of 125? :: 5
+What is the cube root of 64? :: 4
+Estimate sqrt(10) to one decimal. :: About 3.2
+Estimate sqrt(30) to one decimal. :: About 5.5
+Estimate sqrt(2) to two decimals. :: 1.41
+Between which two integers is sqrt(75)? :: 8 and 9.
+Between which two integers is sqrt(150)? :: 12 and 13.
+Which is larger: sqrt(50) or 7? :: sqrt(50) (about 7.07).
+Simplify: sqrt(8) :: 2 sqrt(2)
+Simplify: sqrt(27) :: 3 sqrt(3)
+Simplify: sqrt(32) :: 4 sqrt(2)
+Simplify: sqrt(45) :: 3 sqrt(5)
+Simplify: sqrt(18) :: 3 sqrt(2)
+Simplify: sqrt(80) :: 4 sqrt(5)
+Write 3 sqrt(5) as an entire radical. :: sqrt(45)
+Write 2 sqrt(7) as an entire radical. :: sqrt(28)
+Find the hypotenuse of a right triangle with legs 8 and 15. :: 17
+Find the hypotenuse of a right triangle with legs 9 and 12. :: 15
+Find the hypotenuse of a right triangle with legs 2 and 3. :: sqrt(13), about 3.61.
+Find the missing leg: hypotenuse 10, other leg 6. :: 8
+Find the missing leg: hypotenuse 25, other leg 7. :: 24
+Find the missing leg: hypotenuse 13, other leg 5. :: 12
+Find the missing leg: hypotenuse 9, other leg 4. :: sqrt(65), about 8.06.
+A rectangle is 5 by 12. What is its diagonal? :: 13
+A square has diagonal 10. What is its side length? :: 10/sqrt(2) = 5 sqrt(2), about 7.07.
+A TV screen is 40 cm by 30 cm. What is its diagonal? :: 50 cm
+A baseball diamond is a square with side 27.4 m. What is the diagonal? :: About 38.7 m.
+A ladder 13 m long reaches 12 m up a wall. How far is its base from the wall? :: 5 m
+A 20 m guy wire is attached to a pole 16 m up. How far from the pole is the anchor? :: 12 m
+A boat sails 6 km east then 8 km north. How far from the start? :: 10 km
+You walk 300 m north and 400 m east. How far are you from the start in a straight line? :: 500 m
+What is the longest side of a right triangle called? :: The hypotenuse.
+What are the other two sides of a right triangle called? :: The legs.
+What is the converse of the Pythagorean theorem? :: If a^2 + b^2 = c^2, the triangle is a right triangle.
+Is a triangle with sides 5, 12, 13 a right triangle? :: Yes: 25 + 144 = 169.
+Is a triangle with sides 4, 5, 6 a right triangle? :: No: 16 + 25 = 41, not 36.
+Is a triangle with sides 8, 15, 17 a right triangle? :: Yes: 64 + 225 = 289.
+Is a triangle with sides 7, 8, 9 a right triangle? :: No: 49 + 64 = 113, not 81.
+What is a Pythagorean triple? :: Three whole numbers a, b, c with a^2 + b^2 = c^2.
+Give a Pythagorean triple with hypotenuse 5. :: 3, 4, 5
+Scale up the 3-4-5 triple by 3. What triple results? :: 9, 12, 15
+What is the area of a right triangle with legs 6 and 8? :: 24
+What is the perimeter of a right triangle with legs 5 and 12? :: 5 + 12 + 13 = 30
+What is the area of a square with area 49? Find its side. :: Side = sqrt(49) = 7.
+What is the side of a square with area 20? :: sqrt(20) = 2 sqrt(5), about 4.47.
+Is sqrt(25) rational or irrational? :: Rational (it equals 5).
+Is sqrt(8) rational or irrational? :: Irrational.
+Is pi rational or irrational? :: Irrational.
+What is a radicand? :: The number under the radical sign.
+Does sqrt(a + b) equal sqrt(a) + sqrt(b)? :: No. For example sqrt(9 + 16) = 5 but sqrt(9) + sqrt(16) = 7.
+What is sqrt(a x b) equal to? :: sqrt(a) x sqrt(b)
+What does a square root undo? :: Squaring a number (for non-negative values).
+What is the opposite operation of cubing? :: Taking the cube root.
+
+## Mathematics 9 | Polynomials
+Simplify: 7x - 3x + 2x :: 6x
+Simplify: 5a + 2b - 3a + b :: 2a + 3b
+Simplify: x^2 + 3x - x^2 + 5 :: 3x + 5
+Simplify: 4y^2 - 2y + y^2 + 6y :: 5y^2 + 4y
+Add: (2x^2 + 3x) + (x^2 - x + 4) :: 3x^2 + 2x + 4
+Add: (5a - 2) + (a + 8) :: 6a + 6
+Subtract: (6x + 5) - (2x + 1) :: 4x + 4
+Subtract: (3x^2 - x) - (x^2 + 2x) :: 2x^2 - 3x
+Subtract: (4m + 7) - (m - 3) :: 3m + 10
+Multiply: 2x(x + 5) :: 2x^2 + 10x
+Multiply: -3x(x - 4) :: -3x^2 + 12x
+Multiply: x^2(2x + 1) :: 2x^3 + x^2
+Multiply: (4a)(3a^2) :: 12a^3
+Multiply: (x + 1)(x + 4) :: x^2 + 5x + 4
+Multiply: (x + 2)(x - 5) :: x^2 - 3x - 10
+Multiply: (x - 3)(x - 3) :: x^2 - 6x + 9
+Multiply: (2x + 1)(x + 3) :: 2x^2 + 7x + 3
+Multiply: (3x - 2)(x + 4) :: 3x^2 + 10x - 8
+Multiply: (x + 6)(x - 6) :: x^2 - 36
+Multiply: (x + 4)^2 :: x^2 + 8x + 16
+Multiply: (2x - 1)^2 :: 4x^2 - 4x + 1
+Divide: (15x^2) / (5x) :: 3x
+Divide: (9x^3 - 6x^2) / (3x) :: 3x^2 - 2x
+Divide: (20a^4) / (4a^2) :: 5a^2
+Divide: (14m^2 + 21m) / (7m) :: 2m + 3
+Evaluate 2x + 3 when x = 5. :: 13
+Evaluate x^2 - 4x when x = 3. :: -3
+Evaluate 3x^2 + x - 2 when x = -2. :: 8
+Evaluate (x + 1)(x - 1) when x = 6. :: 35
+What is the degree of 4x^3 + 2x? :: 3
+What is the degree of 7x? :: 1
+What is the degree of 5? :: 0
+What is the degree of x^2 y? :: 3 (add the exponents of the variables).
+What is the coefficient of x in 6x - 9? :: 6
+What is the constant term of x^2 - 7x + 12? :: 12
+How many terms does 3x^2 - 5x + 1 have? :: 3
+What is a monomial? :: A polynomial with one term.
+What is a binomial? :: A polynomial with two terms.
+Is 3x^-2 a polynomial term? :: No - the exponent must be a whole number.
+Is sqrt(x) a polynomial term? :: No - it has a fractional exponent.
+Are 5x^2 and 5x like terms? :: No - the powers of x differ.
+Are 3xy and 7xy like terms? :: Yes.
+Write the perimeter of a square with side (x + 2). :: 4x + 8
+Write the area of a rectangle with length (x + 3) and width (x + 1). :: x^2 + 4x + 3
+Write the area of a square with side (x + 5). :: x^2 + 10x + 25
+Write the perimeter of a triangle with sides x, x + 2 and 2x - 1. :: 4x + 1
+What do algebra tiles model? :: Polynomials, using unit tiles, x tiles and x^2 tiles.
+What is the distributive property? :: a(b + c) = ab + ac
+What is the first step to subtract polynomials? :: Distribute the negative sign to every term of the second polynomial.
+What is the FOIL method? :: First, Outer, Inner, Last, for multiplying two binomials.
+What is a difference of squares? :: A pattern a^2 - b^2 = (a - b)(a + b).
+What is a perfect square trinomial? :: A trinomial like a^2 + 2ab + b^2 = (a + b)^2.
+Expand: 5(2x - 3) + 4 :: 10x - 11
+Expand and simplify: 3(x + 2) - 2(x - 1) :: x + 8
+Expand and simplify: x(x + 3) + 2(x + 3) :: x^2 + 5x + 6
+Simplify: (6x^2 + 4x) / 2 :: 3x^2 + 2x
+Simplify: 4(x - 1) - (x + 2) :: 3x - 6
+Simplify: 2x(x - 1) - x(x + 3) :: x^2 - 5x
+What is the sum of the polynomials 3x + 1 and -3x + 4? :: 5
+
+## Mathematics 9 | Linear Relations
+Find the slope between (1, 3) and (4, 9). :: 2
+Find the slope between (0, 5) and (5, 0). :: -1
+Find the slope between (-2, 1) and (2, 5). :: 1
+Find the slope between (3, 4) and (7, 4). :: 0
+Find the slope between (2, 1) and (2, 6). :: Undefined.
+Find the slope between (-3, -2) and (3, 4). :: 1
+Find the slope between (1, 6) and (3, 0). :: -3
+What is the slope of y = 4x - 1? :: 4
+What is the slope of y = -x + 7? :: -1
+What is the slope of y = x/2 + 3? :: 1/2
+What is the slope of y = 6? :: 0
+What is the y-intercept of y = 3x + 8? :: 8
+What is the y-intercept of y = -2x - 4? :: -4
+What is the y-intercept of y = x/3? :: 0
+Write the line with slope 5 and y-intercept 2. :: y = 5x + 2
+Write the line with slope -2 and y-intercept 0. :: y = -2x
+Write the line with slope 1/2 and y-intercept -3. :: y = (1/2)x - 3
+Find the equation: slope 3, passes through (0, -1). :: y = 3x - 1
+Find the equation: passes through (0, 4) and (1, 7). :: y = 3x + 4
+Find the equation: passes through (0, 2) and (4, 0). :: y = -(1/2)x + 2
+Is (2, 5) on y = 2x + 1? :: Yes: 2(2) + 1 = 5.
+Is (3, 7) on y = 2x + 1? :: Yes: 2(3) + 1 = 7.
+Is (1, 4) on y = 2x + 1? :: No: 2(1) + 1 = 3.
+Find y when x = 4 in y = 3x - 2. :: 10
+Find x when y = 9 in y = 2x + 3. :: 3
+Complete: y = 5x, find y when x = -2. :: -10
+Is the relation y = x + 3 linear? :: Yes.
+Is the relation y = x^2 linear? :: No.
+Is the relation y = 1/x linear? :: No.
+Table: x = 0, 1, 2, 3 and y = 2, 5, 8, 11. Is it linear? :: Yes, y increases by 3 each time.
+Table: x = 0, 1, 2, 3 and y = 1, 2, 4, 8. Is it linear? :: No, the differences change.
+Table: x = 1, 2, 3 and y = 10, 7, 4. What is the rate of change? :: -3 per unit of x.
+What is a constant rate of change? :: The same change in y for each unit change in x.
+What is the first difference? :: The difference between consecutive y-values.
+What is the x-intercept of y = 2x - 8? :: 4
+What is the x-intercept of y = -x + 5? :: 5
+What is the x-intercept of y = 3x + 6? :: -2
+How do you find the x-intercept of a line? :: Set y = 0 and solve for x.
+How do you find the y-intercept of a line? :: Set x = 0 and solve for y.
+A taxi charges $3 flat plus $2 per km. Write the cost equation. :: C = 2d + 3
+What is the cost of a 10 km taxi ride? :: $23
+A gym charges $20 joining plus $15 per month. Write the equation. :: C = 15m + 20
+Write the equation for a plumber charging $60 per hour with no fee. :: C = 60h
+A candle is 20 cm and burns 2 cm per hour. Write the height equation. :: h = 20 - 2t
+When does that candle burn out? :: After 10 hours.
+A car travels at 80 km/h. Write the distance equation. :: d = 80t
+What is the slope in d = 80t? :: 80 (the speed in km/h).
+What does a y-intercept of 0 mean in a proportional relation? :: There is no starting amount.
+What does a steeper line indicate? :: A greater rate of change.
+What does a horizontal line indicate? :: No change in y as x changes.
+What does a vertical line indicate? :: The slope is undefined; x stays constant.
+What is the equation of a horizontal line through (0, 3)? :: y = 3
+What is the equation of a vertical line through (4, 0)? :: x = 4
+Are y = 2x + 1 and y = 2x - 5 parallel or intersecting? :: Parallel (same slope).
+Which line is steeper: y = 3x or y = x/2? :: y = 3x
+What is a discrete relation? :: A relation whose graph is separate points.
+What is a continuous relation? :: A relation whose graph is an unbroken line or curve.
+Name one example of a discrete relation. :: Number of tickets versus cost.
+Name one example of a continuous relation. :: Time versus distance travelled.
+What is the domain of a relation? :: The set of x-values.
+What is the range of a relation? :: The set of y-values.
+Domain and range of {(1, 2), (2, 4), (3, 6)}? :: Domain {1, 2, 3}; range {2, 4, 6}.
+What does the graph of a linear relation look like? :: A straight line.
+How many points are needed to graph a line? :: Two (a third checks accuracy).
+What is a table of values? :: A list of x and y pairs for a relation.
+What does rise over run mean? :: Vertical change divided by horizontal change.
+Rewrite 2x + y = 6 as y = mx + b. :: y = -2x + 6
+Rewrite y - 3 = 2x in slope-intercept form. :: y = 2x + 3
+
+## Mathematics 9 | Linear Equations and Inequalities
+Solve: x + 5 = 9 :: 4
+Solve: x - 7 = 3 :: 10
+Solve: 4x = 28 :: 7
+Solve: x/5 = 3 :: 15
+Solve: 2x + 3 = 11 :: 4
+Solve: 3x - 4 = 14 :: 6
+Solve: 5x + 2 = 2x + 11 :: 3
+Solve: 7x - 3 = 4x + 9 :: 4
+Solve: 6 - 2x = 10 :: -2
+Solve: 3(x + 2) = 15 :: 3
+Solve: 2(x - 4) = 6 :: 7
+Solve: 4(x + 1) = 2x + 10 :: 3
+Solve: (x + 3)/2 = 5 :: 7
+Solve: (2x - 1)/3 = 3 :: 5
+Solve: x/2 + x/3 = 5 :: 6
+Solve: 0.2x = 1.4 :: 7
+Solve: 1.5x + 2 = 8 :: 4
+Solve: x + 2x = 21 :: 7
+Solve: 5 - x = 8 :: -3
+Solve: -2x = 12 :: -6
+Solve: -x/4 = 2 :: -8
+Solve: 3x + 5 = 5 :: 0
+Solve: 2x - 7 = -1 :: 3
+Solve: 10 - 3x = 1 :: 3
+Write an equation: "a number increased by 7 is 15". :: n + 7 = 15, so n = 8.
+Write an equation: "three times a number is 24". :: 3n = 24, so n = 8.
+Write an equation: "a number divided by 4 is 6". :: n/4 = 6, so n = 24.
+Write an equation: "5 less than twice a number is 9". :: 2n - 5 = 9, so n = 7.
+Two consecutive integers sum to 21. Find them. :: 10 and 11.
+Three consecutive integers sum to 48. Find them. :: 15, 16 and 17.
+The perimeter of a rectangle is 30 and length is 9. Find the width. :: 6
+A phone plan is $25 plus $0.05 per minute. How many minutes cost $40? :: 300 minutes.
+You have $50 and spend $4 per day. In how many days do you have $10 left? :: 10 days.
+Solve: x + 3 > 7 :: x > 4
+Solve: x - 2 <= 5 :: x <= 7
+Solve: 2x < 10 :: x < 5
+Solve: 3x + 1 >= 10 :: x >= 3
+Solve: -2x > 6 :: x < -3
+Solve: -x <= 4 :: x >= -4
+Solve: 5 - x > 2 :: x < 3
+Solve: 4x - 3 < 5 :: x < 2
+Solve: x/3 >= 2 :: x >= 6
+Solve: -3x + 2 < 11 :: x > -3
+Write an inequality: "at most 8". :: x <= 8
+Write an inequality: "more than 12". :: x > 12
+Write an inequality: "no less than 5". :: x >= 5
+Write an inequality: "fewer than 20". :: x < 20
+A taxi ride costs $3 plus $2 per km. You have $15. Write the inequality. :: 3 + 2d <= 15, so d <= 6.
+What does a closed circle on a number line mean? :: The endpoint is included.
+What does an open circle on a number line mean? :: The endpoint is not included.
+How do you graph x > 3 on a number line? :: Open circle at 3 with an arrow to the right.
+How do you graph x <= -1 on a number line? :: Closed circle at -1 with an arrow to the left.
+When do you reverse the inequality symbol? :: When multiplying or dividing by a negative number.
+What is the inverse operation of addition? :: Subtraction.
+What is the inverse operation of multiplication? :: Division.
+What is an equation? :: A statement that two expressions are equal.
+What is a solution to an equation? :: A value of the variable that makes it true.
+How do you verify a solution? :: Substitute it into the original equation and check both sides match.
+Does 3x + 1 = 3x + 4 have a solution? :: No solution.
+Does 2(x + 1) = 2x + 2 have a solution? :: Infinitely many solutions.
+How do you clear fractions in an equation? :: Multiply every term by the common denominator.
+What is a variable? :: A symbol, usually a letter, that stands for an unknown number.
+What is a constant? :: A fixed number with no variable.
+Solve for x: x/2 - 3 = 1 :: 8
+Solve for y: 2y + 1 = y + 6 :: 5
+Solve: 4(2x - 1) = 28 :: 4
+Solve: 3x + 4 = x - 6 :: -5
+
+## Mathematics 9 | Similarity and Scale
+Are all squares similar? :: Yes.
+Are all rectangles similar? :: No.
+Are all circles similar? :: Yes.
+Are all isosceles right triangles similar? :: Yes (angles 45, 45, 90).
+Two triangles have angles 40, 60, 80 and 40, 60, 80. Are they similar? :: Yes.
+Triangle A has sides 3, 4, 5 and B has sides 6, 8, 10. Scale factor A to B? :: 2
+Triangle A has sides 6, 8, 10 and B has sides 3, 4, 5. Scale factor A to B? :: 1/2
+A rectangle 3 by 5 is enlarged by scale factor 4. New dimensions? :: 12 by 20.
+A rectangle 12 by 18 is reduced by scale factor 1/3. New dimensions? :: 4 by 6.
+Find x in similar figures: 4/6 = x/15. :: 10
+Find x in similar figures: 5/x = 10/16. :: 8
+A triangle has sides 5, 7, 9. A similar triangle has shortest side 15. Longest side? :: 27
+A photo 10 cm by 15 cm is enlarged so the short side is 25 cm. Long side? :: 37.5 cm
+A scale drawing has scale 1:100. A 5 cm line represents what length? :: 500 cm = 5 m.
+A scale is 1 cm = 5 m. A 12 cm line represents what? :: 60 m.
+A scale is 1:20. A real length of 3 m is what on the drawing? :: 15 cm.
+A map scale is 1:250 000. A distance of 4 cm on the map is how many km? :: 10 km.
+A map scale is 1 cm = 2 km. Two towns are 7.5 cm apart. Real distance? :: 15 km.
+A model plane is 1:48. The real wingspan is 12 m. Model wingspan? :: 25 cm.
+A shadow of a 1.5 m person is 2 m. A tree's shadow is 12 m. Tree height? :: 9 m.
+A 3 m pole casts a 4 m shadow. A building casts a 36 m shadow. Height? :: 27 m.
+A rectangle has area 20. It is enlarged by scale factor 3. New area? :: 180
+A triangle has area 8. It is enlarged by scale factor 2. New area? :: 32
+A square has perimeter 12. It is enlarged by scale factor 5. New perimeter? :: 60
+Scale factor 3: how do perimeters change? :: They multiply by 3.
+Scale factor 3: how do areas change? :: They multiply by 9.
+Scale factor 3: how do volumes change? :: They multiply by 27.
+What is a congruent figure? :: A figure with the same size and shape.
+Are congruent figures similar? :: Yes, with scale factor 1.
+What does corresponding angles mean? :: Angles in matching positions in similar figures.
+What is the angle relationship in similar polygons? :: Corresponding angles are equal.
+What is the side relationship in similar polygons? :: Corresponding sides are proportional.
+What is a dilation? :: A transformation that enlarges or reduces a figure from a centre.
+What is the centre of dilation? :: The fixed point from which a figure is scaled.
+Scale factor 1 gives what? :: A congruent figure.
+Scale factor 0.5 gives what? :: A reduction to half size.
+What scale factor turns a length of 8 into 20? :: 2.5
+What scale factor turns 15 into 6? :: 0.4
+What does AA similarity say? :: Two equal angle pairs make two triangles similar.
+What does SSS similarity say? :: Three proportional sides make two triangles similar.
+What does SAS similarity say? :: Two proportional sides and an equal included angle make two triangles similar.
+Why are indirect measurements useful? :: They let you find heights or distances without measuring directly.
+How do you measure a tall tree using a shadow? :: Use similar triangles with a known object's height and shadow.
+What is a ratio? :: A comparison of two quantities.
+What is a proportion? :: Two equal ratios.
+What is cross multiplication? :: Using a/b = c/d to get ad = bc.
+Solve: 3/8 = 9/x :: 24
+Solve: x/7 = 12/21 :: 4
+What is the scale of a 1:1 model? :: Same size as the original.
+What does a scale of 2:1 mean? :: The drawing is twice the actual size.
+A flag 90 cm by 150 cm is similar to a 60 cm wide flag. Its length? :: 100 cm
+Two similar triangles have perimeters 12 and 30. Scale factor? :: 2.5
+Is a 2 by 3 rectangle similar to a 6 by 8 rectangle? :: No: 2/3 is not 6/8.
+Is a 4 by 6 rectangle similar to a 10 by 15 rectangle? :: Yes: both ratios are 2/3.
+What is a reduction used for in real life? :: Maps, blueprints and models.
+
+## Mathematics 9 | Surface Area and Volume
+Surface area of a cube with side 5? :: 150
+Volume of a cube with side 6? :: 216
+Surface area of a 2 by 3 by 4 prism? :: 52
+Volume of a 2 by 3 by 4 prism? :: 24
+Volume of a 5 by 5 by 10 prism? :: 250
+Surface area of a 1 by 1 by 1 cube? :: 6
+Volume of a cylinder with r = 1 and h = 1? :: pi, about 3.14.
+Volume of a cylinder with r = 5 and h = 10? :: 250 pi, about 785.4.
+Surface area of a cylinder with r = 1 and h = 2? :: 6 pi, about 18.85.
+Surface area of a cylinder with r = 4 and h = 5? :: 72 pi, about 226.2.
+Lateral area of a cylinder with r = 3 and h = 7? :: 42 pi, about 131.9.
+Volume of a cone with r = 6 and h = 5? :: 60 pi, about 188.5.
+Volume of a cone with r = 2 and h = 9? :: 12 pi, about 37.7.
+Surface area of a cone with r = 3 and slant height 5? :: 24 pi, about 75.4.
+Volume of a sphere with r = 1? :: 4 pi / 3, about 4.19.
+Volume of a sphere with r = 2? :: 32 pi / 3, about 33.5.
+Surface area of a sphere with r = 3? :: 36 pi, about 113.1.
+Surface area of a sphere with r = 10? :: 400 pi, about 1256.6.
+Volume of a hemisphere with r = 3? :: 18 pi, about 56.5.
+Volume of a square pyramid with base 6 and height 5? :: 60
+Volume of a square pyramid with base 3 and height 7? :: 21
+Volume of a triangular prism: base 4, height 3, length 10? :: 60
+Surface area of a triangular prism: right triangle legs 3 and 4, length 10? :: 132
+Volume of a pyramid formula? :: (1/3) x base area x height
+Volume of a prism formula? :: Base area x height
+Volume of a cylinder formula? :: pi r^2 h
+Volume of a sphere formula? :: (4/3) pi r^3
+Surface area of a sphere formula? :: 4 pi r^2
+Surface area of a cylinder formula? :: 2 pi r^2 + 2 pi r h
+Slant height of a cone with r = 3 and h = 4? :: 5
+Slant height of a cone with r = 5 and h = 12? :: 13
+Height of a cylinder with volume 100 pi and r = 5? :: 4
+Radius of a sphere with surface area 100 pi? :: 5
+Side of a cube with volume 64? :: 4
+Side of a cube with surface area 150? :: 5
+A box is 30 cm by 20 cm by 10 cm. How many litres does it hold? :: 6 L
+A fish tank is 50 cm by 30 cm by 40 cm. Volume in litres? :: 60 L
+A swimming pool is 10 m by 5 m by 2 m. Volume in m^3? :: 100 m^3
+A can has r = 4 cm and h = 12 cm. Volume? :: 192 pi, about 603.2 cm^3.
+How much paper wraps the lateral side of a can with r = 3 and h = 10? :: 60 pi, about 188.5 cm^2.
+How many cubes of side 2 fit in a box 10 by 6 by 4? :: 30
+A cube has surface area 54. What is its volume? :: 27
+How does doubling a cube's side change its surface area? :: It becomes 4 times larger.
+How does doubling a cube's side change its volume? :: It becomes 8 times larger.
+What is the total surface area of a rectangular prism? :: The sum of the areas of all six faces.
+What is a net of a cube? :: A flat pattern of six squares that folds into a cube.
+What is a composite object? :: An object made of two or more simple objects.
+How do you find the volume of a composite object? :: Add or subtract the volumes of its parts.
+A cylinder with r = 2, h = 5 has a cone with r = 2, h = 3 on top. Total volume? :: 20 pi + 4 pi = 24 pi, about 75.4.
+A cube of side 4 has a cube of side 2 removed. Remaining volume? :: 56
+What is the volume of a hemisphere formula? :: (2/3) pi r^3
+What units does volume use? :: Cubic units like cm^3.
+What units does surface area use? :: Square units like cm^2.
+Convert 1 L to cm^3. :: 1000 cm^3
+Convert 1 m^3 to cm^3. :: 1 000 000 cm^3
+Convert 5000 cm^3 to L. :: 5 L
+What is a prism? :: A solid with two identical parallel bases and rectangular sides.
+What is a cylinder? :: A solid with two circular parallel bases and a curved side.
+What is a sphere? :: A perfectly round solid, all points equal distance from the centre.
+What is a pyramid? :: A solid with a polygon base and triangular faces meeting at a point.
+What is a cone? :: A solid with a circular base tapering to a point.
+What is the base of a prism? :: One of its two identical parallel faces.
+How many faces does a rectangular prism have? :: 6
+How many edges does a cube have? :: 12
+How many vertices does a cube have? :: 8
+What is Euler's formula for polyhedra? :: Faces + vertices - edges = 2.
+A can of soup has r = 3.5 cm and h = 10 cm. Is its volume greater than 350 cm^3? :: Yes, about 384.8 cm^3.
+
+## Mathematics 9 | Statistics and Probability
+Find the mean of 6, 8, 10, 12. :: 9
+Find the mean of 3, 5, 5, 7, 10. :: 6
+Find the median of 1, 3, 7, 9, 11. :: 7
+Find the median of 4, 6, 8, 10. :: 7
+Find the median of 12, 3, 9, 5, 7. :: 7
+Find the mode of 2, 3, 3, 4, 5, 5, 5. :: 5
+Find the range of 15, 22, 9, 30. :: 21
+A data set has no repeated values. What is its mode? :: There is no mode.
+A data set has two values tied for most frequent. What is it called? :: Bimodal.
+Mean of 70, 80, 90 plus a score x is 82.5. Find x. :: 90
+A student has 78, 85, 90. What score on the next test gives a mean of 85? :: 87
+Which measure is best for house prices with a few mansions? :: The median.
+What is the effect of removing an outlier from the data? :: The mean changes a lot; the median changes little.
+What is a frequency table? :: A table showing how often each value occurs.
+What is a bar graph used for? :: Comparing categories.
+What is a line graph used for? :: Showing change over time.
+What is a circle graph used for? :: Showing parts of a whole.
+What is a histogram? :: A bar graph of data grouped in intervals with no gaps.
+What is a scatter plot? :: A graph of paired data points.
+What is a stem-and-leaf plot? :: A display splitting numbers into stems and leaves.
+What is a pictograph? :: A graph using pictures to represent data.
+What is a misleading graph? :: A graph with a distorted scale or axis that exaggerates differences.
+What is the probability of an impossible event? :: 0
+What is the probability of a certain event? :: 1
+Probability of rolling a 2 on a die? :: 1/6
+Probability of rolling a number greater than 4? :: 1/3
+Probability of rolling an odd number? :: 1/2
+Probability of drawing a heart from a deck? :: 1/4
+Probability of drawing an ace from a deck? :: 1/13
+Probability of a spinner with 8 equal sections landing on 3? :: 1/8
+A bag has 3 red, 5 blue, 2 green marbles. P(blue)? :: 1/2
+A bag has 3 red, 5 blue, 2 green marbles. P(not green)? :: 4/5
+A bag has 4 red and 6 blue. P(red or blue)? :: 1
+P(two heads in two coin flips)? :: 1/4
+P(one head and one tail in two flips)? :: 1/2
+P(rolling two sixes with two dice)? :: 1/36
+P(rolling a sum of 2 with two dice)? :: 1/36
+P(rolling a sum of 12 with two dice)? :: 1/36
+How many outcomes with a coin and a die? :: 12
+How many outcomes with two dice? :: 36
+How many outfits with 4 shirts and 3 pants? :: 12
+What is a tree diagram? :: A diagram listing all outcomes of multi-step events.
+What is an event? :: One or more outcomes of an experiment.
+What is an outcome? :: One possible result of an experiment.
+What is a sample space? :: All possible outcomes.
+What are equally likely outcomes? :: Outcomes with the same chance of occurring.
+What is a fair game? :: A game where every player has the same chance of winning.
+Experiment: 18 heads in 30 flips. What is the experimental probability of heads? :: 18/30 = 3/5.
+Does experimental probability always match theoretical? :: No, but they get closer with more trials.
+What does the law of large numbers say? :: More trials bring experimental results closer to theoretical probability.
+What is a random sample? :: A sample in which every member has an equal chance of selection.
+What is a biased sample? :: A sample that does not represent the population.
+What is a survey? :: A method of collecting data by asking questions.
+What is the difference between a population and a sample? :: A sample is a smaller part chosen from the population.
+What is a census? :: A survey of an entire population.
+What is qualitative data? :: Data describing qualities, like colours.
+What is quantitative data? :: Data measured with numbers.
+What is discrete data? :: Data that can be counted, like number of siblings.
+What is continuous data? :: Data that can take any value in a range, like height.
+Express 3/8 as a percent. :: 37.5%
+If P(rain) = 0.3, what is P(no rain)? :: 0.7
+If P(win) = 2/5, what are the odds in favour? :: 2 : 3
+How many ways to arrange the letters A, B, C? :: 6
+What is the mean of the first five whole numbers 1 to 5? :: 3
+What is the mean of 10 numbers that total 250? :: 25
+What is the total of 8 numbers with mean 7.5? :: 60
+What is quartile? :: One of three values that split ordered data into four equal parts.
+What is a box-and-whisker plot? :: A graph showing minimum, quartiles, median and maximum.
+What is a trend in a scatter plot? :: The general direction the points follow.
+
+## Mathematics 10C | Measurement (SI and Imperial)
+Convert 7 m to cm. :: 700 cm
+Convert 350 cm to m. :: 3.5 m
+Convert 2.4 km to m. :: 2400 m
+Convert 5000 mm to m. :: 5 m
+Convert 3 kg to g. :: 3000 g
+Convert 450 g to kg. :: 0.45 kg
+Convert 2.5 L to mL. :: 2500 mL
+Convert 800 mL to L. :: 0.8 L
+Convert 4 ft to inches. :: 48 in
+Convert 60 in to feet. :: 5 ft
+Convert 3 yd to feet. :: 9 ft
+Convert 2 mi to feet. :: 10 560 ft
+Convert 36 in to yards. :: 1 yd
+Convert 16 oz to pounds. :: 1 lb
+Convert 5 lb to ounces. :: 80 oz
+Convert 10 in to cm. :: 25.4 cm
+Convert 100 cm to inches. :: About 39.4 in
+Convert 6 ft to cm. :: About 183 cm
+Convert 5 ft 10 in to cm. :: About 177.8 cm
+Convert 1 mi to km. :: About 1.61 km
+Convert 10 km to miles. :: About 6.2 mi
+Convert 50 mi/h to km/h. :: About 80.5 km/h
+Convert 100 km/h to mi/h. :: About 62 mi/h
+Convert 150 lb to kg. :: About 68 kg
+Convert 70 kg to lb. :: About 154 lb
+Convert 1 gal (US) to L. :: About 3.79 L
+Convert 10 L to US gallons. :: About 2.64 gal
+Convert 20 degrees C to Fahrenheit. :: 68 degrees F
+Convert 98.6 degrees F to Celsius. :: 37 degrees C
+What is the formula to convert Celsius to Fahrenheit? :: F = 9C/5 + 32
+Convert 12 m/s to km/h. :: 43.2 km/h
+Convert 90 km/h to m/s. :: 25 m/s
+Convert 1 m^2 to cm^2. :: 10 000 cm^2
+Convert 1 ft^2 to in^2. :: 144 in^2
+Convert 1 yd^2 to ft^2. :: 9 ft^2
+Convert 1 m^3 to L. :: 1000 L
+A 5 ft by 8 ft carpet in square yards? :: About 4.44 yd^2
+A room is 4 m by 5 m. Area in ft^2 (1 m = 3.28 ft)? :: About 215 ft^2
+What is the area of a trapezoid with parallel sides 6 and 10 and height 4? :: 32
+What is the area of a circle with diameter 12? :: 36 pi, about 113.1.
+What is the circumference of a circle with radius 7? :: 14 pi, about 44.0.
+What is the area of a sector? :: (angle/360) x pi r^2
+What is the arc length? :: (angle/360) x 2 pi r
+What is the volume of a pyramid with base 10 by 10 and height 9? :: 300
+What is the volume of a hemisphere with r = 6? :: 144 pi, about 452.4.
+What is the surface area of a sphere with diameter 8? :: 64 pi, about 201.1.
+What is the surface area of a cone with r = 5 and slant height 13? :: 90 pi, about 282.7.
+What is the volume of a cone with r = 5 and h = 12? :: 100 pi, about 314.2.
+A cylinder tank r = 1 m, h = 3 m holds how many litres? :: About 9425 L.
+What is a referent for 1 metre? :: About the height of a doorknob from the floor or one large step.
+What is a referent for 1 cm? :: The width of a fingertip or a paper clip.
+What is a referent for 1 kg? :: A litre of water or a small bag of sugar.
+What is a referent for 1 km? :: About a 12-minute walk.
+What is a referent for 1 inch? :: The width of a thumb joint.
+What is a referent for 1 foot? :: The length of a standard ruler.
+What is the difference between accuracy and precision? :: Accuracy means close to the true value; precision means finely measured or consistent.
+How many significant digits are in 0.0305? :: 3
+What is a conversion factor? :: A fraction equal to one used to change units.
+What is the SI base unit of length? :: Metre.
+What is the SI base unit of mass? :: Kilogram.
+What is the SI base unit of time? :: Second.
+How many seconds in an hour? :: 3600
+How many seconds in a day? :: 86 400
+What is the SI prefix kilo? :: 1000
+What is the SI prefix milli? :: 1/1000
+What is the SI prefix centi? :: 1/100
+How many mm in 1 m? :: 1000
+How many feet in a mile? :: 5280
+How many yards in a mile? :: 1760
+How many quarts in a gallon? :: 4
+How many cups in a quart? :: 4
+How many pints in a quart? :: 2
+How many fluid ounces in a cup? :: 8
+How many pounds in a ton? :: 2000
+How many grams in a tonne? :: 1 000 000
+What is a rate? :: A comparison of two quantities with different units.
+What is a unit rate? :: A rate with a denominator of 1.
+Which is a better buy: 500 g for $3 or 750 g for $4.20? :: 750 g ($0.56 per 100 g versus $0.60 per 100 g).
+A car uses 8 L per 100 km. How far on 40 L? :: 500 km
+A speed of 30 m/s is how many km/h? :: 108 km/h
+
+## Mathematics 10C | Trigonometry of Right Triangles
+Find sin A when opposite = 3 and hypotenuse = 5. :: 0.6
+Find cos A when adjacent = 4 and hypotenuse = 5. :: 0.8
+Find tan A when opposite = 3 and adjacent = 4. :: 0.75
+Find sin A for a 8-15-17 triangle where opposite = 8. :: 8/17
+Find cos A for a 8-15-17 triangle where adjacent = 15. :: 15/17
+Find tan A for a 8-15-17 triangle where opposite = 8, adjacent = 15. :: 8/15
+What is sin 30 degrees? :: 0.5
+What is cos 60 degrees? :: 0.5
+What is tan 45 degrees? :: 1
+What is sin 90 degrees? :: 1
+What is cos 0 degrees? :: 1
+What is sin 0 degrees? :: 0
+Find angle A: sin A = 0.8. :: About 53.1 degrees
+Find angle A: cos A = 0.6. :: About 53.1 degrees
+Find angle A: tan A = 2. :: About 63.4 degrees
+Find angle A: sin A = 0.25. :: About 14.5 degrees
+Find angle A: tan A = 0.5. :: About 26.6 degrees
+Find angle A: cos A = 0.9. :: About 25.8 degrees
+Find x: sin 40 degrees = x/10. :: About 6.4
+Find x: cos 25 degrees = x/12. :: About 10.9
+Find x: tan 50 degrees = x/8. :: About 9.5
+Find x: sin 20 degrees = 5/x. :: About 14.6
+Find x: cos 70 degrees = 6/x. :: About 17.5
+Find x: tan 30 degrees = 7/x. :: About 12.1
+A ladder 8 m long makes a 75 degree angle with the ground. How high does it reach? :: 8 sin 75, about 7.7 m.
+A ladder reaches 6 m up a wall and makes a 70 degree angle with the ground. How long is it? :: 6 / sin 70, about 6.4 m.
+A ramp rises 1 m over a horizontal distance of 12 m. What is its angle? :: tan^-1(1/12), about 4.8 degrees.
+The angle of elevation to a treetop is 35 degrees from 20 m away. Tree height? :: 20 tan 35, about 14.0 m.
+The angle of elevation to a kite is 50 degrees and the string is 40 m long. Height? :: 40 sin 50, about 30.6 m.
+From a cliff 60 m high the angle of depression to a boat is 25 degrees. How far is the boat? :: 60 / tan 25, about 128.7 m.
+A plane climbs at 12 degrees. After flying 5 km, how much altitude gained? :: 5 sin 12, about 1.04 km.
+A road rises 8 m over 100 m of road length. What is the angle? :: sin^-1(0.08), about 4.6 degrees.
+A flagpole casts a 10 m shadow when the sun is 40 degrees above horizon. Height? :: 10 tan 40, about 8.4 m.
+Find the third angle of a right triangle with an angle of 28 degrees. :: 62 degrees
+What is the complement of 35 degrees? :: 55 degrees
+Which ratio uses opposite and adjacent? :: Tangent.
+Which ratio uses adjacent and hypotenuse? :: Cosine.
+Which ratio uses opposite and hypotenuse? :: Sine.
+What does SOH CAH TOA stand for? :: sin = O/H, cos = A/H, tan = O/A.
+Which side is opposite angle A? :: The side across from angle A.
+Which side is adjacent to angle A? :: The leg touching angle A (not the hypotenuse).
+What is the hypotenuse? :: The side opposite the right angle.
+What is an angle of elevation? :: The angle between the horizontal and the line of sight upward.
+What is an angle of depression? :: The angle between the horizontal and the line of sight downward.
+What does it mean to solve a right triangle? :: Find all unknown sides and angles.
+What does sin^-1 do? :: It finds the angle from a sine ratio.
+Why does tan 90 degrees not exist? :: The adjacent side is 0, and division by zero is undefined.
+Can sin A be greater than 1? :: No, since the opposite side is never longer than the hypotenuse.
+Is the hypotenuse always the longest side? :: Yes.
+Which is greater: sin 30 or sin 60? :: sin 60 (about 0.866 versus 0.5).
+What happens to tan A as A gets closer to 90 degrees? :: It grows without bound.
+Find the hypotenuse if legs are 7 and 24. :: 25
+Find the exact value of sin 45 degrees. :: sqrt(2)/2, about 0.707.
+Find the exact value of tan 60 degrees. :: sqrt(3), about 1.73.
+Find the exact value of cos 30 degrees. :: sqrt(3)/2, about 0.866.
+How do you check a calculator is in degree mode? :: Compute sin 30; the answer should be 0.5.
+What is the area of a right triangle with hypotenuse 10 and one acute angle of 30 degrees? :: Legs 5 and 8.66; area about 21.7.
+A hiker climbs a slope of 15 degrees for 800 m. Vertical gain? :: 800 sin 15, about 207 m.
+A tower is 45 m tall. From what distance is the angle of elevation 60 degrees? :: 45 / tan 60, about 26.0 m.

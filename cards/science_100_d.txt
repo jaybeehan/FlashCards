@@ -1,0 +1,555 @@
+## Chemistry 30 | Thermochemical Changes
+What is thermochemistry? :: The study of heat changes in chemical reactions.
+What is enthalpy? :: The heat content of a system at constant pressure.
+What is delta H? :: The enthalpy change of a reaction.
+What is the sign of delta H for exothermic reactions? :: Negative.
+What is the sign of delta H for endothermic reactions? :: Positive.
+What is the formula for heat transfer? :: Q = m c delta T
+What is specific heat capacity? :: Energy needed to raise 1 g of a substance by 1 degree C.
+What is the specific heat capacity of water? :: 4.19 J/(g C)
+Find Q: 50 g water heated by 20 degrees C. :: 4190 J
+Find delta T: 837 J into 100 g of water. :: 2.0 degrees C
+Find the mass: 2095 J raises water by 5 degrees C. :: 100 g
+What is a calorimeter? :: A device that measures heat transfer.
+What is calorimetry? :: Measuring heat released or absorbed.
+What is a coffee-cup calorimeter? :: A simple calorimeter at constant pressure.
+What is a bomb calorimeter? :: A calorimeter measuring combustion at constant volume.
+How do you find molar enthalpy? :: delta H = Q / n
+Find molar enthalpy: 5000 J released by 0.10 mol. :: -50 kJ/mol
+What is a thermochemical equation? :: A balanced equation including the enthalpy change.
+How do you write delta H in an equation? :: As a term on the product side (exothermic) or reactant side (endothermic).
+What happens to delta H when an equation is reversed? :: Its sign changes.
+What happens to delta H when an equation is doubled? :: It is doubled.
+What is Hess's law? :: Total enthalpy change is the sum of the steps.
+How do you use Hess's law? :: Add equations and their delta H values to get the target.
+What is the standard enthalpy of formation? :: Enthalpy change when one mole forms from its elements in standard states.
+What is delta H of formation for an element? :: Zero.
+What is the formula using formation enthalpies? :: delta H = sum(n delta Hf products) - sum(n delta Hf reactants)
+What is enthalpy of combustion? :: Heat released when one mole burns completely.
+What is enthalpy of vaporization? :: Energy to vaporize one mole of liquid.
+What is enthalpy of fusion? :: Energy to melt one mole of solid.
+What is the heat equation for a phase change? :: Q = n delta H (or m x specific latent heat).
+What is bond energy? :: Energy needed to break one mole of a bond.
+What is the relationship between bond breaking and energy? :: Breaking bonds absorbs energy; forming bonds releases energy.
+How can bond energies estimate delta H? :: Energy of bonds broken minus energy of bonds formed.
+What is activation energy? :: The energy barrier needed to start a reaction.
+What is an activated complex? :: The unstable arrangement at the peak of the energy barrier.
+What does a potential energy diagram show? :: Energy changes along a reaction path.
+In an exothermic diagram, which is lower in energy? :: The products.
+In an endothermic diagram, which is lower in energy? :: The reactants.
+How is delta H shown on the diagram? :: The difference between product and reactant energy.
+What does a catalyst do to activation energy? :: Lowers it.
+Does a catalyst change delta H? :: No.
+What is the first law of thermodynamics? :: Energy is conserved.
+What is a system? :: The part of the universe being studied.
+What are surroundings? :: Everything outside the system.
+What is an open system? :: A system exchanging both matter and energy.
+What is a closed system? :: A system exchanging energy but not matter.
+What is an isolated system? :: A system exchanging neither matter nor energy.
+What is a state function? :: A property depending only on the current state.
+What is temperature? :: A measure of average kinetic energy.
+What is heat? :: Energy transferred because of a temperature difference.
+What is the unit of heat? :: Joule.
+Convert 4.18 J to calories. :: About 1 calorie.
+What is a food Calorie? :: 1 kilocalorie or about 4184 J.
+What is an exothermic example in daily life? :: Burning wood or a hand warmer.
+What is an endothermic example in daily life? :: An instant cold pack.
+What is a fuel's energy density? :: Energy released per unit mass or volume.
+Which releases more energy per gram: hydrogen or gasoline? :: Hydrogen.
+What is entropy? :: A measure of disorder.
+Which has higher entropy: gas or solid? :: Gas.
+What drives spontaneous reactions? :: Release of energy and increased disorder.
+What is Gibbs free energy idea? :: Combines enthalpy and entropy to predict spontaneity.
+What is a combustion reaction's delta H sign? :: Negative.
+Write the combustion of methane. :: CH4 + 2 O2 -> CO2 + 2 H2O + energy
+What is the main product of burning hydrogen? :: Water.
+What is the heat of neutralization? :: Heat released when acid and base form one mole of water.
+What is a typical neutralization delta H? :: About -56 kJ per mole of water.
+How do you design a calorimetry experiment? :: Measure mass, specific heat and temperature change.
+Why is some heat lost in a real calorimeter? :: Heat escapes to the surroundings and the container.
+What is a heat capacity of a calorimeter? :: Energy needed to raise the calorimeter's temperature by 1 degree C.
+
+## Chemistry 30 | Electrochemical Changes
+What is oxidation? :: Loss of electrons.
+What is reduction? :: Gain of electrons.
+What does OIL RIG mean? :: Oxidation Is Loss; Reduction Is Gain.
+What is an oxidizing agent? :: A species that is reduced and oxidizes another.
+What is a reducing agent? :: A species that is oxidized and reduces another.
+What is an oxidation number? :: The apparent charge on an atom in a compound.
+What is the oxidation number of oxygen usually? :: -2
+What is the oxidation number of hydrogen usually? :: +1
+What is the oxidation number of an element? :: 0
+What is the sum of oxidation numbers in a neutral compound? :: 0
+Find the oxidation number of S in H2SO4. :: +6
+Find the oxidation number of Mn in KMnO4. :: +7
+Find the oxidation number of Cr in Cr2O7 2-. :: +6
+Find the oxidation number of N in NH3. :: -3
+What is a half-reaction? :: An equation showing only the oxidation or reduction.
+Write the half-reaction: Zn -> Zn2+ . :: Zn -> Zn2+ + 2 e- (oxidation).
+Write the half-reaction: Cu2+ -> Cu. :: Cu2+ + 2 e- -> Cu (reduction).
+What is a redox reaction? :: A reaction with electron transfer.
+How do you balance a redox reaction? :: Balance each half-reaction, then equalize electrons.
+What is a galvanic cell? :: A cell that makes electricity from a spontaneous reaction.
+What is an electrolytic cell? :: A cell that uses electricity to drive a non-spontaneous reaction.
+What is the anode? :: The electrode where oxidation occurs.
+What is the cathode? :: The electrode where reduction occurs.
+What is the anode charge in a galvanic cell? :: Negative.
+What is the cathode charge in a galvanic cell? :: Positive.
+What is the anode charge in an electrolytic cell? :: Positive.
+What is the cathode charge in an electrolytic cell? :: Negative.
+Which way do electrons flow? :: From anode to cathode through the wire.
+What is a salt bridge? :: A tube of ions that maintains charge balance.
+What is a standard reduction potential? :: A measure of a half-cell's tendency to be reduced.
+What is the standard hydrogen electrode? :: The 0.00 V reference half-cell.
+How do you find cell potential? :: E cell = E cathode - E anode.
+Find E cell: Cu2+ (0.34 V) and Zn2+ (-0.76 V). :: 1.10 V
+What does a positive E cell mean? :: The reaction is spontaneous.
+What does a negative E cell mean? :: The reaction is non-spontaneous.
+What are standard conditions? :: 25 degrees C, 1 mol/L and 100 kPa.
+Which metal is the stronger reducing agent: Zn or Cu? :: Zn.
+What is the activity series? :: A ranking of metals by reducing strength.
+What is a battery? :: One or more galvanic cells connected.
+What is a dry cell? :: A battery with a paste electrolyte.
+What is an alkaline battery? :: A dry cell with an alkaline electrolyte.
+What is a lead-acid battery? :: A rechargeable battery used in cars.
+What is a lithium-ion battery? :: A rechargeable battery used in phones and EVs.
+What is a fuel cell? :: A cell with continuously supplied fuel and oxidant.
+What is the overall reaction in a hydrogen fuel cell? :: 2 H2 + O2 -> 2 H2O
+What is corrosion? :: Oxidation of metal by the environment.
+What is the corrosion of iron? :: Iron oxidizes to form rust (hydrated iron(III) oxide).
+What speeds up rusting? :: Water, salt and oxygen.
+What is galvanizing? :: Coating iron with zinc.
+What is cathodic protection? :: Connecting iron to a more active metal to protect it.
+What is a sacrificial anode? :: A more reactive metal that corrodes in place of the protected metal.
+What is electroplating? :: Depositing a thin layer of metal using electrolysis.
+Where is the object to be plated placed? :: At the cathode.
+What is electrolysis of water? :: Splitting water into H2 and O2 using electricity.
+What is electrolysis of molten NaCl? :: Produces sodium metal and chlorine gas.
+What is the Hall-Heroult process? :: Electrolysis used to make aluminum.
+What is electrorefining? :: Purifying metal by electrolysis, like copper.
+What is Faraday's constant? :: About 96 485 C per mole of electrons.
+What is the charge on one mole of electrons? :: 96 485 C
+What is current? :: Charge flow per second.
+Q = ? :: Q = I t
+Find the moles of electrons: 9650 C. :: 0.100 mol
+How much copper deposits from 1 mol electrons? :: 0.5 mol (31.8 g) of Cu from Cu2+.
+What is a redox titration? :: A titration based on electron transfer.
+What is KMnO4's colour change in titration? :: Purple to nearly colourless (Mn2+).
+What is the role of an electrolyte? :: Carries ions between electrodes.
+Why do batteries stop working? :: Reactants are consumed and the potential drops to zero.
+What is the environmental issue with batteries? :: Toxic metals need safe disposal and recycling.
+What is a concentration cell? :: A cell using different concentrations of the same ions.
+
+## Chemistry 30 | Organic Chemistry
+What is organic chemistry? :: The chemistry of carbon compounds.
+Why is carbon special? :: It forms four bonds and long chains.
+What is a hydrocarbon? :: A compound of only carbon and hydrogen.
+What are alkanes? :: Saturated hydrocarbons with single bonds.
+What are alkenes? :: Hydrocarbons with a carbon-carbon double bond.
+What are alkynes? :: Hydrocarbons with a carbon-carbon triple bond.
+What are aromatic hydrocarbons? :: Compounds with a benzene ring.
+Name the first ten alkanes. :: Methane, ethane, propane, butane, pentane, hexane, heptane, octane, nonane, decane.
+What is the formula for hexane? :: C6H14
+What is the formula for pentene? :: C5H10
+What is the formula for propyne? :: C3H4
+What is the general formula for alkenes? :: CnH2n
+What is the general formula for alkynes? :: CnH(2n-2)
+What is the IUPAC naming rule for the parent chain? :: Choose the longest continuous chain.
+How do you number a chain? :: From the end giving the lowest numbers to substituents or functional groups.
+Name CH3CH(CH3)CH3. :: 2-methylpropane
+Name CH3CH2CH(CH3)CH2CH3. :: 3-methylpentane
+Name CH3CH=CH2. :: Propene
+Name CH3C triple bond CH. :: Propyne
+Draw the formula for 2-butene. :: CH3CH=CHCH3
+What is a branched alkane? :: An alkane with side groups on the main chain.
+What is a cycloalkane? :: An alkane in a ring.
+What is cyclohexane's formula? :: C6H12
+What is an isomer? :: A compound with the same formula but different structure.
+How many isomers does butane have? :: 2 (butane and 2-methylpropane).
+What are structural isomers? :: Isomers with different connectivity.
+What is cis-trans isomerism? :: Isomers differing in arrangement around a double bond.
+What is a functional group? :: A group of atoms giving a compound characteristic properties.
+What is the alcohol functional group? :: Hydroxyl (-OH).
+What is the carboxylic acid group? :: -COOH
+What is the ester group? :: -COO-
+What is the ether group? :: C-O-C
+What is the aldehyde group? :: -CHO at the end of a chain.
+What is the ketone group? :: C=O within the chain.
+What is the amine group? :: -NH2
+What is the amide group? :: -CONH2
+What is the halide (halogen) group? :: -F, -Cl, -Br or -I.
+Name CH3OH. :: Methanol
+Name CH3CH2OH. :: Ethanol
+Name CH3COOH. :: Ethanoic acid (acetic acid).
+Name HCOOH. :: Methanoic acid (formic acid).
+Name CH3CH2CH2OH. :: 1-propanol
+Name CH3CH(OH)CH3. :: 2-propanol
+Name CH3COCH3. :: Propanone (acetone).
+Name CH3CHO. :: Ethanal
+What is a primary alcohol? :: The OH carbon is bonded to one other carbon.
+What is a secondary alcohol? :: The OH carbon is bonded to two other carbons.
+What is a tertiary alcohol? :: The OH carbon is bonded to three other carbons.
+Why do alcohols have higher boiling points than alkanes? :: Hydrogen bonding.
+Why are small alcohols soluble in water? :: They form hydrogen bonds with water.
+What is an addition reaction? :: Atoms add across a double or triple bond.
+What is the product of ethene plus H2? :: Ethane
+What is the product of ethene plus Br2? :: 1,2-dibromoethane
+What is the product of ethene plus H2O? :: Ethanol
+What is a substitution reaction? :: One atom or group replaces another.
+What is the reaction of methane with chlorine? :: Substitution forming chloromethane and HCl.
+What is an elimination reaction? :: A small molecule is removed forming a double bond.
+What is esterification? :: Carboxylic acid + alcohol -> ester + water.
+What is the ester from ethanol and ethanoic acid? :: Ethyl ethanoate.
+Why do esters smell fruity? :: They are volatile compounds found in fruits and flavours.
+What is a condensation reaction? :: Two molecules join, releasing water.
+What is hydrolysis? :: Breaking a compound with water.
+What is fermentation? :: Yeast converts sugar to ethanol and CO2.
+What is combustion of an alkane? :: Reaction with O2 giving CO2 and H2O.
+What is a polymer? :: A large molecule of repeated units.
+What is addition polymerization? :: Monomers with double bonds join into a chain.
+What is polyethylene made from? :: Ethene.
+What is condensation polymerization? :: Monomers join with loss of a small molecule such as water.
+What is nylon? :: A polyamide made by condensation polymerization.
+What are proteins? :: Polymers of amino acids.
+What are carbohydrates? :: Polymers or units of sugars.
+What are lipids? :: Fats and oils made from fatty acids and glycerol.
+What is saturated fat? :: A fat with only single bonds in its chains.
+What is unsaturated fat? :: A fat with one or more double bonds.
+
+## Chemistry 30 | Chemical Equilibrium Focusing on Acid-Base Systems
+What is chemical equilibrium? :: Forward and reverse reaction rates are equal.
+Is a reaction at equilibrium static? :: No; it is dynamic.
+What is a reversible reaction? :: A reaction that can go in both directions.
+What is the equilibrium law expression? :: K = [products]^coefficients / [reactants]^coefficients
+What is Kc? :: The equilibrium constant using concentrations.
+Write K for N2 + 3 H2 <-> 2 NH3. :: K = [NH3]^2 / ([N2][H2]^3)
+Write K for 2 SO2 + O2 <-> 2 SO3. :: K = [SO3]^2 / ([SO2]^2 [O2])
+Are pure solids and liquids included in K? :: No.
+What does K much greater than 1 mean? :: Products are favoured.
+What does K much less than 1 mean? :: Reactants are favoured.
+What is an ICE table? :: A table of initial, change and equilibrium amounts.
+What is the reaction quotient Q? :: The ratio calculated like K at any time.
+If Q < K, which way does the reaction shift? :: Forward (toward products).
+If Q > K, which way does the reaction shift? :: Reverse (toward reactants).
+If Q = K, what is the system's state? :: At equilibrium.
+State Le Chatelier's principle. :: A system at equilibrium shifts to counter an imposed change.
+What happens if you add reactant? :: The equilibrium shifts toward products.
+What happens if you remove product? :: The equilibrium shifts toward products.
+What happens if you increase pressure? :: It shifts toward the side with fewer gas moles.
+What happens if you increase temperature (endothermic forward)? :: It shifts toward products.
+What happens if you increase temperature (exothermic forward)? :: It shifts toward reactants.
+Does a catalyst change the equilibrium position? :: No; it only speeds reaching equilibrium.
+Does adding an inert gas at constant volume shift the equilibrium? :: No.
+What does temperature change do to K? :: It changes the value of K.
+Do concentration changes change K? :: No.
+What is Ksp? :: The solubility product constant.
+Write Ksp for AgCl. :: Ksp = [Ag+][Cl-]
+Write Ksp for CaF2. :: Ksp = [Ca2+][F-]^2
+What is the common ion effect? :: Adding a common ion lowers solubility.
+What is a precipitate forming condition? :: When the ion product Q exceeds Ksp.
+What is the Bronsted-Lowry acid? :: A proton donor.
+What is the Bronsted-Lowry base? :: A proton acceptor.
+What is a conjugate acid-base pair? :: Two species differing by one proton.
+Give the conjugate base of H2SO4. :: HSO4-
+Give the conjugate acid of OH-. :: H2O
+What is an amphiprotic species? :: One that can donate or accept a proton.
+Give an amphiprotic species. :: Water or HCO3-.
+What is Kw? :: [H3O+][OH-] = 1.0 x 10^-14 at 25 degrees C.
+What is pH? :: -log[H3O+]
+What is pOH? :: -log[OH-]
+What is pH + pOH? :: 14
+What is the pH of 0.010 mol/L HCl? :: 2.00
+What is the pH of 0.010 mol/L NaOH? :: 12.00
+What is the pH of a solution with [H3O+] = 3.2 x 10^-5? :: 4.49
+What is [H3O+] at pH 8.50? :: 3.2 x 10^-9 mol/L
+What is Ka? :: The acid dissociation constant.
+Write Ka for HA. :: Ka = [H3O+][A-]/[HA]
+What does a large Ka mean? :: A stronger acid.
+What is Kb? :: The base dissociation constant.
+How are Ka and Kb of a conjugate pair related? :: Ka x Kb = Kw
+What is the pH of a weak acid vs a strong acid at equal concentration? :: Higher for the weak acid.
+What is percent ionization? :: ([H3O+] at equilibrium / initial [HA]) x 100%.
+What is a buffer? :: A solution that resists pH change.
+What makes a buffer? :: A weak acid and its conjugate base.
+Give a buffer example. :: Acetic acid and sodium acetate.
+What is the Henderson-Hasselbalch equation? :: pH = pKa + log([A-]/[HA])
+What is the pH when [A-] = [HA]? :: pH = pKa
+What is a titration curve? :: A graph of pH versus volume of titrant added.
+What is the equivalence point of a strong acid-strong base titration? :: pH 7.
+What is the equivalence point pH for a weak acid with strong base? :: Above 7.
+What is the equivalence point pH for a weak base with strong acid? :: Below 7.
+What is the half-equivalence point? :: Where pH equals pKa for a weak acid.
+Which indicator suits a weak acid-strong base titration? :: Phenolphthalein.
+What is an indicator's range? :: The pH interval over which it changes colour.
+What is a polyprotic acid? :: An acid with more than one ionizable proton.
+Give a polyprotic acid. :: H2SO4 or H3PO4.
+What is hydrolysis of a salt? :: Reaction of salt ions with water changing pH.
+Is NaCl solution acidic, basic or neutral? :: Neutral.
+Is NH4Cl solution acidic, basic or neutral? :: Acidic.
+Is NaCH3COO solution acidic, basic or neutral? :: Basic.
+What is the carbonate buffer system in blood? :: H2CO3 and HCO3- keep blood near pH 7.4.
+What is the Haber process? :: Making ammonia from N2 and H2 using equilibrium conditions.
+What conditions favour NH3 in the Haber process? :: High pressure and moderate temperature with a catalyst.
+
+## Physics 30 | Momentum and Impulse
+What is momentum? :: Mass times velocity.
+What is the formula for momentum? :: p = m v
+What is the unit of momentum? :: kg m/s
+Find p: m = 3 kg, v = 4 m/s. :: 12 kg m/s
+Find p: m = 1000 kg, v = 20 m/s. :: 20 000 kg m/s
+What is impulse? :: The change in momentum: F delta t.
+What is the formula for impulse? :: J = F delta t = delta p
+Find impulse: 50 N for 0.1 s. :: 5 N s
+Find delta p: 2 kg changes from 3 m/s to 8 m/s. :: 10 kg m/s
+Find F: delta p = 12 kg m/s over 0.04 s. :: 300 N
+What does the area under a force-time graph give? :: Impulse.
+Why do airbags reduce force? :: They increase the stopping time.
+Why do you bend your knees when landing? :: To increase stopping time and reduce force.
+Why are crumple zones used? :: To lengthen the collision time and absorb energy.
+What is the law of conservation of momentum? :: Total momentum of a closed system is constant.
+What is a closed system? :: One with no net external force.
+Write the conservation equation. :: m1 v1 + m2 v2 = m1 v1' + m2 v2'
+A 2 kg cart at 3 m/s hits a stationary 1 kg cart and they stick. Final speed? :: 2 m/s
+A 1 kg ball at 4 m/s hits a stationary 1 kg ball elastically head-on. Final speeds? :: First stops; second moves at 4 m/s.
+A 60 kg skater pushes a 40 kg skater apart. First moves 2 m/s. Second moves? :: -3 m/s (opposite direction).
+A 0.02 kg bullet at 400 m/s embeds in a 2 kg block. Speed after? :: About 3.96 m/s
+A 5 kg gun fires a 0.05 kg bullet at 300 m/s. Recoil speed? :: 3 m/s
+What is an elastic collision? :: Both momentum and kinetic energy are conserved.
+What is an inelastic collision? :: Momentum is conserved but kinetic energy is not.
+What is a perfectly inelastic collision? :: Objects stick together.
+Is momentum conserved in all collisions? :: Yes, in a closed system.
+Is kinetic energy conserved in an inelastic collision? :: No.
+What happens to lost kinetic energy? :: It becomes heat, sound and deformation.
+What is an explosion in terms of momentum? :: Internal forces split an object; total momentum is conserved.
+What is a rocket's principle? :: Expelled gas gains backward momentum so the rocket gains forward momentum.
+What is a two-dimensional collision? :: A collision where momentum is conserved in x and y separately.
+How do you solve a 2D collision? :: Apply conservation of momentum to each axis.
+What is the centre of mass? :: The average position of mass in an object or system.
+What is the momentum of a system? :: The vector sum of the individual momenta.
+What is average force? :: Impulse divided by contact time.
+Why does a longer contact time lessen the force? :: F = delta p / delta t.
+What is the impulse on a ball that bounces back at the same speed? :: 2 m v.
+Find the impulse: 0.5 kg ball at 10 m/s bounces back at 10 m/s. :: 10 N s
+What is the momentum of a photon? :: p = h / lambda
+What is a ballistic pendulum? :: A device to find bullet speed using momentum and energy.
+How does a ballistic pendulum work? :: The bullet sticks and the swing height gives kinetic energy after collision.
+Is momentum a vector or scalar? :: A vector.
+What direction is impulse? :: The direction of the net force.
+What is a collision's duration typically? :: A fraction of a second.
+How is momentum related to Newton's second law? :: F = delta p / delta t
+What is recoil? :: Backward motion from firing a projectile.
+Why do cannons recoil? :: Conservation of momentum with the projectile.
+Why is it hard to stop a heavy truck? :: Large mass gives large momentum.
+Who has more momentum: a 70 kg person at 5 m/s or 50 kg at 8 m/s? :: 400 kg m/s (second) versus 350 kg m/s (first).
+What is a head-on collision? :: A collision along a line.
+What is a glancing collision? :: A collision at an angle.
+What is the coefficient of restitution? :: A ratio showing how elastic a collision is.
+What is a safe-driving link to impulse? :: Seatbelts and airbags extend stopping time.
+What is the SI unit of impulse in base units? :: kg m/s
+What are the units N s equivalent to? :: kg m/s
+What is conservation of momentum a result of? :: Newton's third law.
+What is a momentum diagram? :: A vector diagram of momenta before and after.
+
+## Physics 30 | Forces and Fields
+What is an electric charge? :: A property of matter causing electric forces.
+What is the elementary charge? :: 1.60 x 10^-19 C
+What is Coulomb's law? :: F = k q1 q2 / r^2
+What is the value of k? :: 8.99 x 10^9 N m^2/C^2
+Find F: q1 = q2 = 1 x 10^-6 C, r = 0.1 m. :: 0.90 N
+What happens to the force if distance doubles? :: It becomes 1/4.
+What happens to the force if one charge doubles? :: It doubles.
+What is an electric field? :: A region where a charge experiences a force.
+What is the definition of electric field strength? :: E = F / q
+What is the unit of electric field? :: N/C or V/m.
+What is the electric field of a point charge? :: E = k q / r^2
+Find E: q = 2 x 10^-6 C at 0.3 m. :: 2.0 x 10^5 N/C
+What direction do field lines point? :: Away from positive, toward negative charges.
+What does the density of field lines show? :: Field strength.
+What is a uniform field? :: A field with constant strength and direction, like between parallel plates.
+Find E between plates: V = 100 V, d = 0.02 m. :: 5000 V/m
+What is electric potential difference? :: Energy per unit charge: V = W/q.
+What is the unit of potential difference? :: Volt (J/C).
+What is an electron volt? :: Energy gained by an electron through 1 V: 1.60 x 10^-19 J.
+Find the kinetic energy gained by an electron through 200 V. :: 200 eV
+Find the speed gained by an electron through 100 V. :: About 5.9 x 10^6 m/s
+What is a capacitor? :: A device storing charge on two plates.
+What is capacitance? :: C = Q / V
+What is the unit of capacitance? :: Farad.
+What is the electric potential energy between charges? :: E_p = k q1 q2 / r
+What is a conductor in electrostatic equilibrium like? :: Field inside is zero; charge sits on the surface.
+What is a Faraday cage? :: A conducting shell that blocks external electric fields.
+What is a gravitational field? :: A region where a mass experiences force.
+What is gravitational field strength? :: g = F / m
+What is the gravitational force between masses? :: F = G m1 m2 / r^2
+What is a magnetic field? :: A region where a magnet or moving charge feels force.
+What direction do magnetic field lines point outside a magnet? :: North to south.
+What is the unit of magnetic field? :: Tesla (T).
+What is the magnetic force on a moving charge? :: F = q v B sin(theta)
+What is the direction of the magnetic force? :: Given by the right-hand rule.
+What happens to a charged particle moving perpendicular to a magnetic field? :: It moves in a circle.
+What is the radius of that circle? :: r = m v / (q B)
+What is a mass spectrometer? :: A device separating ions by mass using fields.
+What is the force on a current-carrying wire? :: F = I L B sin(theta)
+What is the magnetic field around a straight wire? :: Circles around the wire (right-hand rule).
+What is a solenoid? :: A coil producing a nearly uniform magnetic field.
+What is an electromagnet? :: A magnet made by passing current through a coil.
+What is a motor? :: A device using magnetic force on current to produce rotation.
+What is magnetic flux? :: The amount of magnetic field passing through an area.
+What is electromagnetic induction? :: Producing emf by changing magnetic flux.
+What is Faraday's law? :: Induced emf equals the rate of change of flux.
+What is Lenz's law? :: Induced current opposes the change in flux.
+What is a generator? :: A device converting motion to electrical energy.
+What is a transformer? :: A device changing AC voltage using induction.
+What is the transformer equation? :: Vs / Vp = Ns / Np
+A transformer has 100 turns primary, 400 secondary, 10 V in. Output? :: 40 V
+Why do transformers need AC? :: A changing flux is needed to induce voltage.
+What is an eddy current? :: A circulating induced current in a conductor.
+What are applications of electromagnetic induction? :: Generators, transformers, induction cooktops.
+What is the Earth's magnetic field's effect? :: It aligns compasses and deflects solar particles.
+What is the aurora? :: Light from charged particles guided by Earth's field into the atmosphere.
+What is a cyclotron? :: A particle accelerator using magnetic and electric fields.
+What is a velocity selector? :: A device using crossed fields to select particles of one speed.
+What is the condition in a velocity selector? :: qE = q v B, so v = E / B.
+What is the Hall effect? :: A voltage across a conductor in a magnetic field.
+What is a magnetic dipole? :: A pair of north and south poles.
+What is a permanent magnet? :: A material that keeps its magnetism.
+What is ferromagnetism? :: Strong magnetism in materials like iron.
+
+## Physics 30 | Electromagnetic Radiation
+What are electromagnetic waves? :: Oscillating electric and magnetic fields travelling through space.
+What is the speed of light in a vacuum? :: 3.00 x 10^8 m/s
+What is the wave equation for light? :: c = f lambda
+Find lambda: f = 5.0 x 10^14 Hz. :: 6.0 x 10^-7 m
+Find f: lambda = 450 nm. :: 6.7 x 10^14 Hz
+Who predicted electromagnetic waves? :: James Clerk Maxwell.
+Who produced radio waves experimentally? :: Heinrich Hertz.
+What is the order of the EM spectrum? :: Radio, microwave, infrared, visible, UV, X-ray, gamma.
+What is refraction? :: Bending of light entering a new medium.
+What is the index of refraction? :: n = c / v
+What is Snell's law? :: n1 sin(theta1) = n2 sin(theta2)
+Find the refracted angle: air to glass n = 1.5, incident 30 degrees. :: About 19.5 degrees
+What is the critical angle? :: The incident angle producing a 90 degree refraction.
+What is total internal reflection? :: All light reflects at an interface past the critical angle.
+What is dispersion? :: Spreading of light into colours because refractive index depends on wavelength.
+What is diffraction? :: Spreading of waves around obstacles or through openings.
+What is interference? :: Superposition of waves producing bright and dark regions.
+What did Young's double-slit experiment show? :: The wave nature of light.
+What is the double-slit formula for bright fringes? :: d sin(theta) = m lambda
+What is constructive interference? :: Waves in phase adding together.
+What is destructive interference? :: Waves out of phase cancelling.
+What is a diffraction grating? :: A surface with many slits producing sharp spectra.
+What is thin-film interference? :: Colours from reflection off both surfaces of a thin film.
+What is polarization? :: Restricting light waves to one plane.
+What does polarization show about light? :: Light is a transverse wave.
+What is the photoelectric effect? :: Emission of electrons from a metal when light shines on it.
+What is the threshold frequency? :: The minimum frequency for emission.
+What is the work function? :: The minimum energy needed to free an electron.
+What is the photon energy equation? :: E = h f
+What is Planck's constant? :: 6.63 x 10^-34 J s
+Find E: f = 6.0 x 10^14 Hz. :: 3.98 x 10^-19 J
+Find E in eV for a 400 nm photon. :: About 3.1 eV
+What is the photoelectric equation? :: E_k max = h f - W
+Find E_k max: photon 5.0 eV, work function 2.0 eV. :: 3.0 eV
+What is the stopping potential? :: The voltage that stops the fastest photoelectrons.
+Does brighter light increase photoelectron energy? :: No; it increases their number.
+Does higher frequency increase photoelectron energy? :: Yes.
+Why does classical wave theory fail for the photoelectric effect? :: It predicts energy depends on intensity and no threshold.
+What is a photon? :: A quantum of light energy.
+What is the Compton effect? :: Photons scattering from electrons and losing energy.
+What is a photon's momentum? :: p = h / lambda
+What is the de Broglie wavelength? :: lambda = h / p
+Find lambda for an electron at 1.0 x 10^6 m/s. :: About 7.3 x 10^-10 m
+What is matter-wave behaviour evidence? :: Electron diffraction.
+What is wave-particle duality? :: Light and matter show both wave and particle properties.
+What is blackbody radiation? :: Radiation from a hot object depending on its temperature.
+What is the ultraviolet catastrophe? :: Classical theory failing to explain blackbody radiation.
+What did Planck propose? :: Energy comes in quanta E = h f.
+What is a line spectrum? :: Specific wavelengths emitted by excited atoms.
+What is an absorption spectrum? :: Dark lines where a gas absorbs light.
+What is a continuous spectrum? :: A smooth range of wavelengths from a hot solid.
+What do spectral lines tell us? :: The elements present in a source.
+What is the Doppler shift of light? :: Wavelength changes due to relative motion.
+What is red shift? :: Light moving to longer wavelengths as a source recedes.
+What is a laser? :: A device producing coherent, single-wavelength light.
+What is coherence? :: Waves with a constant phase relationship.
+What is stimulated emission? :: An excited atom emitting a photon triggered by another photon.
+What is an LED? :: A light-emitting diode giving light when current flows.
+What is a solar cell's principle? :: Photons free electrons across a junction to make current.
+What is fluorescence? :: Absorbing UV light and re-emitting visible light.
+What is the energy of a photon when wavelength halves? :: It doubles.
+What is the intensity of light? :: Power per unit area.
+What is the inverse square law for light? :: Intensity falls with the square of distance.
+
+## Physics 30 | Atomic Physics
+What did Thomson discover? :: The electron.
+What was the plum pudding model? :: A positive sphere with embedded electrons.
+What did Millikan measure? :: The charge of the electron.
+What did Rutherford's gold foil experiment show? :: A small dense positive nucleus.
+What was the Bohr model? :: Electrons in fixed energy levels.
+What is a quantum state? :: A specific allowed energy level.
+What is the ground state? :: The lowest energy level.
+What is an excited state? :: A higher energy level.
+How does an atom emit light? :: An electron drops to a lower level, releasing a photon.
+How does an atom absorb light? :: An electron jumps up by absorbing a photon of exact energy.
+What is the photon energy for a transition? :: E = E_initial - E_final
+Find the photon energy for n = 3 to n = 2 in hydrogen. :: 1.89 eV
+What is the hydrogen ground state energy? :: -13.6 eV
+What is the ionization energy of hydrogen? :: 13.6 eV
+What is the energy of hydrogen's n = 2 level? :: -3.4 eV
+What is the Balmer series? :: Transitions ending at n = 2 giving visible lines.
+What is the Lyman series? :: Transitions ending at n = 1 in the ultraviolet.
+What does the quantum mechanical model add to Bohr's model? :: Electrons as probability clouds.
+What is the uncertainty principle? :: You can't know position and momentum exactly at once.
+What is a nucleus made of? :: Protons and neutrons.
+What is a nucleon? :: A proton or neutron.
+What is the atomic number? :: Number of protons.
+What is the mass number? :: Number of nucleons.
+What is the notation for a nuclide? :: A/Z X (mass number, atomic number, symbol).
+How many neutrons in carbon-14? :: 8
+What is an isotope? :: Atoms with the same protons but different neutrons.
+What is the strong nuclear force? :: The force holding the nucleus together.
+What is the unified atomic mass unit? :: 1 u = 1.66 x 10^-27 kg.
+What is mass defect? :: The difference between mass of nucleons and the nucleus.
+What is binding energy? :: Energy needed to separate a nucleus into nucleons.
+What is the mass-energy equation? :: E = m c^2
+Find the energy of 1 u. :: 931.5 MeV
+What is binding energy per nucleon? :: Binding energy divided by number of nucleons.
+Which nucleus is the most stable? :: Iron-56 (near the peak).
+What is radioactivity? :: Spontaneous emission of radiation from unstable nuclei.
+What is alpha decay? :: Emission of a helium nucleus.
+What is beta-minus decay? :: A neutron becomes a proton, emitting an electron and antineutrino.
+What is beta-plus decay? :: A proton becomes a neutron, emitting a positron and neutrino.
+What is gamma decay? :: Emission of a high-energy photon from the nucleus.
+Write alpha decay of U-238. :: U-238 -> Th-234 + He-4
+Write beta decay of C-14. :: C-14 -> N-14 + e- + antineutrino
+What is a neutrino? :: A nearly massless neutral particle.
+What is penetrating power of alpha? :: Low; stopped by paper.
+What is penetrating power of beta? :: Medium; stopped by aluminum foil.
+What is penetrating power of gamma? :: High; needs thick lead or concrete.
+What is half-life? :: Time for half of a sample to decay.
+What is the half-life formula? :: N = N0 (1/2)^(t/T)
+A sample of 80 g has a half-life of 5 days. Mass after 15 days? :: 10 g
+C-14 half-life? :: 5730 years.
+What does carbon dating measure? :: The remaining C-14 in organic material.
+What is activity? :: Decays per second, in becquerels.
+What is a becquerel? :: One decay per second.
+What is nuclear fission? :: Splitting a heavy nucleus into smaller ones.
+What is nuclear fusion? :: Joining light nuclei into heavier ones.
+What is a chain reaction? :: Neutrons from fission cause further fissions.
+What is critical mass? :: The minimum mass to sustain a chain reaction.
+What is a moderator? :: A material that slows neutrons.
+What powers the Sun? :: Hydrogen fusion.
+What are the four fundamental forces? :: Gravity, electromagnetic, strong nuclear, weak nuclear.
+What are quarks? :: Fundamental particles that make up protons and neutrons.
+What quarks make a proton? :: Two up and one down.
+What quarks make a neutron? :: One up and two down.
+What are leptons? :: Fundamental particles like electrons and neutrinos.
+What is antimatter? :: Matter with opposite charge, like the positron.
+What happens when matter meets antimatter? :: They annihilate into energy.
+What is a particle accelerator for? :: Colliding particles to study fundamental physics.
+What is the Large Hadron Collider? :: A giant accelerator at CERN.
+What is the Higgs boson? :: A particle linked to the origin of mass.
+What is a medical use of radioisotopes? :: Imaging and cancer treatment.
+What is a PET scan? :: Imaging using positron-emitting tracers.
+What is background radiation? :: Natural low-level radiation from space and the Earth.
+What is a safe radiation practice? :: Limit time, increase distance and use shielding.

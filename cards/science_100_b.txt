@@ -1,0 +1,1018 @@
+## Science 20 | Dynamics of Ecosystems
+What is an ecosystem? :: A community of living things interacting with their non-living environment.
+What are biotic factors? :: The living parts of an ecosystem.
+What are abiotic factors? :: The non-living parts, like sunlight, water and soil.
+Name three abiotic factors. :: Temperature, water, light, soil, wind.
+What is a population? :: All individuals of one species in an area.
+What is a community? :: All populations in an area.
+What is a habitat? :: Where an organism lives.
+What is a niche? :: An organism's role and the conditions it needs.
+What is the difference between habitat and niche? :: Habitat is the address; niche is the job.
+What is a biome? :: A large region with a characteristic climate and living things.
+What biome covers most of northern Alberta? :: Boreal forest.
+What biome covers southern Alberta? :: Grassland (prairie).
+What biome is found in the Rocky Mountains? :: Montane and alpine.
+What is tundra? :: A cold, treeless biome with permafrost.
+What is a producer? :: An organism that makes its own food.
+What is a consumer? :: An organism that eats other organisms.
+What is a decomposer? :: An organism that breaks down dead matter.
+What is a food chain? :: A single path of energy transfer.
+What is a food web? :: Interconnected food chains.
+What is a trophic level? :: A feeding level in a food chain.
+What is the 10% rule? :: Only about 10% of energy passes to the next level.
+What is biomass? :: The total mass of living material.
+What is an energy pyramid? :: A diagram of energy at each trophic level.
+What is primary productivity? :: The rate producers capture energy.
+What is the carbon cycle? :: Carbon moving among air, organisms, oceans and soil.
+What is the nitrogen cycle? :: Nitrogen moving among air, soil and organisms.
+What is nitrogen fixation? :: Converting N2 into usable forms by bacteria.
+What is the phosphorus cycle? :: Phosphorus moving through rocks, soil, water and organisms.
+What is the water cycle? :: Evaporation, condensation, precipitation and collection.
+What is symbiosis? :: A close long-term relationship between species.
+What is mutualism? :: Both species benefit, like bees and flowers.
+What is commensalism? :: One benefits and the other is unaffected.
+What is parasitism? :: One benefits and the other is harmed.
+What is predation? :: One organism hunts and eats another.
+What is competition? :: Organisms use the same limited resource.
+What is interspecific competition? :: Competition between different species.
+What is intraspecific competition? :: Competition within the same species.
+What is a keystone species? :: A species that has a large effect on its ecosystem.
+Give a keystone species example in Alberta. :: Beaver or wolf.
+What is an indicator species? :: A species whose health shows ecosystem condition.
+What is an invasive species? :: A non-native species that spreads and causes harm.
+What is a native species? :: A species that naturally occurs in an area.
+What is succession? :: Gradual change in an ecosystem's community.
+What is primary succession? :: Succession beginning on bare rock without soil.
+What is secondary succession? :: Succession after a disturbance where soil remains.
+What is a pioneer species? :: The first species to colonize an area.
+What is a climax community? :: A stable community at the end of succession.
+What is a population growth curve? :: A graph of population size over time.
+What is exponential growth? :: Growth that increases faster as the population grows (J-shaped).
+What is logistic growth? :: Growth that levels off at carrying capacity (S-shaped).
+What is carrying capacity? :: The maximum population an environment can support.
+What is a limiting factor? :: A resource that restricts population growth.
+What is a density-dependent factor? :: A limiting factor affected by population size, like disease.
+What is a density-independent factor? :: A limiting factor that acts regardless of density, like fire.
+What is bioaccumulation? :: A substance building up in an organism.
+What is biomagnification? :: A substance becoming more concentrated up a food chain.
+What is eutrophication? :: Nutrient overload causing algae blooms and low oxygen.
+What is a wetland's value? :: It filters water, stores floods and supports wildlife.
+What is the role of fire in the boreal forest? :: It renews habitat and recycles nutrients.
+What is a keystone predator example? :: Wolves in Yellowstone.
+What is the impact of the mountain pine beetle? :: It kills pine trees across Alberta and B.C. forests.
+What is habitat fragmentation? :: Splitting habitat into small isolated patches.
+What is a wildlife corridor? :: A strip of habitat connecting separated areas.
+What is conservation? :: Protecting and wisely using natural resources.
+What is sustainable resource use? :: Using resources so they last for future generations.
+What is an ecological footprint? :: The land needed to support a person's lifestyle.
+What is biodiversity? :: The variety of life in an area.
+Why is biodiversity important to ecosystem stability? :: Diverse systems can adapt better to change.
+What is the greenhouse effect's link to ecosystems? :: Warming changes species ranges and timing of seasons.
+What is an environmental impact assessment? :: A study of a project's effects on the environment.
+
+## Science 20 | Chemical Change
+What is a mole? :: 6.02 x 10^23 particles of a substance.
+What is molar mass? :: The mass of one mole in g/mol.
+Find the molar mass of H2SO4. :: 98.09 g/mol
+Find the molar mass of CaCO3. :: 100.09 g/mol
+Find the molar mass of Mg(OH)2. :: 58.33 g/mol
+How many moles in 49 g of H2SO4? :: 0.5 mol
+How many grams in 3 mol of NaCl? :: 175.3 g
+How many moles in 100 g of CaCO3? :: About 1.0 mol
+How many molecules in 0.25 mol of water? :: 1.5 x 10^23
+What is stoichiometry? :: Using balanced equations to find amounts in reactions.
+What is a mole ratio? :: The ratio of coefficients in a balanced equation.
+In 2 H2 + O2 -> 2 H2O, how many mol of water from 4 mol H2? :: 4 mol
+In 2 H2 + O2 -> 2 H2O, how many mol of O2 react with 6 mol H2? :: 3 mol
+In N2 + 3 H2 -> 2 NH3, how many mol NH3 from 3 mol N2? :: 6 mol
+What is the limiting reagent? :: The reactant that runs out first.
+What is the excess reagent? :: The reactant left over.
+What is the theoretical yield? :: The maximum amount of product predicted.
+What is the actual yield? :: The amount of product actually obtained.
+What is percent yield? :: (actual / theoretical) x 100%
+If the actual yield is 4 g and theoretical is 5 g, what is the percent yield? :: 80%
+Why is percent yield less than 100% usually? :: Side reactions, incomplete reactions and losses.
+What is an acid? :: A substance that releases H+ in water.
+What is a base? :: A substance that releases OH- in water.
+What is the pH scale? :: A scale from 0 to 14 for acidity.
+What is the pH of a neutral solution? :: 7
+What is a strong acid? :: An acid that ionizes completely.
+Name three strong acids. :: HCl, HNO3, H2SO4.
+What is a weak acid? :: An acid that ionizes only partly.
+Name a weak acid. :: Acetic acid (CH3COOH).
+What is a strong base? :: A base that dissociates completely, like NaOH.
+What is a weak base? :: A base that partly reacts with water, like NH3.
+What is neutralization? :: Acid + base -> salt + water.
+What is a titration? :: Adding a solution of known concentration to determine another.
+What is the equivalence point? :: Where moles of acid and base are equal.
+What is an indicator's role in titration? :: Shows the endpoint by changing colour.
+What is a buffer? :: A solution that resists pH change.
+What is oxidation? :: Loss of electrons.
+What is reduction? :: Gain of electrons.
+What is a redox reaction? :: A reaction involving electron transfer.
+What is an oxidizing agent? :: A substance that gains electrons.
+What is a reducing agent? :: A substance that loses electrons.
+What is corrosion? :: The oxidation of metals, such as rust.
+How is rust prevented? :: Painting, galvanizing or cathodic protection.
+What is a galvanic cell? :: A cell that produces electricity from a spontaneous reaction.
+What is electrolysis? :: Using electricity to drive a non-spontaneous reaction.
+What is electroplating? :: Coating an object with a thin layer of metal using electrolysis.
+What is a combustion reaction? :: A fuel reacts rapidly with oxygen releasing heat and light.
+What are the products of complete combustion of a hydrocarbon? :: CO2 and H2O.
+What are the products of incomplete combustion? :: CO, C (soot) and H2O.
+What is activation energy? :: The minimum energy needed to start a reaction.
+What is a catalyst? :: A substance that speeds a reaction without being consumed.
+What is a reaction rate? :: How fast reactants are used or products formed.
+What factors affect reaction rate? :: Temperature, concentration, surface area, catalyst.
+Why does higher temperature increase rate? :: Particles collide more often and with more energy.
+Why does a higher concentration increase rate? :: More collisions per second.
+What is collision theory? :: Reactions occur when particles collide with enough energy and correct orientation.
+What is an exothermic reaction? :: A reaction that releases heat.
+What is an endothermic reaction? :: A reaction that absorbs heat.
+What is a precipitate? :: An insoluble solid formed in a solution.
+What is a spectator ion? :: An ion that does not take part in the reaction.
+What is a net ionic equation? :: An equation showing only the ions that react.
+What is the solubility of most nitrates? :: Soluble.
+What is the solubility of most chlorides? :: Soluble except Ag, Pb and Hg(I).
+
+## Science 20 | Changes in Motion
+What is speed? :: Distance divided by time.
+What is velocity? :: Speed with direction.
+What is acceleration? :: The rate of change of velocity.
+What is the formula for acceleration? :: a = (v_f - v_i)/t
+What is displacement? :: Change in position with direction.
+What is a vector? :: A quantity with magnitude and direction.
+What is a scalar? :: A quantity with magnitude only.
+Name three scalars. :: Distance, speed, mass.
+Name three vectors. :: Displacement, velocity, force.
+Find speed: 150 m in 10 s. :: 15 m/s
+Find the distance: 20 m/s for 6 s. :: 120 m
+Find the time: 300 m at 15 m/s. :: 20 s
+Find acceleration: 0 to 24 m/s in 6 s. :: 4 m/s^2
+Find acceleration: 30 to 10 m/s in 4 s. :: -5 m/s^2
+Find final velocity: v_i = 5 m/s, a = 2 m/s^2, t = 3 s. :: 11 m/s
+What does a flat line on a d-t graph mean? :: The object is at rest.
+What does a straight sloped line on a d-t graph mean? :: Constant velocity.
+What does the slope of a d-t graph represent? :: Velocity.
+What does the slope of a v-t graph represent? :: Acceleration.
+What does the area under a v-t graph represent? :: Displacement.
+What is uniform motion? :: Motion at constant velocity.
+What is free fall? :: Motion under gravity alone.
+What is the acceleration due to gravity? :: About 9.8 m/s^2 downward.
+What is air resistance? :: A force opposing motion through air.
+What is terminal velocity? :: A constant speed where air resistance balances weight.
+What is a force? :: A push or pull on an object.
+What is the unit of force? :: Newton (N).
+What is a net force? :: The vector sum of all forces on an object.
+What is balanced force? :: Forces that cancel, giving zero net force.
+What is Newton's first law? :: An object keeps its motion unless acted on by a net force.
+What is inertia? :: An object's resistance to changes in motion.
+What is Newton's second law? :: F_net = m a
+Find the force: m = 5 kg, a = 3 m/s^2. :: 15 N
+Find the acceleration: F = 20 N, m = 4 kg. :: 5 m/s^2
+Find the mass: F = 30 N, a = 6 m/s^2. :: 5 kg
+What is Newton's third law? :: Every action has an equal and opposite reaction.
+What is weight? :: The force of gravity on an object.
+What is the weight of a 10 kg mass? :: About 98 N
+What is the difference between mass and weight? :: Mass is the amount of matter; weight is the gravitational force.
+What is friction? :: A force that opposes motion between surfaces.
+What is static friction? :: Friction that keeps an object from starting to move.
+What is kinetic friction? :: Friction on a moving object.
+What is normal force? :: The perpendicular force from a surface.
+What is tension? :: The pulling force in a rope or cable.
+What is momentum? :: Mass times velocity.
+Find the momentum: 5 kg at 4 m/s. :: 20 kg m/s
+What is impulse? :: Force times time, equal to the change in momentum.
+What is conservation of momentum? :: Total momentum stays the same in a closed system.
+Why do seatbelts reduce injury? :: They lengthen the time of stopping, reducing the force.
+Why do airbags reduce injury? :: They increase stopping time and spread the force.
+What is a collision? :: A brief interaction in which objects exert forces on each other.
+What is an elastic collision? :: A collision that conserves kinetic energy.
+What is an inelastic collision? :: A collision that does not conserve kinetic energy.
+What is kinetic energy? :: Energy of motion, 1/2 m v^2.
+What is work? :: Force times displacement.
+What is power? :: The rate of doing work.
+What is a projectile? :: An object moving through the air under gravity.
+What is the path of a projectile? :: A parabola.
+Does horizontal velocity change in projectile motion? :: No (ignoring air resistance).
+What is the vertical acceleration of a projectile? :: 9.8 m/s^2 downward.
+What is circular motion? :: Motion along a circular path.
+What is centripetal force? :: The inward force that keeps an object in a circular path.
+What is a reference frame? :: A point of view from which motion is measured.
+What are crumple zones? :: Car parts designed to absorb impact by deforming.
+What are headrests for? :: To prevent whiplash by supporting the head in a rear collision.
+
+## Science 20 | Changing Earth
+What is the age of Earth? :: About 4.5 billion years.
+What are Earth's layers? :: Crust, mantle, outer core, inner core.
+What is the crust? :: Earth's thin, rocky outer layer.
+What is the mantle? :: The thick layer of hot, slowly flowing rock.
+What is the outer core made of? :: Liquid iron and nickel.
+What is the inner core made of? :: Solid iron and nickel.
+What is the lithosphere? :: The rigid outer layer including the crust and upper mantle.
+What is the asthenosphere? :: The soft layer of the mantle that flows slowly.
+What is plate tectonics? :: The theory that Earth's lithosphere is divided into moving plates.
+What drives plate movement? :: Convection currents in the mantle, slab pull and ridge push.
+What is continental drift? :: The idea that continents move over time.
+Who proposed continental drift? :: Alfred Wegener.
+What was Pangaea? :: A supercontinent that existed about 300 million years ago.
+What evidence supports continental drift? :: Matching coastlines, fossils, rock types and glacial deposits.
+What is seafloor spreading? :: New oceanic crust forming at ridges and moving apart.
+What is a divergent boundary? :: Plates moving apart.
+What is a convergent boundary? :: Plates moving toward each other.
+What is a transform boundary? :: Plates sliding past each other.
+What is subduction? :: One plate sinking beneath another.
+What forms at a convergent boundary between continents? :: Mountain ranges.
+How were the Rocky Mountains formed? :: By collision and compression of plates, folding and faulting.
+What are volcanoes? :: Openings where magma reaches the surface.
+What is magma? :: Molten rock beneath the surface.
+What is lava? :: Molten rock on the surface.
+What is the Ring of Fire? :: A belt of volcanoes and earthquakes around the Pacific Ocean.
+What is an earthquake? :: Shaking caused by sudden release of energy in the crust.
+What is a fault? :: A crack in the crust where movement occurs.
+What is the focus of an earthquake? :: The point underground where it starts.
+What is the epicentre? :: The point on the surface above the focus.
+What are P-waves? :: Fast compressional seismic waves.
+What are S-waves? :: Slower shear seismic waves.
+What are surface waves? :: Slowest, most damaging seismic waves.
+What is a seismograph? :: An instrument that records seismic waves.
+What does the Richter scale measure? :: The magnitude of an earthquake.
+What is a tsunami? :: A large ocean wave caused by an undersea disturbance.
+What are the three rock types? :: Igneous, sedimentary and metamorphic.
+How is igneous rock formed? :: By cooling of magma or lava.
+Give an igneous rock example. :: Granite or basalt.
+How is sedimentary rock formed? :: By compaction and cementation of sediments.
+Give a sedimentary rock example. :: Sandstone, limestone or shale.
+How is metamorphic rock formed? :: By heat and pressure changing existing rock.
+Give a metamorphic rock example. :: Marble or slate.
+What is the rock cycle? :: The ongoing change of rocks among the three types.
+What is weathering? :: The breakdown of rock at Earth's surface.
+What is erosion? :: Movement of weathered material by wind, water or ice.
+What is deposition? :: Material settling in a new place.
+What is a fossil? :: Preserved remains or traces of ancient life.
+How do fossils form? :: Burial in sediment and mineralization over time.
+What is index fossil? :: A fossil used to date and match rock layers.
+What is relative dating? :: Determining order of events without exact ages.
+What is the law of superposition? :: In undisturbed layers, older layers are on the bottom.
+What is absolute dating? :: Finding the numerical age of rock or fossils.
+What is radiometric dating? :: Dating using the decay of radioactive isotopes.
+What is half-life? :: Time for half of a radioactive sample to decay.
+What is carbon-14 dating used for? :: Dating organic material up to about 50 000 years old.
+What is the geologic time scale? :: A timeline of Earth's history divided into eons, eras and periods.
+What era are we in? :: The Cenozoic.
+When did dinosaurs live? :: The Mesozoic Era.
+What is the Burgess Shale? :: A famous Cambrian fossil site in the Rockies.
+What is Dinosaur Provincial Park known for? :: Rich dinosaur fossils in Alberta's badlands.
+What is the Royal Tyrrell Museum? :: A world-famous paleontology museum in Drumheller, Alberta.
+What is a glacier? :: A large body of moving ice.
+What is glaciation? :: The advance of ice sheets over land.
+What landforms do glaciers make? :: U-shaped valleys, moraines and kettle lakes.
+What is an ice age? :: A long period of cooler climate with large ice sheets.
+What causes ice ages? :: Changes in Earth's orbit, atmosphere and ocean currents.
+What is the mass extinction at the end of the Cretaceous? :: The extinction of dinosaurs about 66 million years ago.
+What caused the end-Cretaceous extinction? :: An asteroid impact and volcanic activity.
+
+## Biology 20 | Energy and Matter Exchange in the Biosphere
+What is the biosphere? :: The part of Earth where life exists.
+What is the cell theory? :: All living things are made of cells, cells are the basic units of life, and cells come from cells.
+What is a prokaryote? :: A cell without a nucleus.
+What is a eukaryote? :: A cell with a nucleus and organelles.
+What is the nucleus? :: The organelle that holds DNA.
+What are mitochondria? :: Organelles that make ATP.
+What are chloroplasts? :: Organelles where photosynthesis occurs.
+What is the cell membrane? :: A selectively permeable barrier around the cell.
+What is the cell wall? :: A rigid layer around plant cells.
+What are ribosomes? :: Organelles that make proteins.
+What is the endoplasmic reticulum? :: A network for making and moving proteins and lipids.
+What is the Golgi apparatus? :: An organelle that packages and ships proteins.
+What are lysosomes? :: Organelles with enzymes that break down waste.
+What is a vacuole? :: A storage organelle; large in plant cells.
+What is the cytoplasm? :: The fluid inside a cell.
+What is the fluid mosaic model? :: The membrane is a flexible layer of lipids and proteins.
+What is a phospholipid? :: A molecule with a hydrophilic head and hydrophobic tails.
+What is selective permeability? :: The membrane lets some substances through but not others.
+What is diffusion? :: Movement from high to low concentration.
+What is osmosis? :: Diffusion of water across a membrane.
+What is facilitated diffusion? :: Diffusion through protein channels.
+What is active transport? :: Movement against a gradient using energy.
+What is endocytosis? :: A cell taking in material by engulfing it.
+What is exocytosis? :: A cell expelling material in vesicles.
+What is a hypertonic solution? :: One with more solute than the cell.
+What is a hypotonic solution? :: One with less solute than the cell.
+What is an isotonic solution? :: One with equal solute concentration.
+What happens to a cell in hypertonic solution? :: It loses water and shrinks.
+What happens to a cell in hypotonic solution? :: It gains water and may burst.
+What is plasmolysis? :: Plant cell shrinkage when water leaves the vacuole.
+What is turgor pressure? :: Pressure of water inside plant cells that keeps them firm.
+What are enzymes? :: Proteins that speed up reactions.
+What is a substrate? :: The molecule an enzyme acts on.
+What is the active site? :: The part of an enzyme where the substrate binds.
+How does temperature affect enzymes? :: Rates rise to an optimum, then fall as the enzyme denatures.
+What is denaturation? :: Loss of an enzyme's shape and function.
+What is the optimal pH for pepsin? :: About 2 (acidic).
+What are macromolecules? :: Large molecules like carbohydrates, lipids, proteins and nucleic acids.
+What are carbohydrates for? :: Quick energy and structure.
+What are lipids for? :: Long-term energy, insulation and membranes.
+What are proteins for? :: Enzymes, structure and transport.
+What are nucleic acids for? :: Storing and transmitting genetic information.
+What is a monomer of protein? :: An amino acid.
+What is a monomer of carbohydrates? :: A monosaccharide.
+What is a trophic level? :: A feeding level in a food chain.
+What is gross primary productivity? :: Total energy captured by producers.
+What is net primary productivity? :: Energy left after producers use some in respiration.
+What is the carbon cycle? :: The movement of carbon through living and non-living parts.
+What is the nitrogen cycle? :: The movement of nitrogen through air, soil and organisms.
+What are nitrogen-fixing bacteria? :: Bacteria that convert N2 into ammonia.
+What is the phosphorus cycle? :: Movement of phosphorus through rocks, soil and organisms.
+What is the water cycle? :: Movement of water through evaporation, precipitation and flow.
+What is a limiting nutrient? :: The nutrient in shortest supply, limiting growth.
+What is eutrophication? :: Nutrient enrichment causing algal blooms and oxygen loss.
+What is bioaccumulation? :: Build-up of a toxin in an organism over time.
+What is biomagnification? :: Toxin concentration increasing up the food chain.
+Why do top predators have the most toxin? :: Biomagnification concentrates toxins at higher levels.
+What is a decomposer's role in nutrient cycling? :: Returning nutrients to the soil.
+What is the greenhouse effect's link to biosphere? :: Extra CO2 warms climate and affects ecosystems.
+What is ocean acidification? :: Lower ocean pH from absorbing extra CO2.
+What is the role of phytoplankton? :: Producing oxygen and forming the base of marine food webs.
+
+## Biology 20 | Ecosystems and Population Change
+What is population density? :: Individuals per unit area.
+What is population size? :: The total number of individuals.
+What is natality? :: The birth rate.
+What is mortality? :: The death rate.
+What is immigration? :: Individuals moving into a population.
+What is emigration? :: Individuals moving out of a population.
+What is the formula for population change? :: (births + immigration) - (deaths + emigration)
+What is a population growth rate? :: The change in population size per unit time.
+What is biotic potential? :: The maximum growth rate with unlimited resources.
+What is environmental resistance? :: All factors that limit population growth.
+What is exponential growth? :: A J-shaped curve with rapidly rising numbers.
+What is logistic growth? :: An S-shaped curve leveling at carrying capacity.
+What is carrying capacity? :: The maximum sustainable population size.
+What are the phases of logistic growth? :: Lag, exponential, deceleration, plateau.
+What is a population crash? :: A rapid decline in population size.
+What is overshoot? :: A population exceeding carrying capacity temporarily.
+What is a limiting factor? :: A factor that restricts population growth.
+Name density-dependent limiting factors. :: Predation, disease, competition and parasitism.
+Name density-independent limiting factors. :: Fire, flood, drought and storms.
+What is a predator-prey cycle? :: Cyclic changes in predator and prey numbers.
+Give an example of a predator-prey cycle. :: Snowshoe hare and lynx.
+What is a survivorship curve? :: A graph of the proportion surviving by age.
+What is a Type I curve? :: Most survive to old age (humans).
+What is a Type II curve? :: Constant death rate at all ages (some birds).
+What is a Type III curve? :: Most die young (oysters, fish).
+What is an r-selected species? :: A species with many offspring and little parental care.
+What is a K-selected species? :: A species with few offspring and much parental care.
+Give an r-selected example. :: Mice or insects.
+Give a K-selected example. :: Elephants or humans.
+What is the Lincoln-Petersen method? :: Estimating population size by mark and recapture.
+Formula for mark and recapture estimate? :: N = (marked first x second sample total) / marked recaptured.
+Estimate: 20 marked, second sample 30 with 6 marked. :: N = 20 x 30 / 6 = 100
+What is a quadrat? :: A square frame used to sample plants or slow animals.
+What is a transect? :: A line along which organisms are sampled.
+What is a sample? :: A subset used to estimate the whole population.
+What is an ecological niche? :: The role and requirements of a species in its ecosystem.
+What is competitive exclusion? :: Two species can't share the same niche indefinitely.
+What is resource partitioning? :: Species divide resources to reduce competition.
+What is a fundamental niche? :: The full range of conditions a species could use.
+What is a realized niche? :: The actual conditions a species uses given competition.
+What is symbiosis? :: A close relationship between species.
+What is mutualism? :: Both species benefit.
+What is parasitism? :: One benefits and the other is harmed.
+What is succession? :: A predictable change in community over time.
+What is a pioneer species? :: The first colonizers of a barren area.
+What is biodiversity? :: The variety of life in an area.
+What is species richness? :: The number of species in an area.
+What is species evenness? :: How evenly individuals are spread among species.
+What is an indicator species? :: A species whose presence shows environmental health.
+What is an invasive species? :: A non-native species that spreads and harms ecosystems.
+What is habitat fragmentation? :: Splitting habitat into small isolated areas.
+What is a wildlife corridor? :: A habitat strip connecting isolated areas.
+What is the Species at Risk Act (SARA)? :: Canadian law protecting endangered species.
+What is the effect of the mountain pine beetle? :: Widespread pine mortality, changing forest structure.
+What is the human population growth pattern? :: Exponential growth in recent centuries.
+What is an age-structure pyramid? :: A graph of the population by age and sex.
+What does a wide-base pyramid show? :: A rapidly growing population.
+What is an ecological footprint? :: The land needed to support a person or population.
+What is sustainable development? :: Meeting present needs without harming future generations.
+
+## Biology 20 | Photosynthesis and Cellular Respiration
+What is the equation for photosynthesis? :: 6 CO2 + 6 H2O + light -> C6H12O6 + 6 O2
+What is the equation for cellular respiration? :: C6H12O6 + 6 O2 -> 6 CO2 + 6 H2O + ATP
+Where does photosynthesis happen in the cell? :: In chloroplasts.
+Where does cellular respiration happen? :: In mitochondria (and cytoplasm for glycolysis).
+What are thylakoids? :: Membrane sacs in chloroplasts where light reactions occur.
+What is the stroma? :: The fluid in chloroplasts where the Calvin cycle occurs.
+What is a granum? :: A stack of thylakoids.
+What are the light-dependent reactions? :: Reactions that capture light to make ATP and NADPH and release O2.
+What are the light-independent reactions? :: The Calvin cycle, which builds sugar from CO2.
+What does the Calvin cycle produce? :: G3P, which forms glucose.
+What does photolysis mean? :: Splitting water using light energy.
+What is released when water splits? :: Oxygen.
+What does chlorophyll absorb best? :: Red and blue light.
+Why do leaves look green? :: Chlorophyll reflects green light.
+What are accessory pigments? :: Pigments like carotenoids that capture extra light.
+What is NADPH? :: An electron carrier used in the Calvin cycle.
+What is ATP? :: The cell's energy-carrying molecule.
+What is ADP? :: Adenosine diphosphate, the low-energy form.
+What is ATP synthase? :: An enzyme that makes ATP using a proton gradient.
+What is chemiosmosis? :: Using a proton gradient to make ATP.
+What is the electron transport chain? :: A series of proteins passing electrons to make a proton gradient.
+What is rubisco? :: The enzyme that fixes CO2 in the Calvin cycle.
+What factors affect photosynthesis? :: Light intensity, CO2 concentration, temperature and water.
+What is the compensation point? :: Where photosynthesis equals respiration.
+What is photorespiration? :: A wasteful process where rubisco uses O2 instead of CO2.
+What are C4 plants? :: Plants adapted to hot climates that concentrate CO2.
+What are CAM plants? :: Plants like cacti that open stomata at night.
+What are stomata? :: Pores in leaves for gas exchange.
+What are guard cells? :: Cells that open and close stomata.
+What is glycolysis? :: Breaking glucose into two pyruvate in the cytoplasm.
+How many ATP does glycolysis net? :: 2
+What is the Krebs cycle? :: Reactions in the mitochondrial matrix that release CO2 and capture electrons.
+Where does the Krebs cycle occur? :: In the mitochondrial matrix.
+Where does the electron transport chain occur in respiration? :: In the inner mitochondrial membrane.
+What is the final electron acceptor in aerobic respiration? :: Oxygen.
+What is NADH? :: An electron carrier produced in glycolysis and the Krebs cycle.
+What is FADH2? :: An electron carrier from the Krebs cycle.
+How many ATP are produced per glucose in aerobic respiration? :: About 30 to 36.
+What is anaerobic respiration? :: Energy release without oxygen.
+What is fermentation? :: ATP production without oxygen using glycolysis.
+What is lactic acid fermentation? :: Pyruvate becomes lactate in muscles.
+What is alcoholic fermentation? :: Yeast converts pyruvate to ethanol and CO2.
+Why does fermentation regenerate NAD+? :: So glycolysis can continue.
+Why is aerobic respiration more efficient than fermentation? :: It extracts much more energy from glucose.
+What is the role of oxygen in respiration? :: It accepts electrons at the end of the chain.
+What is oxygen debt? :: Extra oxygen needed after exercise to clear lactate.
+What are the products of the Krebs cycle? :: CO2, NADH, FADH2 and a little ATP.
+Why are photosynthesis and respiration complementary? :: The products of one are the reactants of the other.
+What is the relationship between mitochondria and chloroplasts? :: Both have their own DNA and are thought to come from ancient bacteria.
+What is endosymbiotic theory? :: Mitochondria and chloroplasts originated as engulfed prokaryotes.
+How can you measure photosynthesis rate? :: Oxygen production, CO2 uptake or biomass.
+Why use a light-limited experiment? :: To test how light intensity affects the rate.
+What is a control in an experiment? :: A standard for comparison.
+What is the independent variable? :: The variable you change.
+What is the dependent variable? :: The variable you measure.
+What is a controlled variable? :: A variable kept constant.
+Why do plants respire too? :: They need ATP for growth and transport.
+What are greenhouse effects of deforestation? :: Fewer plants to absorb CO2.
+What is bioenergetics? :: The study of energy flow in living systems.
+
+## Biology 20 | Human Systems
+What is the digestive system's function? :: Break down food and absorb nutrients.
+What is mechanical digestion? :: Physically breaking food into smaller pieces.
+What is chemical digestion? :: Enzymes breaking food into molecules.
+Where does digestion begin? :: In the mouth.
+What does saliva contain? :: Amylase for starch digestion.
+What does the esophagus do? :: Moves food to the stomach by peristalsis.
+What is peristalsis? :: Wave-like muscle contractions moving food.
+What does the stomach do? :: Churns food and begins protein digestion with HCl and pepsin.
+What does the liver do for digestion? :: Makes bile to emulsify fats.
+What does the gallbladder do? :: Stores bile.
+What does the pancreas do? :: Makes digestive enzymes and bicarbonate.
+Where does most absorption occur? :: The small intestine.
+What are villi? :: Finger-like projections that increase absorption.
+What does the large intestine do? :: Absorbs water and forms feces.
+What is the circulatory system's function? :: Transport oxygen, nutrients and wastes.
+What are the heart's chambers? :: Two atria and two ventricles.
+What is the right side of the heart's role? :: Pumps blood to the lungs.
+What is the left side of the heart's role? :: Pumps blood to the body.
+What are arteries? :: Vessels carrying blood away from the heart.
+What are veins? :: Vessels carrying blood to the heart.
+What are capillaries? :: Tiny vessels where exchange occurs.
+What are valves for? :: Preventing backflow of blood.
+What is blood pressure? :: The force of blood on vessel walls.
+What is the SA node? :: The heart's natural pacemaker.
+What is plasma? :: The liquid part of blood.
+What do red blood cells carry? :: Oxygen bound to hemoglobin.
+What do white blood cells do? :: Fight infection.
+What are platelets for? :: Blood clotting.
+What are blood types determined by? :: Antigens on red blood cells (A, B, O, Rh).
+Which blood type is the universal donor? :: O negative.
+Which blood type is the universal recipient? :: AB positive.
+What is the respiratory system's function? :: Exchange oxygen and carbon dioxide.
+What is the path of air? :: Nose, pharynx, larynx, trachea, bronchi, bronchioles, alveoli.
+Where does gas exchange occur? :: In the alveoli.
+What does the diaphragm do? :: Contracts to draw air into the lungs.
+What triggers breathing? :: High CO2 level in the blood detected by the brainstem.
+What is the excretory system's function? :: Remove wastes and balance water and salts.
+What are nephrons? :: The functional units of the kidney.
+What is filtration in the kidney? :: Blood pressure pushes water and small molecules out of the blood.
+What is reabsorption in the kidney? :: Useful substances return to the blood.
+What is secretion in the kidney? :: Additional wastes move into the filtrate.
+What does ADH do? :: Increases water reabsorption.
+What is urine made of? :: Water, urea and salts.
+What is the skin's role in excretion? :: Sweat removes water, salts and some wastes.
+What is homeostasis? :: Maintaining a stable internal environment.
+What is negative feedback? :: A response that reverses a change.
+Give an example of negative feedback. :: Body temperature regulation.
+What is the immune system's function? :: Defend against pathogens.
+What are non-specific defences? :: Skin, mucus, inflammation and phagocytes.
+What are specific defences? :: Antibodies and T cells targeting particular pathogens.
+What is an antigen? :: A molecule that triggers an immune response.
+What is an antibody? :: A protein that binds a specific antigen.
+What is a vaccine? :: A harmless form of a pathogen that primes immunity.
+What is an allergy? :: An overreaction of the immune system to a harmless substance.
+What is an autoimmune disease? :: The immune system attacks the body's own cells.
+What is the lymphatic system's role? :: Returns fluid to blood and supports immunity.
+What is a pathogen? :: A disease-causing organism.
+What is the difference between bacteria and viruses? :: Bacteria are living cells; viruses need host cells to reproduce.
+What do antibiotics treat? :: Bacterial infections.
+What is cardiovascular disease? :: Disease of the heart or blood vessels.
+What is atherosclerosis? :: Plaque buildup in the arteries.
+What lifestyle factors protect health? :: Exercise, nutrition, sleep and avoiding smoking.
+
+## Chemistry 20 | Diversity of Matter and Chemical Bonding
+What is an atom? :: The smallest unit of an element.
+What are protons, neutrons and electrons? :: Protons (+), neutrons (0), electrons (-).
+What is atomic number? :: Number of protons.
+What is mass number? :: Protons plus neutrons.
+What is an isotope? :: Atoms of the same element with different neutron numbers.
+What is atomic mass? :: The weighted average mass of an element's isotopes.
+What is the periodic law? :: Properties repeat in a pattern as atomic number increases.
+What are groups? :: Columns in the periodic table.
+What are periods? :: Rows in the periodic table.
+What is ionization energy? :: Energy needed to remove an electron.
+How does ionization energy change across a period? :: It increases.
+How does ionization energy change down a group? :: It decreases.
+What is atomic radius trend across a period? :: It decreases.
+What is atomic radius trend down a group? :: It increases.
+What is electronegativity? :: An atom's ability to attract bonding electrons.
+Which element is most electronegative? :: Fluorine.
+What is the electronegativity trend across a period? :: It increases.
+What are valence electrons? :: Outer-shell electrons.
+What is the octet rule? :: Atoms tend to have eight valence electrons.
+What is a Lewis symbol? :: A symbol of an element with dots for valence electrons.
+What is an ionic bond? :: Attraction between positive and negative ions.
+What is a covalent bond? :: A shared pair of electrons.
+What is a single bond? :: One shared pair of electrons.
+What is a double bond? :: Two shared pairs of electrons.
+What is a triple bond? :: Three shared pairs of electrons.
+What is a polar covalent bond? :: Unequal sharing of electrons.
+What is a non-polar covalent bond? :: Equal sharing of electrons.
+What is a bond dipole? :: A separation of charge in a polar bond.
+What is a metallic bond? :: Attraction between metal cations and delocalized electrons.
+Why are metals malleable? :: Layers of cations can slide without breaking the bond.
+Why do ionic solids have high melting points? :: Strong electrostatic attractions between ions.
+Why do ionic solutions conduct? :: Free ions carry charge.
+Why do molecular compounds have lower melting points? :: Weak forces between molecules.
+What is VSEPR? :: A model predicting shape from electron-pair repulsion.
+What is the shape of CH4? :: Tetrahedral.
+What is the shape of NH3? :: Trigonal pyramidal.
+What is the shape of H2O? :: Bent.
+What is the shape of CO2? :: Linear.
+What is the shape of BF3? :: Trigonal planar.
+What are bond angles in a tetrahedral molecule? :: 109.5 degrees.
+What is a polar molecule? :: A molecule with an uneven charge distribution.
+Is CO2 polar? :: No; its dipoles cancel.
+Is H2O polar? :: Yes.
+What are intermolecular forces? :: Attractions between molecules.
+What are London dispersion forces? :: Weak attractions from temporary dipoles.
+What are dipole-dipole forces? :: Attractions between polar molecules.
+What is hydrogen bonding? :: A strong dipole attraction involving H bonded to N, O or F.
+Which intermolecular force is strongest? :: Hydrogen bonding among typical forces.
+Why does water have a high boiling point? :: Extensive hydrogen bonding.
+Why does ice float? :: Hydrogen bonds hold molecules in an open structure that is less dense.
+What is a network covalent solid? :: A solid with covalent bonds throughout, like diamond.
+What are properties of diamond? :: Very hard with a very high melting point.
+Why does graphite conduct electricity? :: It has delocalized electrons between layers.
+What is a formula unit? :: The simplest ratio of ions in an ionic compound.
+What is a polyatomic ion? :: A group of atoms with a net charge.
+What is the formula of ammonium sulfate? :: (NH4)2SO4
+What is the formula of calcium phosphate? :: Ca3(PO4)2
+What is the name of Fe(NO3)3? :: Iron(III) nitrate.
+What is the name of N2O5? :: Dinitrogen pentoxide.
+What is the name of PCl3? :: Phosphorus trichloride.
+
+## Chemistry 20 | Forms of Matter: Gases
+What is pressure? :: Force per unit area.
+What is the SI unit of pressure? :: Pascal (Pa).
+How many kPa are in 1 atm? :: 101.3 kPa
+What is standard temperature and pressure? :: 0 degrees C and 100 kPa.
+What is SATP? :: 25 degrees C and 100 kPa.
+Convert 25 degrees C to kelvin. :: 298 K
+Convert 300 K to degrees C. :: 27 degrees C
+What is absolute zero? :: 0 K or -273.15 degrees C.
+Why must gas laws use kelvin? :: Kelvin is proportional to average kinetic energy.
+What does the kinetic molecular theory say? :: Gas particles move randomly, have negligible volume and do not attract.
+What is an ideal gas? :: A gas that follows the kinetic molecular theory exactly.
+When do real gases act ideal? :: At high temperature and low pressure.
+What is Boyle's law? :: P1 V1 = P2 V2 at constant temperature.
+What is Charles's law? :: V1/T1 = V2/T2 at constant pressure.
+What is Gay-Lussac's law? :: P1/T1 = P2/T2 at constant volume.
+What is the combined gas law? :: P1V1/T1 = P2V2/T2
+What is Avogadro's law? :: Equal volumes of gases at the same T and P have equal numbers of particles.
+What is the ideal gas law? :: PV = nRT
+What is R? :: 8.314 kPa L/(mol K)
+A gas is 4.0 L at 100 kPa. At 200 kPa the volume is? :: 2.0 L
+A gas is 2.0 L at 300 K. At 600 K the volume (constant P) is? :: 4.0 L
+A gas is 150 kPa at 300 K. At 450 K the pressure (constant V) is? :: 225 kPa
+Find the volume of 1.0 mol at SATP. :: About 24.8 L
+Find the volume of 1.0 mol at STP. :: 22.7 L
+Find moles: 5.0 L at 100 kPa and 300 K. :: About 0.20 mol
+Find the pressure: 2.0 mol in 10 L at 300 K. :: About 499 kPa
+What is molar volume? :: The volume of one mole of gas at a given T and P.
+What is partial pressure? :: The pressure one gas contributes in a mixture.
+What is Dalton's law? :: Total pressure is the sum of partial pressures.
+Two gases at 40 kPa and 60 kPa. Total pressure? :: 100 kPa
+What is vapour pressure? :: The pressure of vapour above a liquid.
+What happens to vapour pressure with temperature? :: It increases.
+What is boiling? :: When vapour pressure equals the external pressure.
+Why does water boil at a lower temperature at altitude? :: Lower external pressure.
+What is diffusion? :: Gas particles spreading to fill space.
+What is effusion? :: Gas escaping through a tiny hole.
+Which diffuses faster: H2 or O2? :: H2.
+What is Graham's law idea? :: Lighter gases effuse faster.
+What is density of a gas? :: Mass per unit volume.
+How does gas density change with temperature? :: It decreases as temperature rises at constant pressure.
+What is the density of a gas at STP formula? :: d = M / 22.7 g/L
+Find the density of CO2 at STP. :: About 1.94 g/L
+What is a barometer? :: An instrument measuring atmospheric pressure.
+What is a manometer? :: An instrument measuring gas pressure in a container.
+What is atmospheric pressure at sea level? :: About 101.3 kPa.
+Why does a balloon expand when heated? :: Gas particles move faster and push harder (Charles's law).
+Why does a balloon shrink in the cold? :: Particles slow, reducing pressure and volume.
+Why does a tire pressure rise after driving? :: Temperature rises at constant volume.
+Why does a gas compress easily? :: There is lots of empty space between particles.
+What is a gas stoichiometry step? :: Convert gas volume to moles, apply mole ratio, convert back.
+How many litres of H2 at STP form from 1 mol of Zn with acid? :: 22.7 L
+What is a gas collected over water? :: A mixture of the gas and water vapour.
+How do you find the dry gas pressure? :: Subtract the water vapour pressure from the total.
+What is a real-world use of Boyle's law? :: Breathing, syringes, scuba diving.
+What is the danger of rapid ascent in scuba diving? :: Dissolved gas expands, causing decompression sickness.
+What is a compressed gas? :: Gas stored under high pressure in a container.
+What are safety rules for gas cylinders? :: Secure upright and keep away from heat.
+
+## Chemistry 20 | Matter as Solutions, Acids and Bases
+What is a solution? :: A homogeneous mixture of solute in solvent.
+What is a solute? :: The substance dissolved.
+What is a solvent? :: The substance doing the dissolving.
+What is an aqueous solution? :: A solution with water as the solvent.
+What is solubility? :: The maximum solute that dissolves in a given amount of solvent.
+What is a saturated solution? :: A solution holding the maximum dissolved solute.
+What is an unsaturated solution? :: A solution that can still dissolve more solute.
+What is a supersaturated solution? :: A solution with more dissolved solute than normal; unstable.
+What does like dissolves like mean? :: Polar dissolves polar; non-polar dissolves non-polar.
+Why does salt dissolve in water? :: Water molecules surround and separate the ions.
+What is dissociation? :: Ionic compounds separating into ions in water.
+What is ionization? :: Molecular compounds forming ions in water.
+What is an electrolyte? :: A substance whose solution conducts electricity.
+What is a non-electrolyte? :: A substance whose solution does not conduct.
+Is sugar an electrolyte? :: No.
+Is NaCl an electrolyte? :: Yes.
+What is concentration? :: The amount of solute per volume of solution.
+What is molarity? :: Moles of solute per litre of solution.
+Find the concentration: 0.5 mol in 2.0 L. :: 0.25 mol/L
+Find moles: 0.10 mol/L x 0.25 L. :: 0.025 mol
+Find the mass of NaCl in 500 mL of 0.20 mol/L. :: About 5.8 g
+What is a dilution? :: Lowering concentration by adding solvent.
+What is the dilution formula? :: c1 V1 = c2 V2
+Dilute 50 mL of 2.0 mol/L to 200 mL. New concentration? :: 0.50 mol/L
+What is parts per million? :: A concentration unit, mg per kg or mg per L for dilute solutions.
+What is percent by mass? :: Mass of solute / mass of solution x 100%.
+What is a standard solution? :: A solution with a precisely known concentration.
+What is a volumetric flask? :: A flask for accurate volumes of solution.
+What is a pipette? :: A tool for transferring an exact volume.
+What is a burette? :: A tool for dispensing precise volumes in titration.
+What is the definition of an acid (Arrhenius)? :: A substance that produces H+ in water.
+What is the definition of a base (Arrhenius)? :: A substance that produces OH- in water.
+What is the Bronsted-Lowry acid? :: A proton donor.
+What is the Bronsted-Lowry base? :: A proton acceptor.
+What is a conjugate acid-base pair? :: Two species differing by one H+.
+What is the conjugate base of HCl? :: Cl-
+What is the conjugate acid of NH3? :: NH4+
+What is a hydronium ion? :: H3O+
+What is amphiprotic? :: Able to donate or accept a proton, like water.
+What does pH equal? :: -log[H3O+]
+What is the pH when [H3O+] = 1 x 10^-4? :: 4
+What is [H3O+] when pH = 10? :: 1 x 10^-10 mol/L
+What is the pH of 0.01 mol/L HCl? :: 2
+What is the pOH of 0.01 mol/L NaOH? :: 2
+What is pH + pOH? :: 14
+What is Kw? :: [H3O+][OH-] = 1.0 x 10^-14
+What is the pH of 0.001 mol/L NaOH? :: 11
+What is a strong acid? :: An acid that ionizes completely.
+What is a weak acid? :: An acid that ionizes only partly.
+What is a titration? :: A method to find an unknown concentration by reaction with a known solution.
+What is the endpoint? :: The point where the indicator changes colour.
+What is the equivalence point? :: Where stoichiometric amounts have reacted.
+Which indicator suits a strong acid and strong base titration? :: Phenolphthalein or bromothymol blue.
+How do you calculate concentration from a titration? :: Use c1 V1 = c2 V2 with mole ratios.
+25.0 mL of NaOH is neutralized by 20.0 mL of 0.100 mol/L HCl. [NaOH]? :: 0.0800 mol/L
+What is a salt? :: The ionic product of acid-base neutralization.
+What is a buffer? :: A solution that resists pH changes.
+What is acid rain's pH? :: Below 5.6.
+Why is blood buffered? :: To keep pH near 7.4.
+What are common household acids? :: Vinegar and lemon juice.
+What are common household bases? :: Baking soda, ammonia cleaners and soap.
+
+## Chemistry 20 | Quantitative Relationships in Chemical Changes
+What is a mole? :: 6.02 x 10^23 particles.
+What is Avogadro's constant? :: 6.02 x 10^23 per mole.
+What is molar mass? :: Mass per mole in g/mol.
+Find molar mass of NaOH. :: 40.00 g/mol
+Find molar mass of C6H12O6. :: 180.16 g/mol
+Find molar mass of Ca(OH)2. :: 74.10 g/mol
+Find moles in 90 g of H2O. :: 5.0 mol
+Find grams in 0.25 mol of NaCl. :: 14.6 g
+Find the number of atoms in 2 mol of Fe. :: 1.2 x 10^24
+Find the number of molecules in 36 g of H2O. :: 1.2 x 10^24
+What is percent composition? :: Mass percent of each element in a compound.
+Find percent H in H2O. :: About 11.2%
+Find percent C in CO2. :: About 27.3%
+What is an empirical formula? :: The simplest whole-number ratio of atoms.
+What is a molecular formula? :: The actual number of atoms in a molecule.
+What is the empirical formula of H2O2? :: HO
+What is the empirical formula of C2H4? :: CH2
+A compound is 40% C, 6.7% H, 53.3% O. Empirical formula? :: CH2O
+What is a hydrate? :: A compound with water in its crystal structure.
+What is the formula for copper(II) sulfate pentahydrate? :: CuSO4 . 5H2O
+What is stoichiometry? :: The study of quantities in chemical reactions.
+In 2 Al + 3 Cl2 -> 2 AlCl3, how many mol Cl2 react with 4 mol Al? :: 6 mol
+In 2 H2 + O2 -> 2 H2O, how many g H2O from 4 g H2? :: 36 g
+In CH4 + 2 O2 -> CO2 + 2 H2O, how many g CO2 from 16 g CH4? :: 44 g
+How many mol of O2 are needed for 2 mol C3H8? (C3H8 + 5 O2 -> 3 CO2 + 4 H2O) :: 10 mol
+What is the limiting reagent? :: The reactant that determines the amount of product.
+Which is limiting: 2 mol H2 and 2 mol O2 for 2 H2 + O2 -> 2 H2O? :: H2.
+What is excess reagent amount in that case? :: 1 mol O2 remains.
+What is theoretical yield? :: The maximum product from stoichiometry.
+What is percent yield? :: (actual / theoretical) x 100%.
+Theoretical yield 25 g, actual 20 g. Percent yield? :: 80%
+What is the law of conservation of mass? :: Mass of reactants equals mass of products.
+What is the law of definite proportions? :: A compound always has the same mass ratio of elements.
+What is the law of multiple proportions? :: Elements form compounds in small whole-number mass ratios.
+What is a balanced equation? :: One with equal atoms of each element on both sides.
+Balance: C2H6 + O2 -> CO2 + H2O :: 2 C2H6 + 7 O2 -> 4 CO2 + 6 H2O
+Balance: Fe2O3 + CO -> Fe + CO2 :: Fe2O3 + 3 CO -> 2 Fe + 3 CO2
+Balance: Al + H2SO4 -> Al2(SO4)3 + H2 :: 2 Al + 3 H2SO4 -> Al2(SO4)3 + 3 H2
+What is molar volume at STP? :: 22.7 L/mol
+Find the volume of 0.5 mol of gas at STP. :: 11.35 L
+Find moles of gas in 45.4 L at STP. :: 2.0 mol
+How many L of O2 at STP from 2 mol KClO3 (2 KClO3 -> 2 KCl + 3 O2)? :: 68.1 L
+What is a solution stoichiometry step? :: Convert volume and concentration to moles, then use mole ratio.
+How many mol of HCl in 25 mL of 0.40 mol/L? :: 0.010 mol
+What mass of AgCl forms from 0.010 mol AgNO3 with excess NaCl? :: 1.43 g
+What is an analytical technique for quantity? :: Titration, gravimetric analysis or spectroscopy.
+What is gravimetric analysis? :: Finding amount by mass of a precipitate.
+Why dry a precipitate before weighing? :: Water would add extra mass.
+What is a standard error source in lab yield? :: Spills, incomplete reaction or impure reagents.
+What is the purpose of the mole concept? :: To count particles by weighing.
+What is a formula mass? :: The sum of atomic masses in a formula.
+How do you convert grams to particles? :: Grams to moles to particles.
+What is Avogadro's hypothesis? :: Equal volumes of gases contain equal numbers of molecules.
+What is a stoichiometric ratio? :: The mole ratio from the balanced equation.
+What is an anhydrous compound? :: A compound without water of hydration.
+What is the water content of a hydrate in percent? :: Mass of water / mass of hydrate x 100%.
+A 5.00 g hydrate loses 1.80 g of water. Percent water? :: 36%
+What is a reaction's atom economy? :: The fraction of reactant atoms that end up in the desired product.
+
+## Physics 20 | Kinematics
+What is kinematics? :: The study of motion without regard to its causes.
+What is position? :: Location relative to a reference point.
+What is distance? :: Total path length (scalar).
+What is displacement? :: Change in position (vector).
+What is speed? :: Distance divided by time.
+What is velocity? :: Displacement divided by time.
+What is average velocity? :: Total displacement divided by total time.
+What is instantaneous velocity? :: Velocity at a specific moment.
+What is acceleration? :: Change in velocity per unit time.
+Find a: v_i = 0, v_f = 20 m/s, t = 5 s. :: 4 m/s^2
+Find v_f: v_i = 10 m/s, a = -2 m/s^2, t = 3 s. :: 4 m/s
+Find d: v_i = 0, a = 3 m/s^2, t = 4 s. :: 24 m
+Find d: v_i = 5, v_f = 15, t = 4 s. :: 40 m
+Find v_f: v_i = 0, a = 5 m/s^2, d = 10 m. :: 10 m/s
+Find t: v_i = 0, a = 2 m/s^2, d = 25 m. :: 5 s
+List the five kinematics variables. :: v_i, v_f, a, t, d.
+What is the equation v_f = v_i + a t used for? :: Finding final velocity without distance.
+What is the equation d = v_i t + 1/2 a t^2 used for? :: Finding displacement without v_f.
+What is the equation v_f^2 = v_i^2 + 2 a d used for? :: Finding values without time.
+What is the equation d = (v_i + v_f) t / 2 used for? :: Finding displacement without acceleration.
+What is free fall acceleration? :: 9.8 m/s^2 downward.
+How long does a ball dropped from 45 m take (g = 10)? :: 3 s
+How fast is a ball after falling 20 m (g = 10)? :: 20 m/s
+How high does a ball thrown up at 20 m/s go (g = 10)? :: 20 m
+How long is a ball thrown at 20 m/s in the air (g = 10)? :: 4 s
+What is the velocity at the peak of a throw? :: Zero (vertical component).
+What is the acceleration at the peak? :: 9.8 m/s^2 downward.
+What is a projectile? :: An object moving under gravity only.
+What is the horizontal motion of a projectile? :: Constant velocity.
+What is the vertical motion of a projectile? :: Uniform acceleration from gravity.
+What is the range? :: The horizontal distance travelled.
+What launch angle gives the maximum range? :: 45 degrees.
+What is the time of flight of a horizontally launched projectile? :: Depends only on the height: t = sqrt(2h/g).
+A ball rolls off a 20 m table at 5 m/s (g = 10). How far from the base does it land? :: 10 m
+How do you break a vector into components? :: x = v cos(theta); y = v sin(theta).
+How do you add two perpendicular vectors? :: Use the Pythagorean theorem and tangent for direction.
+Add 3 m east and 4 m north. :: 5 m at 53 degrees north of east.
+What is the resultant? :: The vector sum.
+What is relative velocity? :: The velocity of one object measured from another.
+A boat goes 4 m/s in still water across a river flowing 3 m/s. Resultant speed? :: 5 m/s
+What does a d-t graph slope show? :: Velocity.
+What does a v-t graph slope show? :: Acceleration.
+What does the area under a v-t graph show? :: Displacement.
+What does a curved d-t graph show? :: Acceleration.
+What does a horizontal v-t line show? :: Constant velocity.
+What does a negative slope on a v-t graph show? :: Negative acceleration.
+What does a v-t graph crossing zero show? :: A change of direction.
+What is uniform motion? :: Constant velocity.
+What is uniformly accelerated motion? :: Constant acceleration.
+What is a vector's magnitude? :: Its size.
+What is a vector's direction? :: The angle or compass heading.
+What is a scalar example? :: Time, mass, speed.
+What is a vector example? :: Displacement, velocity, acceleration.
+What is a reference frame? :: A coordinate system for measuring motion.
+What is significant figures use in physics? :: To show the precision of measurements.
+What is a uncertainty in measurement? :: The range within which the true value lies.
+How can you reduce measurement uncertainty? :: Use better instruments and repeat trials.
+What is a scale diagram? :: A drawing of vectors to scale.
+What is average speed vs average velocity? :: Speed uses distance; velocity uses displacement.
+What is the average velocity for a round trip? :: Zero, since the displacement is zero.
+
+## Physics 20 | Dynamics
+What is a force? :: A push or pull, measured in newtons.
+What is a net force? :: The vector sum of all forces on an object.
+What is Newton's first law? :: An object remains at rest or in constant motion unless a net force acts.
+What is inertia? :: Resistance to change in motion.
+What is Newton's second law? :: F_net = m a
+What is Newton's third law? :: Forces come in equal and opposite pairs on different objects.
+What is weight? :: F_g = m g
+What is the weight of a 5.0 kg mass? :: 49 N
+What is normal force? :: The perpendicular force exerted by a surface.
+What is tension? :: The force transmitted through a rope.
+What is friction? :: A force opposing motion between surfaces.
+What is the friction formula? :: F_f = mu F_N
+What is the coefficient of friction? :: A ratio showing how rough surfaces are.
+Find friction: mu = 0.4, N = 100 N. :: 40 N
+Is static friction usually greater than kinetic friction? :: Yes.
+What is a free-body diagram? :: A diagram showing forces on one object.
+What is equilibrium? :: A state with zero net force.
+What is the acceleration of a 10 kg box pushed with 30 N net force? :: 3 m/s^2
+What is the net force if a 2 kg object accelerates at 5 m/s^2? :: 10 N
+What is the mass if F = 24 N and a = 4 m/s^2? :: 6 kg
+A 1000 kg car accelerates at 2 m/s^2. Net force? :: 2000 N
+A 70 kg person in an elevator accelerating up at 2 m/s^2. Apparent weight? :: About 826 N
+A 70 kg person in an elevator accelerating down at 2 m/s^2. Apparent weight? :: About 546 N
+What is apparent weight? :: The normal force a person feels.
+What is weightlessness? :: Zero apparent weight in free fall.
+What is the component of weight along an incline? :: m g sin(theta)
+What is the component of weight perpendicular to an incline? :: m g cos(theta)
+Find the acceleration down a frictionless 30 degree incline. :: 4.9 m/s^2
+What is an Atwood machine? :: Two masses connected over a pulley.
+What is terminal velocity? :: Constant speed when drag equals weight.
+What is air resistance's dependence? :: Speed, shape and area.
+What is Newton's law of gravitation? :: F = G m1 m2 / r^2
+What is G? :: 6.67 x 10^-11 N m^2/kg^2
+What is the gravitational field strength? :: g = F/m, about 9.8 N/kg at Earth's surface.
+How does gravity change with distance? :: It decreases with the square of distance.
+What happens to gravity if distance doubles? :: It becomes 1/4.
+What happens to gravity if one mass doubles? :: The force doubles.
+What is the weight of a 60 kg person on the Moon (g = 1.6)? :: 96 N
+What is a satellite in orbit doing? :: Falling continuously around the Earth.
+What is orbital speed formula? :: v = sqrt(G M / r)
+What provides centripetal force for a satellite? :: Gravity.
+What is a geostationary orbit? :: An orbit with a 24 h period above the equator.
+What is a field? :: A region where a force acts at a distance.
+What is the action-reaction pair for a book on a table? :: Book pushes table; table pushes book.
+Why can't action-reaction forces cancel? :: They act on different objects.
+What happens when you push a wall? :: The wall pushes back with equal force.
+How do rockets accelerate? :: Expelled gas pushes the rocket forward (third law).
+What is the net force on a skydiver at terminal velocity? :: Zero.
+What is the effect of increasing mass on acceleration? :: Acceleration decreases for the same force.
+What is the SI unit of force? :: Newton.
+What is a newton in base units? :: kg m/s^2
+What is the unit of g in N/kg? :: Same as m/s^2.
+What is an inertial frame? :: A frame at rest or moving at constant velocity.
+What is a non-inertial frame? :: An accelerating frame.
+What is a pseudo force? :: An apparent force felt in accelerating frames.
+What is dimensional analysis? :: Checking an equation using units.
+What is a vector equation? :: An equation comparing vectors in magnitude and direction.
+
+## Physics 20 | Circular Motion, Work and Energy
+What is uniform circular motion? :: Motion in a circle at constant speed.
+What is the direction of velocity in circular motion? :: Tangent to the circle.
+What is centripetal acceleration? :: Acceleration toward the centre: a_c = v^2/r.
+What is centripetal force? :: The net inward force: F_c = m v^2/r.
+Find a_c: v = 6 m/s, r = 3 m. :: 12 m/s^2
+Find F_c: m = 2 kg, v = 5 m/s, r = 10 m. :: 5 N
+What is the period? :: Time for one revolution.
+What is frequency? :: Revolutions per second (Hz).
+How are period and frequency related? :: T = 1/f
+What is the speed in terms of r and T? :: v = 2 pi r / T
+Find speed: r = 2 m, T = 4 s. :: pi m/s, about 3.14 m/s.
+What provides centripetal force for a car turning? :: Friction.
+What provides centripetal force for a ball on a string? :: Tension.
+What provides centripetal force for the Moon? :: Gravity.
+Why does mud fly off a spinning tire? :: No centripetal force to hold it, so it moves tangentially.
+What is the apparent force felt on a turning car? :: Centrifugal (a pseudo-force).
+What is work? :: Force times displacement in the direction of the force.
+What is the work formula? :: W = F d cos(theta)
+Find work: 10 N over 5 m. :: 50 J
+Find work: 20 N at 60 degrees over 4 m. :: 40 J
+What is the work done by a centripetal force? :: Zero.
+What is work done against gravity? :: m g h
+What is energy? :: The ability to do work.
+What is kinetic energy? :: E_k = 1/2 m v^2
+Find E_k: 2 kg at 3 m/s. :: 9 J
+What is gravitational potential energy? :: E_p = m g h
+Find E_p: 4 kg at 5 m. :: 196 J
+What is elastic potential energy? :: E_s = 1/2 k x^2
+Find E_s: k = 200 N/m, x = 0.1 m. :: 1 J
+What is the work-energy theorem? :: Net work equals change in kinetic energy.
+What is conservation of mechanical energy? :: E_k + E_p stays constant without friction.
+Find speed at the bottom of a 5 m frictionless drop. :: About 9.9 m/s
+What is a conservative force? :: A force whose work does not depend on path.
+Name a conservative force. :: Gravity or spring force.
+Name a non-conservative force. :: Friction.
+What happens to mechanical energy with friction? :: It decreases, converting to thermal energy.
+What is thermal energy? :: Random kinetic energy of particles.
+What is power? :: Work per unit time.
+Find power: 600 J in 3 s. :: 200 W
+What is the unit of power? :: Watt.
+What is a horsepower? :: About 746 W.
+What is efficiency? :: Useful output divided by input.
+Find efficiency: 50 J out, 200 J in. :: 25%
+What is a kilowatt hour? :: 3.6 x 10^6 J
+How much energy does a 100 W bulb use in 10 h? :: 1 kWh
+What is a spring constant? :: A measure of spring stiffness in N/m.
+What is Hooke's law? :: F = -k x
+What is the escape velocity concept? :: The speed needed to escape a planet's gravity.
+What is the gravitational potential energy near other planets? :: E_p = m g h with that planet's g.
+What is a roller coaster energy analysis? :: E_p at the top converts to E_k at the bottom.
+How fast at the bottom of a 40 m frictionless drop? :: About 28 m/s
+What speed is needed at the top of a loop to keep contact? :: v >= sqrt(g r)
+What is banking of a road? :: Tilting so the normal force helps provide centripetal force.
+What is angular velocity? :: Rate of change of angle, in rad/s.
+Why do astronauts feel weightless in orbit? :: They are in free fall.
+What is mechanical advantage? :: Ratio of output force to input force.
+Does a machine reduce the work needed? :: No, it reduces the force needed.
+What is the work done by friction? :: Negative, dissipating energy as heat.
+
+## Physics 20 | Oscillatory Motion and Mechanical Waves
+What is simple harmonic motion? :: Oscillation where restoring force is proportional to displacement.
+What is a restoring force? :: A force pulling an object back to equilibrium.
+What is Hooke's law? :: F = -k x
+What is the period of a mass-spring system? :: T = 2 pi sqrt(m/k)
+What is the period of a pendulum? :: T = 2 pi sqrt(L/g)
+Find T: L = 1.0 m, g = 9.8. :: About 2.0 s
+Find T: m = 0.5 kg, k = 50 N/m. :: About 0.63 s
+Does amplitude affect a pendulum's period? :: Not for small angles.
+Does mass affect a pendulum's period? :: No.
+What is amplitude? :: Maximum displacement from equilibrium.
+What is frequency? :: Cycles per second.
+What is period? :: Time for one cycle.
+How are period and frequency related? :: f = 1/T
+Where is speed maximum in SHM? :: At the equilibrium position.
+Where is acceleration maximum in SHM? :: At maximum displacement.
+Where is potential energy maximum in SHM? :: At maximum displacement.
+What is damping? :: Loss of energy that reduces amplitude.
+What is resonance? :: Large oscillations when driven at the natural frequency.
+Give an example of resonance. :: A swing pushed in time or the Tacoma Narrows Bridge.
+What is a wave? :: A disturbance that transfers energy.
+What is a mechanical wave? :: A wave that needs a medium.
+What is a transverse wave? :: Particles move perpendicular to the wave direction.
+What is a longitudinal wave? :: Particles move parallel to the wave direction.
+Give a transverse wave example. :: Waves on a rope.
+Give a longitudinal wave example. :: Sound.
+What is a pulse? :: A single wave disturbance.
+What is wavelength? :: Distance between consecutive crests.
+What is wave speed? :: v = f lambda
+Find v: f = 5 Hz, lambda = 2 m. :: 10 m/s
+Find lambda: v = 340 m/s, f = 170 Hz. :: 2 m
+Find f: v = 12 m/s, lambda = 3 m. :: 4 Hz
+What is the speed of sound in air at 20 degrees C? :: About 343 m/s.
+How does sound speed vary with temperature? :: It increases with temperature.
+What is the speed of sound in water? :: About 1500 m/s.
+What is the speed of sound in steel? :: About 5000 m/s.
+What is a crest? :: The top of a transverse wave.
+What is a trough? :: The bottom of a transverse wave.
+What is a compression? :: A high-pressure region in a longitudinal wave.
+What is a rarefaction? :: A low-pressure region in a longitudinal wave.
+What is the principle of superposition? :: Overlapping waves add their displacements.
+What is constructive interference? :: Waves add to produce larger amplitude.
+What is destructive interference? :: Waves cancel to produce smaller amplitude.
+What is a standing wave? :: A stationary pattern from two opposite waves.
+What is a node? :: A point of zero amplitude.
+What is an antinode? :: A point of maximum amplitude.
+What is the fundamental frequency? :: The lowest frequency of a standing wave.
+What are harmonics? :: Integer multiples of the fundamental frequency.
+What is a closed-pipe resonance? :: Odd harmonics only, with a node at the closed end.
+What is an open-pipe resonance? :: All harmonics, with antinodes at both ends.
+What is reflection of a wave? :: A wave bouncing at a boundary.
+What happens at a fixed end? :: The reflected pulse inverts.
+What happens at a free end? :: The reflected pulse is not inverted.
+What is refraction of a wave? :: A change in direction when speed changes.
+What is diffraction? :: A wave spreading around an obstacle or opening.
+What is the Doppler effect? :: A change in observed frequency because of relative motion.
+What happens when a source approaches? :: Observed frequency rises.
+What happens when a source recedes? :: Observed frequency falls.
+What is a sonic boom? :: A shock wave when an object travels faster than sound.
+What is pitch? :: How high or low a sound is, related to frequency.
+What is loudness? :: Related to amplitude.
+What is timbre? :: The quality that distinguishes instruments.
+What is the human hearing range? :: About 20 Hz to 20 000 Hz.
+What is ultrasound? :: Sound above 20 000 Hz.
+What is infrasound? :: Sound below 20 Hz.
+What is an echo? :: A reflected sound.
+What is sonar? :: Using sound waves to detect objects underwater.
+What are beats? :: Variations in loudness from two nearby frequencies.
+What is the beat frequency? :: The difference between the two frequencies.
+What is a decibel? :: A unit of sound intensity level.
