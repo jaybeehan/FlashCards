@@ -88,13 +88,16 @@ def unit_names(grade, course):
 def pick_cards(pools, count):
     """Round-robin across pools so every unit is represented; returns up to `count` cards."""
     pools = [(label, random.sample(cards, len(cards))) for label, cards in pools if cards]
-    out = []
+    out, seen = [], set()
     while pools and len(out) < count:
-        for label, cards in list(pools):
-            out.append({"front": cards[0][0], "back": cards[0][1], "label": label})
-            cards.pop(0)
+        for pool in list(pools):
+            label, cards = pool
+            front, back = cards.pop(0)
+            if front not in seen:  # ELA courses share cards, so skip repeats in mixed decks
+                seen.add(front)
+                out.append({"front": front, "back": back, "label": label})
             if not cards:
-                pools.remove((label, cards))
+                pools.remove(pool)
             if len(out) >= count:
                 break
     random.shuffle(out)
